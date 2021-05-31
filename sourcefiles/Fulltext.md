@@ -7668,4 +7668,3 @@ The departments responsible for Indian Affairs were (in chronological order):
   \4. Other Archives
 
   Provincial Archives of British Columbia. United Church of Canada Archives.
-
