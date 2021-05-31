@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 700">
+	<title>The titlepage for the Standard Ebooks edition of Honouring the Truth, Reconciling for the Future, by Truth and Reconciliation Commission of Canada</title>
+	<style type="text/css">
+		text{
+			font-family: "League Spartan";
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+	</style>
+	<text class="title" x="700" y="130">HONOURING THE</text>
+	<text class="title" x="700" y="230">TRUTH, RECONCILING</text>
+	<text class="title" x="700" y="330">FOR THE FUTURE</text>
+	<text class="author" x="700" y="490">TRUTH</text>
+	<text class="author" x="700" y="570">AND RECONCILIATION</text>
+	<text class="author" x="700" y="650">COMMISSION OF CANADA</text>
+</svg>
