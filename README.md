@@ -6,7 +6,7 @@ This project is an attempt to format and typeset *Honouring the Truth, Reconcili
 
 ## Why EPUB?
 
-It is the belief of this author that the Truth and Reconciliation Commission of Canada's report should be as accessible as widely as possible to all Canadians in a variety of formats. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), the author of this project feels that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers.
+It is the belief of this author that the Truth and Reconciliation Commission of Canada's report should be as accessible as widely as possible to all Canadians in a variety of formats. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), the author of this project feels that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers. A static PDF is simply not designed for a reflowable and accessible experience.
 
 EPUB is a broadly supported public standard for e-reading software with built in support in software available on many operating systems and directly on many hardware e-readers such as Koobo and Nook. Furthermore, this format can be easily converted to other e-reader formats such as Amazon Kindle.
 
