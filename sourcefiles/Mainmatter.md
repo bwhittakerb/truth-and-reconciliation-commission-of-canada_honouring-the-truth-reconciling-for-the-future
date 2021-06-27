@@ -1254,7 +1254,7 @@ Canada has rejected First Nations’ demands to operate services in accordance w
 4. We call upon the federal government to enact Aboriginal child-welfare legislation that establishes national standards for Aboriginal child apprehension and custody cases and includes principles that:
    1. [style this with lowercase roman numerals]Affirm the right of Aboriginal governments to establish and maintain their own child-welfare agencies.
    2. Require all child-welfare agencies and courts to take the residential school legacy into account in their decision making.
-   3. Establish, as an important priority, a requirement that placements of Aboriginal children into temporary and permanent care be culturally appropriate**.**
+   3. Establish, as an important priority, a requirement that placements of Aboriginal children into temporary and permanent care be culturally appropriate.
 
 There is also a human dimension to improving outcomes for Aboriginal children. The intergenerational impact of the residential school experience has left some families without strong role models for parenting. An investment in culturally appropriate programs in Aboriginal communities has the potential to improve parenting skills and enable more children to grow up safely in their own families and communities.
 
@@ -1337,7 +1337,6 @@ Based on all that it has heard from thousands of former students and family memb
     2. Improving education attainment levels and success rates.
     3. Developing culturally appropriate curricula.
     4. Protecting the right to Aboriginal languages, including the teaching of Aboriginal languages as credit courses.
-
     5. Enabling parental and community responsibility, control, and accountability, similar to what parents enjoy in public school systems.
     6. Enabling parents to fully participate in the education of their children. 
     7. Respecting and honouring Treaty relationships.
@@ -1428,10 +1427,9 @@ The Commission believes that a multi-pronged approach to Aboriginal language pre
 
 ##### Calls to Action
 
-14. We call upon the federal government to enact an Aboriginal Languages Act that  incorporates the following principles:
-      1. [style list as lowercase roman numerals] Aboriginal languages are a fundamental and valued element of Canadian culture and society, and there is an urgency to preserve them.
-      2. Aboriginal language rights are reinforced by the Treaties.
-
+14. We call upon the federal government to enact an Aboriginal Languages Act that incorporates the following principles:
+    1. [style list as lowercase roman numerals] Aboriginal languages are a fundamental and valued element of Canadian culture and society, and there is an urgency to preserve them.
+    2. Aboriginal language rights are reinforced by the Treaties.
     3. The federal government has a responsibility to provide sufficient funds for Aboriginal-language revitalization and preservation.
     4. The preservation, revitalization, and strengthening of Aboriginal languages and cultures are best managed by Aboriginal people and communities.
     5. Funding for Aboriginal language initiatives must reflect the diversity of Aboriginal languages.
@@ -2018,11 +2016,8 @@ Churches and faith groups also have an important role to play in fostering recon
 48. We call upon the church parties to the Settlement Agreement, and all other faith groups and interfaith social justice groups in Canada who have not already done so, to formally adopt and comply with the principles, norms, and standards of the United Nations *Declaration on the Rights of Indigenous Peoples* as a framework for reconciliation*.* This would include, but not be limited to, the follow
     ing commitments:
     1. Ensuring that their institutions, policies, programs, and practices comply with the United Nations *Declaration on the Rights of Indigenous Peoples*.
-
     2. Respecting Indigenous peoples’ right to self-determination in spiritual matters, including the right to practise, develop, and teach their own spiritual and religious traditions, customs, and ceremonies, consistent with Article 12:1 of the United Nations *Declaration on the Rights of Indigenous Peoples*.
-
     3. Engaging in ongoing public dialogue and actions to support the United Nations *Declaration on the Rights of Indigenous Peoples*.
-
     4. Issuing a statement no later than March 31, 2016, from all religious denominations and faith groups, as to how they will implement the United Nations *Declaration on the Rights of Indigenous Peoples*.
 
 49. We call upon all religious denominations and faith groups who have not already done so to repudiate concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and *terra nullius*.
@@ -2481,7 +2476,6 @@ The Commission believes that religious diversity courses must be mandatory in al
 63. We call upon the Council of Ministers of Education, Canada to maintain an annual commitment to Aboriginal education issues, including:
     1. Developing and implementing Kindergarten to Grade Twelve curriculum and learning resources on Aboriginal peoples in Canadian history, and the history and legacy of residential schools.
     2. Sharing information and best practices on teaching curriculum related to residential schools and Aboriginal history.
-
     3. Building student capacity for intercultural understanding, empathy, and mutual respect.
     4. Identifying teacher-training needs relating to the above.
 
