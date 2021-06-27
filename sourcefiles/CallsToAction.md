@@ -326,7 +326,7 @@ In order to redress the legacy of residential schools and advance the process of
     2. Ensure that Aboriginal peoples have equitable access to jobs, training, and education opportunities in the corporate sector, and that Aboriginal communities gain long-term sustainable benefits from economic development projects.
     3. Provide education for management and staff on the history of Aboriginal peoples, including the history and legacy of residential schools, the United Nations *Declaration on the Rights of Indigenous Peoples*, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
-Newcomers to Canada
+#### Newcomers to Canada
 
 93. We call upon the federal government, in collaboration with the national Aboriginal organizations, to revise the information kit for newcomers to Canada and its citizenship test to reflect a more inclusive history of the diverse Aboriginal peoples of Canada, including information about the Treaties and the history of residential schools.
 
