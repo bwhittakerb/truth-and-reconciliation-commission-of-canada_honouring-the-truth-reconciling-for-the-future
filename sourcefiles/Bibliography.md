@@ -1,4 +1,61 @@
-## Bibliography 
+## Bibliography
+
+Primary Sources
+ \1. Truth and Reconciliation Commission Databases
+
+The endnotes of this report often commence with the abbreviation [abbr]TRC, followed by one of the following abbreviations: [abbr]ASAGR, [abbr]AVS, [abbr]CAR, [abbr]IRSSA, [abbr]NRA, [abbr]RBS, and [abbr]LAC. The documents so cited are located in the Truth and Reconciliation Commission of Canada’s database. At the end of each of these endnotes, in square brackets, is the document identification number for each of these documents. The following is a brief description of each database.
+
+**Active and Semi-Active Government Records ([abbr]ASAGR) Database**: The Active and Semi-Active Government Records database contains active and semi-active records collected from federal governmental departments that potentially intersected with the administration and management of the residential school system. Documents that were relevant to the history and/or legacy of the system were disclosed to the Truth and Reconciliation Commission of Canada (TRC) in keeping with the federal government’s obligations in relation to the Indian Residential Schools Settlement Agreement ([abbr]IRSSA). Some of the other federal government departments included, but were not limited to, the Department of Justice, Health Canada, the Royal Canadian Mounted Police, and National Defence. Aboriginal Affairs and Northern Development Canada undertook the responsibility of centrally collecting and producing the records from these other federal departments to the TRC.
+
+**Audio/Video Statement (avs) Database**: The Audio/Video Statement database contains video and audio statements provided to the TRC at community hearings and regional and national events held by the TRC, as well as at other special events attended by the TRC.
+
+**Church Archival Records (car) Database**: The Church Archival Records database contains records collected from the different church/religious entities that were involved in administration and management of residential schools. The church/religious entities primarily included, but were not limited to, entities associated with the Roman Catholic Church, the Anglican Church of Canada, the Presbyterian Church in Canada, and the United Church of Canada. The records were collected as part of the TRC’s mandate, as set out in the Indian Residential Schools Settlement Agreement, to “identify sources and create as complete an historical record as possible of the [abbr]IRS system and legacy.”
+
+408 • Truth & Reconciliation Commission
+
+**Indian Residential Schools School Authority ([abbr]IRSSA) Database**: The Indian Residential Schools School Authority database is comprised of individual records related to each residential school, as set out by the [abbr]IRSSA.
+
+**National Research and Analysis (nra) Database**: The National Research and Analysis database contains records collected by the National Research and Analysis Directorate, Aboriginal Affairs and Northern Development Canada, formerly Indian Residential Schools Resolution Canada ([abbr]IRSRC). The records in the database were originally collected for the purpose of research into a variety of allegations, such as abuse in residential schools, and primarily resulted from court processes such as civil and criminal litigation, and later the Indian Residential Schools Settlement Agreement ([abbr]IRSSA), as well as from out-of-court processes such as Alternative Dispute Resolution. A majority of the records were collected from Aboriginal Affairs and Northern Development Canada. The collection also contains records from other federal departments and religious entities. In the case of some records in the database that were provided by outside entities, the information in the database is incomplete. In those instances, the endnotes in the report reads, “No document location, no document file source.”
+
+**Red, Black and School Series (rbs) Database**: The Red, Black and School Series database contains records provided by Library and Archives Canada to the TRC. These three sub-series contain records that were originally part of the “Headquarters Central Registry System,” or records management system, for departments that preceded the current federal department of Aboriginal Affairs and Northern Development Canada. The archival records are currently related to the Department of Indian Affairs and Northern Development fonds and are held as part of Library and Archives Canada’s collection.
+
+**Library and Archives Canada (lacar) Archival Records Container and Document Databases** – The lac Records Container (and Document databases contain records collected from Library and Archives Canada (lac). The archival records of federal governmental departments that potentially intersected with the administration and management of Indian Residential Schools were held as part of Library and Archives Canada’s collection. Documents that were relevant to the history and/or legacy of the Indian Residential School system were initially collected by the Truth and Reconciliation Commission, in conjunction with Aboriginal Affairs and Northern Development Canada, as part of their mandate, as set out in the Indian Residential School Settlement Agreement. The collection
+
+of records was later continued by Aboriginal Affairs and Northern Development Canada, based on federal government’s obligation to disclose documents in relation to the Indian Residential Schools Settlement Agreement.
+
+\2. Indian Affairs Annual Reports, 1864–1997
+
+Within this report, *Annual Report of the Department of Indian Affairs* denotes the published annual reports created by the Government of Canada, and relating to Indian Affairs over the period from 1864 to 1997.
+
+The Department of Indian Affairs and Northern Development was created in 1966. In 2011, it was renamed Aboriginal Affairs and Northern Development. Before 1966, different departments were responsible for the portfolios of Indian Affairs and Northern Affairs.
+
+The departments responsible for Indian Affairs were (in chronological order):
+
+- The Department of the Secretary of State of Canada (to 1869)
+
+- The Department of the Secretary of State for the Provinces (1869–1873)
+
+- The Department of the Interior (1873–1880)
+
+- The Department of Indian Affairs (1880–1936)
+
+- The Department of Mines and Resources (1936–1950)
+
+- The Department of Citizenship and Immigration (1950–1965)
+
+- The Department of Northern Affairs and National Resources (1966)
+
+- The Department of Indian Affairs and Northern Development (1966 to the present)
+
+  The exact titles of Indian Affairs annual reports changed over time, and were named for the department.
+
+  \3. Library and Archives Canada
+
+  **RG10 (Indian Affairs Records Group)** The records of RG10 at Library and Archives Canada are currently part of the R216, Department of Indian Affairs and Northern Development fonds. For clarity and brevity, in footnotes throughout this report, records belonging to the RG10 Records Group have been identified simply with their RG10 information. Where a copy of an RG10 document held in a TRC database was used, the TRC database holding that copy is clearly identified, along with the RG10 information connected with the original document.
+
+  \4. Other Archives
+
+  Provincial Archives of British Columbia. United Church of Canada Archives.
 
 • 409
 

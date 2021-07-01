@@ -1,1551 +1,1274 @@
-Appendix 1
+## Appendix 1: The Mandate of the Truth and Reconciliation Commission
 
-The Mandate of the
- Truth and Reconciliation Commission
-
-**Schedule N of the Indian Residential Schools Settlement Agreement**
+### Schedule N of the Indian Residential Schools Settlement Agreement
 
 There is an emerging and compelling desire to put the events of the past behind us so that we can work towards a stronger and healthier future. The truth telling and reconciliation process as part of an overall holistic and comprehensive response to the Indian Residential School legacy is a sincere indication and acknowledgement of the injustices and harms experienced by Aboriginal people and the need for continued healing. This is a profound commitment to establishing new relationships embedded in mutual recognition and respect that will forge a brighter future. The truth of our common experiences will help set our spirits free and pave the way to reconciliation.
 
-Principles
+#### Principles
 
 Through the Agreement, the Parties have agreed that an historic Truth and Reconciliation Commission will be established to contribute to truth, healing and reconciliation.
 
 The Truth and Reconciliation Commission will build upon the “Statement of Reconciliation” dated January 7, 1998 and the principles developed by the Working Group on Truth and Reconciliation and of the Exploratory Dialogues (1998-1999). These principles are as follows: accessible; victim-centered; confidentiality (if required by the former student); do no harm; health and safety of participants; representative; public/transparent; accountable; open and honourable process; comprehensive; inclusive, educational, holistic, just and fair; respectful; voluntary; flexible; and forward looking in terms of rebuilding and renewing Aboriginal relationships and the relationship between Aboriginal and non-Aboriginal Canadians.
 
-Reconciliation is an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former
+Reconciliation is an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School ([abbr]IRS) students, their families, communities, religious entities, former school employees, government and the people of Canada. Reconciliation may occur between any of the above groups.
+
+#### Terms of Reference
+
+1. Goals
+
+   The goals of the Commission shall be to:
 
-340 • Truth & Reconciliation Commission
+   1. [style ordered list with (a)]Acknowledge Residential School experiences, impacts and consequences;
+   2. Provide a holistic, culturally appropriate and safe setting for former students, their families and communities as they come forward to the Commission;
+   3. Witness[1], support, promote and facilitate truth and reconciliation events at both the national and community levels;
+   4. Promote awareness and public education of Canadians about the [abbr]IRS system and its impacts;
+   5. Identify sources and create as complete an historical record as possible of the [abbr]IRS system and legacy. The record shall be preserved and made accessible to the public for future study and use;
+   6. Produce and submit to the Parties of the Agreement[2] a report including recommendations[3] to the Government of Canada concerning the [abbr]IRS system and experience including: the history, purpose, operation and supervision of the [abbr]IRS system, the effect and consequences of IRS (including systemic harms, intergenerational consequences and the impact on human dignity) and the ongoing legacy of the residential schools;
+   7. Support commemoration of former Indian Residential School students and their families in accordance with the Commemoration Policy Directive (Schedule “X” of the Agreement).
 
-Indian Residential School (IRS) students, their families, communities, religious entities, former school employees, government and the people of Canada. Reconciliation may occur between any of the above groups.
+2. Establishment, Powers, Duties and Procedures of the Commission
 
-Terms of Reference 1. Goals
+   The Truth and Reconciliation Commission shall be established by the appointment of “the Commissioners” by the Federal Government through an Order in Council, pursuant to special appointment regulations.
 
-The goals of the Commission shall be to:
+   Pursuant to the Court-approved final settlement agreement and the class action judgments, the Commissioners:
+   1. [restyle with (a) styling for ordered list]in fulfilling their Truth and Reconciliation Mandate, are authorized to receive statements and documents from former students, their families, community and all other interested participants, and, subject to (f ), (g) and (h) below, make use of all documents and materials produced by the parties. Further, the Commissioners are authorized and required in the public interest to archive all such documents, materials, and transcripts or recordings of statements received, in a manner that will ensure their preservation and accessibility to the public and in accordance with access and privacy legislation, and any other applicable legislation;
+   2. (b)  shall not hold formal hearings, nor act as a public inquiry, nor conduct a formal legal process;
+   3. (c)  shall not possess subpoena powers, and do not have powers to compel attendance or participation in any of its activities or events. Participation in all Commission events and activities is entirely voluntary;
+   4. (d)  may adopt any informal procedures or methods they may consider expedient for the proper conduct of the Commission events and activities, so long as they remain consistent with the goals and provisions set out in the Commission’s mandate statement;
+   5. (e)  may, at its discretion, hold sessions in camera, or require that sessions be held in camera;
+   6. (f)  shall perform their duties in holding events, in activities, in public meetings, in consultations, in making public statements, and in making their report and recommendations without making any findings or expressing any conclusion or recommendation, regarding the misconduct of any person, unless such findings or information has already been established through legal proceedings, by admission, or by public disclosure by the individual. Further, the Commission shall not make any reference in any of its activities or in its report or recommendations to the possible civil or criminal liability of any person or organization, unless such findings or information about the individual or institution has already been established through legal proceedings;
+   7. (g)  shall not, except as required by law, use or permit access to statements made by individuals during any of the Commissions events, activities or processes, except with the express consent of the individual and only for the sole purpose and extent for which the consent is granted;
+   8. (h)  shall not name names in their events, activities, public statements, report or recommendations, or make use of personal information or of statements made which identify a person, without the express consent of that individual, unless that information and/or the identity of the person so identifiedhas already been established through legal proceedings, by admission, or by public disclosure by that individual. Other information that could be used to identify individuals shall be anonymized to the extent possible;
 
-1. (a)  Acknowledge Residential School experiences, impacts and consequences;
-2. (b)  Provide a holistic, culturally appropriate and safe setting for former students, their families and communities as they come forward to the Commission;
-3. (c)  Witness1, support, promote and facilitate truth and reconciliation events at both the national and community levels;
-4. (d)  Promote awareness and public education of Canadians about the IRS system and its impacts;
-5. (e)  Identify sources and create as complete an historical record as possible of the IRS system and legacy. The record shall be preserved and made accessible to the public for future study and use;
-6. (f)  Produce and submit to the Parties of the Agreement2 a report including recommendations3 to the Government of Canada concerning the IRS system and experience including: the history, purpose, operation and supervision of the IRS system, the effect and consequences of IRS (including systemic harms, intergenerational consequences and the impact on human dignity) and the ongoing legacy of the residential schools;
-7. (g)  Support commemoration of former Indian Residential School students and their families in accordance with the Commemoration Policy Directive (Schedule “X” of the Agreement).
+   9. (i)  notwithstanding (e), shall require in camera proceedings for the taking of any statement that contains names or other identifying information of persons alleged by the person making the statement of some wrong doing, unless the person named or identified has been convicted for the alleged wrong doing. The Commissioners shall not record the names of persons so identified, unless the person named or identified has been convicted for the alleged wrong doing. Other information that could be used to identify said individuals shall be anonymized to the extent possible;
+   10. (j)  shall not, except as required by law, provide to any other proceeding, or for any other use, any personal information, statement made by the individual or any information identifying any person, without that individual’s express consent;
+   11. (k)  shall ensure that the conduct of the Commission and its activities do not jeopardize any legal proceeding;
+   12. (l)  may refer to the [abbr]NAC for determination of disputes involving document production, document disposal and archiving, contents of the Commission’s Report and Recommendations and Commission decisions regarding the scope of its research and issues to be examined. The Commission shall make best efforts to resolve the matter itself before referring it to the [abbr]NAC.
 
-\2. Establishment, Powers, Duties and Procedures of the Commission
+3. Responsibilities
 
-The Truth and Reconciliation Commission shall be established by the appointment of “the Commissioners” by the Federal Government through an Order in Council, pursuant to special appointment regulations.
+   In keeping with the powers and duties of the Commission, as enumerated in section 2 above, the Commission shall have the following responsibilities:
+   1. (a) to employ interdisciplinary, social sciences, historical, oral traditional and archival methodologies for statement-taking, historical fact-finding and analysis, report-writing, knowledge management and archiving;
+   2. (b) to adopt methods and procedures which it deems necessary to achieve its goals;
+   3. (c) to engage the services of such persons including experts, which it deems necessary to achieve its goals;
+   4. (d) to establish a research centre and ensure the preservation of its archives;
+   5. (e)  to have available the use of such facilities and equipment as is required, within the limits of appropriate guidelines and rules;
+   6. (f)  to hold such events and give such notices as appropriate. This shall include such significant ceremonies as the Commission sees fit during and at the conclusion of the 5 year process;
+   7. (g)  to prepare a report;
+   8. (h)  to have the report translated in the two official languages of Canada and all or parts of the report in such Aboriginal languages as determined by the Commissioners;
+   9. (i)  to evaluate commemoration proposals in line with the Commemoration Policy Directive (Schedule “J” of the Agreement).
 
-Pursuant to the Court-approved final settlement agreement and the class action judgments, the Commissioners:
+4. Exercise of Duties
 
-1. (a)  in fulfilling their Truth and Reconciliation Mandate, are authorized to receive statements and documents from former students, their families, community and all other interested participants, and, subject to (f ), (g) and (h) below, make use of all documents and materials produced by the parties. Further, the Commissioners are authorized and required in the public interest to archive all such documents, materials, and transcripts or recordings of statements received, in a manner that will ensure their preservation and accessibility to the public and in accordance with access and privacy legislation, and any other applicable legislation;
-2. (b)  shall not hold formal hearings, nor act as a public inquiry, nor conduct a formal legal process;
-3. (c)  shall not possess subpoena powers, and do not have powers to compel attendance or participation in any of its activities or events. Participation in all Commission events and activities is entirely voluntary;
-4. (d)  may adopt any informal procedures or methods they may consider expedient for the proper conduct of the Commission events and activities, so long as they remain consistent with the goals and provisions set out in the Commission’s mandate statement;
-5. (e)  may, at its discretion, hold sessions in camera, or require that sessions be held in camera;
-6. (f)  shall perform their duties in holding events, in activities, in public meetings, in consultations, in making public statements, and in making their report and recommendations without making any findings or expressing any conclusion or recommendation, regarding the misconduct of any person, unless such findings or information has already been established through legal proceedings, by admission, or by public disclosure by the individual. Further, the Commission shall not make any reference in any of its activities or in its report or recommendations to the possible civil or criminal liability of any person or organization, unless such findings or information about the individual or institution has already been established through legal proceedings;
-7. (g)  shall not, except as required by law, use or permit access to statements made by individuals during any of the Commissions events, activities or processes, except with the express consent of the individual and only for the sole purpose and extent for which the consent is granted;
-8. (h)  shall not name names in their events, activities, public statements, report or recommendations, or make use of personal information or of statements made which identify a person, without the express consent of that individual, unless that information and/or the identity of the person so identified
+   As the Commission is not to act as a public inquiry or to conduct a formal legal process, it will, therefore, not duplicate in whole or in part the function of criminal investigations, the Independent Assessment Process, court actions, or make recommendations on matters already covered in the Agreement. In the exercise of its powers the Commission shall recognize:
 
-Appendix 1 • 341
+   1. (a)  the unique experiences of First Nations, Inuit and Métis former IRS students, and will conduct its activities, hold its events, and prepare its Report and Recommendations in a manner that reflects and recognizes the unique experiences of all former [abbr]IRS students;
+   2. (b)  that the truth and reconciliation process is committed to the principle of voluntariness with respect to individuals’ participation;
+   3. (c)  that it will build upon the work of past and existing processes, archival records, resources and documentation, including the work and records of the Royal Commission on Aboriginal Peoples of 1996;
+   4. (d)  the significance of Aboriginal oral and legal traditions in its activities;
+   5. (e)  that as part of the overall holistic approach to reconciliation and healing, the Commission should reasonably coordinate with other initiatives under the Agreement and shall acknowledge links to other aspects of the Agreement such that the overall goals of reconciliation will be promoted;
+   6. (f)  that all individual statements are of equal importance, even if these statements are delivered after the completion of the report;
 
-342 • Truth & Reconciliation Commission
+   7. (g) that there shall be an emphasis on both information collection/storage and information analysis.
 
-has already been established through legal proceedings, by admission, or by public disclosure by that individual. Other information that could be used to identify individuals shall be anonymized to the extent possible;
+5. Membership
 
-1. (i)  notwithstanding (e), shall require in camera proceedings for the taking of any statement that contains names or other identifying information of persons alleged by the person making the statement of some wrong doing, unless the person named or identified has been convicted for the alleged wrong doing. The Commissioners shall not record the names of persons so identified, unless the person named or identified has been convicted for the alleged wrong doing. Other information that could be used to identify said individuals shall be anonymized to the extent possible;
-2. (j)  shall not, except as required by law, provide to any other proceeding, or for any other use, any personal information, statement made by the individual or any information identifying any person, without that individual’s express consent;
-3. (k)  shall ensure that the conduct of the Commission and its activities do not jeopardize any legal proceeding;
-4. (l)  may refer to the NAC for determination of disputes involving document production, document disposal and archiving, contents of the Commission’s Report and Recommendations and Commission decisions regarding the scope of its research and issues to be examined. The Commission shall make best efforts to resolve the matter itself before referring it to the NAC.
+   The Commission shall consist of an appointed Chairperson and two Commissioners, who shall be persons of recognized integrity, stature and respect.
 
-\3. Responsibilities
+   1. (a)  Consideration should be given to at least one of the three members being an Aboriginal person;
+   2. (b)  Appointments shall be made out of a pool of candidates nominated by former students, Aboriginal organizations, churches and government;
+   3. (c)  The Assembly of First Nations (AFN) shall be consulted in making the final decision as to the appointment of the Commissioners.
 
-In keeping with the powers and duties of the Commission, as enumerated in section 2 above, the Commission shall have the following responsibilities:
+6. Secretariat
 
-(a) to employ interdisciplinary, social sciences, historical, oral traditional and archival methodologies for statement-taking, historical fact-finding and analysis, report-writing, knowledge management and archiving;
+   The Commission shall operate through a central Secretariat.
 
-(b) to adopt methods and procedures which it deems necessary to achieve its goals;
+   1. (a)  There shall be an Executive Director in charge of the operation of the Commission who shall select and engage staff and regional liaisons;
+   2. (b)  The Executive Director and the Secretariat shall be subject to the direction and control of the Commissioners;
+   3. (c)  The Secretariat shall be responsible for the activities of the Commission such as:
+      1. (i)  research;
+      2. (ii)  event organization;
+      3. (iii)  statement taking/truth-sharing;
+      4. (iv)  obtaining documents;
+      5. (v)  information management of the Commission’s documents;
+      6. (vi)  production of the report;
+      7. (vii)  ensuring the preservation of its records;
+      8. (viii)  evaluation of the Commemoration Policy Directive proposals.
 
-(c) to engage the services of such persons including experts, which it deems necessary to achieve its goals;
+   4. (d)  The Executive Director and Commissioners shall consult with the Indian Residential School Survivor Committee on the appointment of the Regional Liaisons.
+   5. (e)  Regional liaisons shall:
+      1. (i)  act as knowledge conduits and promote sharing of knowledge among communities, individuals and the Commission;
+      2. (ii)  provide a link between the national body and communities for the purpose of coordinating national and community events;
+      3. (iii)  provide information to and assist communities as they plan truth and reconciliation events, coordinate statement-taking/truth-sharing and event-recording, and facilitate information flow from the communities to the Commission.
 
-(d) to establish a research centre and ensure the preservation of its archives;
+7. Indian Residential School Survivor Committee ([abbr]IRSSC)
 
-1. (e)  to have available the use of such facilities and equipment as is required, within the limits of appropriate guidelines and rules;
-2. (f)  to hold such events and give such notices as appropriate. This shall include such significant ceremonies as the Commission sees fit during and at the conclusion of the 5 year process;
-3. (g)  to prepare a report;
-4. (h)  to have the report translated in the two official languages of Canada and all or parts of the report in such Aboriginal languages as determined by the Commissioners;
-5. (i)  to evaluate commemoration proposals in line with the Commemoration Policy Directive (Schedule “J” of the Agreement).
+   The Commission shall be assisted by an Indian Residential School Survivor Committee ([abbr]IRSSC).
 
-\4. Exercise of Duties
+   1. (a)  The Committee shall be composed of 10 representatives drawn from various Aboriginal organizations and survivor groups. Representation shall be regional, reflecting the population distribution of Indian Residential Schools (as defined in the Agreement). The majority of the representatives shall be former residential school students;
+   2. (b)  Members of the Committee shall be selected by the Federal Government, in consultation with the AFN, from a pool of eligible candidates developed by the stakeholders;
+   3. (c)  Committee members are responsible for providing advice to the Commissioners on:
+      1. (i)  the characteristics of a “community” for the purposes of participation in the Commission processes;
+      2. (ii)  the criteria for the community and national processes;
+      3. (iii)  the evaluation of Commemoration Policy Directive proposals;
+      4. (iv)  such other issues as are required by the Commissioners.
 
-As the Commission is not to act as a public inquiry or to conduct a formal legal process, it will, therefore, not duplicate in whole or in part the function of criminal investigations, the Independent Assessment Process, court actions, or make recommendations on matters already covered in the Agreement. In the exercise of its powers the Commission shall recognize:
+8. Timeframe
 
-1. (a)  the unique experiences of First Nations, Inuit and Métis former IRS students, and will conduct its activities, hold its events, and prepare its Report and Recommendations in a manner that reflects and recognizes the unique experiences of all former IRS students;
-2. (b)  that the truth and reconciliation process is committed to the principle of voluntariness with respect to individuals’ participation;
-3. (c)  that it will build upon the work of past and existing processes, archival records, resources and documentation, including the work and records of the Royal Commission on Aboriginal Peoples of 1996;
-4. (d)  the significance of Aboriginal oral and legal traditions in its activities;
-5. (e)  that as part of the overall holistic approach to reconciliation and healing, the Commission should reasonably coordinate with other initiatives under the Agreement and shall acknowledge links to other aspects of the Agreement such that the overall goals of reconciliation will be promoted;
-6. (f)  that all individual statements are of equal importance, even if these statements are delivered after the completion of the report;
+   The Commission shall complete its work within five years. Within that five year span, there are two timelines:
 
-Appendix 1 • 343
+   Two Year Timeline
 
-344 • Truth & Reconciliation Commission
+   1. (a)  Preparation of a budget within three months from being launched, under the budgetary cap provision in the Agreement;
+   2. (b)  Completion of all national events, and research and production of the report on historic findings and recommendations, within two years of the launch of the Commission, with the possibility of a 6 month extension, which shall be at the discretion of the Commissioners.
 
-(g) that there shall be an emphasis on both information collection/storage and information analysis.
+   Five Year Timeline
 
-\5. Membership
+   1. (a)  Completion of the community truth and reconciliation events, statement taking/truth sharing, reporting to the Commission from communities, and closing ceremonies;
+   2. (b)  Establishment of a research centre.
 
-The Commission shall consist of an appointed Chairperson and two Commissioners, who shall be persons of recognized integrity, stature and respect.
+9. Research
 
-1. (a)  Consideration should be given to at least one of the three members being an Aboriginal person;
-2. (b)  Appointments shall be made out of a pool of candidates nominated by former students, Aboriginal organizations, churches and government;
-3. (c)  The Assembly of First Nations (AFN) shall be consulted in making the final decision as to the appointment of the Commissioners.
+   The Commission shall conduct such research, receive and take such statements and consider such documents as it deems necessary for the purpose of achieving its goals.
 
-\6. Secretariat
+10. Events
 
-The Commission shall operate through a central Secretariat.
+    There are three essential event components to the Truth and Reconciliation Commission: National Events, Community Events and Individual Statement-Taking/ Truth Sharing. The Truth and Reconciliation process will be concluded with a final Closing Ceremony.
 
-1. (a)  There shall be an Executive Director in charge of the operation of the Commission who shall select and engage staff and regional liaisons;
-2. (b)  The Executive Director and the Secretariat shall be subject to the direction and control of the Commissioners;
-3. (c)  The Secretariat shall be responsible for the activities of the Commission
+    (A) National Events
 
-such as:
+    The national events are a mechanism through which the truth and reconciliation process will engage the Canadian public and provide education about the IRS system, the experience of former students and their families, and the ongoing legacies of the institutions.
 
-1. (i)  research;
-2. (ii)  event organization;
-3. (iii)  statement taking/truth-sharing;
-4. (iv)  obtaining documents;
-5. (v)  information management of the Commission’s documents;
-6. (vi)  production of the report;
-7. (vii)  ensuring the preservation of its records;
-8. (viii)  evaluation of the Commemoration Policy Directive proposals.
+    The Commission shall fund and host seven national events in different regions across the country for the purpose of:
 
-9. (d)  The Executive Director and Commissioners shall consult with the Indian Residential School Survivor Committee on the appointment of the Regional Liaisons.
-10. (e)  Regional liaisons shall:
-    1. (i)  act as knowledge conduits and promote sharing of knowledge among communities, individuals and the Commission;
-    2. (ii)  provide a link between the national body and communities for the purpose of coordinating national and community events;
-    3. (iii)  provide information to and assist communities as they plan truth and reconciliation events, coordinate statement-taking/truth-sharing and event-recording, and facilitate information flow from the communities to the Commission.
+    1. (a)  sharing information with/from the communities;
 
-\7. Indian Residential School Survivor Committee (IRSSC)
+    2. (b)  supporting and facilitating the self empowerment of former IRS students and those affected by the IRS legacy;
 
-The Commission shall be assisted by an Indian Residential School Survivor Committee (IRSSC).
+    3. (c)  providing a context and meaning for the Common Experience Payment;
 
-1. (a)  The Committee shall be composed of 10 representatives drawn from various Aboriginal organizations and survivor groups. Representation shall be regional, reflecting the population distribution of Indian Residential Schools (as defined in the Agreement). The majority of the representatives shall be former residential school students;
-2. (b)  Members of the Committee shall be selected by the Federal Government, in consultation with the AFN, from a pool of eligible candidates developed by the stakeholders;
-3. (c)  Committee members are responsible for providing advice to the Commissioners on:
-   1. (i)  the characteristics of a “community” for the purposes of participation in the Commission processes;
-   2. (ii)  the criteria for the community and national processes;
-   3. (iii)  the evaluation of Commemoration Policy Directive proposals;
-   4. (iv)  such other issues as are required by the Commissioners.
+    4. (d)  engaging and educating the public through mass communications;
 
-Appendix 1 • 345
+    5. (e)  otherwise achieving its goals.
 
-346 • Truth & Reconciliation Commission
+       The Commission shall, in designing the events, include in its consideration the history and demographics of the [abbr]IRS system.
 
-\8. Timeframe
+       National events should include the following common components:
 
-The Commission shall complete its work within five years. Within that five year span, there are two timelines:
+    6. (f)  an opportunity for a sample number of former students and families to share their experiences;
 
-Two Year Timeline
+    7. (g)  an opportunity for some communities in the regions to share their experiences as they relate to the impacts on communities and to share insights from their community reconciliation processes;
 
-1. (a)  Preparation of a budget within three months from being launched, under the budgetary cap provision in the Agreement;
-2. (b)  Completion of all national events, and research and production of the report on historic findings and recommendations, within two years of the launch of the Commission, with the possibility of a 6 month extension, which shall be at the discretion of the Commissioners.
+    8. (h)  an opportunity for participation and sharing of information and knowledge among former students, their families, communities, experts, church and government officials, institutions and the Canadian public;
 
-Five Year Timeline
+    9. (i)  ceremonial transfer of knowledge through the passing of individual statement transcripts or community reports/statements. The Commission shall recognize that ownership over IRS experiences rests with those affected by the Indian Residential School legacy;
 
-1. (a)  Completion of the community truth and reconciliation events, statement taking/truth sharing, reporting to the Commission from communities, and closing ceremonies;
-2. (b)  Establishment of a research centre.
+    10. (j)  analysis of the short and long term legacy of the IRS system on individuals, communities, groups, institutions and Canadian society including the intergenerational impacts of the IRS system;
 
-\9. Research
+    11. (k)  participation of high level government and church officials;
 
-The Commission shall conduct such research, receive and take such statements and consider such documents as it deems necessary for the purpose of achieving its goals.
+    12. (l)  health supports and trauma experts during and after the ceremony for all participants.
 
-\10. Events
+    (B) Community Events
 
-There are three essential event components to the Truth and Reconciliation Commission: National Events, Community Events and Individual Statement-Taking/ Truth Sharing. The Truth and Reconciliation process will be concluded with a final Closing Ceremony.
+    It is intended that the community events will be designed by communities and respond to the needs of the former students, their families and those affected by the IRS legacy including the special needs of those communities where Indian Residential Schools were located.
 
-(A) National Events
+    The community events are for the purpose of:
+    1. (a)  acknowledging the capacity of communities to develop reconciliation practices;
+    2. (b)  developing collective community narratives about the impact of the IRS system on former students, families and communities;
+    3. (c)  involving church, former school employees and government officials in the reconciliation process, if requested by communities;
+    4. (d)  creating a record or statement of community narratives–including truths, insights and recommendations–for use in the historical research and report, national events, and for inclusion in the research centre;
+    5. (e)  educating the public and fostering better relationships with local communities;
+    6. (f)  allowing for the participation from high level government and church officials, if requested by communities;
+    7. (g)  respecting the goal of witnessing in accordance with Aboriginal principles.
 
-The national events are a mechanism through which the truth and reconciliation process will engage the Canadian public and provide education about the IRS system, the experience of former students and their families, and the ongoing legacies of the institutions.
+    The Commission, during the first stages of the process in consultation with the [abbr]IRSSC, shall develop the core criteria and values consistent with the Commission’s mandate that will guide the community processes.
 
-The Commission shall fund and host seven national events in different regions across the country for the purpose of:
+    Within these parameters communities may submit plans for reconciliation processes to the Commission and receive funding for the processes within the limits of the Commission’s budgetary capacity.
 
-1. (a)  sharing information with/from the communities;
-2. (b)  supporting and facilitating the self empowerment of former IRS students and those affected by the IRS legacy;
-3. (c)  providing a context and meaning for the Common Experience Payment;
-4. (d)  engaging and educating the public through mass communications;
-5. (e)  otherwise achieving its goals.
+    (C) Individual Statement-Taking/Truth Sharing
 
-The Commission shall, in designing the events, include in its consideration the history and demographics of the IRS system.
+    The Commission shall coordinate the collection of individual statements by written, electronic or other appropriate means. Notwithstanding the five year mandate, anyone affected by the IRS legacy will be permitted to file a personal statement in the research centre with no time limitation.
 
-National events should inclu de the following common components:
+    The Commission shall provide a safe, supportive and sensitive environment for individual statement-taking/truth sharing.
 
-1. (f)  an opportunity for a sample number of former students and families to share their experiences;
-2. (g)  an opportunity for some communities in the regions to share their experiences as they relate to the impacts on communities and to share insights from their community reconciliation processes;
-3. (h)  an opportunity for participation and sharing of information and knowledge among former students, their families, communities, experts, church and government officials, institutions and the Canadian public;
-4. (i)  ceremonial transfer of knowledge through the passing of individual statement transcripts or community reports/statements. The Commission shall recognize that ownership over IRS experiences rests with those affected by the Indian Residential School legacy;
-5. (j)  analysis of the short and long term legacy of the IRS system on individuals, communities, groups, institutions and Canadian society including the intergenerational impacts of the IRS system;
-6. (k)  participation of high level government and church officials;
-7. (l)  health supports and trauma experts during and after the ceremony for all participants.
+    The Commission shall not use or permit access to an individual’s statement made in any Commission processes, except with the express consent of the individual.
 
-(B) Community Events
-
-It is intended that the community events will be designed by communities and respond to the needs of the former students, their families and those affected by the IRS legacy including the special needs of those communities where Indian Residential Schools were located.
-
-The community events are for the purpose of:
-
-Appendix 1 • 347
-
-348 • Truth & Reconciliation Commission
-
-1. (a)  acknowledging the capacity of communities to develop reconciliation practices;
-2. (b)  developing collective community narratives about the impact of the IRS system on former students, families and communities;
-3. (c)  involving church, former school employees and government officials in the reconciliation process, if requested by communities;
-4. (d)  creating a record or statement of community narratives–including truths, insights and recommendations–for use in the historical research and report, national events, and for inclusion in the research centre;
-5. (e)  educating the public and fostering better relationships with local communities;
-6. (f)  allowing for the participation from high level government and church officials, if requested by communities;
-7. (g)  respecting the goal of witnessing in accordance with Aboriginal principles.
-
-The Commission, during the first stages of the process in consultation with the IRSSC, shall develop the core criteria and values consistent with the Commission’s mandate that will guide the community processes.
-
-Within these parameters communities may submit plans for reconciliation processes to the Commission and receive funding for the processes within the limits of the Commission’s budgetary capacity.
-
-(C) Individual Statement-Taking/Truth Sharing
-
-The Commission shall coordinate the collection of individual statements by written, electronic or other appropriate means. Notwithstanding the five year mandate, anyone affected by the IRS legacy will be permitted to file a personal statement in the research centre with no time limitation.
-
-The Commission shall provide a safe, supportive and sensitive environment for individual statement-taking/truth sharing.
-
-The Commission shall not use or permit access to an individual’s statement made in any Commission processes, except with the express consent of the individual.
-
-(D) Closing Ceremony
+    (D) Closing Ceremony
 
 The Commission shall hold a closing ceremony at the end of its mandate to recognize the significance of all events over the life of the Commission. The closing ceremony shall have the participation of high level church and government officials.
 
-\11. Access to Relevant Information
+11. Access to Relevant Information
 
-In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation, and except for those documents for which solicitor-client privilege applies and is asserted.
+    In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation, and except for those documents for which solicitor-client privilege applies and is asserted.
 
-In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected. In cases where solicitor-client privilege is asserted, the asserting party will provide a list of all documents for which the privilege is claimed.
+    In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected. In cases where solicitor-client privilege is asserted, the asserting party will provide a list of all documents for which the privilege is claimed.
 
-Canada and the churches are not required to give up possession of their original documents to the Commission. They are required to compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate. Provision of documents does not require provision of original documents. Originals or true copies may be provided or originals may be provided temporarily for copying purposes if the original documents are not to be housed with the Commission.
+    Canada and the churches are not required to give up possession of their original documents to the Commission. They are required to compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate. Provision of documents does not require provision of original documents. Originals or true copies may be provided or originals may be provided temporarily for copying purposes if the original documents are not to be housed with the Commission.
 
-Insofar as agreed to by the individuals affected and as permitted by process requirements, information from the Independent Assessment Process ([ABBR]IAP), existing litigation and Dispute Resolution processes may be transferred to the Commission for research and archiving purposes.
+    Insofar as agreed to by the individuals affected and as permitted by process requirements, information from the Independent Assessment Process ([abbr]IAP), existing litigation and Dispute Resolution processes may be transferred to the Commission for research and archiving purposes.
 
-\12. National Research Centre
+12. National Research Centre
 
-A research centre shall be established, in a manner and to the extent that the Commission’s budget makes possible. It shall be accessible to former students, their families and communities, the general public, researchers and educators who wish to include this historic material in curricula.
+    A research centre shall be established, in a manner and to the extent that the Commission’s budget makes possible. It shall be accessible to former students, their families and communities, the general public, researchers and educators who wish to include this historic material in curricula.
 
-For the duration of the term of its mandate, the Commission shall ensure that all materials created or received pursuant to this mandate shall be preserved and archived with a purpose and tradition in keeping with the objectives and spirit of the Commission’s work.
+    For the duration of the term of its mandate, the Commission shall ensure that all materials created or received pursuant to this mandate shall be preserved and archived with a purpose and tradition in keeping with the objectives and spirit of the Commission’s work.
 
-The Commission shall use such methods and engage in such partnerships with experts, such as Library and Archives Canada, as are necessary to preserve and maintain the materials and documents. To the extent feasible and taking into account the relevant law and any recommendations by the Commission concerning the continued
+    The Commission shall use such methods and engage in such partnerships with experts, such as Library and Archives Canada, as are necessary to preserve and maintain the materials and documents. To the extent feasible and taking into account the relevant law and any recommendations by the Commission concerning the continued confidentiality of records, all materials collected through this process should be accessible to the public.
 
-Appendix 1 • 349
+13. Privacy
 
-350 • Truth & Reconciliation Commission
+    The Commission shall respect privacy laws, and the confidentiality concerns of participants. For greater certainty:
 
-confidentiality of records, all materials collected through this process should be accessible to the public.
+    1. (a)  any involvement in public events shall be voluntary;
+    2. (b)  notwithstanding 2(i), the national events shall be public or in special circumstances, at the discretion of the Commissioners, information may be taken
+       in camera;
+    3. (c)  the community events shall be private or public, depending upon the design provided by the community;
+    4. (d)  if an individual requests that a statement be taken privately, the Commission shall accommodate;
+    5. (e)  documents shall be archived in accordance with legislation.
 
-\13. Privacy
+14. Budget and Resources
 
-The Commission shall respect privacy laws, and the confidentiality concerns of participants. For greater certainty:
+    The Commission shall prepare a budget within the first three months of its mandate and submit it to the Minister of Indian Residential Schools Resolution Canada for approval. Upon approval of its budget, it will have full authority to make decisions on spending, within the limits of, and in accordance with, its Mandate, its establishing Order in Council, Treasury Board policies, available funds, and its budgetary capacity.
 
-1. (a)  any involvement in public events shall be voluntary;
-2. (b)  notwithstanding 2(i), the national events shall be public or in special circumstances, at the discretion of the Commissioners, information may be taken
-   in camera;
-3. (c)  the community events shall be private or public, depending upon the design provided by the community;
-4. (d)  if an individual requests that a statement be taken privately, the Commission shall accommodate;
-5. (e)  documents shall be archived in accordance with legislation.
+    The Commission shall ensure that there are sufficient resources allocated to the community events over the five year period. The Commission shall also ensure that a portion of the budget is set aside for individual statement-taking/truth sharing and to archive the Commission’s records and information.
 
-\14. Budget and Resources
+    Institutional parties shall bear the cost of participation and attendance in Commission events and community events, as well as provision of documents. If requested by the party providing the documents, the costs of copying, scanning, digitalizing, or otherwise reproducing the documents will be borne by the Commission.
 
-The Commission shall prepare a budget within the first three months of its mandate and submit it to the Minister of Indian Residential Schools Resolution Canada for approval. Upon approval of its budget, it will have full authority to make decisions on spending, within the limits of, and in accordance with, its Mandate, its establishing Order in Council, Treasury Board policies, available funds, and its budgetary capacity.
-
-The Commission shall ensure that there are sufficient resources allocated to the community events over the five year period. The Commission shall also ensure that a portion of the budget is set aside for individual statement-taking/truth sharing and to archive the Commission’s records and information.
-
-Institutional parties shall bear the cost of participation and attendance in Commission events and community events, as well as provision of documents. If requested by the party providing the documents, the costs of copying, scanning, digitalizing, or otherwise reproducing the documents will be borne by the Commission.
-
-Appendix 2 Canada’s Residential Schools
+## Appendix 2: Canada’s Residential Schools
 
 The Indian Residential Schools Settlement Agreement ([abbr]IRSSA) provides the most comprehensive listing of Canadian residential schools for Aboriginal people. At the time of approval, the Settlement Agreement listed 130 residential schools and residences. The Settlement Agreement also outlined a process by which additional schools could be added to the list of approved institutions. At the time of writing, nine institutions had been added to the list.[1]
 
 The [abbr]IRSSA list of approved schools has a number of limits.
 
-- It was developed in the early twenty-first century as part of a process through
-
-  which individuals were compensated for their experiences at residential schools that they attended. Therefore, the list did not include schools that closed in the late nineteenth and early twentieth centuries.
+- It was developed in the early twenty-first century as part of a process through which individuals were compensated for their experiences at residential schools that they attended. Therefore, the list did not include schools that closed in the late nineteenth and early twentieth centuries.
 
 - The original list did not include the dates of operation for the schools. Due to limitations in the records, there are difficulties in determining opening and closing dates. Some schools, for example, might informally open when a missionary began boarding one or more students in his home. Continuity in the operation of schools could be interrupted. For example, schools that burned down might not reopen for several years. The precise date of closure might be difficult to pinpoint: the Blue Quills school, for example, is still in operation as a post-secondary educational facility.
 
 - There were several anomalies in the list. The Methodist school at Red Deer, Alberta, which closed in 1919, and the Methodist school in Edmonton, which opened in 1924, are listed as one school. Similarly, the Anglican school at The Pas, Manitoba, which closed in 1933, and the Anglican school in Dauphin, Manitoba, which opened in 1957, are listed as one school (in part because both were known as the “McKay school”). There are separate listings for Roman Catholic schools at Fort Pelly and Kamsack, Saskatchewan, although these appear to refer to the same institution.[2]
 
-- Itwasnotuncommonforschoolstobeknownbyavarietyofnames:onemight relate to its geographic name, one might refer to a Christian saint, and another
-
-352 • Truth & Reconciliation Commission
-
-might refer to the region in which the school was located. The industrial school at Lebret, for example, was referred to as the “Lebret school,” the “Qu’Appelle school,” and the “St. Paul’s school”—all at the same time. It later became known as the “Whitecalf school.” There is also duplication in names: there were three St. Marys, four St. Pauls, and at least eight St. Josephs.
+- It was not uncommon for schools to be known by a variety of names: one might relate to its geographic name, one might refer to a Christian saint, and another might refer to the region in which the school was located. The industrial school at Lebret, for example, was referred to as the “Lebret school,” the “Qu’Appelle school,” and the “St. Paul’s school”—all at the same time. It later became known as the “Whitecalf school.” There is also duplication in names: there were three St. Marys, four St. Pauls, and at least eight St. Josephs.
 
 - The question of religious affiliation is not always straightforward. At first, most of the schools were quite clearly the initiatives of Catholic and Protestant missionary organizations. That affiliation formally ended in 1969. However, for a number of years after that, church-appointed principals remained in offices, and the religious denomination that had been previously associated with the school continued to provide pastoral care.
 
 - All these issues combine to complicate any attempt to list the schools on the Settlement Agreement with their opening and closing dates, location, and religious affiliation.
 
-  Appendix 2.[1] presents the schools listed on the Settlement Agreement by province (in alphabetical order). Because of the number of schools with the same name, the schools are listed by location. (When more than one school was located in a single location, there are multiple entries for that location.) Appendix 2.[1] also addresses the anomalies that appeared in the Settlement Agreement list: separate listings have been created for schools that were combined on the Settlement Agreement list, such as those at Edmonton and Red Deer. The Kamsack and Fort Pelly Roman Catholic schools have been combined, as have the Roman Catholic schools at Cross Lake, Norway House, Notre Dame, and Jack River, which appear to have been part of a linked administrative structure. Where possible, the opening and closing dates are based on archival documents. Where this was not possible, secondary sources were consulted. In most cases, the dates represent only the opening and closing, and do not reflect periods when the school might have been temporarily closed. The Truth and Reconciliation Commission of Canada attempted to be as comprehensive as possible. For this reason, the dates may not correspond to those used in assessing claims under the Common Experience Payment program and the Independent Assessment Process, which employ criteria relating to the degree of federal involvement in the operation of the facility.
+Appendix 2.1 presents the schools listed on the Settlement Agreement by province (in alphabetical order). Because of the number of schools with the same name, the schools are listed by location. (When more than one school was located in a single location, there are multiple entries for that location.) Appendix 2.1 also addresses the anomalies that appeared in the Settlement Agreement list: separate listings have been created for schools that were combined on the Settlement Agreement list, such as those at Edmonton and Red Deer. The Kamsack and Fort Pelly Roman Catholic schools have been combined, as have the Roman Catholic schools at Cross Lake, Norway House, Notre Dame, and Jack River, which appear to have been part of a linked administrative structure. Where possible, the opening and closing dates are based on archival documents. Where this was not possible, secondary sources were consulted. In most cases, the dates represent only the opening and closing, and do not reflect periods when the school might have been temporarily closed. The Truth and Reconciliation Commission of Canada attempted to be as comprehensive as possible. For this reason, the dates may not correspond to those used in assessing claims under the Common Experience Payment program and the Independent Assessment Process, which employ criteria relating to the degree of federal involvement in the operation of the facility.
 
-  Appendix 2.[2] lists residential schools that were funded by Indian Affairs in the late nineteenth and early twentieth centuries, but were not included in the Settlement Agreement. The information on these schools comes from the Indian Affairs annual reports, particularly the table of schools published annually.
+Appendix 2.2 lists residential schools that were funded by Indian Affairs in the late nineteenth and early twentieth centuries, but were not included in the Settlement Agreement. The information on these schools comes from the Indian Affairs annual reports, particularly the table of schools published annually.
 
-Appendix 2.[1].
+### Appendix 2.1.: Residential schools and residences included in the Indian Residential Schools Settlement Agreement
 
-Residential schools and residences included in the Indian Residential Schools Settlement Agreement
-
-**Alberta**
+#### Alberta
 
 **Assumption**
-
-Our Lady Assumption, Assumption, Hay Lakes Roman Catholic
- Opening: 19513
- Closing: 19734
-
-**Brocket**
-
-Sacred Heart, Brocket Roman Catholic Opening: 18875
-
-Closing: 19616
+Our Lady Assumption, Assumption, Hay Lakes
+Roman Catholic
+Opening: 1951[3]
+Closing: 1973[4]
 
 **Brocket**
+Sacred Heart, Brocket
+Roman Catholic
+Opening: 1887[5]
+Closing: 1961[6]
 
+**Brocket**
 St. Cyprian’s, Queen Victoria’s Jubilee Home, Peigan
-
-Anglican Opening: 18907 Closing: 19618
+Anglican
+Opening: 1890[7]
+Closing: 1961[8]
 
 **Calais**
-
-Sturgeon Lake, Calais, St. Francis Xavier Roman Catholic
- Opening: 19079
- Closing: 196110
-
-**Cardston**
-
-St. Mary’s, Blood, Immaculate Conception Roman Catholic
- Opening: 189811
- Closing: 198812
+Sturgeon Lake, Calais, St. Francis Xavier
+Roman Catholic
+Opening: 1907[9]
+Closing: 1961[10]
 
 **Cardston**
+St. Mary’s, Blood, Immaculate Conception
+Roman Catholic
+Opening: 1898[11]
+Closing: 1988[12]
 
-St. Paul’s, Blood Anglican Opening: 189113 Closing: 197514
+**Cardston**
+St. Paul’s, Blood
+Anglican
+Opening: 1891[13] Closing: 1975[14]
 
 **Cluny**
-
-Crowfoot, St. Joseph’s, St. Trinité Roman Catholic
- Opening: 190015
- Closing: 196816
+Crowfoot, St. Joseph’s, St. Trinité
+Roman Catholic
+Opening: 1900[15]
+Closing: 1968[16]
 
 **Desmarais–Wabasca**
-
 Desmarais (Wabisca Lake, St. Martins, Wabisca Roman Catholic)
-
-Roman Catholic Opening: 190117 Closing: 197318
+Roman Catholic
+Opening: 1901[17]
+Closing: 1973[18]
 
 **Edmonton (St. Albert)**
-
 Edmonton (Poundmaker)
- Methodist, later United Church of Canada Opening: 192419
- Closing: 196820
+Methodist, later United Church of Canada
+Opening: 1924[19]
+Closing: 1968[20]
 
 **Fort Chipewyan**
-
-Holy Angels, Fort Chipewyan, École des SaintsAnges
-
-Roman Catholic Opening: 187421 Closing: 197422
+Holy Angels, Fort Chipewyan, École des Saints-Anges
+Roman Catholic
+Opening: 1874[21]
+Closing: 1974[22]
 
 **Fort Vermilion**
-
-Fort Vermilion, St. Henry’s Roman Catholic
- Opening: 190023
- Closing: 196824
+Fort Vermilion, St. Henry’s
+Roman Catholic
+Opening: 1900[23]
+Closing: 1968[24]
 
 **Gleichen**
-
-Old Sun (Old Sun’s) Anglican
- Opening: 188625 Closing: 197126
+Old Sun (Old Sun’s)
+Anglican
+Opening: 1886[25]
+Closing: 1971[26]
 
 **Grouard**
-
-St. Bernard’s, Grouard, Lesser Slave Lake Roman Catholic
- Opening: 188627
- Closing: 196128
+St. Bernard’s, Grouard, Lesser Slave Lake
+Roman Catholic
+Opening: 1886[27]
+Closing: 1961[28]
 
 **High River**
-
-St. Joseph’s, High River, Dunbow Roman Catholic
- Opening: 188429
- Closing: 192230
-
-Appendix 2 • 353
-
-354 • Truth & Reconciliation Commission
+St. Joseph’s, High River, Dunbow
+Roman Catholic
+Opening: 1884[29]
+Closing: 1922[30]
 
 **Hobbema**
-
-Ermineskin Roman Catholic Opening: 189531 Closing: 197532
+Ermineskin
+Roman Catholic
+Opening: 1895[31]
+Closing: 1975[32]
 
 **Joussard**
-
-Joussard, St. Bruno’s Roman Catholic Opening: 191333 Closing: 196934
+Joussard, St. Bruno’s
+Roman Catholic
+Opening: 1913[33]
+Closing: 1969[34]
 
 **Lac La Biche**
-
-Lac La Biche, Notre Dame des Victoires Roman Catholic
- Opening: 186335
- Closing: 189836
+Lac La Biche, Notre Dame des Victoires
+Roman Catholic
+Opening: 1863[35]
+Closing: 1898[36]
 
 **Lesser Slave Lake**
-
-Lesser Slave Lake, St. Peter’s Anglican
- Opening: 189437
- Closing: 193238
+Lesser Slave Lake, St. Peter’s
+Anglican
+Opening: 1894[37]
+Closing: 1932[38]
 
 **Morley**
-
 Morley, Stony
- Methodist, later United Church of Canada Opening: 192239
- Closing: 196940
+Methodist, later United Church of Canada
+Opening: 1922[39]
+Closing: 1969[40]
 
 **Red Deer**
-
-Red Deer Methodist Opening: 189341 Closing: 191942
+Red Deer
+Methodist
+Opening: 1893[41]
+Closing: 1919[42]
 
 **Saddle Lake (later St. Paul)**
-
-Blue Quills, Saddle Lake, Sacred Heart Roman Catholic
- Opening: 189843
- Closing: 199044
+Blue Quills, Saddle Lake, Sacred Heart
+Roman Catholic
+Opening: 1898[43]
+Closing: 1990[44]
 
 **St. Albert**
-
-St. Albert, Youville Roman Catholic Opening: 186345 Closing: 194846
+St. Albert, Youville
+Roman Catholic
+Opening: 1863[45]
+Closing: 1948[46]
 
 **Smoky River**
-
-St. Augustine, Smoky River Roman Catholic
- Opening: 189847
- Closing: 190848
+St. Augustine, Smoky River
+Roman Catholic
+Opening: 1898[47]
+Closing: 1908[48]
 
 **T’suu Tina**
-
-Sarcee, St. Barnabas Anglican
- Opening: 189249 Closing: 192250
+Sarcee, St. Barnabas
+Anglican
+Opening: 1892[49]
+Closing: 1922[50]
 
 **Wabasca**
-
 Wabasca Anglican, St. John’s, John’s Mission Wapuskaw
-
-Anglican Opening: 189451 Closing: 196652
+Anglican
+Opening: 1894[51]
+Closing: 1966[52]
 
 **Whitefish Lake**
+St. Andrews, Whitefish Lake
+Anglican
+Opening: 1903[53]
+Closing: 1950[54]
 
-St. Andrews, Whitefish Lake Anglican
- Opening: 190353
- Closing: 195054
-
-**British Columbia**
+#### British Columbia
 
 **Ahousat**
-
 Ahousat, Ahousaht
- Presbyterian, later United Church Opening: 190455
- Closing: 194056
+Presbyterian, later United Church
+Opening: 1904[55]
+Closing: 1940[56]
 
 **Alert Bay**
-
 St. Michael’s, Alert Bay Girls’ Home, Alert Bay Boys’ Home
-
-Anglican Opening: 189457 Closing: 197458
+Anglican
+Opening: 1894[57]
+Closing: 1974[58]
 
 **Anahim**
-
-Anahim Lake Non-denominational Opening: 196859 Closing: 197760
+Anahim Lake
+Non-denominational
+Opening: 1968[59]
+Closing: 1977[60]
 
 **Chilliwack/Sardis**
-
 Coqualeetza
- Methodist, later United Church Opening: 189461
- Closing: 194062
+Methodist, later United Church
+Opening: 1894[61]
+Closing: 1940[62]
 
 **Cranbrook**
-
-Cranbrook, St. Eugene’s, Kootenay Roman Catholic
- Opening: 189063
- Closing: 197064
+Cranbrook, St. Eugene’s, Kootenay
+Roman Catholic
+Opening: 1890[63]
+Closing: 1970[64]
 
 **Fraser Lake**
-
-Lejac, Fraser Lake Roman Catholic Opening: 192265 Closing: 197666
+Lejac, Fraser Lake
+Roman Catholic
+Opening: 1922[65]
+Closing: 1976[66]
 
 **Kamloops**
-
-Kamloops Roman Catholic Opening: 189067 Closing: 197868
+Kamloops
+Roman Catholic
+Opening: 1890[67]
+Closing: 1978[68]
 
 **Kitamaat/Kitimaat**
-
 Kitamaat (Elizabeth Long Memorial Home for Girls)
-
-Methodist, United Church after 1925 Opening: 190569
- Closing: 194170
+Methodist, United Church after 1925
+Opening: 1905[69]
+Closing: 1941[70]
 
 **Kuper Island**
-
-Kuper Island Roman Catholic Opening: 189071 Closing: 197572
+Kuper Island
+Roman Catholic
+Opening: 1890[71]
+Closing: 1975[72]
 
 **Lower Post**
-
-Lower Post Roman Catholic Opening: 195173 Closing: 197574
+Lower Post
+Roman Catholic
+Opening: 1951[73]
+Closing: 1975[74]
 
 **Lytton**
-
-St. George’s, Lytton Anglican
- Opening: 190275 Closing: 197976
+St. George’s, Lytton
+Anglican
+Opening: 1902[75]
+Closing: 1979[76]
 
 **Meares Island/Christie/Tofino**
-
-Christie, Clayoquot, Kakawis Roman Catholic
- Opening: 190077
- Closing: 198378
+Christie, Clayoquot, Kakawis
+Roman Catholic
+Opening: 1900[77]
+Closing: 1983[78]
 
 **Mission**
-
-St. Mary’s, Mission Roman Catholic Opening: 186379 Closing: 198480
+St. Mary’s, Mission
+Roman Catholic
+Opening: 1863[79]
+Closing: 1984[80]
 
 **North Vancouver/Squamish**
-
-St. Paul’s, Squamish, North Vancouver Roman Catholic
- Opening: 189981
- Closing: 195982
+St. Paul’s, Squamish, North Vancouver
+Roman Catholic
+Opening: 1899[81]
+Closing: 1959[82]
 
 **Port Alberni**
-
 Alberni
- Presbyterian, United Church after 1925 Opening: 189383
- Closing: 197384
+Presbyterian, United Church after 1925
+Opening: 1893[83]
+Closing: 1973[84]
 
 **Port Simpson/Fort Simpson**
-
-Port Simpson, Crosby Home for Girls Methodist, later United Church Opening: 187985
- Closing: 194886
+Port Simpson, Crosby Home for Girls
+Methodist, later United Church
+Opening: 1879[85]
+Closing: 1948[86]
 
 **Sechelt**
-
 Sechelt
- Roman Catholic Opening: 190487 Closing: 197588
+Roman Catholic
+Opening: 1904[87]
+Closing: 1975[88]
 
 **Williams Lake**
+Cariboo, St. Joseph’s, Williams Lake
+Roman Catholic
+Opening: 1891[89]
+Closing: 1981[90]
 
-Cariboo, St. Joseph’s, Williams Lake Roman Catholic
- Opening: 189189
- Closing: 198190
-
-**Manitoba**
+#### Manitoba
 
 **Birtle**
-
-Birtle Presbyterian Opening: 188891 Closing: 197092
+Birtle
+Presbyterian
+Opening: 1888[91]
+Closing: 1970[92]
 
 **Brandon**
-
 Brandon
- Methodist, United Church after 1925 (1929?),
-
-Roman Catholic (1970–1972) Opening: 189593
- Closing: 197294
+Methodist, United Church after 1925 (1929?),
+Roman Catholic (1970–1972)
+Opening: 1895[93]
+Closing: 1972[94]
 
 **Churchill**
-
-Churchill Vocational Centre Non-denominational Opening: 196495
- Closing: 197396
+Churchill Vocational Centre
+Non-denominational
+Opening: 1964[95]
+Closing: 1973[96]
 
 **Cross Lake**
-
 Cross Lake, St. Joseph’s, Norway House, Notre Dame Hostel, Jack River Hostel
-
-Roman Catholic Opening: 191297 Closing: 196998
-
-Appendix 2 • 355
-
-356 • Truth & Reconciliation Commission
+Roman Catholic
+Opening: 1912[97]
+Closing: 1969[98]
 
 **Dauphin**
-
-McKay Anglican Opening: 195799 Closing: 1988100
+McKay
+Anglican
+Opening: 1957[99]
+Closing: 1988[100]
 
 **Elkhorn**
-
-Elkhorn, Washakada Anglican
- Opening: 1889101 Closing: 1918102 Reopening: 1923103 Closing: 1949104
+Elkhorn, Washakada
+Anglican
+Opening: 1889[101]
+Closing: 1918[102]
+Reopening: 1923[103]
+Closing: 1949[104]
 
 **Norway House**
-
 Norway House
- Methodist, later United Church Opening: 1898105
- Closing: 1969106
+Methodist, later United Church
+Opening: 1898[105]
+Closing: 1969[106]
 
 **Pine Creek**
-
-Pine Creek, Camperville Roman Catholic Opening: 1890107 Closing: 1969108
+Pine Creek, Camperville
+Roman Catholic
+Opening: 1890[107]
+Closing: 1969[108]
 
 **Pine Falls**
-
-Fort Alexander Roman Catholic Opening: 1905109 Closing: 1969110
+Fort Alexander
+Roman Catholic
+Opening: 1905[109]
+Closing: 1969[110]
 
 **Portage la Prairie**
-
 Portage la Prairie
- Presbyterian, later United Church Opening: 1891111
- Closing: 1975112
+Presbyterian, later United Church
+Opening: 1891[111]
+Closing: 1975[112]
 
 **Sandy Bay**
-
-Sandy Bay Roman Catholic Opening: 1905113 Closing: 1970114
+Sandy Bay
+Roman Catholic
+Opening: 1905[113]
+Closing: 1970[114]
 
 **The Pas**
-
 McKay
- Anglican Opening: 1915115 Closing: 1933116
+Anglican
+Opening: 1915[115]
+Closing: 1933[116]
 
 **The Pas/Clearwater Lake**
-
-Clearwater, Guy Hill, Clearwater Lake Roman Catholic
- Opening: 1952117
- Closing: 1979118
+Clearwater, Guy Hill, Clearwater Lake
+Roman Catholic
+Opening: 1952[117]
+Closing: 1979[118]
 
 **Winnipeg**
+Assiniboia
+Roman Catholic
+Opening: 1958[119]
+Closing: 1973[120]
 
-Assiniboia Roman Catholic Opening: 1958119 Closing: 1973120
-
-**Northwest Territories**
-
-**Aklavik**
-
-Aklavik, Immaculate Conception Roman Catholic
- Opening: 1926121
- Closing: 1959122
+#### Northwest Territories
 
 **Aklavik**
+Aklavik, Immaculate Conception
+Roman Catholic
+Opening: 1926[121]
+Closing: 1959[122]
 
-Aklavik, All Saints Anglican Opening: 1936123 Closing: 1959124
+**Aklavik**
+Aklavik, All Saints
+Anglican
+Opening: 1936[123]
+Closing: 1959[124]
 
 **Fort Franklin**
-
-Fort Franklin Hostel Non-denominational Opening: 1967125 Closing: 1972126
+Fort Franklin Hostel
+Non-denominational
+Opening: 1967[125]
+Closing: 1972[126]
 
 **Fort McPherson**
-
-Fleming Hall Anglican Opening: 1958127 Closing: 1976128
+Fleming Hall
+Anglican
+Opening: 1958[127]
+Closing: 1976[128]
 
 **Fort Providence**
-
-Fort Providence Boarding Home (Sacred Heart) Roman Catholic
- Opening: 1867129
- Closing: 1960130
+Fort Providence Boarding Home (Sacred Heart)
+Roman Catholic
+Opening: 1867[129]
+Closing: 1960[130]
 
 **Fort Resolution**
-
+Fort Resolution Residence (St. Joseph’s)
 Roman Catholic
- Fort Resolution Residence (St. Joseph’s) Opening: 1903131
- Closing: 1957132
+Opening: 1903[131]
+Closing: 1957[132]
 
 **Fort Simpson**
-
-Bompas Hall Anglican Opening: 1960133 Closing: 1975134
-
-**Fort Simpson**
-
-Lapointe Hall Roman Catholic Opening: 1960135 Closing: 1973136
+Bompas Hall
+Anglican
+Opening: 1960[133]
+Closing: 1975[134]
 
 **Fort Simpson**
+Lapointe Hall
+Roman Catholic
+Opening: 1960[135]
+Closing: 1973[136]
 
+**Fort Simpson**
 Lapointe Hall, Deh Cho Hall
- Roman Catholic/Non-denominational Opening: 1974137
- Closing: 1986138
+Roman Catholic/Non-denominational
+Opening: 1974[137]
+Closing: 1986[138]
 
 **Fort Smith**
-
-Breynat Hall Roman Catholic Opening: 1958139 Closing: 1975140
+Breynat Hall
+Roman Catholic
+Opening: 1958[139]
+Closing: 1975[140]
 
 **Fort Smith**
-
-Grandin College Roman Catholic Opening: 1964141 Closing: 1985142
+Grandin College
+Roman Catholic
+Opening: 1964[141]
+Closing: 1985[142]
 
 **Hay River**
-
-St. Peter’s Anglican Opening: 1895143 Closing: 1937144
-
-**Inuvik**
-
-Grollier Hall Roman Catholic Opening: 1959145 Closing: 1997146
+St. Peter’s
+Anglican
+Opening: 1895[143]
+Closing: 1937[144]
 
 **Inuvik**
+Grollier Hall
+Roman Catholic
+Opening: 1959[145]
+Closing: 1997[146]
 
-Stringer Hall Anglican Opening: 1959147 Closing: 1975148
+**Inuvik**
+Stringer Hall
+Anglican
+Opening: 1959[147]
+Closing: 1975[148]
 
 **Yellowknife**
+Akaitcho Hall
+Non-denominational
+Opening: 1958[149]
+Closing: 1994[150]
 
-Akaitcho Hall Non-denominational Opening: 1958149 Closing: 1994150
-
-**Nova Scotia**
+#### Nova Scotia
 
 **Shubenacadie**
+Shubenacadie, St. Anne’s
+Roman Catholic
+Opening: 1930[151]
+Closing: 1967[152]
 
-Shubenacadie, St. Anne’s Roman Catholic
- Opening: 1930151
- Closing: 1967152
-
-**Nunavut**
+#### Nunavut
 
 **Arviat**
-
-Federal Hostel at Eskimo Point/Arviat Arviat (Eskimo Point) Non-denominational
- Opening: 1962153
-
-Closing: 1967154
+Federal Hostel at Eskimo Point/Arviat Arviat (Eskimo Point)
+Non-denominational
+Opening: 1962[153]
+Closing: 1967[154]
 
 **Cambridge Bay**
-
-Federal Hostel at Cambridge Bay Non-denominational
- Opening: 1964155
- Closing: 1996156
+Federal Hostel at Cambridge Bay
+Non-denominational
+Opening: 1964[155]
+Closing: 1996[156]
 
 **Chesterfield Inlet**
-
-Chesterfield Inlet, Turquetil Hall Roman Catholic
- Opening: 1955157
- Closing: 1969158
+Chesterfield Inlet, Turquetil Hall
+Roman Catholic
+Opening: 1955[157]
+Closing: 1969[158]
 
 **Coppermine**
-
 Coppermine Tent Hostel Coppermine
- Anglican
- Opening: 1955159 Closing: 1959160
+Anglican
+Opening: 1955[159]
+Closing: 1959[160]
 
 **Igloolik/Iglulik**
-
-Federal Hostel at Igloolik/Iglulik Non-denominational
- Opening: 1962161
- Closing: 1969162
+Federal Hostel at Igloolik/Iglulik
+Non-denominational
+Opening: 1962[161]
+Closing: 1969[162]
 
 **Iqaluit**
-
 Federal Hostel at Frobisher Bay (Ukkivik) Frobisher Bay
- Non-denominational
- Opening: 1971163
-
-Closing: 1997164
-
-Appendix 2 • 357
-
-358 • Truth & Reconciliation Commission
+Non-denominational
+Opening: 1971[163]
+Closing: 1997[164]
 
 **Kimmirut**
-
-Federal Hostel at Lake Harbour Non-denominational
- Opening: 1964165
- Closing: 1968166
+Federal Hostel at Lake Harbour
+Non-denominational
+Opening: 1964[165]
+Closing: 1968[166]
 
 **Kinngait**
-
 Federal Hostel at Cape Dorset/Kinngait Cape Dorset
- Non-denominational
- Opening: 1962167
-
-Closing: 1965168
+Non-denominational
+Opening: 1962[167]
+Closing: 1965[168]
 
 **Mittimatalik**
-
-Federal Hostel at Pond Inlet/Mittimatalik Non-denominational
- Opening: 1962169
- Closing: 1970170
+Federal Hostel at Pond Inlet/Mittimatalik
+Non-denominational
+Opening: 1962[169]
+Closing: 1970[170]
 
 **Pangnirtung/Panniqtuuq**
-
-Federal Hostel at Pangnirtung (Pangnirtang) Non-denominational
- Opening: 1964171
- Closing: 1967172
+Federal Hostel at Pangnirtung (Pangnirtang)
+Non-denominational
+Opening: 1964[171]
+Closing: 1967[172]
 
 **Qamani’tuaq/Qamanittuaq**
-
 Federal Hostel at Baker Lake/Qamani’tuaq Baker Lake
- Non-denominational
- Opening: 1961173
-
-Closing: 1967174
+Non-denominational
+Opening: 1961[173]
+Closing: 1967[174]
 
 **Qikiqtarjuaq**
-
 Federal Hostel at Broughton Island/Qikiqtarjuaq Broughton Island
- Non-denominational
- Opening: 1962175
-
-**Chapleau**
-
-Chapleau, St. John’s Anglican
- Opening: 1907181 Closing: 1948182
-
-**Cristal Lake**
-
-Cristal Lake
- Northern Light Gospel Mission Opening: 1976183
- Closing: 1986184
-
-**Fort Albany**
-
-St. Anne’s, Fort Albany Roman Catholic Opening: 1902185 Closing: 1976186
-
-**Fort Frances**
-
-Fort Frances, St. Margaret’s Roman Catholic
- Opening: 1905187
- Closing: 1974188
-
-**Fort William**
-
-Fort William, St. Joseph’s Roman Catholic Opening: 1870189
- Closing: 1968190
-
-**Kenora**
-
-St. Mary’s, Kenora Roman Catholic Opening: 1897191 Closing: 1972192
-
-**Kenora/Shoal Lake**
-
-Cecilia Jeffrey, Kenora, Shoal Lake Presbyterian, United Church briefly,
-
-Presbyterian Opening: 1902193 Closing: 1976194
-
-**McIntosh**
-
-McIntosh Roman Catholic Opening: 1925195 Closing: 1969196
-
-**Moose Factory Island**
-
-Bishop Horden Hall, Moose Fort, Moose Factory Anglican
- Opening: 1855197
- Closing: 1976198
-
-Closing: 1966176
+Non-denominational
+Opening: 1962[175]
+Closing: 1966[176]
 
 **Sanikiluaq**
+Federal Hostel at Belcher Islands Belcher Islands
+Non-denominational
+Opening: 1963[177]
+Closing: 1964[178]
 
-Federal Hostel at Belcher Islands Belcher Islands Non-denominational
- Opening: 1963177
-
-Closing: 1964178
-
-**Ontario**
+#### Ontario
 
 **Brantford**
+Mohawk Institute
+Anglican
+Opening: 1832[179]
+Closing: 1970[180]
 
-Mohawk Institute Anglican Opening: 1832179 Closing: 1970180
+**Chapleau**
+Chapleau, St. John’s
+Anglican
+Opening: 1907[181]
+Closing: 1948[182]
+
+**Cristal Lake**
+Cristal Lake
+Northern Light Gospel Mission
+Opening: 1976[183]
+Closing: 1986[184]
+
+**Fort Albany**
+St. Anne’s, Fort Albany
+Roman Catholic
+Opening: 1902[185]
+Closing: 1976[186]
+
+**Fort Frances**
+Fort Frances, St. Margaret’s
+Roman Catholic
+Opening: 1905[187]
+Closing: 1974[188]
+
+**Fort William**
+Fort William, St. Joseph’s
+Roman Catholic
+Opening: 1870[189]
+Closing: 1968[190]
+
+**Kenora**
+St. Mary’s, Kenora
+Roman Catholic
+Opening: 1897[191]
+Closing: 1972[192]
+
+**Kenora/Shoal Lake**
+Cecilia Jeffrey, Kenora, Shoal Lake
+Presbyterian, United Church briefly, Presbyterian
+Opening: 1902[193]
+Closing: 1976[194]
+
+**McIntosh**
+McIntosh Roman Catholic
+Opening: 1925[195]
+Closing: 1969[196]
+
+**Moose Factory Island**
+Bishop Horden Hall, Moose Fort, Moose Factory
+Anglican
+Opening: 1855[197]
+Closing: 1976[198]
 
 **Muncey (Munceytown)**
 
-Mount Elgin, Muncey, St. Thomas Methodist, later United Church Opening: 1851199
- Closing: 1946200
+Mount Elgin, Muncey, St. Thomas
+Methodist, later United Church
+Opening: 1851[199]
+Closing: 1946[200]
 
 **Poplar Hill**
-
-Poplar Hill Development School Northern Light Gospel Mission Opening: 1962201
- Closing: 1989202
-
-**Sault Ste. Marie**
-
-Shingwauk Home Anglican Opening: 1873203 Closing: 1970204
+Poplar Hill Development School
+Northern Light Gospel Mission
+Opening: 1962[201]
+Closing: 1989[202]
 
 **Sault Ste. Marie**
+Shingwauk Home
+Anglican
+Opening: 1873[203]
+Closing: 1970[204]
 
-Wawanosh Home Anglican Opening: 1879205 Closing: 1894206
+**Sault Ste. Marie**
+Wawanosh Home
+Anglican
+Opening: 1879[205]
+Closing: 1894[206]
 
 **Sioux Lookout**
-
-Pelican Lake, Pelican Falls Anglican
- Opening: 1926207
- Closing: 1978208
+Pelican Lake, Pelican Falls
+Anglican
+Opening: 1926[207]
+Closing: 1978[208]
 
 **Spanish**
-
 Spanish Boys’ School, Charles Garnier, St. Joseph’s
-
-Roman Catholic Opening: 1913209 Closing: 1958210
+Roman Catholic
+Opening: 1913[209]
+Closing: 1958[210]
 
 **Spanish**
-
-**Québec**
-
-**Amos**
-
-Amos, Amos Student Residence, St-Marc Residence, St-Marc-de-Figuery
-
-Roman Catholic Opening: 1955215 Closing: 1973216
-
-**Fort George**
-
-Fort George, St. Phillip’s Anglican
- Opening: 1932217 Closing: 1975218
-
-**Fort George**
-
-Fort George, St. Joseph’s Mission, Residence Couture, Sainte-Thérèse-de-l’Enfant-Jésus
-
-Roman Catholic Opening: 1931219 Closing: 1978220
-
-**Fort George**
-
-Fort George Hostels Non-denominational Opening: 1975221 Closing: 1978222
-
-**Inukjuak**
-
-Federal Hostel at Port Harrison, Inoucdjouac, Inoucdouac
-
-Non-denominational Opening: 1960223 Closing: 1971224
-
-**Kangirsualujjuaq/Fort George**
-
-Federal Hostel at George River Non-denominational
- Opening: 1960225
- Closing: 1960226
-
-**Kangirsuk**
-
-Federal Hostel at Payne Bay, Bellin Non-denominational
- Opening: 1960227
- Closing: 1962228
-
-**Kuujjuaraapik/Whapmagoostui**
-
-Federal Hostel at Great Whale River, Poste-de-laBaleine, Kuujjuaraapik
-
-Non-denominational Opening: 1960229 Closing: 1970230
-
 Spanish Girls’ School, St. Joseph’s, St. Peter’s, St. Anne’s
-
-Roman Catholic Opening: 1913211 Closing: 1962212
+Roman Catholic
+Opening: 1913[211]
+Closing: 1962[212]
 
 **Stirland Lake**
+Stirland Lake, Wahbon Bay Academy Northern Light Gospel Mission
+Opening: 1973[213]
+Closing: 1991[214]
 
-Stirland Lake, Wahbon Bay Academy Northern Light Gospel Mission Opening: 1973213
- Closing: 1991214
+#### Québec
 
-Appendix 2 • 359
+**Amos**
+Amos, Amos Student Residence, St-Marc Residence, St-Marc-de-Figuery
+Roman Catholic
+Opening: 1955[215]
+Closing: 1973[216]
 
-360 • Truth & Reconciliation Commission
+**Fort George**
+Fort George, St. Phillip’s
+Anglican
+Opening: 1932[217]
+Closing: 1975[218]
+
+**Fort George**
+Fort George, St. Joseph’s Mission, Residence Couture, Sainte-Thérèse-de-l’Enfant-Jésus
+Roman Catholic
+Opening: 1931[219]
+Closing: 1978[220]
+
+**Fort George**
+Fort George Hostels
+Non-denominational
+Opening: 1975[221]
+Closing: 1978[222]
+
+**Inukjuak**
+Federal Hostel at Port Harrison, Inoucdjouac, Inoucdouac
+Non-denominational
+Opening: 1960[223]
+Closing: 1971[224]
+
+**Kangirsualujjuaq/Fort George**
+Federal Hostel at George River
+Non-denominational
+Opening: 1960[225]
+Closing: 1960[226]
+
+**Kangirsuk**
+Federal Hostel at Payne Bay, Bellin
+Non-denominational
+Opening: 1960[227]
+Closing: 1962[228]
+
+**Kuujjuaraapik/Whapmagoostui**
+Federal Hostel at Great Whale River, Poste-de-laBaleine, Kuujjuaraapik
+Non-denominational
+Opening: 1960[229]
+Closing: 1970[230]
 
 **La Tuque**
-
-La Tuque Anglican Opening: 1963231 Closing: 1978232
+La Tuque
+Anglican
+Opening: 1963[231]
+Closing: 1978[232]
 
 **Mistassini**
-
-Mistassini Hostels Non-denominational Opening: 1971233 Closing: 1978234
+Mistassini Hostels
+Non-denominational
+Opening: 1971[233]
+Closing: 1978[234]
 
 **Pointe Bleue**
-
-Pointe Bleue Roman Catholic Opening: 1960235 Closing: 1991236
+Pointe Bleue
+Roman Catholic
+Opening: 1960[235]
+Closing: 1991[236]
 
 **Sept-Îles**
-
 Sept-Îles, Seven Islands, Notre Dame, Maliotenam
+Roman Catholic
+Opening: 1952[237]
+Closing: 1971[238]
 
-Roman Catholic Opening: 1952237 Closing: 1971238
-
-**Saskatchewan**
+#### Saskatchewan
 
 **Balcarres**
-
 File Hills
- Presbyterian, later United Church Opening: 1889239
- Closing: 1949240
+Presbyterian, later United Church
+Opening: 1889[239]
+Closing: 1949[240]
 
 **Battleford**
-
-Battleford Anglican Opening: 1883241 Closing: 1914242
+Battleford
+Anglican
+Opening: 1883[241]
+Closing: 1914[242]
 
 **Beauval**
-
-Beauval, Lac la Plonge, Île-à-la-Crosse Roman Catholic
- Opening: 1860243
- Closing: 1995244
+Beauval, Lac la Plonge, Île-à-la-Crosse
+Roman Catholic
+Opening: 1860[243]
+Closing: 1995[244]
 
 **Delmas**
-
-Thunderchild, Delmas, St. Henri Roman Catholic
- Opening: 1901245
- Closing: 1948246
+Thunderchild, Delmas, St. Henri
+Roman Catholic
+Opening: 1901[245]
+Closing: 1948[246]
 
 **Duck Lake**
-
-St. Michael’s, Duck Lake Roman Catholic Opening: 1894247 Closing: 1996248
+St. Michael’s, Duck Lake
+Roman Catholic
+Opening: 1894[247]
+Closing: 1996[248]
 
 **Gordon’s Reserve, Punnichy**
-
-Gordon’s, Punnichy Anglican
- Opening: 1888249 Closing: 1996250
+Gordon’s, Punnichy
+Anglican
+Opening: 1888[249]
+Closing: 1996[250]
 
 **Grayson**
-
-Marieval, Cowessess, Crooked Lake Roman Catholic
- Opening: 1898251
- Closing: 1997252
-
-**Kamsack**
-
-Cote Improved Federal Day School United Church
- Opening: 1928253
- Closing: 1940254
+Marieval, Cowessess, Crooked Lake
+Roman Catholic
+Opening: 1898[251]
+Closing: 1997[252]
 
 **Kamsack**
 
-Crowstand Presbyterian Opening: 1889255 Closing: 1915256
+Cote Improved Federal Day School
+United Church
+Opening: 1928[253]
+Closing: 1940[254]
+
+**Kamsack**
+Crowstand
+Presbyterian
+Opening: 1889[255]
+Closing: 1915[256]
 
 **Kamsack/Fort Pelly**
-
-Kamsack, St. Phillips Roman Catholic Opening: 1928257 Closing: 1969258
+Kamsack, St. Phillips
+Roman Catholic
+Opening: 1928[257]
+Closing: 1969[258]
 
 **Lac La Ronge**
-
-All Saints School, Lac La Ronge Anglican
- Opening: 1906259
- Closing: 1947260
+All Saints School, Lac La Ronge
+Anglican
+Opening: 1906[259]
+Closing: 1947[260]
 
 **Lebret/Qu’Appelle**
-
-Lebret, Qu’Appelle, St. Paul’s, Whitecalf Roman Catholic
- Opening: 1884261
- Closing: 1998262
+Lebret, Qu’Appelle, St. Paul’s, Whitecalf
+Roman Catholic
+Opening: 1884[261]
+Closing: 1998[262]
 
 **Muscowequan**
-
 Lestock, Muscowequan, Muskowekwan, Touchwood
-
-Roman Catholic Opening: 1889263 Closing: 1997264
-
-**Onion Lake**
-
-St. Barnabas, Onion Lake Anglican
- Opening: 1893265
- Closing: 1943266
+Roman Catholic
+Opening: 1889[263]
+Closing: 1997[264]
 
 **Onion Lake**
+St. Barnabas, Onion Lake
+Anglican
+Opening: 1893[265]
+Closing: 1943[266]
 
-St. Anthony’s, Onion Lake, Sacred Heart Roman Catholic
- Opening: 1892267
- Closing: 1974268
+**Onion Lake**
+St. Anthony’s, Onion Lake, Sacred Heart
+Roman Catholic
+Opening: 1892[267]
+Closing: 1974[268]
 
 **Prince Albert**
-
 Prince Albert, St. Alban’s, All Saints, St. Barnabas, Lac La Ronge
-
-Anglican Opening: 1951269 Closing: 1997270
+Anglican
+Opening: 1951[269]
+Closing: 1997[270]
 
 **Prince Albert**
-
-Saint Alban’s Anglican Opening: 1944271 Closing: 1951272
+Saint Alban’s
+Anglican
+Opening: 1944[271]
+Closing: 1951[272]
 
 **Regina**
-
-Regina Presbyterian Opening: 1891273 Closing: 1910274
+Regina
+Presbyterian
+Opening: 1891[273]
+Closing: 1910[274]
 
 **Round Lake**
-
 Round Lake
- Presbyterian, later United Church Opening: 1884275
- Closing: 1950276
+Presbyterian, later United Church
+Opening: 1884[275]
+Closing: 1950[276]
 
 **Sturgeon Landing**
+Sturgeon Landing
+Roman Catholic
+Opening: 1927[277]
+Closing: 1952[278]
 
-Sturgeon Landing Roman Catholic Opening: 1927277 Closing: 1952278
-
-**Yukon**
+#### Yukon
 
 **Carcross**
 
-Carcross IRS (Chooulta) Anglican
- Opening: 1903279 Closing: 1969280
+Carcross IRS (Chooulta)
+Anglican
+Opening: 1903[279]
+Closing: 1969[280]
 
 **Dawson City**
-
-St. Paul’s Hostel Anglican Opening: 1920281 Closing: 1953282
+St. Paul’s Hostel
+Anglican
+Opening: 1920[281]
+Closing: 1953[282]
 
 **Shingle Point**
-
-Shingle Point Anglican Opening: 1929283 Closing: 1936284
-
-**Whitehorse**
-
-Coudert Hall Roman Catholic Opening: 1960285 Closing: 1971286
+Shingle Point
+Anglican Opening: 1929[283]
+Closing: 1936[284]
 
 **Whitehorse**
+Coudert Hall
+Roman Catholic
+Opening: 1960[285]
+Closing: 1971[286]
 
+**Whitehorse**
 Whitehorse Baptist Mission (Baptist Indian School)
-
-Baptist Opening: 1947287 Closing: 1959288
+Baptist
+Opening: 1947[287]
+Closing: 1959[288]
 
 **Whitehorse**
+Yukon Hall
+Non-denominational/Protestant
+Opening: 1960[289]
+Closing: 1985[290]
 
-Yukon Hall Non-denominational/Protestant Opening: 1960289
- Closing: 1985290
+### Appendix 2.2: Residential schools identified in Indian Affairs annual reports that were not included in the Indian Residential Schools Settlement Agreement.
 
-Appendix 2 • 361
-
-362 • Truth & Reconciliation Commission
-
-Appendix 2.[2].
-
-Residential schools identified in Indian Affairs annual reports that were not included in the Indian Residential Schools Settlement Agreement.
-
-**Alberta**
+#### Alberta
 
 **Calgary**
-
-St. Dunstan Anglican Opening: 1896 Closing: 1907
+St. Dunstan
+Anglican
+Opening: 1896
+Closing: 1907
 
 **Morley**
-
-McDougall Orphanage Methodist
- Opening: 1886 Closing: 1908
+McDougall Orphanage
+Methodist
+Opening: 1886
+Closing: 1908
 
 **Stony Plains**
-
-Stony Plains Presbyterian Opening: 1892 Closing: 1894
+Stony Plains
+Presbyterian
+Opening: 1892
+Closing: 1894
 
 **Vermilion Lake**
+Irene Training Institute at Vermilion Lake
+Anglican
+Opening: 1885
+Closing: 1894
 
-Irene Training Institute at Vermilion Lake Anglican
- Opening: 1885
- Closing: 1894
-
-**British Columbia**
+#### British Columbia
 
 **Fort St. James**
-
-Fort St. James (Stuart Lake) Roman Catholic
- Opening: 1917
- Closing: 1922
+Fort St. James (Stuart Lake)
+Roman Catholic
+Opening: 1917
+Closing: 1922
 
 **Metlakatla**
-
-Metlakatla Anglican Opening: 1872 Closing: 1908
+Metlakatla
+Anglican
+Opening: 1872
+Closing: 1908
 
 **Yale**
+All Hallows School
+Anglican
+Opening: 1884
+Closing: 1918
 
-All Hallows School Anglican
- Opening: 1884 Closing: 1918
-
-**Manitoba**
+#### Manitoba
 
 **Middlechurch**
-
-St. Paul’s, Middlechurch (Rupert’s Land) Anglican
- Opening: 1890
- Closing: 1906
+St. Paul’s, Middlechurch (Rupert’s Land)
+Anglican
+Opening: 1890
+Closing: 1906
 
 **St. Boniface**
-
-St. Boniface Roman Catholic Opening: 1890 Closing: 1905
+St. Boniface
+Roman Catholic
+Opening: 1890
+Closing: 1905
 
 **Water Hen**
+Water Hen
+Roman Catholic
+Opening: 1890
+Closing: 1900
 
-Water Hen Roman Catholic Opening: 1890 Closing: 1900
-
-**Ontario**
+#### Ontario
 
 **Wikwemikong**
+Wikwemikong (Manitoulin Island)
+Roman Catholic
+Opening: 1868
+Closing: 1911
 
-Wikwemikong (Manitoulin Island) Roman Catholic
- Opening: 1868
- Closing: 1911
-
-**Saskatchewan**
+#### Saskatchewan
 
 **Muscowpetung**
-
-Muscowpetung Agency Boarding School Presbyterian
- Opening: 1888
- Closing: 1894
+Muscowpetung Agency Boarding School
+Presbyterian
+Opening: 1888
+Closing: 1894
 
 **Muskeg Lake**
-
-Roman Catholic Opening: 1892 Closing: 1892
+Roman Catholic
+Opening: 1892
+Closing: 1892
 
 **Prince Albert**
-
-Emmanuel College Anglican
- Opening: 1879 Closing: 1909
+Emmanuel College
+Anglican
+Opening: 1879
+Closing: 1909
 
 **Standing Buffalo**
+Standing Buffalo
+Presbyterian
+Opening: 1889
+Closing: 1893
 
-Standing Buffalo Presbyterian Opening: 1889 Closing: 1893
-
-**Northwest Territories**
+#### Northwest Territories
 
 **Fort Resolution**
+Fort Resolution
+Anglican
+Opening: 1891
+Closing: 1892
 
-Fort Resolution Anglican Opening: 1891 Closing: 1892
-
-Appendix 2 • 363
-
-Appendix 3
-
-Persons Found Guilty of Abusing Residential School Students
+## Appendix 3: Persons Found Guilty of Abusing Residential School Students
 
 The following list of individuals convicted of abusing residential school students was compiled by the Truth and Reconciliation Commission of Canada through a review of documents provided by parties to the Settlement Agreement, government archives, and court records, and searches of online legal and non-legal databases. There are a number of limitations to this list. Because document production has been an ongoing process throughout the operation of the Commission, it has not been possible to review all documents provided to the Commission. The Commission has not had the time or resources to review the various court and police records for information on prosecutions and convictions relating to the abuse of students.
 
-| **School**  | **Offender** | **Conviction** | **Sentence** |
-| ----------- | ------------ | -------------- | ------------ |
-| **Alberta** |              |                |              |
+[insert html table here]
 
-Edmonton
-
-Morley
-
-Alert Bay
-
-Kamloops and Mission
-
-James Ludford
-
-Robert G. Pooley
-
-Harry Joseph
-
-Gerald Moran
-
-gross indecency (1960)
-
-indecent assault (1963)
-
-indecent assault (1970)
-
-12 counts sexual abuse (2004)
-
-1 year’s suspended sentence; report to provincial mental hospital and not participate in activities with individuals under age 211
-
-1 year’s suspended sentence, to be served at a provincial mental institute2
-
-suspended sentence3
-
-3 years’ incarceration4
-
-| **British Columbia** |      |      |      |
-| -------------------- | ---- | ---- | ---- |
-|                      |      |      |      |
-
-366 • Truth & Reconciliation Commission
-
-| **School** | **Offender** | **Conviction** | **Sentence** |
-| ---------- | ------------ | -------------- | ------------ |
-|            |              |                |              |
-
-Kuper Island and Williams Lake
-
-Lower Post, BC, and Grollier Hall, NWT
-
-Glenn Doughty
-
-George Maczynski
-
-4 counts gross indecency, Williams Lake (1991)
-
-6 counts, including indecent assault and gross indecency, Kuper Island (1995)
-
-36 counts (sex related), Williams Lake and Kuper Island (2000)
-
-sexual assault (molesting boys), Lower Post (1973)
-
-11 counts indecent assault, 6 counts buggery, 1 count attempted buggery, 9 counts gross indecency, and 1 count attempted gross indecency, Lower Post (1995)
-
-5 counts, including indecent assault, gross indecency, and buggery, Grollier Hall (1997)
-
-8 counts buggery and 6 counts indecent assault (1988)11
-
-4 additional counts (1996)
-
-4 counts indecent assault (2004)
-
-18 counts indecent assault (1995)
-
-17 counts (1997)
-
-1 year’s incarceration5
-
-4 additional months’ incarceration6
-
-3 additional years’ incarceration7
-
-2 years’ incarceration (served 10 months)8
-
-16 years’ incarceration9
-
-4 years’ incarceration, to be served consecutively after completion of 16-year sentence (for the 1995 conviction)10
-
-12 years’ incarceration12
-
-2 additional years’ incarceration13
-
-23 months’ incarceration14
-
-11 years’ incarceration15
-
-11 years’ incarceration, concurrent with above-noted sentence16
-
-Lytton
-
-Port Alberni
-
-Port Alberni
-
-Derek Clarke
-
-Bruce Donald Haddock
-
-Arthur Plint
-
-Appendix 3 • 367
-
-| **School** | **Offender** | **Conviction** | **Sentence** |
-| ---------- | ------------ | -------------- | ------------ |
-|            |              |                |              |
-
-Williams Lake
-
-Dauphin McKay
-
-Flewming Hall
-
-Fleming Hall
-
-Grollier Hall
-
-Grollier Hall
-
-Grollier Hall, NWT, and Beauval, SK
-
-Harold McIntee
-
-Ernest Constant
-
-William Hamilton
-
-Donald Perdue
-
-Joseph Louis Comeau
-
-Martin Houston
-
-Paul Leroux
-
-17 counts sexual assault (13 related to Williams Lake) (1989)
-
-1 count indecent assault (2005)
-
-sexual assault (1964)
-
-contributing to the delinquency of juveniles (1964)20
-
-2 counts indecent assault (1998)
-
-buggery, gross sexual indecency (1962)
- 1 count sodomy and 2 counts indecent assault (2004)
-
-1 count sexual assault (1979)
-
-1 count attempted buggery, 1 count attempted indecent assault, 3 counts indecent assault, 4 counts gross indecency, Grollier Hall (1998)
-
-10 counts indecent assault, Beauval, SK (2013)
-
-assault (1998)27
-
-1 count indecent assault (1997)
-
-1 count indecent assault (1997)
-
-2 years’ incarceration on each count concurrently, with 3 years’ probation to follow; ordered to meet families of his victims and hear their stories face-to-face17
-
-2 years less a day, conditional sentence18
-
-3 years’ incarceration19
-
-unknown
-
-1 year’s incarceration on each count, to be served concurrently21
-
-indefinite sentence; declared a dangerous sex offender (spent 10 years in jail)22
- 3 years’ probation23
-
-4 months’ incarceration24 (later received a pardon and conviction was removed from criminal record)
-
-10 years’ incarceration (paroled after serving less than 4 years of his sentence)25
-
-3 years’ incarceration26
-
-unknown
-
-unknown28
-
-8 months’ incarceration29
-
-| **Manitoba** |      |      |      |
-| ------------ | ---- | ---- | ---- |
-|              |      |      |      |
-
-| **Northwest Territories** |      |      |      |
-| ------------------------- | ---- | ---- | ---- |
-|                           |      |      |      |
-
-| **Ontario** |      |      |      |
-| ----------- | ---- | ---- | ---- |
-|             |      |      |      |
-
-Fort Albany
-
-Jane Belanger
-
-Marcel Blais
-
-Claude Lambert
-
-| Fort Albany |
-| ----------- |
-| Fort Albany |
-
-368 • Truth & Reconciliation Commission
-
-**School**
-
-Fort Albany
-
-Fort Albany
-
-**Offender**
-
-**Conviction**
-
-**Sentence**
-
-Sioux Lookout
-
-Gordon’s
-
-Gordon’s
-
-Gordon’s
-
-Gordon’s Gordon’s Gordon’s
-
-Kamsack
-
-Prince Albert
-
-Coudert Hall
-
-John Rodrique
-
-Anna Wesley
-
-Leonard Hands
-
-[No first name given] Courtney
-
-Henry Cyr
-
-Ewald Holfeld35
-
-William McNab
-
-Kenneth McNabb
-
-William Penniston Starr
-
-R. Jubinville
-
-George Zimmerman
-
-Claude Frappier
-
-5 counts indecent assault (1997)
-
-3 counts administering a noxious substance and 2 counts simple assault (1999)
-
-19 counts indecent assault (1996)
-
-unknown
-
-touching a person under the age of 14 for sexual purposes and setting traps to cause bodily harm (1989)
-
-common assault (1945)
-
-2 counts buggery and 1 count attempted buggery (1945)
-
-1 count sodomy (1947)
-
-unknown (c. 1955)
-
-10 counts sexual assault (1993)
-
-3 counts assault causing bodily harm (1994)
-
-9 counts indecent assault, 1 count attempted sexual intercourse, and 1 count sexual intercourse (1995)
-
-13 counts indecent assault (1990)
-
-18 months’ incarceration30
-
-conditional sentence31
-
-4 years’ incarceration32
-
-incarcerated33
-
-$300 fine on both counts34
-
-$20 fine plus costs36
-
-2 years’ incarceration on each count, to be served concurrently37
-
-6 months’ incarceration38
-
-fined39
-
-4.[5] years’ incarceration40
-
-fined $300 on each count41
-
-5 years’ incarceration42
-
-5 years’ incarceration43
-
-| **Saskatchewan** |      |      |      |
-| ---------------- | ---- | ---- | ---- |
-|                  |      |      |      |
-
-| **Yukon** |      |      |      |
-| --------- | ---- | ---- | ---- |
-|           |      |      |      |
-
-Appendix 4 Apologies
+## Appendix 4: Apologies
 
 This Appendix includes the full texts of apologies and statements concerning residential schools made by parties to the Indian Residential Schools Settlement Agreement, and by others who played direct roles in the residential school system.
 
-Apologies in the House of Commons, 2008
+### Apologies in the House of Commons, 2008
 
 In addition to the Government of Canada’s June 11, 2008 apology, the Commission has included the statements made by the leaders of other elected members of Parliament with respect to residential schools in the House of Commons on June 11, 2008.
 
-Statement of Apology – to former students of Indian Residential Schools on behalf of the Government of Canada by The Right Honourable Stephen Harper, Prime Minister of Canada
+#### Statement of Apology – to former students of Indian Residential Schools on behalf of the Government of Canada by The Right Honourable Stephen Harper, Prime Minister of Canada
 
 June 11, 2008
 
 The treatment of children in Indian Residential Schools is a sad chapter in our history.
 
-For more than a century, Indian Residential Schools separated over 150,000 Aboriginal children from their families and communities. In the 1870s, the federal government, partly in order to meet its obligation to educate Aboriginal children, began to play a role in the development and administration of these schools. Two primary objectives of the Residential Schools system were to remove and isolate children from the influence of their homes, families, traditions and cultures, and to assimilate them into the dominant culture. These objectives were based on the assumption Aboriginal cultures and spiritual beliefs were inferior and unequal. Indeed, some sought, as it was infamously said, “to kill the Indian in the child.” Today, we recognize
-
-370 • Truth & Reconciliation Commission
-
-that this policy of assimilation was wrong, has caused great harm, and has no place in our country.
+For more than a century, Indian Residential Schools separated over 150,000 Aboriginal children from their families and communities. In the 1870s, the federal government, partly in order to meet its obligation to educate Aboriginal children, began to play a role in the development and administration of these schools. Two primary objectives of the Residential Schools system were to remove and isolate children from the influence of their homes, families, traditions and cultures, and to assimilate them into the dominant culture. These objectives were based on the assumption Aboriginal cultures and spiritual beliefs were inferior and unequal. Indeed, some sought, as it was infamously said, “to kill the Indian in the child.” Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country.
 
 One hundred and thirty-two federally-supported schools were located in every province and territory, except Newfoundland, New Brunswick and Prince Edward Island. Most schools were operated as “joint ventures” with Anglican, Catholic, Presbyterian or United Churches. The Government of Canada built an educational system in which very young children were often forcibly removed from their homes, often taken far from their communities. Many were inadequately fed, clothed and housed. All were deprived of the care and nurturing of their parents, grandparents and communities.
 
@@ -1559,9 +1282,7 @@ It has taken extraordinary courage for the thousands of survivors that have come
 
 The government recognizes that the absence of an apology has been an impediment to healing and reconciliation. Therefore, on behalf of the Government of Canada and all Canadians, I stand before you, in this Chamber so central to our life as a country, to apologize to Aboriginal peoples for Canada’s role in the Indian Residential Schools system.
 
-To the approximately 80,000 living former students, and all family members and communities, the Government of Canada now recognizes that it was wrong to forcibly remove children from their homes and we apologize for having done this. We now recognize that it was wrong to separate children from rich and vibrant cultures and traditions, that it created a void in many lives and communities, and we apologize for having done this. We now recognize that, in separating children from their families, we undermined the ability of many to adequately parent their own children and sowed the seeds for generations to follow, and we apologize for having done this. We
-
-now recognize that, far too often, these institutions gave rise to abuse or neglect and were inadequately controlled, and we apologize for failing to protect you. Not only did you suffer these abuses as children, but as you became parents, you were powerless to protect your own children from suffering the same experience, and for this we are sorry.
+To the approximately 80,000 living former students, and all family members and communities, the Government of Canada now recognizes that it was wrong to forcibly remove children from their homes and we apologize for having done this. We now recognize that it was wrong to separate children from rich and vibrant cultures and traditions, that it created a void in many lives and communities, and we apologize for having done this. We now recognize that, in separating children from their families, we undermined the ability of many to adequately parent their own children and sowed the seeds for generations to follow, and we apologize for having done this. We now recognize that, far too often, these institutions gave rise to abuse or neglect and were inadequately controlled, and we apologize for failing to protect you. Not only did you suffer these abuses as children, but as you became parents, you were powerless to protect your own children from suffering the same experience, and for this we are sorry.
 
 The burden of this experience has been on your shoulders for far too long. The burden is properly ours as a Government, and as a country. There is no place in Canada for the attitudes that inspired the Indian Residential Schools system to ever again prevail. You have been working on recovering from this experience for a long time and in a very real sense, we are now joining you on this journey.
 
@@ -1571,18 +1292,14 @@ In moving towards healing, reconciliation and resolution of the sad legacy of In
 
 God bless all of you. God bless our land.
 
-Statement by The Honourable Stéphane Dion, M.P.
+#### Statement by The Honourable Stéphane Dion, M.P.
 
 Leader of the Opposition
- House of Commons, June 11, 2008
+House of Commons, June 11, 2008
 
 Mr. Speaker, today, Canada comes face to face with some of the darkest chapters of its history.
 
 Forced assimilation of Aboriginal peoples was carried out through the residential school system, a system, sadly, older than Confederation itself: schools aimed at “killing the Indian in the child” and eradicating Aboriginal identity; schools built on the removal of children from their families and communities; schools designed to rip out of children their Aboriginal identity, culture, beliefs and language. It was a dehumanizing system that resulted in the worst kinds of abuse.
-
-Appendix 4 • 371
-
-372 • Truth & Reconciliation Commission
 
 Government policy destroyed the fabric of family in First Nations, Métis and Inuit communities. Parents and children were made to feel worthless. Parents and grandparents were given no choice. Their children were stolen from them. And only today are we starting to measure the devastating costs of these terrible policies.
 
@@ -1600,9 +1317,7 @@ Successive Canadian governments and various churches were complicit in the menta
 
 I am sorry that Canada attempted to eradicate your identity and culture by taking you away from your families when you were children and by building a system to punish you for who you were. To First Nations, Inuit and Métis, mothers and fathers, I am so very sorry we took away your children. I am sorry we did not value you as parents. I am sorry we did not trust and respect you.
 
-Today’s apology is about a past that should have been completely different. But it must be also about the future. It must be about collective reconciliation and
-
-fundamental changes. It must be about moving forward together, Aboriginal and non-Aboriginal, into a future based on respect. It is about trying to find in each of us some of the immense courage that we see in the eyes of those who have survived. It is about being inspired by the determination of survivors like National Chief Phil Fontaine and Willie Blackwater who had the courage to speak out and pursue justice. It is about building on the work of former First Nations member of Parliament Gary Merasty, whose motion calling on the government to apologize to survivors of residential schools was unanimously adopted by members of Parliament on May 1, 2007.
+Today’s apology is about a past that should have been completely different. But it must be also about the future. It must be about collective reconciliation and fundamental changes. It must be about moving forward together, Aboriginal and non-Aboriginal, into a future based on respect. It is about trying to find in each of us some of the immense courage that we see in the eyes of those who have survived. It is about being inspired by the determination of survivors like National Chief Phil Fontaine and Willie Blackwater who had the courage to speak out and pursue justice. It is about building on the work of former First Nations member of Parliament Gary Merasty, whose motion calling on the government to apologize to survivors of residential schools was unanimously adopted by members of Parliament on May 1, 2007.
 
 If we are to succeed, we need to be firmly committed to the work of the Truth and Reconciliation Commission, chaired by Justice Harry LaForme, which is responsible for investigating all aspects of the residential school system in Canada.
 
@@ -1616,25 +1331,20 @@ I say this as I think of the survivors I met last night. One woman remembers cle
 
 Another survivor, Marion Ironquill-Meadmore, talked about the ten years she spent in a church-run institution. The first lesson she was taught was that her parents were not worthy. After ten years, she left the school feeling lost in both the Aboriginal and non-Aboriginal worlds, ill-equipped to return to the traditional lifestyle of her community, and yet never feeling at home elsewhere.
 
-Reconciliation will require a commitment from Canadian society for action. This means ensuring that all Aboriginal Canadians, First Nations, Inuit and Métis alike, share in the bounty and opportunity of this country. This means ensuring that we hear the voices of First Nations, Métis and Inuit people in their own languages, and
-
-Appendix 4 • 373
-
-374 • Truth & Reconciliation Commission
-
-that these Aboriginal voices and languages continue to enrich the cultural heritage of the world.
+Reconciliation will require a commitment from Canadian society for action. This means ensuring that all Aboriginal Canadians, First Nations, Inuit and Métis alike, share in the bounty and opportunity of this country. This means ensuring that we hear the voices of First Nations, Métis and Inuit people in their own languages, and that these Aboriginal voices and languages continue to enrich the cultural heritage of the world.
 
 We cannot be intimidated by the scale of the challenge or discouraged by the failures of the past. We owe it to all our children to pass along an even better country than we inherited from our parents and we will not do so as long as Aboriginal peoples continue to be left behind.
 
-Four years after the conclusion of the five year Truth and Reconciliation Commission of Canada, Canada will mark the one hundred and fiftieth anniversary of Confederation. On that anniversary, it is my sincere hope that Aboriginal and non-Aboriginal peoples in this country will fulfill the dream voiced in the very building sixty years ago by decorated Aboriginal veteran Thomas Prince, a dream of First Nations, Inuit and Métis people and non-Aboriginal Canadians forging a new and lasting relationship. He said in his own words, “so that they can trust each other and . . . can walk side by side and face this world having faith and confidence in one another.”
+Four years after the conclusion of the five year Truth and Reconciliation Commission of Canada, Canada will mark the one hundred and fiftieth anniversary of Confederation. On that anniversary, it is my sincere hope that Aboriginal and non-Aboriginal peoples in this country will fulfill the dream voiced in the very building sixty years ago by decorated Aboriginal veteran Thomas Prince, a dream of First Nations, Inuit and Métis people and non-Aboriginal Canadians forging a new and lasting relationship. He said in his own words, “so that they can trust each other and…can walk side by side and face this world having faith and confidence in one another.”
 
 Until that day, we humbly offer our apology as the first step on the path to reconciliation and healing.
 
 Merci. Thank you. Meegwetch. Ekosi. Nakurmiik.
 
-Statement by The Honourable Gilles Duceppe, M.P.
+#### Statement by The Honourable Gilles Duceppe, M.P.
 
-Leader of the Bloc Québécois House of Commons, June 11, 2008
+Leader of the Bloc Québécois
+House of Commons, June 11, 2008
 
 Mr. Speaker, I am very pleased to be here to witness—at last—the Canadian government’s apology to the First Nations, Métis and Inuit people who were victims of federally funded residential schools.
 
@@ -1660,29 +1370,23 @@ Here is another example: the Assembly of First Nations of Quebec and Labrador ha
 
 If the Prime Minister’s apology is sincere, let him take real action. We will support him.
 
-Finally, there is this disgrace: the government’s refusal to endorse the United Nations Declaration on the Rights of Indigenous Peoples. I am very proud that the Bloc Québécois has given clear support to this draft declaration. By agreeing to endorse the declaration, the Prime Minister can send a clear message to Aboriginal peoples that
-
-Appendix 4 • 375
-
-376 • Truth & Reconciliation Commission
-
-he has learned from past mistakes and is making a solemn promise to the victims that their children and grandchildren will have respect and dignity.
+Finally, there is this disgrace: the government’s refusal to endorse the United Nations Declaration on the Rights of Indigenous Peoples. I am very proud that the Bloc Québécois has given clear support to this draft declaration. By agreeing to endorse the declaration, the Prime Minister can send a clear message to Aboriginal peoples that he has learned from past mistakes and is making a solemn promise to the victims that their children and grandchildren will have respect and dignity.
 
 I am speaking to you, the Aboriginal representatives present on the floor of the House and watching from the gallery. All the members of the Bloc Québécois join me in reaching out to you so that, together, we can build a better future for our children and grandchildren. That requires a relationship of mutual respect that can only be forged between nations.
 
 On behalf of the Bloc Québécois, I extend a sincere apology for the past, and I invite us to build the future together, as nations.
 
-Statement by The Honourable Jack Layton, M.P.
+#### Statement by The Honourable Jack Layton, M.P.
 
-Leader of the New Democratic Party House of Commons, June 11, 2008
+Leader of the New Democratic Party
+House of Commons, June 11, 2008
 
 Mr. Speaker, today, I rise in this House to add the voice of the New Democratic Party to the profound apology being offered humbly to First Nations, Métis and Inuit on behalf of the Canadian people.
 
 I wish to acknowledge and honour the Elders who are with us here today and are participating in this ceremony, the length and breadth of this land at this very moment. I wish to pay tribute to the First Nations, Métis and Inuit leaders who are here with us and to all of those who are guiding their communities through this difficult, emo
 tional, momentous and hope-filled day.
- I wish to recognize the children, here in this chamber today and watching at home
 
-in gatherings across the land, who also bear witness to the legacy of the residential schools.
+I wish to recognize the children, here in this chamber today and watching at home in gatherings across the land, who also bear witness to the legacy of the residential schools.
 
 Most importantly, I want to say to the survivors of the residential schools, some of whom have joined us here today, we are sorry for what has taken place.
 
@@ -1706,13 +1410,7 @@ However, reconciliation must be built through positive steps that show respect a
 
 What is needed is a commitment to never again allow such a travesty of justice and transgression against equality to occur. It begins with officially recognizing the rights and cultures of First Nations, Métis and Inuit peoples by signing the UN Declaration on the Rights of Indigenous Peoples.
 
-But reconciliation also means that, as a Parliament and as a country, we must take action to address the terrible inequality faced by First Nations, Métis and Inuit
-
-Appendix 4 • 377
-
-378 • Truth & Reconciliation Commission
-
-communities. We can start by restoring the nation-to-nation relationship between the Government of Canada and First Nations, Métis and the Inuit. Even as we speak here today, thousands of Aboriginal children are without proper schools or clean water, adequate food, their own bed, good health care, safety, comfort, land and rights.
+But reconciliation also means that, as a Parliament and as a country, we must take action to address the terrible inequality faced by First Nations, Métis and Inuit communities. We can start by restoring the nation-to-nation relationship between the Government of Canada and First Nations, Métis and the Inuit. Even as we speak here today, thousands of Aboriginal children are without proper schools or clean water, adequate food, their own bed, good health care, safety, comfort, land and rights.
 
 We can no longer throw up our hands and say, “There’s nothing we can do.” Taking responsibility and working toward reconciliation means saying, “We must act together to resolve this.”
 
@@ -1722,15 +1420,16 @@ We must make a serious, collective commitment. All of us together—First Nation
 
 Meegwetch. Ekosi. Nakurmiik.
 
-Church Apologies, 1986–2015
+### Church Apologies, 1986–2015
 
-In this section the Commission includes the institutional apologies from the church parties to the IRSSA. Of the several Roman Catholic statements, including a number from bishops and groups of bishops, the Commission chose to include those of the Catholic religious orders whose members worked in the schools. Schools run by the Mennonite or Anabaptist community of churches were added to the Settlement Agreement after it came into force. A statement by Anabaptist church leaders therefore is also included.
+In this section the Commission includes the institutional apologies from the church parties to the [abbr]IRSSA. Of the several Roman Catholic statements, including a number from bishops and groups of bishops, the Commission chose to include those of the Catholic religious orders whose members worked in the schools. Schools run by the Mennonite or Anabaptist community of churches were added to the Settlement Agreement after it came into force. A statement by Anabaptist church leaders therefore is also included.
 
-Apologies made on behalf of The United Church of Canada
+#### Apologies made on behalf of The United Church of Canada
 
-Apology to First Nations Peoples
+##### Apology to First Nations Peoples
 
-The Right Reverend Robert Smith, Moderator The United Church of Canada, 1986
+The Right Reverend Robert Smith, Moderator
+The United Church of Canada, 1986
 
 Long before my people journeyed to this land your people were here, and you received from your Elders an understanding of creation and of the Mystery that surrounds us all that was deep, and rich, and to be treasured.
 
@@ -1744,9 +1443,10 @@ We tried to make you be like us and in so doing we helped to destroy the vision 
 
 We ask you to forgive us and to walk together with us in the Spirit of Christ so that our peoples may be blessed and God’s creation healed.
 
-Apology to Former Students of United Church Indian Residential Schools, and to Their Families and Communities
- The Right Reverend Bill Phipps, Moderator
- The United Church of Canada, 1998
+##### Apology to Former Students of United Church Indian Residential Schools, and to Their Families and Communities
+
+The Right Reverend Bill Phipps, Moderator
+The United Church of Canada, 1998
 
 From the deepest reaches of your memories, you have shared with us your stories of suffering from our church’s involvement in the operation of Indian Residential Schools. You have shared the personal and historic pain that you still bear, and you have been vulnerable yet again. You have also shared with us your strength and wisdom born of the life-giving dignity of your communities and traditions and your stories of survival.
 
@@ -1760,20 +1460,13 @@ In response to our church’s commitment to repentance, I spoke these words of a
 
 Our burdens include dishonouring the depths of the struggles of First Nations peoples and the richness of your gifts. We seek God’s forgiveness and healing grace as we take steps toward building respectful, compassionate, and loving relationships with First Nations peoples.
 
-We are in the midst of a long and painful journey as we reflect on the cries that we did not or would not hear, and how we have behaved as a church. As we travel this
-
-Appendix 4 • 379
-
-380 • Truth & Reconciliation Commission
-
-difficult road of repentance, reconciliation, and healing, we commit ourselves to work toward ensuring that we will never again use our power as a church to hurt others with attitudes of racial and spiritual superiority.
+We are in the midst of a long and painful journey as we reflect on the cries that we did not or would not hear, and how we have behaved as a church. As we travel this difficult road of repentance, reconciliation, and healing, we commit ourselves to work toward ensuring that we will never again use our power as a church to hurt others with attitudes of racial and spiritual superiority.
 
 We pray that you will hear the sincerity of our words today and that you will witness the living out of our apology in our actions in the future.[1]
 
-Apology of the Anglican Church of Canada
+#### Apology of the Anglican Church of Canada
 
-A message from the Primate, Archbishop Michael Peers,
- to the National Native Convocation, Minaki, Ontario, August 6, 1993
+##### A message from the Primate, Archbishop Michael Peers,  to the National Native Convocation, Minaki, Ontario, August 6, 1993
 
 My Brothers and Sisters:
 
@@ -1821,32 +1514,21 @@ But even atomic bombs and Good Friday are not the last word. God raised Jesus fr
 
 Thank you for listening to me.
 
-Statements of The Presbyterian Church in Canada
+#### Statements of The Presbyterian Church in Canada
 
-The Confession of The Presbyterian Church in Canada as adopted by the General Assembly, June 9, 1994
+##### The Confession of The Presbyterian Church in Canada as adopted by the General Assembly, June 9, 1994
 
 The Holy Spirit, speaking in and through Scripture, calls The Presbyterian Church in Canada to confession. This confession is our response to the word of God. We understand our mission and ministry in new ways in part because of the testimony of Aboriginal peoples.
 
-1. 1)  We, the 120th General Assembly of The Presbyterian Church in Canada, seeking the guidance of the Spirit of God, and aware of our own sin and shortcomings, are called to speak to the Church we love. We do this, out of new understandings of our past not out of any sense of being superior to those who have gone before us, nor out of any sense that we would have done things differently in the same context. It is with humility and in great sorrow that we come before God and our Aboriginal brothers and sisters with our confession.
-2. 2)  We acknowledge that the stated policy of the Government of Canada was
-   to assimilate Aboriginal peoples to the dominant culture, and that The Presbyterian Church in Canada co-operated in this policy. We acknowledge
+1. We, the 120th General Assembly of The Presbyterian Church in Canada, seeking the guidance of the Spirit of God, and aware of our own sin and shortcomings, are called to speak to the Church we love. We do this, out of new understandings of our past not out of any sense of being superior to those who have gone before us, nor out of any sense that we would have done things differently in the same context. It is with humility and in great sorrow that we come before God and our Aboriginal brothers and sisters with our confession.
+2. We acknowledge that the stated policy of the Government of Canada wasto assimilate Aboriginal peoples to the dominant culture, and that The Presbyterian Church in Canada co-operated in this policy. We acknowledge that the roots of the harm we have done are found in the attitudes and values of western European colonialism, and the assumption that what was not yet moulded in our image was to be discovered and exploited. As part of that policy we, with other churches, encouraged the government to ban some important spiritual practices through which Aboriginal peoples experienced the presence of the creator God. For the Church’s complicity in this policy we ask forgiveness.
+3. We recognize that there were many members of The Presbyterian Church in Canada who, in good faith, gave unstintingly of themselves in love and compassion for their Aboriginal brothers and sisters. We acknowledge their devotion and commend them for their work. We recognize that there were some who, with prophetic insight, were aware of the damage that was being done and protested, but their efforts were thwarted. We acknowledge their insight. For the times we did not support them adequately nor hear their cries for justice, we ask forgiveness.
+4. We confess that The Presbyterian Church in Canada presumed to know better than Aboriginal peoples what was needed for life. The Church said of our Aboriginal brothers and sisters, “If they could be like us, if they could think like us, talk like us, worship like us, sing like us, and work like us, they would know God and therefore would have life abundant.” In our cultural arrogance we have been blind to the ways in which our own understanding of the Gospel has been culturally conditioned, and because of our insensitivity to Aboriginal cultures, we have demanded more of the Aboriginal people than the Gospel requires, and have thus misrepresented Jesus Christ who loves all peoples with compassionate, suffering love that all may come to God through him. For the Church’s presumption we ask forgiveness.
+5. We confess that, with the encouragement and assistance of the Government of Canada, The Presbyterian Church in Canada agreed to take the children of Aboriginal peoples from their own homes and place them in residential schools. In these schools, children were deprived of their traditional ways, which were replaced with Euro-Canadian customs that were helpful in the process of assimilation. To carry out this process, The Presbyterian Church in Canada used disciplinary practices which were foreign to Aboriginal peoples, and open to exploitation in physical and psychological punishment beyond any Christian maxim of care and discipline. In a setting of obedience and acquiescence there was opportunity for sexual abuse, and some were so abused. The effect of all this, for Aboriginal peoples, was the loss of cultural identity and the loss of a secure sense of self. For the Church’s insensitivity we ask forgiveness.
+6. We regret that there are those whose lives have been deeply scarred by the effects of the mission and ministry of The Presbyterian Church in Canada. For our Church we ask forgiveness of God. It is our prayer that God, who is merciful, will guide us in compassionate ways towards helping them to heal.
+7. We ask, also, for forgiveness from Aboriginal peoples. What we have heard we acknowledge. It is our hope that those whom we have wronged with a hurt too deep for telling will accept what we have to say. With God’s guidance our Church will seek opportunities to walk with Aboriginal peoples to find healing and wholeness together as God’s people.
 
-Appendix 4 • 381
-
-382 • Truth & Reconciliation Commission
-
-that the roots of the harm we have done are found in the attitudes and values of western European colonialism, and the assumption that what was not yet moulded in our image was to be discovered and exploited. As part of that policy we, with other churches, encouraged the government to ban some important spiritual practices through which Aboriginal peoples experienced the presence of the creator God. For the Church’s complicity in this policy we ask forgiveness.
-
-1. 3)  We recognize that there were many members of The Presbyterian Church
-   in Canada who, in good faith, gave unstintingly of themselves in love and compassion for their Aboriginal brothers and sisters. We acknowledge their devotion and commend them for their work. We recognize that there were some who, with prophetic insight, were aware of the damage that was being done and protested, but their efforts were thwarted. We acknowledge their insight. For the times we did not support them adequately nor hear their cries for justice, we ask forgiveness.
-2. 4)  We confess that The Presbyterian Church in Canada presumed to know better than Aboriginal peoples what was needed for life. The Church said of our Aboriginal brothers and sisters, “If they could be like us, if they could think like us, talk like us, worship like us, sing like us, and work like us, they would know God and therefore would have life abundant.” In our cultural arrogance we have been blind to the ways in which our own understanding of the Gospel has been culturally conditioned, and because of our insensitivity to Aboriginal cultures, we have demanded more of the Aboriginal people than the Gospel requires, and have thus misrepresented Jesus Christ who loves all peoples with compassionate, suffering love that all may come to God through him. For the Church’s presumption we ask forgiveness.
-3. 5)  We confess that, with the encouragement and assistance of the Government of Canada, The Presbyterian Church in Canada agreed to take the children
-   of Aboriginal peoples from their own homes and place them in residential schools. In these schools, children were deprived of their traditional ways, which were replaced with Euro-Canadian customs that were helpful in the process of assimilation. To carry out this process, The Presbyterian Church in Canada used disciplinary practices which were foreign to Aboriginal peoples, and open to exploitation in physical and psychological punishment beyond any Christian maxim of care and discipline. In a setting of obedience and acquiescence there was opportunity for sexual abuse, and some were so abused. The effect of all this, for Aboriginal peoples, was the loss of cultural identity and the loss of a secure sense of self. For the Church’s insensitivity we ask forgiveness.
-
-4. 6)  We regret that there are those whose lives have been deeply scarred by the effects of the mission and ministry of The Presbyterian Church in Canada. For our Church we ask forgiveness of God. It is our prayer that God, who is merciful, will guide us in compassionate ways towards helping them to heal.
-5. 7)  We ask, also, for forgiveness from Aboriginal peoples. What we have heard we acknowledge. It is our hope that those whom we have wronged with a hurt too deep for telling will accept what we have to say. With God’s guidance our Church will seek opportunities to walk with Aboriginal peoples to find healing and wholeness together as God’s people.
-
-Statement on Aboriginal Spiritual Practices, The Presbyterian Church in Canada, 2015
+#### Statement on Aboriginal Spiritual Practices, The Presbyterian Church in Canada, 2015
 
 First Nations, Inuit and Métis peoples, before any encounter with Christianity, found meaning, spiritual benefit and the presence of the creator through life-giving Indigenous spiritual practices that have deeply rooted traditions.
 
@@ -1856,21 +1538,15 @@ As part of the churches’ commitment to a journey of truth and reconciliation, 
 
 Some of our congregations have been blessed with experiencing various traditional Aboriginal practices when Aboriginal elders, Aboriginal members of our church and Indigenous people visited our congregations as guests, and graciously shared some of these practices and the traditions that give rise to them.
 
-These practices are received as gifts and serve to enrich our congregations. Ceremonies and traditions such as smudging, the circle/medicine wheel, drum songs
-
-Appendix 4 • 383
-
-384 • Truth & Reconciliation Commission
-
-and drumming, and Indigenous wisdom teachings have been some of the practices our church has experienced as gifts from Aboriginal brothers and sisters. We acknowledge and respect both Aboriginal members of The Presbyterian Church in Canada who wish to bring traditional practices into their congregations and those Aboriginal members who are not comfortable or willing to do so. The church must be a community where all are valued and respected.
+These practices are received as gifts and serve to enrich our congregations. Ceremonies and traditions such as smudging, the circle/medicine wheel, drum songs and drumming, and Indigenous wisdom teachings have been some of the practices our church has experienced as gifts from Aboriginal brothers and sisters. We acknowledge and respect both Aboriginal members of The Presbyterian Church in Canada who wish to bring traditional practices into their congregations and those Aboriginal members who are not comfortable or willing to do so. The church must be a community where all are valued and respected.
 
 It is not for The Presbyterian Church in Canada to validate or invalidate Aboriginal spiritualities and practices. Our church, however, is deeply respectful of these traditions. We acknowledge them as important spiritual practices through which Aboriginal peoples experience the presence of the creator God. In this spirit The Presbyterian Church in Canada is committed to walking with Aboriginal people in seeking shared truth that will lead to restoring right relations.
 
-Statements from Roman Catholic orders of men and women religious who worked in residential schools
+#### Statements from Roman Catholic orders of men and women religious who worked in residential schools
 
-An Apology to the First Nations of Canada by the Oblate Conference of Canada
+##### An Apology to the First Nations of Canada by the Oblate Conference of Canada
 
-Reverend Doug Crosby, Oblates of Mary Immaculate, President of the Oblate Conference of Canada on behalf of the 1200 Missionary Oblates of Mary Immaculate living and ministering in Canada, July 24, 1991.
+[subtitle]Reverend Doug Crosby, Oblates of Mary Immaculate, President of the Oblate Conference of Canada on behalf of the 1200 Missionary Oblates of Mary Immaculate living and ministering in Canada, July 24, 1991.
 
 The Missionary Oblates of Mary Immaculate in Canada wish, after one hundred and fifty years of being with and ministering to the Native people of Canada, to offer an apology for certain aspects of that presence and ministry.
 
@@ -1887,21 +1563,13 @@ can occur. This healing cannot however happen until some very complex, long-stan
 It is in this context, and with a renewed pledge to be in solidarity with Native peoples in a common struggle for justice that we, the Oblates of Canada, offer this apology: We apologize for the part we played in the cultural, ethnic, linguistic, and religious imperialism that was part of the mentality with which the peoples of Europe first met the Aboriginal peoples and which consistently has lurked behind the way the Native peoples of Canada have been treated by civil governments and by the churches. We were, naively, part of this mentality and were, in fact, often a key player in its implementation. We recognize that this mentality has, from the beginning, and ever since, continually threatened the cultural, linguistic, and religious traditions of
 
 the Native peoples.
- We recognize that many of the problems that beset Native communities today—
-
-high unemployment, alcoholism, family breakdown, domestic violence, spiraling suicide rates, lack of healthy self-esteem—are not so much the result of personal failure as they are the result of centuries of systemic imperialism. Any people stripped of its traditions as well as of its pride falls victim to precisely these social ills. For the part that we played, however inadvertent and naïve that participation might have been, in the setting up and maintaining of a system that stripped others of not only their lands but also of their cultural, linguistic, and religious traditions we sincerely apologize.
+ We recognize that many of the problems that beset Native communities today—high unemployment, alcoholism, family breakdown, domestic violence, spiraling suicide rates, lack of healthy self-esteem—are not so much the result of personal failure as they are the result of centuries of systemic imperialism. Any people stripped of its traditions as well as of its pride falls victim to precisely these social ills. For the part that we played, however inadvertent and naïve that participation might have been, in the setting up and maintaining of a system that stripped others of not only their lands but also of their cultural, linguistic, and religious traditions we sincerely apologize.
 
 Beyond this regret for having been part of a system which, because of its historical privilege and assumed superiority did great damage to the Native peoples of Canada, we wish to apologize more specifically for the following:
 
 In sympathy with recent criticisms of Native Residential Schools, we wish to apologize for the part we played in the setting up and the maintaining of those schools. We apologize for the existence of the schools themselves, recognizing that the biggest abuse was not what happened in the schools, but that the schools themselves happened—that the primal bond inherent within families was violated as a matter of policy, that children were usurped from their natural communities, and that, implicitly and explicitly, these schools operated out of the premise that European languages, traditions, and religious practices were superior to Native languages, traditions, and religious practices. The residential schools were an attempt to assimilate Aboriginal peoples and we played an important role in the unfolding of this design. For this we sincerely apologize.
 
-We wish to apologize in a very particular way for the instances of physical and sexual abuse that occurred in those schools. We reiterate that the bigger issue of abuse was the existence of the schools themselves but we wish to publicly acknowledge that there were instances of individual physical and sexual abuse. Far from attempting to defend or rationalize these cases of abuse in any way, we wish to state publicly that we acknowledge that they were inexcusable, intolerable, and a betrayal of trust in one of
-
-Appendix 4 • 385
-
-386 • Truth & Reconciliation Commission
-
-its most serious forms. We deeply, and very specifically, apologize to every victim of such abuse and we seek help in searching for means to bring about healing.
+We wish to apologize in a very particular way for the instances of physical and sexual abuse that occurred in those schools. We reiterate that the bigger issue of abuse was the existence of the schools themselves but we wish to publicly acknowledge that there were instances of individual physical and sexual abuse. Far from attempting to defend or rationalize these cases of abuse in any way, we wish to state publicly that we acknowledge that they were inexcusable, intolerable, and a betrayal of trust in one of its most serious forms. We deeply, and very specifically, apologize to every victim of such abuse and we seek help in searching for means to bring about healing.
 
 Finally, we wish to apologize as well for our past dismissal of many of the riches of Native religious tradition. We broke some of your peace pipes and we considered some of your sacred practices as pagan and superstitious. This, too, had its origins in the colonial mentality, our European superiority complex which was grounded in a particular view of history. We apologize for this blindness and disrespect.
 
@@ -1909,17 +1577,13 @@ One qualification is, however, in order. As we publicly acknowledge a certain bl
 
 Hindsight makes for 20-20 vision and judging the past from the insights of the present is an exact and often cruel science. When Christopher Columbus set sail for the Americas, with the blessing of the Christian Church, Western civilization lacked the insights it needed to appreciate what Columbus met upon the shores of America. The cultural, linguistic, and ethical traditions of Europe were caught up in the naïve belief that they were inherently superior to those found in other parts of the world. Without excusing this superiority complex, it is necessary to name it. Sincerity alone does not set people above their place in history. Thousands of persons operated out of this mentality and gave their lives in dedication to an ideal that, while sincere in its intent, was, at one point, naively linked to a certain cultural, religious, linguistic, and ethnic superiority complex. These men and women sincerely believed that their vocations and actions were serving both God and the best interests of the Native peoples to whom they were ministering. History has, partially, rendered a cruel judgment on their efforts, showing how, despite much sincerity and genuine dedication, their actions were sometimes naïve and disrespectful in that they violated the sacred and cherished traditions of others. Hence, even as we apologize for some of the effects of their actions, we want at the same time to affirm their sincerity, the goodness of their intent, and the goodness, in many cases, of their actions.
 
-Recognizing that within every sincere apology there is implicit the promise of conversion to a new way of acting, we, the Oblates of Canada, wish to pledge ourselves to a renewed relationship with Native peoples which, while very much in line with the sincerity and intent of our past relationship, seeks to move beyond past mistakes to a new level of respect and mutuality. Hence . . .
+Recognizing that within every sincere apology there is implicit the promise of conversion to a new way of acting, we, the Oblates of Canada, wish to pledge ourselves to a renewed relationship with Native peoples which, while very much in line with the sincerity and intent of our past relationship, seeks to move beyond past mistakes to a new level of respect and mutuality. Hence…
 
-We renew the commitment we made 150 years ago to work with and for Native peoples. In the spirit of our founder, Blessed Eugene De Mazenod, and the many dedicated missionaries who have served in Native communities during these 150 years, we
-
-again pledge to Native peoples our service. We ask help in more judiciously discerning what forms that service might take today.
+We renew the commitment we made 150 years ago to work with and for Native peoples. In the spirit of our founder, Blessed Eugene De Mazenod, and the many dedicated missionaries who have served in Native communities during these 150 years, we again pledge to Native peoples our service. We ask help in more judiciously discerning what forms that service might take today.
 
 More specifically, we pledge ourselves to the following:
 
-- We want to support an effective process of disclosure vis-à-vis Residential
-
-  Schools. We offer to collaborate in any way we can so that the full story of the Indian Residential Schools may be written, that their positive and negative features may be recognized, and that an effective healing process might take place.
+- We want to support an effective process of disclosure vis-à-vis Residential Schools. We offer to collaborate in any way we can so that the full story of the Indian Residential Schools may be written, that their positive and negative features may be recognized, and that an effective healing process might take place.
 
 - We want to proclaim as inviolable the natural rights of Indian families, parents and children, so that never again will Indian communities and Indian parents see their children forcibly removed from them by other authorities.
 
@@ -1927,22 +1591,17 @@ More specifically, we pledge ourselves to the following:
 
 - We want, as Oblates, to meet with Native peoples and together help forge a template for a renewed covenant of solidarity. Despite past mistakes and many present tensions, the Oblates have felt all along as if the Native peoples and we belonged to the same family. As members of the same family it is imperative that we come again to that deep trust and solidarity that constitutes family. We recognize that the road beyond past hurt may be long and steep but we pledge ourselves anew to journey with Native peoples on that road.
 
-  An Apology to the First Nations of Canada by the Missionary Oblates of Canada
+  
 
-  Ken Forster, Oblates of Mary Immaculate,
-   Provincial of the Oblates of Mary Immaculate, Lacombe Canada, March 29th 2014
+#### An Apology to the First Nations of Canada by the Missionary Oblates of Canada
 
-  In 1991, on the eve of the 500th anniversary of the colonization of the Americas, the Missionary Oblates of Mary Immaculate made a public apology to the Native Peoples of Canada. Today in the context of this final National Truth and Reconciliation event, the Oblates of Lacombe Province would like to renew this apology and pledge once more our desire to journey in solidarity and mutual respect with all the First Peoples of Canada.
+##### Ken Forster, Oblates of Mary Immaculate, Provincial of the Oblates of Mary Immaculate, Lacombe Canada, March 29th 2014
 
-  Through the first centuries of contact, the relationship of non-native to First Nations People was deeply wounded by the settlers’ attitude of cultural and religious superiority and the imposition of colonial power.
+In 1991, on the eve of the 500th anniversary of the colonization of the Americas, the Missionary Oblates of Mary Immaculate made a public apology to the Native Peoples of Canada. Today in the context of this final National Truth and Reconciliation event, the Oblates of Lacombe Province would like to renew this apology and pledge once more our desire to journey in solidarity and mutual respect with all the First Peoples of Canada.
 
-  For the last many decades the Indian Residential Schools have come to epitomize the harm of that colonial relationship. The good that came out of the Schools came at an unbearable cost to the First Nations. The primal bond inherent within families was
+Through the first centuries of contact, the relationship of non-native to First Nations People was deeply wounded by the settlers’ attitude of cultural and religious superiority and the imposition of colonial power.
 
-Appendix 4 • 387
-
-388 • Truth & Reconciliation Commission
-
-violated as a matter of policy, as children were separated from their natural communities. These schools operated out of the premise that European languages, traditions, and religious practices were superior to those of First Nations and as such contributed to the domination of aboriginal culture, language and the integrity of the family itself. We missionaries played a significant role in the implementation of this flawed policy. For this we sincerely apologize.
+For the last many decades the Indian Residential Schools have come to epitomize the harm of that colonial relationship. The good that came out of the Schools came at an unbearable cost to the First Nations. The primal bond inherent within families was violated as a matter of policy, as children were separated from their natural communities. These schools operated out of the premise that European languages, traditions, and religious practices were superior to those of First Nations and as such contributed to the domination of aboriginal culture, language and the integrity of the family itself. We missionaries played a significant role in the implementation of this flawed policy. For this we sincerely apologize.
 
 The residential environment made children very vulnerable. We wish to apologize for failing to protect the children in our care, and for the times when we placed the reputation of the institution above the well-being of the students. The significant number of incidents of abuse has shocked society and the church. These acts are inexcusable, intolerable, and a profound betrayal of trust. We deeply, and very specifically, apologize to every victim of such abuse.
 
@@ -1950,9 +1609,9 @@ As missionaries, with a desire to serve, we commit ourselves to that deeper serv
 
 As a gesture of reconciliation, we, Missionaries Oblates of Mary Immaculate, would like to place a copy of these words along with the Apology of 1991 into your care.
 
-Statement on behalf of Congregations of Women Religious involved in the Indian Residential Schools of Canada
+#### Statement on behalf of Congregations of Women Religious involved in the Indian Residential Schools of Canada
 
-Sister Marie Zarowny, Sisters of Saint Ann, at the General House of Oblates of Mary Immaculate, Rome, April 30, 2009. The statement was delivered by Marie Zarowny, on behalf of the Congregations of Women Religious involved in the Indian Residential Schools of Canada, to a delegation of Aboriginal leaders, residential school Survivors, and Roman Catholic officials in Rome on April 30, 2009.
+##### Sister Marie Zarowny, Sisters of Saint Ann, at the General House of Oblates of Mary Immaculate, Rome, April 30, 2009. The statement was delivered by Marie Zarowny, on behalf of the Congregations of Women Religious involved in the Indian Residential Schools of Canada, to a delegation of Aboriginal leaders, residential school Survivors, and Roman Catholic officials in Rome on April 30, 2009.
 
 Father Guillermo Steckling and Members of the Oblate General Council, thank you for welcoming us to your home and for providing me with this opportunity to say a few words. National Chief Phil Fontaine, Elders, Chiefs and Representatives of Canada’s First Nations, Inuit and Métis, especially those of you who are former residents of the schools; Archbishop Pettipas and other representatives of the Catholic Entities; Ambassador Anne Leahy; other distinguished guests.
 
@@ -1972,13 +1631,7 @@ At the same time, many of our members formed lasting friendships with the childr
 
 Our priorities in working on the settlement agreement were that suffering be acknowledged, justice be done through adequate compensation and that there be a way for us as women religious to both contribute to and to enter into a process of healing and reconciliation with you.
 
-Throughout the last 150 years or so, our involvement in the schools has not been our only ministry with First Nations. We have served as pastoral workers and counselors on reserves and other First Nations communities: teaching, providing health care, visiting families, helping with religious education, supporting those in leadership of various kinds, and participating in community events. Although our numbers
-
-Appendix 4 • 389
-
-390 • Truth & Reconciliation Commission
-
-are small now and we have withdrawn from several communities, to the extent we are able and at your invitation, we commit ourselves to continue to live and serve in your midst.
+Throughout the last 150 years or so, our involvement in the schools has not been our only ministry with First Nations. We have served as pastoral workers and counselors on reserves and other First Nations communities: teaching, providing health care, visiting families, helping with religious education, supporting those in leadership of various kinds, and participating in community events. Although our numbers are small now and we have withdrawn from several communities, to the extent we are able and at your invitation, we commit ourselves to continue to live and serve in your midst.
 
 Institutionally we commit ourselves to use what influence we have to continue to support your efforts to achieve justice within Canada, including adequate housing, education, health care, healing programs and land rights. We also commit ourselves to enhance our efforts to foster awareness and understanding between Aboriginal and non-Aboriginal Canadians and to diminish in some way persistent attitudes of racism and superiority.
 
@@ -1988,9 +1641,9 @@ And now a more personal word to National Chief, Phil Fontaine: *You have been a 
 
 In closing, I return to an earlier comment. Each of our involvements, whether educational, political, spiritual or other, has resulted in deep and lasting friendships between our Sisters and many First Nations people. We treasure these friendships and look forward to them deepening in the years to come.
 
-Statement of Reconciliation, The Jesuits in English Canada
+#### Statement of Reconciliation, The Jesuits in English Canada
 
-Delivered by Father Winston Rye, S.J., at the Truth and Reconciliation Commission of Canada’s Québec National Event, Montreal, April 25, 2013
+##### Delivered by Father Winston Rye, S.J., at the Truth and Reconciliation Commission of Canada’s Québec National Event, Montreal, April 25, 2013
 
 Let me begin today by first acknowledging all Survivors of the Residential Schools and their families, the Elders present, the Commissioners, Church and community leaders and members of the wider communities. We thank you sincerely for the invitation to share in this important event.
 
@@ -2018,11 +1671,7 @@ We also come to acknowledge the students who were brave enough to confront us ab
 
 Through litigation and lawsuits, we learned about harsh conditions, poor food, brutal punishment and horrible incidents of sexual molestation. You turned to the courts because the Jesuits turned away from you.
 
-As educators, we have been shocked by stories of bullying, inadequate clothing, strapping and beatings for minor offences. Our school harbored individuals who molested or abused students. Bed wetters were tormented by older students and staff alike. The food was not fit for the needs of growing boys and girls.
-
-Appendix 4 • 391
-
-392 • Truth & Reconciliation Commission
+As educators, we have been shocked by stories of bullying, inadequate clothing, strapping and beatings for minor offences. Our school harbored individuals who molested or abused students. Bed wetters were tormented by older students and staff alike. The food was not fit for the needs of growing boys and girls. 
 
 Children who were much too young were taken from the love of their families and placed under the guidance of men and women who had little training and less compassion.
 
@@ -2046,9 +1695,7 @@ We ask for your forgiveness for any role that our school may have played in sowi
 
 Many of you have asked when the reconciliation between the churches will occur. We desire and pray that it is happening today as we move together in healing with our friends in the Ecumenical Working Group.
 
-Finally, we have learned of the terrible inequality that continues to exist between the educational opportunities for white students and students from First Nations in Canada. Young people are still being transported to white communities, to obtain an
-
-education in an environment that is foreign to them. This is exactly what happened in the past and we seem to be reliving it again.
+Finally, we have learned of the terrible inequality that continues to exist between the educational opportunities for white students and students from First Nations in Canada. Young people are still being transported to white communities, to obtain an education in an environment that is foreign to them. This is exactly what happened in the past and we seem to be reliving it again.
 
 We share Shannen Koostachin’s dream that in our lifetime we will see equal opportunities for education in the home community of every Canadian. We will do everything in our power and influence to ensure that this comes to pass and the injustices of the past are not perpetuated.
 
@@ -2064,18 +1711,12 @@ May the Creator God who sees all and knows what is truly in our hearts, bring us
 
 May we come once again to call each other “friend.”
 
-Statement of Anabaptist Church Leaders
+#### Statement of Anabaptist Church Leaders
 
-Presented to the Truth and Reconciliation Commission of Canada at the Alberta National Event, Edmonton, March 2014
+##### Presented to the Truth and Reconciliation Commission of Canada at the Alberta National Event, Edmonton, March 2014
  Signed by Tim Dyck, General Secretary, Evangelical Mennonite Conference, Douglas P. Sider Jr., Canadian Director, Brethren in Christ Canada, Willard Metzger, Executive Director, Mennonite Church Canada, Willy Reimer, Executive Director, Canadian Conference of Mennonite Brethren Churches, and Donald Peters, Executive Director, Mennonite Central Committee Canada.
 
-We are leaders of a group of Canadian Christian churches known as Anabaptist denominations. Our delegation includes Mennonite Church Canada, the Evangelical Mennonite Conference, the Canadian Conference of Mennonite Brethren Churches, the Brethren in Christ Church of Canada, and Mennonite Central Committee
-
-Appendix 4 • 393
-
-394 • Truth & Reconciliation Commission
-
-Canada. Many people from our churches have come to the Truth and Reconciliation Commission events, including this one, to volunteer, to listen, to learn.
+We are leaders of a group of Canadian Christian churches known as Anabaptist denominations. Our delegation includes Mennonite Church Canada, the Evangelical Mennonite Conference, the Canadian Conference of Mennonite Brethren Churches, the Brethren in Christ Church of Canada, and Mennonite Central Committee Canada. Many people from our churches have come to the Truth and Reconciliation Commission events, including this one, to volunteer, to listen, to learn.
 
 We acknowledge that we are all treaty people and that we are meeting on Treaty 6 territory, on land that is part of an historic agreement between First Nations people and newcomers, an agreement involving mutuality and respect.
 
@@ -2103,9 +1744,9 @@ churches to reach out in practical and loving ways, including dialogue and expre
 
 We commit ourselves to walk with you, listening and learning together as we journey to a healthier and more just tomorrow.
 
-The Apology of The Royal Canadian Mounted Police (RCMP) with respect to the Indian Residential School legacy, May 2004
+#### The Apology of The Royal Canadian Mounted Police (RCMP) with respect to the Indian Residential School legacy, May 2004
 
-Giuliano Zaccardelli, Commissioner Royal Canadian Mounted Police
+##### Giuliano Zaccardelli, Commissioner Royal Canadian Mounted Police
 
 Many Aboriginal people have found the courage to step outside of that legacy of this terrible chapter in Canadian history to share their stories. You heard one of those stories today. To those of you who suffered tragedies at residential schools we are very sorry for your experience. Healing has begun in many communities as you heard today, a testament that is a testament to the strength and tenacity of Aboriginal people and Aboriginal communities.
 
@@ -2115,524 +1756,574 @@ The RCMP is committed to working with Aboriginal people to continue the healing 
 
 We, I , as Commissioner of the RCMP, am truly sorry for what role we played in the residential school system and the abuse that took place in that system.
 
-Appendix 4 • 395
-
-Appendix 5 Honorary Witnesses
+## Appendix 5: Honorary Witnesses
 
 One of the goals set out in the Truth and Reconciliation Commission of Canada’s mandate was to “witness, support, promote and facilitate truth and reconciliation events at both the national and community levels.” Witnessing in this context refers to the traditional and continuing Aboriginal practice of calling forth witnesses to validate moments of great historic significance. Their role is to recall, remember, and care for the history witnessed and experienced, to share it more widely once they are back home, and to carry the knowledge of it with others into the future. In its work, the Commission has called upon a number of prominent Canadian and international individuals, as well as a number of institutions, to serve as TRC Honorary Witnesses. It is in this spirit that those named in the list below have accepted the sacred trust of bearing witness to the truths of residential school Survivors, and of contributing to the goal of ongoing reconciliation between the Indigenous and Non-Indigenous peoples of Canada, beginning with sharing what they have heard and learned.
 
-Individuals
+### Individuals
 
 Dr. Evan Adams
- Her Excellency Madame Justice
-
-Louise Arbour
- Dr. Cindy Blackstock
- Joseph Boyden
- Charles-Mathieu Brunelle
- Éloge Butera
- Francisco Cali Tzay
- The Right Honourable Joe Clark
- His Honour Charles Cunliffe Barnett Renée Dupuis
- His Worship Bill Elliot
- Grand Chief Phil Fontaine
- Dr. Sheila Fraser (honoris causa)
-
+Her Excellency Madame Justice Louise Arbour
+Dr. Cindy Blackstock
+Joseph Boyden
+Charles-Mathieu Brunelle
+Éloge Butera
+Francisco Cali Tzay
+The Right Honourable Joe Clark
+His Honour Charles Cunliffe Barnett
+Renée Dupuis
+His Worship Bill Elliot
+Grand Chief Phil Fontaine
+Dr. Sheila Fraser (honoris causa)
 Patsy George
- Jim Gladstone
- The Honourable Judith Guichon Barbara Hall
- Clara Hughes
- The Honourable Justice Frank Iacobucci His Worship Don Iveson
- Her Excellency the Right Honourable
-
-Michaëlle Jean
- Grand Chief Edward John
- His Excellency David Johnston
- Her Excellency Sharon Johnston Chief Dr. Robert Joseph (honoris causa) Joé Juneau
- Tina Keeper
-
-398 • Truth & Reconciliation Commission
-
+Jim Gladstone
+The Honourable Judith Guichon
+Barbara Hall
+Clara Hughes
+The Honourable Justice Frank Iacobucci
+His Worship Don Iveson
+Her Excellency the Right Honourable Michaëlle Jean
+Grand Chief Edward John
+His Excellency David Johnston
+Her Excellency Sharon Johnston
+Chief Dr. Robert Joseph (honoris causa)
+Joé Juneau
+Tina Keeper
 Marc Kielburger
- Wab Kinew
- David Langtry
- The Honourable Philip S. Lee
- Dr. Stephen Lewis (honoris causa) The Right Honourable Paul Martin Sir Sidney Mead
-
-Organizations
-
+Wab Kinew
+David Langtry
+The Honourable Philip S. Lee
+Dr. Stephen Lewis (honoris causa)
+The Right Honourable Paul Martin
+Sir Sidney Mead
 Jane Middleton-Moz
- Nick Noorani
- Dr. Alanis Obomsawin (honoris causa) The Honourable David C. Onley
- Dr. Daniel Pauly
- Gwendolyn Point
- The Honourable Stephen Point
- His Worship Gregor Robertson
- Dr. Shelagh Rogers (honoris causa)
- Dr. Buffy Sainte-Marie (honoris causa) Jonathan Sas
- His Worship James V. “Jim” Scarrow The Honourable Andy Scott
- Dr. Mary Simon
- Sylvia Smith
- Her Honour Corrine E. Sparks
- The Honourable Chuck Strahl
- Naty Atz Sunuc
- Imam Michael Abdur Rashid Taylor David Tuccaro
- Robert Waisman
- Dr. Andrea Walsh
- Dr. Cynthia Wesley-Esquimaux Charlotte Wolfrey
- David Wong
- Victor Wong
+Nick Noorani
+Dr. Alanis Obomsawin (honoris causa)
+The Honourable David C. Onley
+Dr. Daniel Pauly
+Gwendolyn Point
+The Honourable Stephen Point
+His Worship Gregor Robertson
+Dr. Shelagh Rogers (honoris causa)
+Dr. Buffy Sainte-Marie (honoris causa)
+Jonathan Sas
+His Worship James V. “Jim” Scarrow
+The Honourable Andy Scott
+Dr. Mary Simon
+Sylvia Smith
+Her Honour Corrine E. Sparks
+The Honourable Chuck Strahl
+Naty Atz Sunuc
+Imam Michael Abdur Rashid Taylor
+David Tuccaro
+Robert Waisman
+Dr. Andrea Walsh
+Dr. Cynthia Wesley-Esquimaux
+Charlotte Wolfrey
+David Wong
+Victor Wong
 
-Justice (ICTJ)
- Maine Wabanaki State Child Welfare
+### Organizations
 
-Association des Femmes Autochtones du Québec—Quebec Native Women’s Association (AFAQ-QNWA)
+Association des Femmes Autochtones du Québec—Quebec Native Women’s Association ([abbr]AFAQ-QNWA)
+Canadians for a New Partnership ([abbr]CFNP)
+Connecting Home Ltd., Australia
+International Center for Transitional Justice ([abbr]ICTJ)
+Maine Wabanaki State Child Welfare Truth and Reconciliation Commission
 
-Connecting Home Ltd., Australia International Center for Transitional
+## Appendix 6: Commission Staff and Contractors
 
-Canadians for a New Partnership (CFNP)
+The Truth and Reconciliation Commission of Canada ([abbr]TRC) was established by Order-in-Council in June 2008. The initial Commission consisted of Justice Harry LaForme as chair, Claudette Dumont-Smith, and Jane Brewin Morley. Justice LaForme resigned in October 2008, while Commissioners Dumont-Smith and Brewin Morley resigned in January 2009. The parties to the Settlement Agreement then selected three new Commissioners: Justice Murray Sinclair as chair, Chief Wilton Littlechild, and Dr. Marie Wilson. Their appointments took effect on July 1, 2009: the following is a listing of individuals and organizations that worked for or were contracted by the new Commission.
 
-Truth and Reconciliation Commission
+### Commissioners
+Justice Murray Sinclair, Chair
+Chief Wilton Littlechild
+Dr. Marie Wilson
 
-Appendix 6 Commission Staff and Contractors
+### Commissioners’ Spiritual Advisors
+James Dumont
+Rick Lighting
+Jerry Saddleback
+Peter Short
 
-The Truth and Reconciliation Commission of Canada (TRC) was established by Order-in-Council in June 2008. The initial Commission consisted of Justice Harry LaForme as chair, Claudette Dumont-Smith, and Jane Brewin Morley. Justice LaForme resigned in October 2008, while Commissioners Dumont-Smith and Brewin Morley resigned in January 2009. The parties to the Settlement Agreement then selected three new Commissioners: Justice Murray Sinclair as chair, Chief Wilton Littlechild, and Dr. Marie Wilson. Their appointments took effect on July 1, 2009: the following is a listing of individuals and organizations that worked for or were contracted by the new Commission.
-
-Commissioners
-
-Justice Murray Sinclair, Chair Chief Wilton Littlechild
- Dr. Marie Wilson
-
-Commissioners’ Spiritual Advisors
-
-James Dumont Rick Lighting Jerry Saddleback Peter Short
-
-Survivors Committee
-
+### Survivors Committee
 Eugene Arcand
- Raymond Arcand (until Nov/09) John Banksland
- Madeleine Basile
- Terri Brown
- Lottie Mae Johnson
- Barney Williams
- Gordon Williams
- Rebekah Williams
- Doris Young
+Raymond Arcand (until Nov/09)
+John Banksland
+Madeleine Basile
+Terri Brown
+Lottie Mae Johnson
+Barney Williams
+Gordon Williams
+Rebekah Williams
+Doris Young
 
-Special Advisors
+### Special Advisors
+Mario Dion
+Robert Joseph
+Brenda Reynolds
 
-Mario Dion Robert Joseph Brenda Reynolds
-
-400 • Truth & Reconciliation Commission
-
-Executive Director
-
+### Executive Director
 Kimberly Murray
 
-Legal Counsel
+### Legal Counsel
+Tom McMahon
+Seetal Sunga
+Don Worme
 
-Tom McMahon Seetal Sunga Don Worme
-
-Corporate Services
-
-Maryanne Boulton, Director Kongkham Ackharath Jackie Angeconeb
- Justin Beauchamp
-
-Dianne Bechard Enza Bongiorno Teresa Buckshot Loretta Carroll Myles Chalmers Anna Côté
-
+### Corporate Services
+Maryanne Boulton, Director
+Kongkham Ackharath
+Jackie Angeconeb
+Justin Beauchamp
+Dianne Bechard
+Enza Bongiorno
+Teresa Buckshot
+Loretta Carroll
+Myles Chalmers
+Anna Côté
 Judy Courchene
- Lyne Cousineau Brenda Edmondson Brian Flamand Sharon Fletcher Tamara Genaille Beverley Greisman Susan (Bobbi) Herrera Marie Ladouceur Emily Lank
+Lyne Cousineau
+Brenda Edmondson
+Brian Flamand
+Sharon Fletcher
+Tamara Genaille
+Beverley Greisman
+Susan (Bobbi) Herrera
+Marie Ladouceur
+Emily Lank
+Karen Leclerc
+Shelly Longbottom
+Brandon Mitchell
+Melissa Nepinak
+Tim O’Loan
+Roberta Pescitelli
+Geneviève Rankin
+Sherri Rollins
+Laver Simard
+Sean Stiff
+Jason Su
+Rick Valcourt
+Carolyn Ward
+Wendy Webber
+Anne Wildcat
+Mary Wilson
+Stanley Wood
 
-Karen Leclerc Shelly Longbottom Brandon Mitchell Melissa Nepinak Tim O’Loan Roberta Pescitelli Geneviève Rankin Sherri Rollins
+### Communications
 
-Laver Simard Sean Stiff Jason Su
- Rick Valcourt Carolyn Ward Wendy Webber Anne Wildcat Mary Wilson Stanley Wood
+James Bardach, Director
+Rod Carleton
+Jeanette Doucet
+Heather Frayne
+Guy Freedman
+Denis Guertin
+Wendy Johnson
+Jane Luhtassari
+Colleen Patterson
+Nancy Pine
+Stacey Stone
+Viola Thomas
+Mandy Wesley
 
-Communications
+### Events
 
-James Bardach, Director Rod Carleton
- Jeanette Doucet Heather Frayne
-
-Guy Freedman Denis Guertin Wendy Johnson Jane Luhtassari Colleen Patterson Nancy Pine Stacey Stone Viola Thomas Mandy Wesley
-
-Events
-
-Shannon-Lee Barry Jacqueline Black Leo Dufault Marie-Anick Elie Jeff Erbach
-
-Kyle Irving Melissa Knapp Lisa Meeches Janell Melenchuk Kim Rey
-
+Shannon-Lee Barry
+Jacqueline Black
+Leo Dufault
+Marie-Anick Elie
+Jeff Erbach
+Kyle Irving
+Melissa Knapp
+Lisa Meeches
+Janell Melenchuk
+Kim Rey
 Joanne Soldier
+Gloria Spence
+Sam Vint
 
-Gloria Spence Sam Vint
+### Inuit Sub-Commission
 
-Inuit Sub-Commission
+Jennifer Hunt-Poitras, Co-director
+Robert Watt, Co-director
+Siku Allooloo
+Cristine Bayly
+Jeannie Maniapik
+Lucy Ann Yakeleya
 
-Jennifer Hunt-Poitras, Co-director Robert Watt, Co-director
- Siku Allooloo
- Cristine Bayly
+### Regional Liaison Officers
+Darlene Auger
+Alvin Fiddler
+Frank Hope
+Samaya Jardey
+Richard Kistabish
+Ida Moore
+Kimberly Quinney
 
-Jeannie Maniapik Lucy Ann Yakeleya
+### Research
+Alison Biely
+Kristina Bowie
+Tara Flynn
+Helen Harrison
+Maggie Hodgson
+Brenda Ireland
+Alex Maass
+Natasha Mallal
+Laurie Messer
+Andrea Migone
+John Milloy
+Dipa Patel
+Brock Pitawanakwat
+Lori Ransom
+Paulette Regan
+Simon Solomon
+Doug Smith
+Eldon Yellowhorn
+Greg Younging
 
-Regional Liaison Officers
-
-Darlene Auger Alvin Fiddler Frank Hope Samaya Jardey Richard Kistabish Ida Moore Kimberly Quinney
-
-Research
-
-Alison Biely Kristina Bowie Tara Flynn Helen Harrison Maggie Hodgson Brenda Ireland Alex Maass Natasha Mallal Laurie Messer Andrea Migone John Milloy Dipa Patel
-
-Brock Pitawanakwat Lori Ransom Paulette Regan
-
-Simon Solomon Doug Smith Eldon Yellowhorn Greg Younging
-
-Students and Co-op Placements
-
+### Students and Co-op Placements
 Saba Ahmed
- Eden Alexander
- Andrea Briggs
- Regan Burles
- Stephanie Clark
- Chris Durrant
- Charles Dumais
- Sarah Ens
- Niki Ferland
- Kim Haiste
- Jayme Herschkopf
- Julie Hunter
- Antonio Ingram
- Jessica Iveson
- Emma Jarvis
- Nathalie Kalina
- Celina Kilgallen-Asencio Tala Khoury
- Judith Lê
- Lana Mccrea
- Josh Mentanko
- Darren Modzelewski Alexandra Olshefsky Cassandra Porter
- Gajan Sathananthan John Simpson Stephanie Wade
- Bobbi Whiteman
- Harsh Zaran
+Eden Alexander
+Andrea Briggs
+Regan Burles
+Stephanie Clark
+Chris Durrant
+Charles Dumais
+Sarah Ens
+Niki Ferland
+Kim Haiste
+Jayme Herschkopf
+Julie Hunter
+Antonio Ingram
+Jessica Iveson
+Emma Jarvis
+Nathalie Kalina
+Celina Kilgallen-Asencio Tala Khoury
+Judith Lê
+Lana Mccrea
+Josh Mentanko
+Darren Modzelewski
+Alexandra Olshefsky
+Cassandra Porter
+Gajan Sathananthan
+John Simpson
+Stephanie Wade
+Bobbi Whiteman
+Harsh Zaran
 
-Appendix 6 • 401
+### Statement Gathering
 
-402 • Truth & Reconciliation Commission
+Ry Moran, Director
+Barb Cameron
+Brad Crawford
+Kim-Marie Cormier
+Sylvia Genaille
+Roxanne Greene
+Rose Hart
+Kaila Johnston
+Ken Letander
+Sonja Matthies
+Trina McKellep
+Lisa Michell
+Stephanie Scott
+Bryan Verot
 
-Statement Gathering
-
-Ry Moran, Director Barb Cameron Brad Crawford Kim-Marie Cormier Sylvia Genaille Roxanne Greene Rose Hart
-
-Kaila Johnston Ken Letander Sonja Matthies Trina McKellep Lisa Michell Stephanie Scott Bryan Verot
-
-Archives and Document Collection
-
-Graham Constant Marta Dabros
- Sarah Gauntlett Crystal Dawn Greene Peter Houston Francine Jebb
-
+### Archives and Document Collection
+Graham Constant
+Marta Dabros
+Sarah Gauntlett
+Crystal Dawn Greene
+Peter Houston
+Francine Jebb
 Jordan Molaro
- Margaret Anne Lindsay Amanda Linden
- Kezia Malabanan-Abugal Marianne McLean
- Lisa Muswagon
- Billy Nepinak
- Terry Reilly
- Josephine Sallis
- Reagan Swanson
+Margaret Anne Lindsay
+Amanda Linden
+Kezia Malabanan-Abugal
+Marianne McLean
+Lisa Muswagon
+Billy Nepinak
+Terry Reilly
+Josephine Sallis
+Reagan Swanson
 
-Statement Gathering Field Personnel
-
+### Statement Gathering Field Personnel
 Janice Acoose
- Eden Alexander
- Yves Martin Allard Gloria Alvernaz Mulcahy Lill Anderson Bernadette Apples Darlene Auger
- Kevin Bacon
- Nicole Badry
- Sharon Baptiste
- BJ Barnes
- Jonathan Bartlett Brenda Bear
- Melanie Bernard
- Saghar Birjandian
- Marie Blackduck
- Trina Bolan
- Amy Bombay
- Laura Boucher
- Ramona Laura Boucher Trinity Bruce
- Marie Burke
- Kevin Lee Burton Rhonda Cameron
- Tobie Caplette
- Leona Cardinal
- Kristina Chand
- Mona Chartrand
- Nora Cochrane
- Myles Courchene
- Dolly Creighton
- Leslie Crowley
- Marta Dabros
- Jeannie Daniels
- Desiree Desnomie Eileen Doerksen
- Aiden Duffy
-
-Damian Eagle Bear Desarae Eashappie Serena Ehrmantraut Kim Erickson Cheryl Fontaine Suzanne Ford Cheryl Fraehlich Sara Fryer
-
-Sylvia Genaille Ginelle Giacomin Delores Gladue
- Julie Goertzen
- Annie Goose
- Sylvia Gopher
- Joanne M. Grandboin Irene Sarah Green Roxanne Greene Helga Hamilton Jo-Anne Hansen Helen Harrison
-
+Eden Alexander
+Yves Martin Allard
+Gloria Alvernaz Mulcahy
+Lill Anderson
+Bernadette Apples
+Darlene Auger
+Kevin Bacon
+Nicole Badry
+Sharon Baptiste
+BJ Barnes
+Jonathan Bartlett
+Brenda Bear
+Melanie Bernard
+Saghar Birjandian
+Marie Blackduck
+Trina Bolan
+Amy Bombay
+Laura Boucher
+Ramona Laura Boucher
+Trinity Bruce
+Marie Burke
+Kevin Lee Burton
+Rhonda Cameron
+Tobie Caplette
+Leona Cardinal
+Kristina Chand
+Mona Chartrand
+Nora Cochrane
+Myles Courchene
+Dolly Creighton
+Leslie Crowley
+Marta Dabros
+Jeannie Daniels
+Desiree Desnomie
+Eileen Doerksen
+Aiden Duffy
+Damian Eagle Bear
+Desarae Eashappie
+Serena Ehrmantraut
+Kim Erickson
+Cheryl Fontaine
+Suzanne Ford
+Cheryl Fraehlich
+Sara Fryer
+Sylvia Genaille
+Ginelle Giacomin
+Delores Gladue
+Julie Goertzen
+Annie Goose
+Sylvia Gopher
+Joanne M. Grandboin
+Irene Sarah Green
+Roxanne Greene 
+Helga Hamilton 
+Jo-Anne Hansen 
+Helen Harrison
 Lisa Hinks
- Maggie Hodgson Dustin Hollings Marge Hudson Beverly Hunter Heather Iqlohionte Angie Ironstar Katelyn Ironstar Ingrid Isaac
- Edwin Jebb
- Marie Johnston Amber Jones
- Austin Kaye
- Roisin Kenny
- Celina Kilgallen Michelle Klippenstein Louis Knott
- Judi Kochon
- Liberty Kreutzer
- J.E. Lafreniere
-
-Melanie Lameboy Linda Lamirande Adelaide Lathlin Janis Libby
-
+Maggie Hodgson
+Dustin Hollings
+Marge Hudson
+Beverly Hunter
+Heather Iqlohionte
+Angie Ironstar
+Katelyn Ironstar
+Ingrid Isaac
+Edwin Jebb
+Marie Johnston
+Amber Jones
+Austin Kaye
+Roisin Kenny
+Celina Kilgallen
+Michelle Klippenstein
+Louis Knott
+Judi Kochon
+Liberty Kreutzer
+J.E. Lafreniere
+Melanie Lameboy
+Linda Lamirande
+Adelaide Lathlin
+Janis Libby
 Len Lindstrom
- Krista Loughton
- Heather MacAndrew Donna Marion
- Jaimee Marks
- Ann Martin
- Marie Mason
- Joseph Maud
- Priscilla Maud
- Sheila Mazhari
- Loren McGinnis
- Celina McIntyre
- Kim McKay
- Germaine Mckenzie
- Rian Mercer
- Ruth Mercredi
- Linda Migwans
- Courtney Montour
- Philip Morin
- Robyn Morin
- Sheila M. Moss Sr.
- Barbara Nepinak
- Reg Nepinak
- Jasmine Netsena
- Langford Ogemah
- Laura Orchard
- Caitlyn Pantherbone
- Sean Parenteau
- Bernice Perkins
- Tara Petti
- Stella Piercey
- Morgan Phillips
- Simon Paul Ptashnick James Queskekapaw Bernadette Rabesca-Apples Wilma Ratt
-
-Appendix 6 • 403
-
-404 • Truth & Reconciliation Commission
-
+Krista Loughton
+Heather MacAndrew
+Donna Marion
+Jaimee Marks
+Ann Martin
+Marie Mason
+Joseph Maud
+Priscilla Maud
+Sheila Mazhari
+Loren McGinnis
+Celina McIntyre
+Kim McKay
+Germaine Mckenzie
+Rian Mercer
+Ruth Mercredi
+Linda Migwans
+Courtney Montour
+Philip Morin
+Robyn Morin
+Sheila M. Moss Sr.
+Barbara Nepinak
+Reg Nepinak
+Jasmine Netsena
+Langford Ogemah
+Laura Orchard
+Caitlyn Pantherbone
+Sean Parenteau
+Bernice Perkins
+Tara Petti
+Stella Piercey
+Morgan Phillips
+Simon Paul Ptashnick
+James Queskekapaw
+Bernadette Rabesca-Apples
+Wilma Ratt
 Lynn Rear
- Kimberly Redlac
- Julian Robbins
- Julia Robson
- Zach Romano
- Jack Saddleback Stephen St. Laurent April Seenie
- Lindi Shade
- Geraldine Shingoose Oliver Shouting Melanie Simon
- Kristi Lane Sinclair Vanessa Stevens
- Trudy Stewart
- Yvonne Still
- Jennifer Storm
- Isabella Tatar
- Carla Taunton
- Sarah Tautuagjuk
- Viola Thomas
- Harvey Tootoosis Shirley Tsetta
- Bertha Twin
- Carla Ulrich
- Steve Upton
- Tina Vassiliou
- Pamela Vernaus
- Jaysen Villeneuve Kanapaush Vollant Lashawn Wahpooseyan Howard Walker
- Martha Walls
- Barb Wapoose
- Jeff Ward
- Cybil Williams
- Janine Windolph Amber Wood
- Faith Woodruff
- Lucy Yakeleya
- Brandy Yanchyk
+Kimberly Redlac
+Julian Robbins
+Julia Robson
+Zach Romano
+Jack Saddleback
+Stephen St. Laurent
+April Seenie
+Lindi Shade
+Geraldine Shingoose
+Oliver Shouting
+Melanie Simon
+Kristi Lane Sinclair
+Vanessa Stevens
+Trudy Stewart
+Yvonne Still
+Jennifer Storm
+Isabella Tatar
+Carla Taunton
+Sarah Tautuagjuk
+Viola Thomas
+Harvey Tootoosis
+Shirley Tsetta
+Bertha Twin
+Carla Ulrich
+Steve Upton
+Tina Vassiliou
+Pamela Vernaus
+Jaysen Villeneuve
+Kanapaush Vollant
+Lashawn Wahpooseyan
+Howard Walker
+Martha Walls
+Barb Wapoose
+Jeff Ward
+Cybil Williams
+Janine Windolph
+Amber Wood
+Faith Woodruff
+Lucy Yakeleya
+Brandy Yanchyk
 
-Contract service providers
+### Contract service providers
 
 All Nation Print Ltd.
- AMR Planning and Consulting Inc. Anishinabe Printing
- Anish Corporation
- Artopex Inc.
- Associated Marketing Partners Inc. Attendance Marketing
- Glenn Bergen
- John Borrows
- Boyle Street Community Services Broadview Networks
- Bronson Consulting Group
- Bruce and Boivin Consulting Group Inc. Canadian Human Rights Commission
-
-Financial Services
- Fred Cattroll
- Colourblind Graphics Design Competitive Edge Media Group Barbara Czarnecki
- Tamara Dionne Stout
- Doowah Design Inc.
- Égale Canada Human Rights Trust Jacqueline Esmonde
- Earnscliffe Strategy Group
- Elm Printing
- Excel Human Resources Ottawa Inc. Falconer LLP
- Flat Out Pictures
- Freeman Audio Visual
- Alvin Finkel
- Gerald Friesen
- Jean Friesen
- Gamut Productions
- Genesis Integration Inc.
- Dick Gordon
- R. E. Gilmore Investments Corp. Heidi Harms
- The Harris Consulting Corporation Higgins International Inc.
-
+AMR Planning and Consulting Inc.
+Anishinabe Printing
+Anish Corporation
+Artopex Inc.
+Associated Marketing Partners Inc.
+Attendance Marketing
+Glenn Bergen
+John Borrows
+Boyle Street Community Services
+Broadview Networks
+Bronson Consulting Group
+Bruce and Boivin Consulting Group Inc.
+Canadian Human Rights Commission Financial Services
+Fred Cattroll
+Colourblind Graphics Design
+Competitive Edge Media Group
+Barbara Czarnecki
+Tamara Dionne Stout
+Doowah Design Inc.
+Égale Canada Human Rights Trust
+Jacqueline Esmonde
+Earnscliffe Strategy Group
+Elm Printing
+Excel Human Resources Ottawa Inc.
+Falconer LLP
+Flat Out Pictures
+Freeman Audio Visual
+Alvin Finkel
+Gerald Friesen
+Jean Friesen
+Gamut Productions
+Genesis Integration Inc.
+Dick Gordon
+R. E. Gilmore Investments Corp.
+Heidi Harms
+The Harris Consulting Corporation
+Higgins International Inc.
 The History Group
- Anne Holloway
- Hunter-Courchene Consulting Insight Canada
- Institute on Governance
- John A. Tyler and Associates Mirjana Jurcevic
- Kisik Inc.
- Allen Kraut
- Kromar Printing Ltd.
- Legacy of Hope Foundation Amanda Le Rougetel
- MacGillivray & Associates
- Margaret Anne Lindsay
- Manitoulin Transport Inc. MediaStyle
- Meltwater News Canada Inc.
- Nashel Management Inc.
- Nation Media and Design
- A Northern Micro Aboriginal Partner Oswald Productions Inc.
- Pido Productions Ltd.
- Polar Bear Productions
- Project of Heart
- Printers Xclusive
- RAS Creative
- Ed Reed
- RESOLVE
- Kent Roach
- Wendy Robbins
- Patricia Sanders
- Roberta Stout
- Spirit Creative Advertising and
+Anne Holloway
+Hunter-Courchene Consulting
+Insight Canada
+Institute on Governance
+John A. Tyler and Associates
+Mirjana Jurcevic
+Kisik Inc.
+Allen Kraut
+Kromar Printing Ltd.
+Legacy of Hope Foundation
+Amanda Le Rougetel
+MacGillivray & Associates
+Margaret Anne Lindsay
+Manitoulin Transport Inc.
+MediaStyle
+Meltwater News Canada Inc.
+Nashel Management Inc.
+Nation Media and Design
+A Northern Micro Aboriginal Partner
+Oswald Productions Inc.
+Pido Productions Ltd.
+Polar Bear Productions
+Project of Heart
+Printers Xclusive
+RAS Creative
+Ed Reed
+RESOLVE
+Kent Roach
+Wendy Robbins
+Patricia Sanders
+Roberta Stout
+Spirit Creative Advertising and Promotion Inc.
+Sussex Circle
+Jesse Todres
+TOTEM Offisource
+Agnes Vanya
+Voice Capture Digital Recording
 
-Promotion Inc.
- Sussex Circle
- Jesse Todres
- TOTEM Offisource
- Agnes Vanya
- Voice Capture Digital Recording
-
-Research Contracts
-
-Aboriginal Legal Services of Toronto ArtsLink
- Aulneau Renewal Centre
- Justin Tolly Bradford
-
+### Research Contracts
+Aboriginal Legal Services of Toronto
+ArtsLink
+Aulneau Renewal Centre
+Justin Tolly Bradford
 Peter Bush
- Sue Campbell
- Contentworks Inc.
- Centre for Youth and Society, University
-
-of Victoria
- Julian Falconer
- Steven Fick
- First Nations Child & Family Caring
-
-Society of Canada Brian Gettler Philip Goldring Susan Gray
-
+Sue Campbell
+Contentworks Inc.
+Centre for Youth and Society, University of Victoria
+Julian Falconer
+Steven Fick
+First Nations Child & Family Caring Society of Canada
+Brian Gettler
+Philip Goldring
+Susan Gray
 Brenda Gunn
- Evan Habkirk
- Norma Hall
- Scott Hamilton
- Matthew James
- David MacDonald
- Natasha Mallal
- Maraya Cultural Projects Society
- McGill University, Faculty of Law, Centre
-
-for Human Rights and Legal Pluralism Celeste McKay
- Laurie Meijer-Drees
- David Milward
-
+Evan Habkirk
+Norma Hall
+Scott Hamilton
+Matthew James
+David MacDonald
+Natasha Mallal
+Maraya Cultural Projects Society
+McGill University, Faculty of Law, Centre for Human Rights and Legal Pluralism
+Celeste McKay
+Laurie Meijer-Drees
+David Milward
 Alison Norman
- Carlos Quinonez
- Prairie Women’s Health Centre of
+Carlos Quinonez
+Prairie Women’s Health Centre of Excellence
+Jeffrey Rosenthal
+Arthur Schafer
+Thompson Rivers University
+Andrew Woolford
 
-Excellence
- Jeffrey Rosenthal
- Arthur Schafer
- Thompson Rivers University Andrew Woolford
-
-Appendix 6 • 405
-
-406 • Truth & Reconciliation Commission
-
-Pro bono assistance
-
+### Pro bono assistance
 Laurel Fletcher
- Keith Denny
- Jennifer Henderson Kenneth Osborne Michael Moffatt Gustaaf Sevenhuysen
-
-Bibliography
-
-Primary Sources
- \1. Truth and Reconciliation Commission Databases
-
-The endnotes of this report often commence with the abbreviation TRC, followed by one of the following abbreviations: asagr, avs, car, [abbr]IRSSA, nra, rbs, and lac. The documents so cited are located in the Truth and Reconciliation Commission of Canada’s database. At the end of each of these endnotes, in square brackets, is the document identification number for each of these documents. The following is a brief description of each database.
-
-**Active and Semi-Active Government Records (asagr) Database**: The Active and Semi-Active Government Records database contains active and semi-active records collected from federal governmental departments that potentially intersected with the administration and management of the residential school system. Documents that were relevant to the history and/or legacy of the system were disclosed to the Truth and Reconciliation Commission of Canada (TRC) in keeping with the federal government’s obligations in relation to the Indian Residential Schools Settlement Agreement ([abbr]IRSSA). Some of the other federal government departments included, but were not limited to, the Department of Justice, Health Canada, the Royal Canadian Mounted Police, and National Defence. Aboriginal Affairs and Northern Development Canada undertook the responsibility of centrally collecting and producing the records from these other federal departments to the TRC.
-
-**Audio/Video Statement (avs) Database**: The Audio/Video Statement database contains video and audio statements provided to the TRC at community hearings and regional and national events held by the TRC, as well as at other special events attended by the TRC.
-
-**Church Archival Records (car) Database**: The Church Archival Records database contains records collected from the different church/religious entities that were involved in administration and management of residential schools. The church/religious entities primarily included, but were not limited to, entities associated with the Roman Catholic Church, the Anglican Church of Canada, the Presbyterian Church in Canada, and the United Church of Canada. The records were collected as part of the TRC’s mandate, as set out in the Indian Residential Schools Settlement Agreement, to “identify sources and create as complete an historical record as possible of the [abbr]IRS system and legacy.”
-
-408 • Truth & Reconciliation Commission
-
-**Indian Residential Schools School Authority ([abbr]IRSSA) Database**: The Indian Residential Schools School Authority database is comprised of individual records related to each residential school, as set out by the [abbr]IRSSA.
-
-**National Research and Analysis (nra) Database**: The National Research and Analysis database contains records collected by the National Research and Analysis Directorate, Aboriginal Affairs and Northern Development Canada, formerly Indian Residential Schools Resolution Canada ([abbr]IRSRC). The records in the database were originally collected for the purpose of research into a variety of allegations, such as abuse in residential schools, and primarily resulted from court processes such as civil and criminal litigation, and later the Indian Residential Schools Settlement Agreement ([abbr]IRSSA), as well as from out-of-court processes such as Alternative Dispute Resolution. A majority of the records were collected from Aboriginal Affairs and Northern Development Canada. The collection also contains records from other federal departments and religious entities. In the case of some records in the database that were provided by outside entities, the information in the database is incomplete. In those instances, the endnotes in the report reads, “No document location, no document file source.”
-
-**Red, Black and School Series (rbs) Database**: The Red, Black and School Series database contains records provided by Library and Archives Canada to the TRC. These three sub-series contain records that were originally part of the “Headquarters Central Registry System,” or records management system, for departments that preceded the current federal department of Aboriginal Affairs and Northern Development Canada. The archival records are currently related to the Department of Indian Affairs and Northern Development fonds and are held as part of Library and Archives Canada’s collection.
-
-**Library and Archives Canada (lacar) Archival Records Container and Document Databases** – The lac Records Container (and Document databases contain records collected from Library and Archives Canada (lac). The archival records of federal governmental departments that potentially intersected with the administration and management of Indian Residential Schools were held as part of Library and Archives Canada’s collection. Documents that were relevant to the history and/or legacy of the Indian Residential School system were initially collected by the Truth and Reconciliation Commission, in conjunction with Aboriginal Affairs and Northern Development Canada, as part of their mandate, as set out in the Indian Residential School Settlement Agreement. The collection
-
-of records was later continued by Aboriginal Affairs and Northern Development Canada, based on federal government’s obligation to disclose documents in relation to the Indian Residential Schools Settlement Agreement.
-
-\2. Indian Affairs Annual Reports, 1864–1997
-
-Within this report, *Annual Report of the Department of Indian Affairs* denotes the published annual reports created by the Government of Canada, and relating to Indian Affairs over the period from 1864 to 1997.
-
-The Department of Indian Affairs and Northern Development was created in 1966. In 2011, it was renamed Aboriginal Affairs and Northern Development. Before 1966, different departments were responsible for the portfolios of Indian Affairs and Northern Affairs.
-
-The departments responsible for Indian Affairs were (in chronological order):
-
-- The Department of the Secretary of State of Canada (to 1869)
-
-- The Department of the Secretary of State for the Provinces (1869–1873)
-
-- The Department of the Interior (1873–1880)
-
-- The Department of Indian Affairs (1880–1936)
-
-- The Department of Mines and Resources (1936–1950)
-
-- The Department of Citizenship and Immigration (1950–1965)
-
-- The Department of Northern Affairs and National Resources (1966)
-
-- The Department of Indian Affairs and Northern Development (1966 to the present)
-
-  The exact titles of Indian Affairs annual reports changed over time, and were named for the department.
-
-  \3. Library and Archives Canada
-
-  **RG10 (Indian Affairs Records Group)** The records of RG10 at Library and Archives Canada are currently part of the R216, Department of Indian Affairs and Northern Development fonds. For clarity and brevity, in footnotes throughout this report, records belonging to the RG10 Records Group have been identified simply with their RG10 information. Where a copy of an RG10 document held in a TRC database was used, the TRC database holding that copy is clearly identified, along with the RG10 information connected with the original document.
-
-  \4. Other Archives
-
-  Provincial Archives of British Columbia. United Church of Canada Archives.
+Keith Denny
+Jennifer Henderson
+Kenneth Osborne
+Michael Moffatt
+Gustaaf Sevenhuysen
