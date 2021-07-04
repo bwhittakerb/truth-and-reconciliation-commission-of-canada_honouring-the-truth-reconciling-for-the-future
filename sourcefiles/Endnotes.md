@@ -2,3765 +2,1574 @@
 
 ### Introduction
 
-1. For coercion, see: Ray, *Illustrated History*, 151–152. For fraud, see: Upton, “Origins of Canadian Indian Policy,” 56. For failure to implement Treaties, see: Sprague, *Canada’s Treaties with Aboriginal People*, 13. For taking land without Treaty, see Fisher, *Contact and Conflict*.
-
-2. For examples from Saskatchewan, see: Miller, *Skyscrapers Hide the Heavens*, 222; Stonechild, “Indian View,” 263; Wiebe, “Mistahimaskwa,” http://www.biographi.ca/en/bio/mistahimaskwa_11E.html (accessed 14 July 2014).
-
-3. Barron, “Indian Pass System.”
-
-4. For an example, see: *An Act to amend and consolidate the laws respecting Indians*, Statutes of Canada 1880, chapter 28, section 72, reproduced in Venne, *Indian Acts*, 75.
-
-5. For examples, see Brown. “Economic Organization and the Position of Women;” Fiske, “Fishing Is Women’s Business;” Klein, “Mother as Clanswoman.”
-
-6. *An Act for the gradual enfranchisement of Indians*, Statutes of Canada 1869, chapter 42, reproduced in Venne, *Indian Acts*, 11.
-
-7. For an example, see: *An Act further to amend “The Indian Act, 1880*,” Statutes of Canada 1884, chapter 27, section 3, reproduced in Venne, *Indian Acts*, 93.
-
-8. Canada, House of Commons Debates (9 May 1883), 1107–1108.
-
-9. Library and Archives Canada, RG10, volume 6810, file 470-2-3, volume 7, Evidence of D. C. Scott to the Special Committee of the House of Commons Investigating the Indian Act amendments of 1920, (L-2)(N-3).
-
-10. Canada, “Statement of the Government of Canada on Indian Policy,” page 20 of 24-page portable document format file.
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1931*, 60.
-
-12. Indian Residential Schools Settlement – Official Court Website, http://www.residentialschoolsettlement.ca/schools.html (accessed 5 February 2015).
-
-13. Prime Minister Stephen Harper, Statement of Apology – to former students of Indian Residential Schools, 11 June 2008, http://www.aadnc-aandc.gc.ca/eng/1100100015644/1100100015649.
-
-14. TRC, NRA, Library and Archives Canada, RG10, volume 7936, file 32-104, J. W. House to G. H. Gooderham, 26 January 1942. [OLD-004156-0001]
-
-15. Canada, Special Joint Committee, 1947, 1474.
-
-16. Canada, Special Joint Committee, 1947, 1508–1509.
-
-17. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 46, file 1, “Cecilia Jeffrey Indian Residential School,” J. C. E. Andrews, 1953, 36. [NCA-009046]
-
-18. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box 1A, file 43, Albert Southard, 8 March 1957. [IRC-040039]
-
-19. Renaud, “Indian Education Today,” 30.
-
-20. TRC, AVS, Alma Mann Scott, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-016.
-
-21. For further information on these issues, see the Legacy section below.
-
-22. Media coverage on the call for an inquiry on missing and murdered Aboriginal women has been extensive. See, for example: “Women’s Memorial March in Vancouver Attracts Hundreds,” *CBC News*, 14 February 2015, http://www.cbc.ca/news/canada/british-columbia/womens-memorial-march-in-vancouver-attracts-hundreds-1.2957930; “Murdered and Missing Aboriginal Women Deserve Inquiry, Rights Group Says*,” CBC News*, 12 January 2015, http://www.cbc.ca/news/politics/murdered-and-missing-aboriginal-women-deserve-inquiry-rights-group-says-1.2897707; Ken S. Coates, “Aboriginal Women Deserve Much More than an Inquiry,” *National Post*, 16 Feb- ruary 2015, http://news.nationalpost.com/2015/02/16/ken-s-coates-aboriginal-women-deserve-much-more-than-an-inquiry/.
-
-    On economic development issues, see, for example: Jeff Lewis, “TransCanada CEO Says Canada Needs to Resolve Conflicts over Pipelines,” *Globe and Mail*, 4 February 2015, http://www.theglobeandmail.com/report-on-business/economy/transcanada-ceo-says-canada-needs-to-resolve-conflicts-over-pipelines/article22798276/; Daniel Schwartz and Mark Gollom, “NB Fracking Protests and the Fight for Aboriginal Rights,” *CBC News Canada*, 19 October 2013, http://www.cbc.ca/news/canada/n-b-fracking-protests-and-the-fight-for-aboriginal-rights-1.2126515; Michael MacDonald, “Shale Gas Conflict in New Brunswick Underscores Historical Grievances, Rights of First Nations,” *Toronto Star*, 25 December 2013, http://www.thestar.com/news/canada/2013/12/25/shale_gas_conflict_in_new_brunswick_underscores_historic_grievances_rights_of_first_nations.html.
-
-23. On the role of the courts in Aboriginal rights and reconciliation, see: Joseph Brean, “‘Reconciliation’ with First Nations, Not the Charter of Rights & Freedoms, Will Define the Supreme Court in Coming years, Chief Justice Says,” *National Post*, 13 March 2014, http://news.nationalpost.com/2014/03/13/reconciliation-with-first-nations-not-the-charter-of-rights-freedoms-will-define-the-supreme-court-in-coming-years-chief-justice-says/. On Aboriginal rights cases, see, for example: “6 Landmark Rulings on Native Rights,” *CBC News*, 8 January 2013, http://www.cbc.ca/news/canada/6-landmark-rulings-on-native-rights-1.1316961. On day schools litigation, see, for example: “Residential School Day Scholars Launch Class-action Lawsuit,” *CBC News*, 16 August 2012, http://www.cbc.ca/news/canada/british-columbia/residential-school-day-scholars-launch-class-action-lawsuit-1.1146607; Dene Moore, “Federal Appeal Court Gives Ok on Hearing First Nations’ Day-school Suit,” *Canadian Press*, 4 March 2014, http://www.ctvnews.ca/canada/federal-appeal-court-gives-ok-on-hearing-first-nations-day-school-suit-1.1713809. On Sixties Scoop legislation, see, for example: “Sixties Scoop Case Moves Forward as Class-action Lawsuit,” *CBC News*, 3 December 2014, http:// www.cbc.ca/news/canada/thunder-bay/sixties-scoop-case-moves-forward-as-class-action-lawsuit-1.2859332; Diana Mehta, “‘Sixties Scoop’ Class-action Lawsuit to Proceed,” *Canadian Press*, 4 December 2014, http://www.ctvnews.ca/canada/60s-scoop-class-action-lawsuit-to-proceed-1.2132317.
-
-24. Miller, *Lethal Legacy*, vi.
-
-25. TRC, AVS, Mary Deleary, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.
-
-26. TRC, AVS, Archie Little. Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: SP135.
-
-27. McKay, “Expanding the Dialogue,” 107. McKay was the first Aboriginal moderator of the United Church of Canada (1992 to 1994).
-
-28. TRC, AVS, Jessica Bolduc, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014, Statement Number: ABNE401.
-
-29. *Educating our Youth*, video, Truth and Reconciliation Commission of Canada, 19 September 2013, http://www.trc.ca/websites/trcinstitution/index.php?p=3 (accessed 10 February 2014).
-
-30. TRC, AVS, Patsy George, Statement to the Truth and Reconciliation Commission of Canada, Van- couver, British Columbia, 21 September 2013, Statement Number: BCNE404.
-
-31. TRC, AVS, Dave Courchene, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.
-
-32. The mandate of the Truth and Reconciliation Commission is listed under Schedule N of the Indian Residential Schools Settlement Agreement, http://www.residentialschoolsettlement.ca/settlement.html (accessed 5 March 2015). In accordance with the TRC’s mandate, the Commission was required to recognize “the significance of Aboriginal oral and legal traditions in its activities,” Schedule N, 4(d); and “witness, support, promote and facilitate truth and reconciliation events at both the national and community levels,” Schedule N, 1(c). The term *witness* “refers to the Aboriginal principle of ‘witnessing,’” Indian Residential Schools Settlement Agreement, Schedule N, 1(c), n1
-    Aboriginal oral history, legal traditions, and the principle of witnessing have deep historical roots and contemporary relevance for reconciliation. Indigenous law was used to resolve family and community conflict, to establish Treaties among various Indigenous nations, and to negotiate nation-to-nation treaties with the Crown. For a comprehensive history of Aboriginal–Crown Treaty making from contact to the present, see: Miller, *Compact, Contract, Covenant*. The term *witness* is in reference to the Aboriginal principle of witnessing, which varies among First Nations, Métis, and Inuit peoples. Generally speaking, witnesses are called to be the keepers of history when an event of historic significance occurs. Through witnessing, the event or work that is undertaken is validated and provided legitimacy. The work could not take place without honoured and respected guests to witness it. Witnesses are asked to store and care for the history they witness and to share it with their own people when they return home. For Aboriginal peoples, the act of witnessing these events comes with a great responsibility to remember all the details and be able to recount them accurately as the foundation of oral histories. See: Thomas, “Honouring the Oral Traditions,” 243–244.
-
-33. TRC, AVS, Jim Dumont, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.
-
-34. TRC, AVS, Wilfred Whitehawk, Statement to the Truth and Reconciliation Commission of Canada, Key First Nation, Saskatchewan, 21 January 2012, Statement Number: SP039.
-
-35. TRC, AVS, Vitaline Elsie Jenner, Statement to the Truth and Reconciliation Commission of Canada. Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-131.
-
-36. TRC, AVS, Daniel Elliot, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: SP135.
-
-37. TRC, AVS, Clement Chartier, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2013, Statement Number: SNE202.
-
-38. TRC, AVS, Steven Point, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: BCNE304.
-
-39. TRC, AVS, Merle Nisley, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 14 December 2011, Statement Number: 2011-4199.
-
-40. TRC, AVS, Tom Cavanaugh, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: SP137.
-
-41. TRC, AVS, Ina Seitcher, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: SP136.
-
-42. TRC, AVS, Evelyn Brockwood, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.
-
-43. Indian Residential Schools Settlement Agreement, Schedule N, Principles, 1, http://www.residentialschoolsettlement.ca/settlement.html (accessed 5 March 2015).
-
-44. Johnston, “Aboriginal Traditions,” 141–159.
-
-45. TRC, AVS, Barney Williams, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.
-
-46. TRC, AVS, Stephen Augustine, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.
-
-47. TRC, AVS, Reg Crowshoe, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.
-
-48. TRC, AVS, Kirby Littletent, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.
-
-49. TRC, AVS, Simone (last name not provided), Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 1 July 2011, Statement Number: SC092.
-
-50. TRC, AVS, Patrick Etherington, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: SC108.
-
-51. TRC, AVS, Maxine Lacorne, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: SC090.
-
-52. TRC, AVS, Barney Williams, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 21 September 2013, Statement Number: BCNE404.
-
-53. TRC, AVS, Hon. Chuck Strahl, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093.
-
-54. TRC, AVS, Archbishop Fred Hiltz, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 1 July 2011, Statement Number: NNE402.
-
-55. TRC, AVS, Anonymous, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 17 January 2012, Statement Number: SP036.
+1. For coercion, see: Ray, *Illustrated History*, 151–152. For fraud, see: Upton, “Origins of Canadian Indian Policy,” 56. For failure to implement Treaties, see: Sprague, *Canada’s Treaties with Aboriginal People*, 13. For taking land without Treaty, see Fisher, *Contact and Conflict*.<!--linkrefid=1-->
+2. For examples from Saskatchewan, see: Miller, *Skyscrapers Hide the Heavens*, 222; Stonechild, “Indian View,” 263; Wiebe, “Mistahimaskwa,” http://www.biographi.ca/en/bio/mistahimaskwa_11E.html (accessed 14 July 2014).<!--linkrefid=2-->
+3. Barron, “Indian Pass System.”<!--linkrefid=3-->
+4. For an example, see: *An Act to amend and consolidate the laws respecting Indians*, Statutes of Canada 1880, chapter 28, section 72, reproduced in Venne, *Indian Acts*, 75.<!--linkrefid=4-->
+5. For examples, see Brown. “Economic Organization and the Position of Women;” Fiske, “Fishing Is Women’s Business;” Klein, “Mother as Clanswoman.”<!--linkrefid=5-->
+6. *An Act for the gradual enfranchisement of Indians*, Statutes of Canada 1869, chapter 42, reproduced in Venne, *Indian Acts*, 11.<!--linkrefid=6-->
+7. For an example, see: *An Act further to amend “The Indian Act, 1880*,” Statutes of Canada 1884, chapter 27, section 3, reproduced in Venne, *Indian Acts*, 93.<!--linkrefid=7-->
+8. Canada, House of Commons Debates (9 May 1883), 1107–1108.<!--linkrefid=8-->
+9. Library and Archives Canada, RG10, volume 6810, file 470-2-3, volume 7, Evidence of D. C. Scott to the Special Committee of the House of Commons Investigating the Indian Act amendments of 1920, (L-2)(N-3).<!--linkrefid=9-->
+10. Canada, “Statement of the Government of Canada on Indian Policy,” page 20 of 24-page portable document format file.<!--linkrefid=10-->
+11. Canada, *Annual Report of the Department of Indian Affairs, 1931*, 60.<!--linkrefid=11-->
+12. Indian Residential Schools Settlement – Official Court Website, http://www.residentialschoolsettlement.ca/schools.html (accessed 5 February 2015).<!--linkrefid=12-->
+13. Prime Minister Stephen Harper, Statement of Apology – to former students of Indian Residential Schools, 11 June 2008, http://www.aadnc-aandc.gc.ca/eng/1100100015644/1100100015649.<!--linkrefid=13-->
+14. TRC, NRA, Library and Archives Canada, RG10, volume 7936, file 32-104, J. W. House to G. H. Gooderham, 26 January 1942. [OLD-004156-0001]<!--linkrefid=14-->
+15. Canada, Special Joint Committee, 1947, 1474.<!--linkrefid=15-->
+16. Canada, Special Joint Committee, 1947, 1508–1509.<!--linkrefid=16-->
+17. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 46, file 1, “Cecilia Jeffrey Indian Residential School,” J. C. E. Andrews, 1953, 36. [NCA-009046]<!--linkrefid=17-->
+18. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box 1A, file 43, Albert Southard, 8 March 1957. [IRC-040039]<!--linkrefid=18-->
+19. Renaud, “Indian Education Today,” 30.<!--linkrefid=19-->
+20. TRC, AVS, Alma Mann Scott, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-016.<!--linkrefid=20-->
+21. For further information on these issues, see the Legacy section below.<!--linkrefid=21-->
+22. Media coverage on the call for an inquiry on missing and murdered Aboriginal women has been extensive. See, for example: “Women’s Memorial March in Vancouver Attracts Hundreds,” *CBC News*, 14 February 2015, http://www.cbc.ca/news/canada/british-columbia/womens-memorial-march-in-vancouver-attracts-hundreds-1.2957930; “Murdered and Missing Aboriginal Women Deserve Inquiry, Rights Group Says*,” CBC News*, 12 January 2015, http://www.cbc.ca/news/politics/murdered-and-missing-aboriginal-women-deserve-inquiry-rights-group-says-1.2897707; Ken S. Coates, “Aboriginal Women Deserve Much More than an Inquiry,” *National Post*, 16 February 2015, http://news.nationalpost.com/2015/02/16/ken-s-coates-aboriginal-women-deserve-much-more-than-an-inquiry/.<!-- br here -->On economic development issues, see, for example: Jeff Lewis, “TransCanada CEO Says Canada Needs to Resolve Conflicts over Pipelines,” *Globe and Mail*, 4 February 2015, http://www.theglobeandmail.com/report-on-business/economy/transcanada-ceo-says-canada-needs-to-resolve-conflicts-over-pipelines/article22798276/; Daniel Schwartz and Mark Gollom, “NB Fracking Protests and the Fight for Aboriginal Rights,” *CBC News Canada*, 19 October 2013, http://www.cbc.ca/news/canada/n-b-fracking-protests-and-the-fight-for-aboriginal-rights-1.2126515; Michael MacDonald, “Shale Gas Conflict in New Brunswick Underscores Historical Grievances, Rights of First Nations,” *Toronto Star*, 25 December 2013, http://www.thestar.com/news/canada/2013/12/25/shale_gas_conflict_in_new_brunswick_underscores_historic_grievances_rights_of_first_nations.html.<!--linkrefid=22-->
+23. On the role of the courts in Aboriginal rights and reconciliation, see: Joseph Brean, “‘Reconciliation’ with First Nations, Not the Charter of Rights & Freedoms, Will Define the Supreme Court in Coming years, Chief Justice Says,” *National Post*, 13 March 2014, http://news.nationalpost.com/2014/03/13/reconciliation-with-first-nations-not-the-charter-of-rights-freedoms-will-define-the-supreme-court-in-coming-years-chief-justice-says/.<!-- br here --> On Aboriginal rights cases, see, for example: “6 Landmark Rulings on Native Rights,” *CBC News*, 8 January 2013, http://www.cbc.ca/news/canada/6-landmark-rulings-on-native-rights-1.1316961. On day schools litigation, see, for example: “Residential School Day Scholars Launch Class-action Lawsuit,” *CBC News*, 16 August 2012, http://www.cbc.ca/news/canada/british-columbia/residential-school-day-scholars-launch-class-action-lawsuit-1.1146607; <!-- br here --> Dene Moore, “Federal Appeal Court Gives Ok on Hearing First Nations’ Day-school Suit,” *Canadian Press*, 4 March 2014, http://www.ctvnews.ca/canada/federal-appeal-court-gives-ok-on-hearing-first-nations-day-school-suit-1.1713809. On Sixties Scoop legislation, see, for example: “Sixties Scoop Case Moves Forward as Class-action Lawsuit,” *CBC News*, 3 December 2014, http://www.cbc.ca/news/canada/thunder-bay/sixties-scoop-case-moves-forward-as-class-action-lawsuit-1.2859332; Diana Mehta, “‘Sixties Scoop’ Class-action Lawsuit to Proceed,” *Canadian Press*, 4 December 2014, http://www.ctvnews.ca/canada/60s-scoop-class-action-lawsuit-to-proceed-1.2132317.<!--linkrefid=23-->
+24. Miller, *Lethal Legacy*, vi.<!--linkrefid=24-->
+25. TRC, AVS, Mary Deleary, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.<!--linkrefid=25-->
+26. TRC, AVS, Archie Little. Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: SP135.<!--linkrefid=26-->
+27. McKay, “Expanding the Dialogue,” 107. McKay was the first Aboriginal moderator of the United Church of Canada (1992 to 1994).<!--linkrefid=27-->
+28. TRC, AVS, Jessica Bolduc, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014, Statement Number: ABNE401.<!--linkrefid=28-->
+29. *Educating our Youth*, video, Truth and Reconciliation Commission of Canada, 19 September 2013, http://www.trc.ca/websites/trcinstitution/index.php?p=3 (accessed 10 February 2014).<!--linkrefid=29-->
+30. TRC, AVS, Patsy George, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 21 September 2013, Statement Number: BCNE404.<!--linkrefid=30-->
+31. TRC, AVS, Dave Courchene, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.<!--linkrefid=31-->
+32. The mandate of the Truth and Reconciliation Commission is listed under Schedule N of the Indian Residential Schools Settlement Agreement, http://www.residentialschoolsettlement.ca/settlement.html (accessed 5 March 2015). In accordance with the TRC’s mandate, the Commission was required to recognize “the significance of Aboriginal oral and legal traditions in its activities,” Schedule N, 4(d); and “witness, support, promote and facilitate truth and reconciliation events at both the national and community levels,” Schedule N, 1(c). The term *witness* “refers to the Aboriginal principle of ‘witnessing,’” Indian Residential Schools Settlement Agreement, Schedule N, 1(c), n1 <!-- br here --> Aboriginal oral history, legal traditions, and the principle of witnessing have deep historical roots and contemporary relevance for reconciliation. Indigenous law was used to resolve family and community conflict, to establish Treaties among various Indigenous nations, and to negotiate nation-to-nation treaties with the Crown. For a comprehensive history of Aboriginal–Crown Treaty making from contact to the present, see: Miller, *Compact, Contract, Covenant*. The term *witness* is in reference to the Aboriginal principle of witnessing, which varies among First Nations, Métis, and Inuit peoples. Generally speaking, witnesses are called to be the keepers of history when an event of historic significance occurs. Through witnessing, the event or work that is undertaken is validated and provided legitimacy. The work could not take place without honoured and respected guests to witness it. Witnesses are asked to store and care for the history they witness and to share it with their own people when they return home. For Aboriginal peoples, the act of witnessing these events comes with a great responsibility to remember all the details and be able to recount them accurately as the foundation of oral histories. See: Thomas, “Honouring the Oral Traditions,” 243–244.<!--linkrefid=32-->
+33. TRC, AVS, Jim Dumont, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.<!--linkrefid=33-->
+34. TRC, AVS, Wilfred Whitehawk, Statement to the Truth and Reconciliation Commission of Canada, Key First Nation, Saskatchewan, 21 January 2012, Statement Number: SP039.<!--linkrefid=34-->
+35. TRC, AVS, Vitaline Elsie Jenner, Statement to the Truth and Reconciliation Commission of Canada. Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-131.<!--linkrefid=35-->
+36. TRC, AVS, Daniel Elliot, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: SP135.<!--linkrefid=36-->
+37. TRC, AVS, Clement Chartier, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2013, Statement Number: SNE202.<!--linkrefid=37-->
+38. TRC, AVS, Steven Point, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: BCNE304.<!--linkrefid=38-->
+39. TRC, AVS, Merle Nisley, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 14 December 2011, Statement Number: 2011-4199.<!--linkrefid=39-->
+40. TRC, AVS, Tom Cavanaugh, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: SP137.<!--linkrefid=40-->
+41. TRC, AVS, Ina Seitcher, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: SP136.<!--linkrefid=41-->
+42. TRC, AVS, Evelyn Brockwood, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.<!--linkrefid=42-->
+43. Indian Residential Schools Settlement Agreement, Schedule N, Principles, 1, http://www.residentialschoolsettlement.ca/settlement.html (accessed 5 March 2015).<!--linkrefid=43-->
+44. Johnston, “Aboriginal Traditions,” 141–159.<!--linkrefid=44-->
+45. TRC, AVS, Barney Williams, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.<!--linkrefid=45-->
+46. TRC, AVS, Stephen Augustine, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.<!--linkrefid=46-->
+47. TRC, AVS, Reg Crowshoe, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.<!--linkrefid=47-->
+48. TRC, AVS, Kirby Littletent, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.<!--linkrefid=48-->
+49. TRC, AVS, Simone (last name not provided), Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 1 July 2011, Statement Number: SC092.<!--linkrefid=49-->
+50. TRC, AVS, Patrick Etherington, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: SC108.<!--linkrefid=50-->
+51. TRC, AVS, Maxine Lacorne, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: SC090.<!--linkrefid=51-->
+52. TRC, AVS, Barney Williams, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 21 September 2013, Statement Number: BCNE404.<!--linkrefid=52-->
+53. TRC, AVS, Hon. Chuck Strahl, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093.<!--linkrefid=53-->
+54. TRC, AVS, Archbishop Fred Hiltz, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 1 July 2011, Statement Number: NNE402.<!--linkrefid=54-->
+55. TRC, AVS, Anonymous, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 17 January 2012, Statement Number: SP036.<!--linkrefid=55--><!--linkrefid=55-->
 
 ### Commission activities
 
-1. In this context, the Commission defines a “visit” as one person attending one day of one National Event. The Commission made daily attendance estimates of its National Events but did not attempt to track those individuals who attended more than one day of any single National Event.
-2. Schedule N to the Settlement Agreement provides at section 1(e) that one of the goals of the Commission is to “identify sources and create as complete an historical record as possible of the IRS system and legacy.” In addition, section 11 of Schedule N provides that “Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission” and that Canada and the churches are required to “compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate.”
-3. *Fontaine v. Canada (Attorney General)*, 2013 ONSC 684 at para 69.
-4. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at paras. 24–25.
-5. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at paras. 24–25.
-6. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at para 191.
-7. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at para 192.
-8. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 4585 (CanLII) at para 19.
-9. The Catholic entities filed main appeals and the Commission and the National Centre filed cross appeals. Based on preliminary documents filed by the Catholic entities, it appears that they intend to argue that no notice period should be ordered and that the IAP documents cannot be archived without the consent of alleged perpetrators and other persons of interest. The Commission intends to appear before the Court of Appeal of Ontario to argue that the IAP documents cannot be destroyed without consulting IAP claimants.
-
-1. The Commission’s engagement with the United Nations included participation at the Permanent Forum on Indigenous Issues, the Expert Panel on Indigenous Issues, an Expert Seminar on Truth Commissions and Access to Justice, and a Human Rights Council Special Panel on Education and Teaching History.
-2. A complete list of projects funded is available on the website of Aboriginal Affairs and Northern Development Canada at http://www.aadnc-aandc.gc.ca/eng/1100100015635/1100100015636.
+1. In this context, the Commission defines a “visit” as one person attending one day of one National Event. The Commission made daily attendance estimates of its National Events but did not attempt to track those individuals who attended more than one day of any single National Event.<!--linkrefid=1--><!--linkrefid=1-->
+2. Schedule N to the Settlement Agreement provides at section 1(e) that one of the goals of the Commission is to “identify sources and create as complete an historical record as possible of the IRS system and legacy.” In addition, section 11 of Schedule N provides that “Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission” and that Canada and the churches are required to “compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate.”<!--linkrefid=2-->
+3. *Fontaine v. Canada (Attorney General)*, 2013 ONSC 684 at para 69.<!--linkrefid=3-->
+4. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at paras. 24–25.<!--linkrefid=4-->
+5. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at paras. 24–25.<!--linkrefid=5-->
+6. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at para 191.<!--linkrefid=6-->
+7. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 283 (CanLII) at para 192.<!--linkrefid=7-->
+8. *Fontaine v. Canada (Attorney General)*, 2014 ONSC 4585 (CanLII) at para 19.<!--linkrefid=8-->
+9. The Catholic entities filed main appeals and the Commission and the National Centre filed cross appeals. Based on preliminary documents filed by the Catholic entities, it appears that they intend to argue that no notice period should be ordered and that the IAP documents cannot be archived without the consent of alleged perpetrators and other persons of interest. The Commission intends to appear before the Court of Appeal of Ontario to argue that the IAP documents cannot be destroyed without consulting IAP claimants.<!--linkrefid=9-->
+10. The Commission’s engagement with the United Nations included participation at the Permanent Forum on Indigenous Issues, the Expert Panel on Indigenous Issues, an Expert Seminar on Truth Commissions and Access to Justice, and a Human Rights Council Special Panel on Education and Teaching History.<!--linkrefid=10-->
+11. A complete list of projects funded is available on the website of Aboriginal Affairs and Northern Development Canada at http://www.aadnc-aandc.gc.ca/eng/1100100015635/1100100015636.<!--linkrefid=11-->
 
 ### The History
 
-1. TRC, AVS, Frederick Ernest Koe, Statement to the Truth and Reconciliation Commission of Cana- da, Inuvik, Northwest Territories, 30 June 2011, Statement Number: SC091.
-2. TRC, AVS, Marlene Kayseas, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.
-3. TRC, AVS, Larry Beardy, Statement to the Truth and Reconciliation Commission of Canada, Thompson, Manitoba, 25 September 2012, Statement Number: SP082.
-4. TRC, AVS, Florence Horassi, Statement to the Truth and Reconciliation Commission of Canada, Tulita, Northwest Territories, 10 May 2011, Statement Number: 2011-0394.
-5. TRC, AVS, Lily Bruce, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 4 August 2011, Statement Number: 2011-3285.
-6. TRC, AVS, Vitaline Elsie Jenner, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-131. (Translated words confirmed by Translation Bureau, Public Works and Government Services Canada [8817169_TG_ Kinugus_EN_CP].)
-7. TRC, AVS, Nellie Ningewance, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0305.
-8. TRC, AVS, Bernice Jacks, Statement to the Truth and Reconciliation Commission of Canada, Victo- ria, British Columbia, 13 April 2012, Statement Number: 2011-3971.
-9. TRC, AVS, Marthe Basile-Coocoo, Statement to the Truth and Reconciliation Commission of Cana- da (translated from French), Montréal, Québec, 26 April 2013, Statement Number: 2011-6103.
-10. TRC, AVS, Pauline St-Onge, Statement to the Truth and Reconciliation Commission of Canada (translated from French), Montréal, Québec, 25 April 2013, Statement Number: 2011-6134.
-11. TRC, AVS, Campbell Papequash, Statement to the Truth and Reconciliation Commission of Cana- da, Key First Nation, Saskatchewan, 20 January 2012, Statement Number: SP038.
-12. TRC, AVS, Roy Denny, Statement to the Truth and Reconciliation Commission of Canada, Eska- soni First Nation, Nova Scotia, 14 October 2011, Statement Number: 2011-2678.
-13. TRC, AVS, Calvin Myerion, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-122.
-14. TRC, AVS, Archie Hyacinthe, Statement to the Truth and Reconciliation Commission of Canada, Kenora, Ontario, 15 March 2011, Statement Number: 2011-0279.
-15. TRC, AVS, Margo Wylde, Statement to the Truth and Reconciliation Commission of Canada, Vald’Or, Québec, 5 February 2012, Statement Number: SP100.
-
-1. TRC, AVS, Murray Crowe, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0306.
-
-2. TRC, AVS, Wilbur Abrahams, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3301.
-
-3. TRC, AVS, Martin Nicholas, Statement to the Truth and Reconciliation Commission of Canada, Grand Rapids, Manitoba, 24 February 2010, Statement Number: 07-MB-24FB10-001.
-
-4. TRC, AVS, Lorna Morgan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-041.
-
-5. TRC, AVS, Gilles Petiquay, Statement to the Truth and Reconciliation Commission of Canada translated from French), La Tuque, Québec, 6 March 2013, Statement Number: 2011-6001.
-
-6. TRC, AVS, Wilbur Abrahams, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3301.
-
-7. TRC, AVS, Peter Ross, Statement to the Truth and Reconciliation Commission of Canada, Tsiigehtchic, Northwest Territories, 8 September 2011, Statement Number: 2011-0340.
-
-8. TRC, AVS, Daniel Nanooch, Statement to the Truth and Reconciliation Commission of Canada, High Level, Alberta, 4 July 2013, Statement Number: 2011-1868.
-
-9. TRC, AVS, Bernice Jacks, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3971.
-
-10. TRC, AVS, Helen Kakekayash, Statement to the Truth and Reconciliation Commission of Canada, Ottawa, Ontario, 5 February 2011, Statement Number: 01-ON-05FE11-002.
-
-11. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510.
-
-12. TRC, AVS, Julianna Alexander, Statement to the Truth and Reconciliation Commission of Canada, Enderby, British Columbia, 12 October 2011, Statement Number: 2011-3286.
-
-13. TRC, AVS, William Herney, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 29 October 2011, Statement Number: 2011-2923.
-
-14. TRC, AVS, Raymond Cutknife, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.
-
-15. TRC, AVS, Timothy Henderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 28 June 2011, Statement Number: 2011-0291.
-
-16. TRC, AVS, Shirley Waskewitch, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 24 June 2012, Statement Number: 2011-3521.
-
-17. TRC, AVS, Patrick Bruyere, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-157.
-
-18. TRC, AVS, Ernest Barkman, Statement to the Truth and Reconciliation Commission of Canada, Garden Hill First Nation, Manitoba, 30 March 2011, Statement Number: 2011-0123. (Translated from Oji-Cree to English by Translation Bureau, Public Works and Government Services Canada, 8956124.)
-
-19. TRC, AVS, Paul Dixon, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 6 February 2012, Statement Number: SP101.
-
-20. TRC, AVS, Betsy Annahatak, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 28 October 2011, Statement Number: 2011-2896.
-
-21. TRC, AVS, Rick Gilbert, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: 2011-2389.
-
-22. TRC, AVS, Nick Sibbeston, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.
-
-1. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Prince Albert, Saskatchewan, 1 February 2012, Statement Number: 2011-3879. (Translated from Woodland Cree to English by Translation Bureau, Public Works and Government Services Canada, 8956130.)
-
-2. TRC, AVS, Jack Anawak, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.
-
-3. TRC, AVS, Lydia Ross, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-029.
-
-4. TRC, AVS, Stephen Kakfwi, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.
-
-5. TRC, AVS, Victoria McIntosh, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-123.
-
-6. TRC, AVS, Shirley Flowers, Statement to the Truth and Reconciliation Commission of Canada, Goose Bay, Newfoundland and Labrador, 20 September 2011, Statement Number: SP025.
-
-7. Howe, *Empire*, 21–22.
-
-8. Howe, *Empire*, 57.
-
-9. For East Africa, see: Thiong’o, *Dreams in a Time of War*. For Australia, see: Australia, “‘Bringing Them Home,’ National Inquiry,” www.humanrights.gov.au/sites/default/files/content/pdf/social_justice/bringing_them_home_report.pdf [25]. For Siberia, see: Bartels and Bartels, *When the North Was Red*, 12; Bloch, *Red Ties*, 38.
-
-10. Diffie and Winnius, *Foundations*, 78–83; Pagden, *Peoples and Empires*, 56.
-
-11. Howe, *Empire*, 62–63.
-
-12. Hobsbawm, *On Empire*, 67.
-
-13. Wood, *Empire of Capital*, 74–87.
-
-14. Wolfe, “Settler Colonialism,” 388.
-
-15. Wolfe, “Settler Colonialism,” 388, 391, 399.
-
-16. Address of C. C. Painter to the 1886 Lake Mohonk Conference, “Proceedings of the Lake Mohonk Conference,” in *Eighteenth Annual Report of the Board of Indian Commissioners, 1886*, 61–62.
-
-17. Howe, *Empire*, 80–81.
-
-18. Howe, *Empire*, 62.
-
-19. Wood, *Empire of Capital*, 40–41.
-
-20. For examples, see: Diffie and Winius, *Foundations*, 65–66, 94–95; Pagden, *Peoples and Empires*, 54; Williams, *American Indian*, 72–73.
-
-21. Elliott, *Empires of the Atlantic*, 11, 23; Pagden, *Spanish Imperialism*, 14.
-
-22. Pagden, *Lords of All the World*, 47.
-
-23. Elliott, *Empires of the Atlantic*, 11–12; Frichner, “Preliminary Study,” 11; Seed, *Ceremonies of Posses-* *sion*, 17–18.
-
-24. H. Verelst, “Some Observations on the Right of the Crown of Great Britain to the North West Continent of America,” PRC co 5/283, f. 5, quoted in Armitage, *Ideological Origins*, 192.
-
-25. Banner, “Why Terra Nullius,” 95. The court case is referred to as *Mabo v. Queensland (No. 2).*
-
-26. Wood, *Origin of Capitalism*, 111.
-
-27. Howe, *Empire*, 86–87.
-
-28. Speech quoted in: *Archibald Philip Primrose* (*5th earl of Rosebery*) ... *Australian speechlets*, *1883–84* *[by A. P. Primrose*], http://books.google.ca/books?id=CncIAAAAQAAJ&printsec=frontcover&dq=Australian+speechlets,+1883-84+by+A.P.+Primrose.].&hl=en&sa=X&ei=zN2IUuGdMOTA2g-W0vIHYDA&ved=0CDkQ6AEwAA#v=onepage&q=Australian%20speechlets%2C%201883-84%20[by%20A.P.%20Primrose.].&f=false (accessed 17 November 2013).
-
-1. Canada, *Annual Report of the Department of Indian Affairs, 1884,* 154.
-
-2. Usher, *William Duncan*, 41. See also: Choquette, *Oblate Assault*; Huel, *Proclaiming the Gospel*; Hyam, *Britain’s Imperial Century*.
-
-3. Howe, *Empire*, 85.
-
-4. Howe, *Empire*, 90; Perry, “Metropolitan Knowledge,” 109–111.
-
-5. Huel, *Proclaiming the Gospel*, 1–6; Choquette, *Oblate Assault*, 1–20; Choquette, *Canada’s Religions*, 173–176.
-
-6. For example, see: Usher, *William Duncan*, 8, 11.
-
-7. Moorhouse, *Missionaries*, 274.
-
-8. Moorhouse, *Missionaries*, 33; Rompkey, *Story of Labrador*, 34, 36–39.
-
-9. For Canada, see, for example: McMillan and Yellowhorn, *First Peoples*. For a global perspective, see: Coates, *A Global History*.
-
-10. Jaenen, “Education for Francization,” 54–55; Trudel, *Beginnings of New France*, 134–135.
-
-11. Jaenen, *Friend and Foe Aspects*, 96, 163, 166.
-
-12. Magnuson, *Education in New France*, 47–50; Trudel, *Beginnings of New France*, 231; Axtell, *Inva-* *sion Within*, 56–58; Jaenen, “Education for Francization,” 56; Jaenen, *Friend and Foe Aspects*, 95, 168.
-
-13. Hamilton, *Federal Indian Day Schools*, 4–5; Fingard, “New England Company,” 30–32.
-
-14. Stevenson, “Red River Indian Mission School,” 141.
-
-15. Graham, *Mush Hole*, 7.
-
-16. TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, “Mohawk Institute May Close after 139 Years,” no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London,  ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970. [TAY-003053-0001]
-
-17. Ryerson, “Report on Industrial Schools,” 76.
-
-18. Ryerson, “Report on Industrial Schools,” 73.
-
-19. *Report of the Special Commissioners 1858*, n.p.
-
-20. TRC, NRA, Library and Archives Canada, RG10, volume 6210, file 468-10, part 5, Samuel Devlin to Indian Affairs, 20 May 1946. [MER-003806-0001]
-
-21. Gresko, “Paul Durieu,” http://www.biographi.ca/en/bio/durieu_paul_12E.html (accessed 31 August 2014). McNally gives the opening as 1862: McNally, *Lord’s Distant Vineyard*, 67.
-
-22. McCarthy, *From the Great River*, 160; Carney, “Grey Nuns and Children,” 291; Duchaussois, *Grey* *Nuns*, 148.
-
-23. Miller, *Compact, Contract, Covenant*, 156; Davin, *Report on Industrial Schools*, 10. Population figures for this period are only estimates. James Miller cites 12,000 mixed-blood people in 1870, and, in his 1879 report, Nicholas Flood Davin stated that 28,000 people were under Treaty. Miller, *Compact, Contract, Covenant*, 199; Davin, *Report on Industrial Schools*, 10.
-
-24. Great Britain, *Rupert’s Land and North-Western Territory Order* (Schedule A), 23 June 1870, http:// www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t32.html.
-
-25. Getty and Lussier, *Long as the Sun Shines*, 35.
-
-26. Banner, *How Indians Lost Their Land*, 85.
-
-Endnotes • 447
-
-448 • Truth & Reconciliation Commission
-
-1. Tobias, “Protection, Civilization, Assimilation,” 128.
-
-2. Miller, *Compact, Contract, Covenant*, 156.
-
-3. Miller, *Compact, Contract, Covenant*, 154.
-
-4. Friesen, “Magnificent Gifts,” 205, 212.
-
-5. Erasmus, *Buffalo Days*, 250.
-
-6. Ray, *Illustrated History*, 212; Taylor, “Canada’s Northwest Indian Policy,” 3.
-
-7. Sprague, *Canada’s Treaties with Aboriginal People*, 13.
-
-8. For an example of a request for a day school on a reserve, see: McCullough, “Peyasiw-awasis,” http://www.biographi.ca/en/bio/peyasiw_awasis_15E.html (accessed 6 June 2014).
-
-9. Miller, *Compact, Contract, Covenant*, 164–165.
-
-10. Morris, *Treaties of Canada*, 202.
-
-11. In Canada, the *Indian Act* had been preceded by the 1868 *Act to provide for the organization of* *the Department of the Secretary of State of Canada and for the Administration of the Affairs of the* *Indians,* and the 1869 *An Act for the gradual enfranchisement of Indians*.
-
-12. *An Act to amend and consolidate the laws respecting Indians*, Statutes of Canada 1876, chapter 18.
-
-13. Miller, *Skyscrapers Hide the Heavens*, 255.
-
-14. Library and Archives Canada, RG10, volume 6810, file 470-2-3, volume 7, Evidence of D. C. Scott to the Special Committee of the House of Commons Investigating the Indian Act amendments of 1920, (L-2)(N-3).
-
-15. For the banning of the Potlatch, see: LaViolette, Struggle for Survival, 41–42; Cole and Chaikin, *Iron* *Hand*, 16–17, 95. For the banning of the Thirst Dance, see: Pettipas, *Severing the Ties*, 53–54, 95–96.
-
-16. For examples, see: LaViolette, *Struggle for Survival*, 41–42; Cole and Chaikin, *Iron Hand*, 16–17, 95; TRC, NRA, Library and Archives Canada, RG10, volume 3825, file 60511-1, J. Hugonard to Indian Commissioner, 23 November 1903. [RCA-011007-0001]
-
-17. Canada, Sessional Papers 1885, number 116. F., 95–96, J. S. Dennis to Sir John A. Macdonald, 20 December 1878.
-
-18. Davin, *Report on Industrial Schools*, 14.
-
-19. Driver, “Discipline Without Frontiers?,” 282.
-
-20. Parker, *Uprooted*, 190.
-
-21. Sutherland, *Children in English-Canadian Society*, 100.
-
-22. Sutherland, *Children in English-Canadian Society*, 138.
-
-23. Fear-Segal, *White Man’s Club*, 186; Standing Bear, *My People the Sioux*, 123–133.
-
-24. Canada, *Annual Report of the Department of Indian Affairs, 1884* (for High River, 76; for Battleford, 154; for Qu’Appelle, 161).
-
-25. Canada, House of Commons Debates (22 May 1883), 1376.
-
-26. Library and Archives Canada, RG10, volume 3647, file 8128, Andsell Macrae, 18 December 1886.
-
-27. Canada, *Annual Report of the Department of Indian Affairs, 1910*, 273.
-
-28. Canada, *Annual Report of the Department of Indian Affairs, 1883*, 104.
-
-29. Library and Archives Canada, RG10, volume 3924, file 116823, L. Vankoughnet to Sir John A. Macdonald, 15 March 1886.
-
-30. TRC, NRA, Library and Archives Canada, RG10, volume 6001, file 1-1-1, part 1, Privy Council Order Number 1278, 7 June 1888; [PLD-007312] Library and Archives Canada, RG10, volume 3819, file 58418, J. Hugonnard to Hayter Reed, 11 May 1889; [PLD-009475] Library and Archives Canada, RG10, volume 3675, file 11422-4, J. Hugonnard to E. Dewdney, 5 May 1891. [PLD-009435]
-
-31. TRC, NRA, Library and Archives Canada, RG10, volume 3879, file 91833, Order-in-Council, 22 October 1892. [RIS-000354]
-
-32. For the admission of infected children, see: TRC, NRA, Library and Archives Canada, RG10, vol- ume 4037, file 317021, T. Ferrier to the editor, 23 November 1907. [RCA-000315]
-
-33. For details, see: Canada, *Annual Report of the Department of Indian Affairs, 1904*, xxvii–xxviii; TRC, NRA, Library and Archives Canada, MG17, B2, Class ‘G’ C.1/P.2, Church Missionary Society, “Resolutions Regarding the Administration of the North-West Canada Missions,” 7 April 1903; [PAR-003622] Blake, *Don’t you hear*; TRC, NRA, Library and Archives Canada, RG10, volume 3928, file 117004-1, “Report on Indian Missions and Schools,” Presented to the Diocesan Synod, Diocese of Calgary, J. W. Tims, August 1908; [OLD-008159] The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 5, file 68, “Report of the Synod’s Commission on Indian Affairs,” 5 December 1904; [RIS-000246] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Reverend and dear sirs, 21 March 1908; [AEMR-120155] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Frank Pedley to Norman Tucker, 26 March 1909; [AAC-090228] Archives of Saskatchewan, MacKay Papers, Frank Oliver, “Letter to S. H. Blake, 28 January, 1908,” quoted in Wasylow, “History of Battleford Industrial School,” 225–226; Anglican Church General Synod Archives, 75-103, series 2-14, Frank Oliver to A. G. G., 28 January 1908, quoted in Gull, “‘Indian Policy,’” 15; TRC, NRA, An- glican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Letter signed by S. H. Blake, Andrew Baird, Hamilton Cassels, T. Ferrier, R. F. MacKay, 22 May 1908; [AAC-090192] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Frank Oliver, 9 April 1908; [AEMR-120157] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, “Report of the Sub-Com- mittee of the Advisory Board On Indian Education,” n.d.; [AAC-090231] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, J. B. Magnan to D. Laird, 12 December 1902; [SBR-003409] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, Clif- ford Sifton to Governor General in Council, 23 December 1903; [FAR-000095] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Mr. Oliver, 30 May 1908; [120.00294] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. Hugonnard to Frank Oliver, 28 March 1908; [PLD-007334] TRC, NRA, Library and Archives Cana- da, RG10, volume 6039, file 160-1, part 1, Superintendent General of Indian Affairs to T. Ferrier, 18 July 1908; [AEMR-016328] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Heron to Frank Oliver, 16 February 1909; [AEMR-120164] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-4, part 1, Association of Indian Workers to Frank Oliver, 19 February 1909; [AEMR-016332] TRC, NRA, Library and Archives Canada, RG10, FA 10-17, volume 6041, file 160-5, part 1, 1905–1934, Emile Legal to Frank Pedley, 20 July 1908; [AEMR-254243] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Arthur Barner to S. H. Blake, 16 February 1909. [AAC-090206]
-
-34. For the initial improvement, see: TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Headquarters – Compulsory Attendance of Pupils – Indian Schools, 1904–1933, Microfilm reel C-8149, FA 10-17, “Re: Per Capita Grants at Indian Residential Schools,” Russell Ferrier, 5 April 1932. [120.18050] For an example of the impact of inflation, see: TRC, NRA, Library and Archives Canada, RG10, volume 6468, file 890-1, part 1, J. Welch to D. C. Scott, 28 July 1916. [MIS-001473] For cuts in the 1930s, see: TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2.15, box 27, file 1, The Joint Delegation and Interview with the Prime Minister, 20 December 1934; [AAC-087280] TRC, NRA, Library and Archives Canada, RG10, volume 7185, file 1/25-1-7-1, part 1, Harold McGill to Church Officers, Principals of Indian Residential Schools, 22 February 1933. [AEMR-255373]
-
-Endnotes • 449
-
-450 • Truth & Reconciliation Commission
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 7185, file 1/25-1-7-?, part 1, R. A. Hoey to Dr. McGill, 4 November 1938. [AEMR-120432]
-
-2. For staffing, see: Canada, *Annual Report of the Department of Indian Affairs, 1955*, 51; Canada, *Annual Report of the Department of Indian Affairs, 1957*, 56. As an experiment in 1949, Indian Affairs had taken on responsibility for directly employing the teaching staff in schools at Shu- benacadie, the Mohawk Institute, and Port Alberni. TRC, NRA, DIAND HQ, file 1/25-1-5-2, volume 1, 1952–1969, Laval Fortier to J. P. Mulvihill, 26 October 1953. [AEMR-120563] For diet, see: TRC, NRA, Library and Archives Canada, RG55, FA 55-19, volume 20784, Treasury Board Submission 559690, Req. Authority for the Recommendation and Establishment of Domestic Staff, Laval Forti- er to Secretary, Treasury Board, 22 January 1960. [120.04620]
-
-3. TRC, NRA, Canadian Welfare Council and Caldwell 1967, 89. [AEMR-019759]
-
-4. TRC, NRA, Canadian Welfare Council and Caldwell 1967, 92. [AEMR-019759]
-
-5. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Regulations Relating to the Education of Indian Children, Ottawa: Government Printing Bureau, 1894. [AGA-
-
-   001516-0000]
-
-6. For example, see: TRC, NRA, Library and Archives of Canada, RG10, volume 6374, file 764-10, part 1, S. H. Middleton to J. E. Pugh, 26 April 1940. [PUL-071183]
-
-7. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-136, volume 11466, 987/18-24, part 1, Truancy, 1952–1969, NAC, Burnaby, R. Sedgewick to Acting Deputy Superintendent Gen- eral Indian Affairs, 11 October 1891; [SQU-001298-0001] RG10, volume 1575, C-14851, 1898–1899, NAC, Application for Admission, 30 November 1898. [BQL-008267-0001]
-
-8. TRC, NRA, Library and Archives Canada, RG10, FA 10-379, 1999-01431-6, box 405, 987/25-1-018, part 1, Indian Education – Squamish Students Residence, Fraser District, 1950–1969, NAC, Ottawa, P. Phelan to Legal Adviser, 17 November 1952; [SQU-000595] Burnaby, RG10, FA 10-136, volume 11466, 987/18-24, part 1, Truancy, 1952–1969, NAC, Burnaby, P. Phelan to W. S. Arneil, 22 No- vember 1952. [SQU-001297] For an example of a father who successfully went to court to have his children, who had been voluntarily enrolled in a residential school, returned to him, see: Library and Archives Canada, RG10, volume 2552, file 112-220-1, Martin Benson to Deputy Superinten- dent General of Indian Affairs, 25 September 1903.
-
-9. TRC, NRA, Library and Archives Canada, RG10, volume 7184, file 1/25-1-5-7, part 1, W. M. Gra- ham to Secretary, 19 February 1926. [NCA-014626]
-
-10. Canada, Annual Report of the Department of Indian Affairs, 1945, 168, 183.
-
-11. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, Memorandum, 13, 15 July 1897. [100.00108]
-
-12. For *Indian Act*, see: *An Act respecting Indians*, Statutes of Canada 1951, chapter 29, sections 113–122, 169–172. For regulations, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-5-2, volume 1, “Regulations With Respect to Teaching, Education, Inspection, and Discipline for Indian Residential Schools, Made and Established for the Superin- tendent General of Indian Affairs Pursuant to Paragraph (a) of Section 114 of the Indian Act,” 20 January 1953. [PAR-001203-0001]
-
-13. The *Public Schools Act*, Revised Statutes of Manitoba 1954, chapter 215, 923–1,114.
-
-14. *The Manitoba Gazette*, April 9, 1955, 509–510.
-
-15. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Headquarters – Compulsory Attendance of Pupils – Indian Schools, 1904–1933, Microfilm reel C-8149, FA 10-17, Indian Agent, Hagersville to Secretary, Indian Affairs, 20 February 1922; [AEMR-255312] *An Act respecting Indians*, Statutes of Canada 1919–1920, chapter 50, section 1, amending Revised Statutes
-
-of Canada 1906, chapter 81, section 10, reproduced in Venne, *Indian Acts*, 178–179.
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 1, J. K. Irwin to Indian Affairs, 22 October 1926. [GDC-006528]
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 1, J. D. McLean to J. K. Irwin, 29 October 1926. [GDC-006529]
-
-3. TRC, NRA, DIAND HQ, file 1/25-1, volume 19, 1968, J. A. MacDonald to the Minister, 9 October 1968. [AEMR-121636]
-
-4. Canada, *Annual Report of the Department of Indian Affairs, 1956*, 76–77; TRC, ASAGR, Department of Northern Affairs and National Resources, *Annual Report Fiscal Year 1957–1958*, 115. [AAN-
-
-   DC-452773]
-
-5. Canada, *Annual Report of the Department of Indian Affairs, 1931*, 60.
-
-6. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:2, box 55, file 6, S. Gould to D. C. Scott, Ottawa, 18 December 1931; [AAC-090271] TRC, NRA, An- glican Church of Canada, General Synod Archives, Triennial Report of the Board of Management to the Board of Missions, M.S.C.C. 07/1934, Accession GS 75-2A, Archibald [Fleming], Bishop of the Arctic, “The Arctic,” in S. Gould, General Secretary, Board of Management, M.S.C.C., “Triennial Report of the Board of Management, M.S.C.C.,” 4 July 1934, 353. [AGS-000185]
-
-7. TRC, NRA, Library and Archives Canada, RG10, volume 6112, file 350-10, part 1, W. L. Tyrer to Sutherland, 8 February 1934. [FGA-001100] Although no trace of the decision to award funds to
-   the Catholic school has been found in the archives, by April 1937, the Oblates had begun submit- ting official Indian Affairs paperwork with regard to the student population at St. Joseph’s. See,
-   for example: TRC, NRA, Library and Archives Canada, RG10, volume 6113, file 351-10, part 1, D. Couture, “Application for Admission to the Ste. Theresa Fort George Catholic Residential School for Louise Jolly,” 1 April 1937. [FTG-003180-0000]
-
-8. For the Carcross, Yukon, fire, see: Canada, *Annual Report of the Department of Indian Affairs, 1940*, 186. For the Ahousaht, British Columbia, fire, see: Canada, *Annual Report of the Department of Indian Affairs, 1940*, 186. For the Alberni, British Columbia, fire, see: Canada, *Annual Report of
-   the Department of Indian Affairs, 1941*, 166. For the File Hills, Saskatchewan, fire, see: TRC, NRA, Library and Archives Canada, volume 6303, file 653-5, part 6, E. S. Jones to The Secretary, Indian Affairs Branch, Department of Mines and Resources, 10 April 1943; [FHR-000252] Canada, *Annual Report of the Department of Indian Affairs, 1942*, 136. For the Fort George, Québec (the Anglican school), fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6112, file 350-5, part 1, Thomas Orford to Secretary, Indian Affairs, 3 February 1943. [FGA-001026] For the Onion Lake, Saskatchewan (the Anglican school), fire, see: Canada, *Annual Report of the Department of Indian Affairs, 1944*, 155. For the Wabasca, Alberta, fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6378, file 767-5, part 3, H. A. Alderwood to R. A. Hoey, 3 January 1945; [JON-003675] Canada, Annual Report of the Department of Indian Affairs, *1945*, 169. For the Norway House, Manitoba, fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6268, file 581-1, part 2, R. A. Hoey to Acting Deputy Minister, 29 May 1946. [NHU-000117] For the Lac La Ronge, Saskatchewan, fire, see: TRC, NRA, Provincial Archives of Alberta, Anglican Diocese of Athabasca Fonds, Edmonton, AB, Acc. PR1970.0387/1641, box 41, Anglican Diocese of Athabasca Fonds, file A320/572, Indian Schools – General, Official Correspondence of Bishop Sovereign, 1941–1947, Report of Fire at All Saints’ School, Lac la Ronge, Sask., 2 February 1947. [PAR-123539] For the Delmas, Saskatchewan, fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 671/25-1-010, J. P. B. Ostrander to Indian Affairs Branch, 19 January 1948. [THR-000266-0001]
-
-9. See, for example: TRC, NRA, Library and Archives Canada, RG85, volume 229, file 630/158-9, part
-
-Endnotes • 451
-
-452 • Truth & Reconciliation Commission
-
-1, Government Hostel – Chesterfield Inlet, 1929–1953, Extracts from S. J. Bailey’s Report, Eastern
-
-Arctic Patrol, 27 July 1948. [CIU-000189]
-
-1. See, for example: Davin, *Report on Industrial Schools*, 9.
-
-2. For an example of Métis children at a church-run boarding school, see: Erickson, “‘Bury Our Sorrows in the Sacred Heart,’” 34–35.
-
-3. For an example of the Métis being viewed as ‘dangerous,’ see: Library and Archives Canada, RG10, volume 6031, “Extract from a letter dated the 19th July, 1899, from the Rev. Father Hugonard.”
-
-4. For an example, see: TRC, NRA, Library and Archives Canada, R776-0-5 (RG55), volume 562, T.B. #252440, Clifford Sifton to Mr. Smart, 18 October 1899. [NPC-523981c]
-
-5. For an early example of this view, see: Canada, Sessional Papers 1885, number 116, 81, Memo: Hugh Richardson, 1 December 1879.
-
-6. For an example, see: Library and Archives Canada, RG10, volume 6323, file 658-10, part 3, W. M. Graham to the Secretary of the Department of Indian Affairs, 5 December 1929.
-
-7. For example, it was estimated in 1936 that 80% of Métis children in Alberta received no education. Chartrand, “Métis Residential School Participation,” 41.
-
-8. Quiring, *CCF Colonialism in Northern Saskatchewan*; Barron, *Walking in Indian Moccasins*.
-
-9. For detailed treatment of the issue, see: Chartrand, Logan, and Daniels, *Métis History and Experi-* ence*.
-
-10. For examples, see: TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, volume 2, file 600-1, locator #062-94, Education of Eskimos (1949–1957), Department of Northern Affairs and National Resources to Northern Administration and Lands Branch, 8 April 1958; [NCA-016925] TRC, NRA, Library and Archives Canada – Ottawa, RG85, volume 1506, file 600-1-1, part 2A, J. G. Wright to Mr. Gibson, 19 November 1946. [NCA-005728]
-
-11. For a 1940 assessment of building conditions, see: TRC, NRA, Library and Archives Canada, RG10, volume 6012, file 1-1-5A, part 2, R. A. Hoey to Dr. McGill, 31 May 1940. [BIR-000248]
-
-12. Canada, Special Joint Committee, 1946, 3, 15.
-
-13. Canada, *Annual Report of the Department of Indian Affairs, 1945*, 168, 183; Canada, *Annual Report* *of the Department of Indian Affairs, 1955*, 70, 76–78.
-
-14. Canada, *Annual Report of the Department of Indian Affairs, 1949*, 199.
-
-15. *An Act respecting Indians*, Statutes of Canada 1951, chapter 29, section 113, reproduced in Venne, *Indian Acts*, 350.
-
-16. Canada, *Annual Report of the Department of Indian Affairs, 1961*, 57.
-
-17. Canada, *Annual Report of the Department of Indian Affairs, 1961*, 63.
-
-18. See, for example: TRC, NRA, No document location, no document file source, The Canadian Catholic Conference, “A Brief to the Parliamentary Committee on Indian Affairs,” May 1960, 8. [GMA001642-0000]
-
-19. Newman, *Indians of the Saddle Lake Reserve*, 81–87.
-
-20. For a discussion that places both child welfare and residential schools in the context of the ongoing colonization of Aboriginal people, see: McKenzie and Hudson, “Native Children.”
-
-21. For an example of this assessment, see: TRC, NRA, Canadian Welfare Council and Caldwell 1967, \89. [AEMR-019759]
-
-22. For examples of the link between the closure of residential schools and the increase in children in care, see: TRC, NRA, Library and Archives Canada, RG10, box 98, Acc., 1999-01431-6, file 274/25-1- 010, part 1, P. L. McGillvray to Indian Affairs Branch, 17 November 1964; [NCA-010544] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 211/6-1-010, volume 6, R. F. Davey to Michael Kearney, 12 June 1967; [SRS-000175] TRC, NRA, Library and Archives Canada,
-
-RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, “Mohawk Institute May Close after 139 Years,” no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London, ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970; [TAY-003053-0001] TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 671/6-2-025, volume 4, Onion Lake Band Council Resolution, 31 July 1974. [ORC-008733-0002]
-
-1. McKenzie and Hudson, “Native Children,” 126.
-
-2. See, for example: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, RCAP [89-22], file E4974-2031, St. Mary’s Student Residence, BC Region, part 1, 1981–1989, B, Benefit to Children,” undated notes from 1982. [MIS-008062-0001]
-
-3. TRC, NRA, DIAND, file 1/25-13, volume 13, R. F. Battle to Deputy Minister, 2 February 1968; AEMR-014646] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 1/25-13, 01/68–07/68, volume 13, R. F. Davey to Regional Superintendent of Schools, 13 June 1968. [LOW-016591]
-
-4. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-5. TRC, NRA, DIAND HQ, file 1/25-13-2, volume 2, 06/1968–03/1969, J. A. MacDonald to J. J. Carson, 8 November 1968. [AEMR-121640]
-
-6. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports RIMS ID# 1209, box 9, “Student Residences (Hostels),” undated. [RCN-
-
-   007183]
-
-7. Canada, *Annual Report of the Department of Indian Affairs, 1968–1969*, 139; Canada, *Annual Re-* port of the Department of Indian Affairs, 1970–1971*, 19.
-
-8. Canada, “Statement of the Government of Canada on Indian Policy,” 1969, pages 7, 8, and 22 of 24-page portable document format file.
-
-9. Canada, “Statement of the Government of Canada on Indian Policy,” 1969, pages 8 and 20 of 24-
-
-   page portable document format file.
-
-10. National Indian Brotherhood, “Statement on the Proposed New Indian Policy,” Ottawa, 26 June 1969, quoted in Weaver, *Making Canadian Indian Policy*, 174.
-
-11. Indian Chiefs of Alberta 1970, page 16 of 95-page portable document file. [Citizens plus red paper]
-
-12. Weaver, *Making Canadian Indian Policy*, 187.
-
-13. For an example of local dissatisfaction, see: TRC, NRA, No document location, no document file source, Jos Houle to G.-M. Latour, 24 July 1966. [OGP-417032]
-
-14. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 779/25-2-009, volume 1 (Ctrl #55-4), Dennis Bell, “Indian School,” CP [Canadian Press], 15 September 1970. [NCA-007310-0001]
-
-15. “Indians Will Operate Blue Quills School,” *Edmonton Journal*, 1 August 1970. [Blue Quills clippings.pdf ]
-
-16. TRC, NRA, Library and Archives Canada – Burnaby, file 951/6-1-030, volume 9, New Christie Student Residence, 1974–1977, FA 10-138, Archival Acc. V1985-86/397, Archival box 2, R. C. Telford to L. E. Wight, 6 May 1974; [CST-001710-0000] INAC – Main Records Office – Ottawa 901/16-2, volume 5, Audit Reports – B.C. Regional Office, 07/1974–06/1978, locator #L362, DIAND – Ottawa Central Registry, [illegible] for R. C. Pankhurst to Director, Finance and Management, 29 January 1975. [CST-009455]
-
-17. All these schools were in Saskatchewan. The Beauval school closed in 1995, see: TRC, NRA, INAC
-
-Endnotes • 453
-
-454 • Truth & Reconciliation Commission
-
-– Resolution Sector – IRS Historical Files Collection – Ottawa, file E4965-2013, volume 3, Beau-
- val Residential School, box 1, file 1-5, Memorandum of Understanding and Agreement Re: The Beauval Indian Education Centre, 6 June 1995. [BVL-001306] The Duck Lake and the Gordon’s residences both closed in 1996, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Col- lection – Ottawa, file E4974-10474, volume 2, Ray Gamracy to Dana Commercial Credit Canada, 6 June 1996; [SMD-000651-0000] Gordon’s School, Anglican Indian and Eskimo Residential Schools, Anglican Church of Canada, www.anglican.ca/relationships/histories/gordons-school-punnichy (accessed 5 May 2014). The Lestock, Marieval, and Prince Albert residences all closed in 1997, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, Muskowekwan Residential School, box 67, file 1, Muskowekwan Education Centre Board of Directors, Minutes 16 July 1997; [MDD-007310-0001] INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4971-361, volume 3, Myler Savill to Lionel Sparvier, 21 July 1997; [MRS-000002-0001] INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-1355, volume 8, “Education Centre Set to Re-open,” *Prince Albert Herald*, Carrie Hunter, 15 October 1997 [PAR-003103-0001]
-
-1. Canada, *Annual Report of the Department of Indian Affairs, 1984–1985*, 54.
-
-2. Thompson, “Dehcho Hall to Close its Doors,” *Northern News Services online*, 26 January 2009, http://www.nnsl.com/frames/newspapers/2009-01/jan26_09h.html.
-
-3. TRC, NRA, No document location, no document file source, B. Pusharenko, Inuvik, NWT, “Demolition of Former Residential School Called for to Put Bad Memories to Rest,” *Edmonton Journal*, 13 August 1998. [GNN-000298-0026]
-
-4. TRC, NRA, Library and Archives Canada, RG10, volume 6040, file 160-4, part 1, R. B. Heron to Regina Presbytery, April 1923. [AEMR-016371]
-
-5. Canada, *Annual Report of the Department of Indian Affairs, 1941*, 189; Canada, *Annual Report of* the Department of Indian Affairs, 1942*, 154; Canada, *Annual Report of the Department of Indian Affairs, 1943*, 168; Canada, *Annual Report of the Department of Indian Affairs, 1944*, 177; Canada, *Annual Report of the Department of Indian Affairs, 1945*, 190; Canada, *Annual Report of the Depart- ment of Indian Affairs, 1946*, 231; Canada, *Annual Report of the Department of Indian Affairs, 1947*, 236; Canada, *Annual Report of the Department of Indian Affairs, 1948*, 234; Canada, *Annual Report of the Department of Indian Affairs, 1949*, 215, 234; Canada, *Annual Report of the Department of In- dian Affairs, 1950*, 86–87; Canada, *Annual Report of the Department of Indian Affairs, 1951*, 34–35; Canada, *Annual Report of the Department of Indian Affairs, 1952*, 74–75; Canada, *Annual Report of the Department of Indian Affairs, 1953*, 82–83; Canada, *Annual Report of the Department of Indian Affairs, 1954*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1955*, 78–79; Canada, *Annual Report of the Department of Indian Affairs, 1956*, 76–77; Canada, *Annual Report* of the Department of Indian Affairs, 1956–57*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1958*, 90–91; Canada, *Annual Report of the Department of Indian Affairs, 1959*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1960*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1961*, 103.
-
-6. Canada, *Annual Report of the Department of Indian Affairs, 1942*, 154; Canada, *Annual Report of the Department of Indian Affairs, 1943*, 168; Canada, Annual Report of the Department of Indian Affairs, 1944, 177; Canada, Annual Report of the Department of Indian Affairs, 1945, 190; Canada, *Annual Report of the Department of Indian Affairs, 1946*, 231; Canada, *Annual Report of the De- partment of Indian Affairs, 1947*, 236; Canada, *Annual Report of the Department of Indian Affairs, 1948*, 234; Canada, *Annual Report of the Department of Indian Affairs, 1949*, 215; Canada, *Annual Report of the Department of Indian Affairs, 1950*, 86–87; Canada, *Annual Report of the Department of Indian Affairs, 1951*, 34–35; Canada, *Annual Report of the Department of Indian Affairs, 1952*,
-
-74–75; Canada, *Annual Report of the Department of Indian Affairs, 1953*, 82–83; Canada, *Annual Report of the Department of Indian Affairs, 1954*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1955*, 78–79; Canada, *Annual Report of the Department of Indian Affairs, 1956*, 76–77; Canada, *Annual Report of the Department of Indian Affairs, 1956–57*, 88–89; Canada, *Annu- al Report of the Department of Indian Affairs, 1958*, 91; Canada, *Annual Report of the Department of Indian Affairs, 1959*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1960*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1961*, 102; Canada, *Annual Report of the Department of Indian Affairs, 1962*, 73; Canada, *Annual Report of the Department of Indian Affairs, 1963*, 62.
-
-1. Canada, *Annual Report of the Department of Indian Affairs, 1883*, 96.
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6323, file 658-6, part 1, Department of Indian Affairs Inspector’s Report for the St. Barnabas, Indian Residential school, D. Hicks, 25 September 1928. [PAR-003233]
-
-3. Library and Archives Canada, RG10, volume 6205, file 468-1, part 2, S. R. McVitty to Secretary, Indian Affairs, 30 January 1928. [McVittie to Secretary, Jan 30 1928]
-
-4. TRC, NRA, Library and Archives Canada, RG10, volume 6342, file 750-1, part 1, Microfilm reel C-8699, J. D. McLean to Reverend E. Ruaux, 21 June 1915. [MRY-001517] For a similar report from the Battleford, Saskatchewan, school, see: Canada, *Annual Report of the Department of Indian Af- fairs, 1909*, 349–350. For a Manitoba example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-5, part 4, Joseph Hamilton Inspection Report, not dated. [DRS-000570]
-
-5. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 673/23-5-038, volume 1, H. L. Winter to Indian Affairs, 9 September 1932. [MRS-000138-0001]
-
-6. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. D. McLean to Rev. J. Hugonard, 30 May 1911. [PLD-007442]
-
-7. TRC, NRA, Library and Archives Canada, RG10, volume 6422, file 869-1, part 2, R. H. Cairns, in- spector to J. D. McLean, 5 January 1915. [COQ-000390]
-
-8. TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 2, “Extract from Re- port of Mr. Inspector Cairns dated September 5th and 6th, 1928 on the Alberni Indian Residential School.” [ABR-001591]
-
-9. TRC, NRA, Library and Archives Canada, RG10, volume 6001, file 1-1-1, part 3, “Department of Indian Affairs, Schools Branch,” 31 March 1935. [SRS-000279]
-
-10. For a British Columbia example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 1, A. W. Neill to A. W. Vowell, 8 July 1909. [ABR-007011-0001] For a Manitoba example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, W. M. Graham to Secretary, Indian Affairs, 4 February 1922. [ELK-000299]
-
-11. For example, a 1936 United Church document on First Nations education policy stated that the staff of all United Church schools should be composed of people who had a “Christian motive,  or, in other words, a missionary purpose coupled with skill in some particular field to teach  his specialty to the Indians.” Staff members were expected to be “closely related to and actively interested in the work of the nearest United Church,” and be acquainted with, and sympathetic to, “the religious education programme of the United Church.” Having laid out these fairly specific requirements, the policy document added that “some minimum educational qualifications for staff members should be outlined.” TRC, NRA, United Church Archives, Acc. 83.050C, box 144-21, “Statement of Policy Re Indian Residential Schools,” June 1936. [UCC-050004]
-
-12. For an example of the link between low pay and unqualified teachers, see: TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, Memorandum, 15 July
-
-Endnotes • 455
-
-456 • Truth & Reconciliation Commission
-
-1897, 4, 25. [100.00108]
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 4041, file 334503, F. H. Paget to Frank Pedley, 25 November 1908, 55. [RCA-000298]
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 1, A. W. Vowell to Secretary, Indian Affairs, 14 July 1909. [ABR-007011-0000]
-
-3. Canada, *Annual Report of the Department of Indian Affairs, 1955*, 51.
-
-4. TRC, NRA, DIAND, file 1/25-1, volume 22, R. F. Davey to Bergevin, 15 September 1959, 3. [AEMR-
-
-   019616]
-
-5. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 342–343. For other examples of the emphasis on religious training in the schools, see: Canada, Annual Report of the Department of Indian Affairs, 1887, 27–28; Canada, *Annual Report of the Department of Indian Affairs, 1910*, 433–434; Canada, *Annual Report of the Department of Indian Affairs, 1890*, 119; Canada, *Annual Report of the Department of Indian Affairs, 1900*, 323. Canada, *Annual Report of the Department of Indian Affairs, 1901*, 317, 320.
-
-6. Moine, *My Life in a Residential School*, n.p.
-
-7. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Tyler Bjornson File, ‘Presbyterian Research,’ “Presbyterian Indian Residential School Staff Handbook,” 1. [IRC-041206]
-
-8. For Kelly, see: Morley, *Roar of the Breakers*, 57, 158. For Ahenakew, see: Ahenakew, *Voices of the* Plains Cree*, 14–24. For Kennedy, see: Canada, *Annual Report of the Department of Indian Affairs, 1902*, 194. For Dion, see: Dion, *My Tribe the Crees*, 156–163. For Johnson, see: Johnston, *Buckskin & Broadcloth*, 46. For Lickers, see: “Norman Lickers First Ontario Indian Lawyer,” *Brantford Exposi- tor*, November 18, 1938, quoted in Briggs, “Legal Professionalism,” 2.
-
-9. Canada, Special Joint Committee, 1947, 747.
-
-10. TRC, AVS, David Charleson, Statement to the Truth and Reconciliation Commission of Canada, Deroche, British Columbia, 20 January 2010, Statement Number: 2011-5043.
-
-11. TRC, AVS, Isabelle Whitford, Statement to the Truth and Reconciliation Commission of Canada, Keeseekoowenin First Nation, Manitoba, 28 May 2010, Statement Number: S-KFN-MB-01-004.
-
-12. TRC, AVS, Betsy Olson, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4378.
-
-13. TRC, AVS, Leona Agawa, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 6 November 2010, Statement Number: 01-ON-4-6NOV10-006.
-
-14. Canada, *Annual Report of the Department of Indian Affairs, 1921*, 28.
-
-15. TRC, NRA, Library and Archives Canada, RG10, volume 6014, file 1-1-6 MAN, part 1, Duncan Campbell Scott to Mr. Meighen, 1 June 1920. [NCA-002403]
-
-16. Canada, Special Joint Committee, *Minutes of Evidence*, D. F. Brown Presiding, 15 April 1947, 483–484.
-
-17. Canada, Special Joint Committee, *Minutes of Evidence*, D .F. Brown Presiding, 17 April 1947, 505.
-
-18. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, “Northern Education: Facade for Failure,” *Variables: the Journal of the Sociology Club* (University of Alberta) 2, no. 1 (February 1963): 16. [NCA-005960]
-
-19. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, “Northern Education: Facade for Failure.” *Variables: the Journal of the Sociology Club* (University of Alberta) 2, no. 1 (February 1963): 17. [NCA-005960]
-
-20. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, “Northern Education: Facade for Failure.” *Variables: the Journal of the Sociology Club* (University of Alberta) 2, no. 1 (February 1963): 18. [NCA-005960]
-
-21. TRC, NRA, National Archives of Canada, RG10, volume 8760, file 901/25-1, part 2, R. F. Davey to Director, 14 March 1956, 4. [AEMR-120651]
-
-22. See, for example: TRC, NRA, DIAND, file 1/25-1 (E.10), “Report on Textbooks,” 6–9; [AE- MR-019193A] Commission Parent, *Rapport de la Commission royale d’enquête sur l’enseignement dans la province de Québec*, volume 3, *L’administration de l’enseignement*, part B, “Diversité religieuse, culturelle, et unité de l’administration,” http://classiques.uqac.ca/contemporains/ quebec_commission_parent/rapport_parent_4/rapport_parent_vol_4.pdf, paragraph 210 (accessed 7 August 2012); TRC, NRA, DIAND, file 1/25-1 (E.10), “Report on Textbooks,” 6–9; [AEMR-019193A] Vanderburgh, The Canadian Indian.
-
-23. TRC, NRA, DIAND, file 1/25-1 (E.10), “Report on Textbooks,” 1–6. [AEMR-019193A]
-
-24. TRC, AVS, Mary Courchene, Statement to the Truth and Reconciliation Commission of Canada, Pine Creek First Nation, Manitoba, 28 November 2011, Statement Number: 2011-2515.
-
-25. TRC, AVS, Lorna Cochrane, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.
-
-26. Elias, “Lillian Elias,” 51.
-
-27. See, for example: TRC, AVS, Victoria McIntosh, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-123.
-
-28. TRC, AVS, Walter Jones, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: 2011-4008.
-
-29. Pigott, “The Leadership Factory,” B3.
-
-30. Blondin-Andrew, “New Ways of Looking for Leadership,” 64.
-
-31. John Amagoalik, quoted in McGregor, *Inuit Education*, 110.
-
-32. Amagoalik, *Changing the Face of Canada*, 43–46.
-
-33. TRC, AVS, David Simailak, Statement to the Truth and Reconciliation Commission of Canada, Baker Lake, Nunavut, 15 November 2011, Statement Number: SP032.
-
-34. TRC, AVS, Roddy Soosay, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: 2011-2379.
-
-35. TRC, AVS, Martha Loon, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 25 November 2010, Statement Number: 01-ON-24NOV10-021.
-
-36. TRC, AVS, Frederick Ernest Koe, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: SC091.
-
-37. TRC, AVS, Madeleine Dion Stout, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-059.
-
-38. TRC, NRA, Library and Archives Canada, RG10, volume 6191, file 462-1, part 1, Russell T. Ferrier to George Prewer, 8 February 1922. [CRS-001015]
-
-39. Canada, *Annual Report of the Department of Indian Affairs, 1887*, 126.
-
-40. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 155.
-
-41. Canada, *Annual Report of the Department of Indian Affairs, 1886*, 139.
-
-42. Library and Archives Canada, RG10, volume 3930, file 117377-1 A, H. Reed to Bishop of Rupert’s Land, 31 May 1893.
-
-43. Wasylow, “History of Battleford Industrial School,” 467.
-
-44. Elias, “Lillian Elias,” 54–55.
-
-45. For laundry example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6207, file 468-5, part 6, S. R. McVitty to Secretary Indian Affairs, 3 January 1929. [MER-000751] For kitchen example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6058, file 265-13, part 1, J. P. Mackey to A. F. MacKenzie, 20 May 1930. [SRS-000252] For workshop example, see: TRC, NRA, Library
-
-Endnotes • 457
-
-458 • Truth & Reconciliation Commission
-
-and Archives Canada, RG10, volume 6219, file 471-13, part 1, Russell T. Ferrier to J. Howitt, 13 June
-
-\1932. [AGA-000069]
-
-1. For an example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, A. F. MacKenzie to G. Leonard, 6 May 1936. [PLD-006119]
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, A. F. MacKenzie to William Hall, 18 May 1936. [PLD-000750]
-
-3. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, William Hall to Indian Affairs, 30 April 1936. [PLD-000746]
-
-4. TRC, NRA, Library and Archives Canada, RG10, volume 6255, file 576-1, part 4, R. T. Chapin to A. G. Hamilton, 10 September 1941. [BRS-000461-0001] For the boy’s age, see: TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 8, “Application for Admission,” Kenneth Smith, 1 July 1938. [BRS-002184-0007]
-
-5. TRC, NRA, Library and Archives Canada, RG10, volume 6259, file 576-23, part 1, G. C. Elwyn to RCMP, 20 April 1949. [BRS-000332]
-
-6. TRC, NRA, Library and Archives Canada, RG10, volume 6352, file 753-23, part 1, 1935–1944, Micro- film reel C-8709, Acting Director to J. T. Faunt, 18 December 1944. [EDM-003369]
-
-7. TRC, NRA, Library and Archives Canada, RG10, volume 6251, file 575-1, part 3, R. A. Hoey to A. G. Smith, 24 September 1942. [BIR-000272]
-
-8. For ending of half-day system, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-5-2, volume 1, Superintendent General DIAND, “Regulations with respect to teaching, education, inspection, and discipline for Indian Residential Schools, Made and Established by the Superintendent General of Indian Affairs Pursuant to Paragraph (a) of Section 114 of the Indian Act,” 20 January 1953; [PAR-001203-0001] H. M. Jones to Deputy Minister. [PAR-001203-0000]
-
-9. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 128/25-2-575, volume 1, J. R. Bell to R. D. Ragan, 17 February 1959. [IRC-041312]
-
-10. TRC, NRA, Library and Archives Canada, RG10, volume 3674, file 11422, E. Dewdney to Thomas Clarke, 31 July 1883. [120.06668]
-
-11. TRC, NRA, Library and Archives Canada, RG10, volume 6452, file 884-1, part 1, Microfilm reel 8773, “Rules and Regulations, Kootenay Industrial School.” [AEMR-011621A]
-
-12. Library and Archives Canada, RG10, volume 3836, file 68557, H. Reed, Suggestions for the Govern- ment of Indian schools, 27 January 1890.
-
-13. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 248–249.
-
-14. Canada, *Annual Report of the Department of Indian Affairs, 1887*, 128.
-
-15. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 345.
-
-16. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 355.
-
-17. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 302.
-
-18. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 457.
-
-19. TRC, NRA, St. Paul’s Archives, Acts of Canonical Visitation, 1883–1966, Stacks 2L, Acte Général de Visite des Missions Indiennes du Nord-Ouest Canadien par le T.R.P. Théodore Labouré, O.M.I., Supérieur Géneral, Rome Maison Générale, 45. [OMI-034614]
-
-20. Wasylow, “History of Battleford Industrial School,” 449.
-
-21. Moran, *Stoney Creek Woman*, 58.
-
-22. Callahan, “On Our Way to Healing,” 68.
-
-23. Graham, *Mush Hole*, 368.
-
-24. Provincial Archives of British Columbia, Transcript Disc #182, Mary Englund, interviewed by Mar-
-
-garet Whitehead, 31 July 1980, PABC No. 3868.
-
-1. Graham, *Mush Hole*, 449.
-
-2. TRC, AVS, Arthur Ron McKay, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-044.
-
-3. TRC, AVS, Peter Nakogee, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-4-6NOV10-023. (Translated from Swampy Cree to English by Translation Bureau, Public Works and Government Services Canada, 8961944_002.)
-
-4. TRC, AVS, Meeka Alivaktuk (translated from Inuktitut), Statement to the Truth and Reconciliation Commission of Canada, Pangnirtung, Nunavut, 13 February 2012, Statement Number: SP045.
-
-5. TRC, AVS, Sam Kautainuk (translated from Inuktitut), Statement to the Truth and Reconciliation Commission of Canada, Pond Inlet, Nunavut, 7 February 2012, Statement Number: SP044.
-
-6. TRC, AVS, Greg Rainville, Statement to the Truth and Reconciliation Commission of Canada, Sas- katoon, Saskatchewan, 22 June 2012, Statement Number: 2011-1752.
-
-7. TRC, AVS, William Herney, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 29 October 2011, Statement Number: 2011-2923.
-
-8. TRC, AVS, Alphonsine McNeely, Statement to the Truth and Reconciliation Commission of Cana- da, Fort Good Hope, Northwest Territories, 13 July 2010, Statement Number: 01-NWT-JY10-002.
-
-9. TRC, AVS, Pierrette Benjamin, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 6 March 2013, Statement Number: SP105.
-
-10. TRC, AVS, John Kistabish (translated from French), Statement to the Truth and Reconciliation Commission of Canada, Montréal, Québec, 26 April 2013, Statement Number: 2011-6135.
-
-11. Snow, *These Mountains Are Our Sacred Places*, 110.
-
-12. TRC, AVS, Andrew Bull Calf, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 10 October 2013, Statement Number: 2011-0273.
-
-13. TRC, AVS, Evelyn Kelman, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 10 October 2013, Statement Number: SP128.
-
-14. TRC, AVS, Marilyn Buffalo, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.
-
-15. TRC, AVS, Sarah McLeod, Statement to the Truth and Reconciliation Commission of Canada, Kamloops, British Columbia, 8 August 2009, Statement Number: 2011-5009.
-
-16. TRC, NRA, Library and Archives Canada, RG10, volume 7936, file 32-104, J. W. House to G. H. Gooderham, 26 January 1942. [OLD-004156-0001]
-
-17. TRC, NRA, Library and Archives Canada, 875-1, part 4, volume 6426, 1937–1947, NAC, F. E. Anfield to Ex-Pupils & Graduates of the Kwawkewlth Agency, 6 April 1943. [MIK-002742-0001]
-
-18. Thaddee Andre (translated from French), Statement to the Truth and Reconciliation Commission of Canada, Montréal, Québec, 25 April 2013, Statement Number: 2011-6068.
-
-19. See, for example, the brief that the Canadian Catholic Conference submitted to the Joint Committee of the Senate and House of Commons on Indian Affairs in 1960. TRC, NRA, No document source, no document location, “CCC Brief on Indian Welfare and Education,” *Indian Record*, June 1960, 3. [BVT-001818]
-
-20. TRC, AVS, Alex Alikashuak, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-137.
-
-21. Canadian Welfare Council, *Indian Residential Schools*, 100.
-
-22. TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B56 2429, J. Weitz, “Report on the use of the language, history and customs of the Blood Indians in the classes of Level I, during the school year
-
-Endnotes • 459
-
-460 • Truth & Reconciliation Commission
-
-1968–69,” 30 June 1969. [OGP-023347]
-
-1. For an example from British Columbia, see: TRC, NRA, No document location, no document file source, 958/25-13, volume 3, J. A. Andrews to R. F. Davey, 28 June 1966. [ABR-000402]
-
-2. Canada, *Annual Report of the Department of Indian Affairs, 1974–1975*, 32–33.
-
-3. TRC, AVS, Rose Dorothy Charlie, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 27 May 2011, Statement Number: 2011-1134.
-
-4. TRC, AVS, Joline Huskey, Statement to the Truth and Reconciliation Commission of Canada, Behchoko, Northwest Territories, 15 April 2011, Statement Number: 2011-0231.
-
-5. TRC, AVS, Bruce R. Dumont, Statement to the Truth and Reconciliation Commission of Canada, Batoche, Saskatchewan, 23 July 2010, Statement Number: 01-SK-18-25JY10-013.
-
-6. Canada, House of Commons Debates (22 May 1888), 1681.
-
-7. Library and Archives Canada, RG10, volume 6816, file 486-2-5, part 1, H. Reed to J. Hugonnard, 13 June 1890.
-
-8. Canada, *Annual Report of the Department of Indian Affairs, 1896*, xxxviii.
-
-9. See, for examples: Canada, *Annual Report of the Department of Indian Affairs, 1894*, 151; Canada, Annual Report of the Department of Indian Affairs, 1894*, 193–194; Canada, *Annual Report of the* Department of Indian Affairs, 1897*, 284.
-
-10. TRC, NRA, Library and Archives Canada, RG10, volume 1347, Microfilm reel C-13916, P. Claessen to W. R. Robertson, 17 August 1909. [KUP-004235]
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1909*, 420.
-
-12. Library and Archives Canada, RG10, volume 3881, file 934189, M. Begg to A. Forget, 23 February 1895.
-
-13. TRC, NRA, Library and Archives Canada, RG10, volume 6318, file 657-1, part 1, A. E. Forget to Indian Agent, Touchwood Hills, 31 January 1896. [MDD-000851]
-
-14. TRC, NRA, Library and Archives Canada, RG10, volume 6326, file 659-10, part 1, J. E. Pratt to Philip Phelan, 15 June 1936. [ORC-006021]
-
-15. Library and Archives Canada, RG10, volume 6816, file 486-2-5, part 1, Extract Presbytery of Winnipeg, Committee on Indian Work, R. J. MacPherson, 9 September 1922.
-
-16. Montour, *Brown Tom’s School Days*, 26.
-
-17. Brass, *I Walk in Two Worlds*, 25.
-
-18. Brass, *I Walk in Two Worlds*, 25–26.
-
-19. Moran, *Stoney Creek Woman*, 53–54.
-
-20. Quoted in Krech, “Nutritional Evaluation,” 186.
-
-21. Quoted in Krech, “Nutritional Evaluation,” 186.
-
-22. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 114.
-
-23. TRC, NRA, Library and Archives Canada, RG10, volume 3918, file 116659-1, John F. Smith to Assistant Deputy and Secretary, Indian Affairs, 29 March 1918. [AEMR-255360]
-
-24. TRC, NRA, Library and Archives Canada, RG10, FA 10-13, volume 3918, Microfilm reel C-10161, file 116.659-1, 1892–1920, Spec. Claims Kamloops Agency: General Correspondence Pertaining to Kamloops Industrial School, F. V. Agnew to Indian Affairs, 4 June 1918. [KAM-009763]
-
-25. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, to J. D. McLean, 15 July 1897. [100.00109]
-
-26. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 3, Frank Edwards to the Secretary, Indian Affairs Branch, 26 June 1939. [IRC-048013]
-
-27. For examples just from the 1920s, see: TRC, NRA, Library and Archives Canada, RG10, volume 3933, file 117657-1, Microfilm reel C-10164, W. M. Graham to Duncan C. Scott, 1 October 1914;
-
-[AEMR-013533] TRC, NRA, Library and Archives Canada, RG10, volume 6348, file 752-1, part 1, 1894–1936, Microfilm reel 8705, “Extract from Nurse Ramage’s report, November 1921”; [CFT- 000156-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6348, file 752-1, part 1, 1894–1936, Microfilm reel 8705, “Extract of report of G. H. Gooderham, for month of October 1921”; [CFT-000148] TRC, NRA, Library and Archives Canada, RG10, volume 6337, file 663-1, part 1, Russell T. Ferrier to Reverend A. Watelle, 31 January 1922; [THR-000149] TRC, NRA, Library and Archives Canada, RG10, volume 6337, file 663-1, part 1, Russell T. Ferrier to Reverend A. Watelle, 16 February 1922; [THR-000151] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 2, “Memorandum for File,” Russell T. Ferrier, 17 March 1922; [PLD-007242] TRC, NRA, Library and Archives Canada, RG10, volume 6444, file 881-5, part 2, 1922–1924, Microfilm reel C-8767, “Extract from Inspector’s Report on the Fraser Lake Residential School, dated April 23rd and 24th, 1923”; [LEJ-003751] TRC, NRA, Library and Archives Canada, RG10, volume 6443, file 881-1, part 1, N. Coccola to J. D. McLean, 22 June 1923; [LEJ-001012] TRC, NRA, Library and Ar- chives Canada, RG10, volume 6318, file 657-1, part 1, A. F. MacKenzie to J. B. Hardinge, 21 Septem- ber 1923; [MDD-000731] TRC, NRA, Library and Archives Canada, RG10, volume 6324, file 659-5, part 2, “Onion Lake R.C. Boarding School,” 1926; [ORC-000346-0001] TRC, NRA, Library and Ar- chives Canada, RG10, volume 6252, file 575-5, part 2, A. G. Hamilton to Mr. Graham, 23 June 1927; [BIR-000079] TRC, NRA, Library and Archives Canada, RG10, volume 6252, file 575-5, part 2, W. Murison to W. Graham, 17 November 1927; [BIR-000093] TRC, NRA, Library and Archives Canada, RG10, volume 6268, file 580-14, part 1, A. F. MacKenzie to J. W. Waddy, 25 April 1927; [DRS-000574] TRC, NRA, Library and Archives Canada, volume 6268, file 580-14, part 1, J. W. Waddy to Assistant Deputy and Secretary, 6 May 1927; [DRS-000575] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. Waddy to Indian Affairs, 24 November 1928; [DRS-000564] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, Inspection report, 31 October 1929. [DRS-000566]
-
-1. TRC, NRA, No document location, no document file source, T. M. Kennedy to Reverend Father Provincial, 2 December 1937. [OKM-000248]
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6455, file 884-14, part 1, Microfilm reel C-8777, “Extract from report of Inspector Cairns, Dated Nov. 9, 1922, on the Kuper Island Industrial School.” [KUP-003836-0000]
-3. TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, W. Murison to Indian Affairs, 2 June 1925. [ELK-000330]
-4. Health Canada, Food and Nutrition, Canada’s Food Guides from 1942 to 1992, http://www.hc-sc. gc.ca/fn-an/food-guide-aliment/context/fg_history-histoire_ga-eng.php#fnb9 (accessed 14 De- cember 2013).
-5. TRC, NRA, Library and Archives Canada, RG10, volume 6306, file 652-5, part 6, L. B. Pett to P. E. Moore, 8 December 1947. [SMD-001897-0000]
-6. TRC, NRA, Library and Archives Canada, RG10, 8796, file 1/25-13, part 4, L. B. Pett to H. M. Jones, 21 March 1958. [NPC-400776]
-7. TRC, NRA, Headquarters, 1/25-1-4-1, Indian Education – Dietary Scale, Residential Schools, K. A. Feyrer, G. C. Butler, 22 December 1966. [LOW-002326-0004]
-8. TRC, NRA, Unknown document location, file 901/25-13, Gerald Michaud, 1 April 1969. [120.08100C]
-9. TRC, NRA, Library and Archives Canada, RG29, volume 2990, file 851-6-4, part 5a, L. Leclerc to A/ Regional Director, Manitoba Region, 26 November 1970. [NPC-605542]
-10. TRC, AVS, Daisy Diamond, Statement to the Truth and Reconciliation Commission of Canada,
-
-Endnotes • 461
-
-462 • Truth & Reconciliation Commission
-
-Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.
-
-1. TRC, AVS, Dora Fraser, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-012.
-
-2. TRC, AVS, Ellen Okimaw, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON-4-6NOV10-022.
-
-3. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510.
-
-4. TRC, AVS, Bernard Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Fort Albany, Ontario, 29 January 2013, Statement Number: 2011-3180. (Translated from Cree to English by Translation Bureau, Public Works and Government Services Canada, 8961944_003.)
-
-5. “Nun Forced Native Students to Eat Their Own Vomit,” *Edmonton Journal*, 25 June 1999.
-
-6. TRC, AVS, Simon Awashish, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104.
-
-7. TRC, AVS, Woodie Elias, Statement to the Truth and Reconciliation Commission of Canada, Fort McPherson, Northwest Territories, 12 September 2012, Statement Number: 2011-0343.
-
-8. TRC, AVS, Dorothy Nolie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 20 October 2011, Statement Number: 2011-3294.
-
-9. TRC, AVS, Nellie Trapper, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-16JU10-086.
-
-10. TRC, AVS, Inez Dieter, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.
-
-11. TRC, AVS, Gladys Prince, Statement to the Truth and Reconciliation Commission of Canada, Brandon, Manitoba, 13 October 2011, Statement Number: 2011-2498. (Translated from Ojibway to English by Translation Bureau, Public Works and Government Services Canada, 8956132.)
-
-12. TRC, AVS, Frances Tait, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3974.
-
-13. TRC, AVS, Hazel Bitternose, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 17 January 2012, Statement Number: SP036.
-
-14. Sadowski, “Preliminary Report on the Investigation,” 7–8.
-
-15. TRC, LACAR, Library and Archives Canada, Ottawa, RG29, Department of Health fonds, Medical Services sous-fonds, Medical Services Branch Central Registry File series, Administrative Records from Blocks 800 to 849 sub-series, finding aid 29-143, Perm. volume 2622, file 800-4-9, file volume 1, file dates 09/1952 to 11/1976, file name “Records Retirement,” *Indian and Northern Health Services Administrative Circular 57-66*, Destruction and Retention of Documents, P. E. Moore, 7 August 1957. [46a-c000301-d0008-001]
-
-16. For an example, see: Canada, *Annual Report of the Department of Indian Affairs, 1893*, 91–97.
-
-17. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-23, part 1, A. F. MacKenzie to Indian Agents, Principals of Indian Residential Schools, 17 April 1935. [SBR-001147-0000] Under this policy, the principal was to inform the Indian agent of the death of a student. The agent was then to convene and chair a three-person board of inquiry. The two other members of the board were to be the principal and the physician who attended the student. The board was to complete a form provided by Indian Affairs that requested information on the cause of death and the treatment provided to the child. Parents were to be notified of the inquiry and given the right to attend or have a representative attend the inquiry to make a statement. However, an inquiry was not to be delayed for more than seventy-two hours to accommodate parents. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-23, part 1, Indian Affairs Memorandum, 17 April
-
-\1935. [SBR-001147-0001]
-
-1. See, for examples: TRC, NRA, Anglican Church of Canada, General Synod Archives, Anglican Church of Canada, GS-75-103, B17, Minutes of meeting of Indian and Eskimo Commission Held on Tuesday, January 11th, 1927, 11; [AAC-083001] St. Boniface Historical Society, Archives De- schâtelets, L 541 M27L 266, Brachet to père provincial, 20 October 1928.
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6302, file 650-23, part 2, Inspector, Com- manding Prince Albert Sub-Division to The Officer in Charge, RCMP, Regina, Saskatchewan, 10 September 1942. [BVL-000822]
-
-3. For discussions of the health conditions on the Prairies and the federal government’s failure to meet its Treaty commitments, see: Carter, *Lost Harvests*; Daschuk, *Clearing the Plains*; and Lux, *Medicine that Walks*. For food and Treaties, see: Miller, *Skyscrapers Hide the Heavens*, 228–230.
-
-4. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, to J. D. McLean, 15 July 1897. [100.00109]
-
-5. Canada, *Annual Report of the Department of Indian Affairs, 1904*, 204.
-
-6. TRC, NRA, Library and Archives Canada, RG10, volume 6012, file 1-1-5A, part 2, R. A. Hoey to Dr. McGill, 31 May 1940. [BIR-000248] For date of Hoey’s appointment, see: Manitoba Historical Soci- ety, Memorable Manitobans: Robert Alexander Hoey (1883–1965), http://www.mhs.mb.ca/docs/ people/hoey_ra.shtml (accessed 21 December 2013).
-
-7. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 6-21-1, volume 4, control 25-2, The National Association of Principals and Administrators of Indian Residences Brief Presented to the Department of Indian Affairs and Northern Development as requested by Mr. E. A. Cote, Deputy Minister, prepared in 1967, presented 15 January 1968. [NCA-011495]
-
-8. TRC, NRA, Library and Archives Canada, RG10, volume 13033, file 401/25-13, volume 1, R. F. Dav- ey to H. B. Rodine, 5 February 1968. [AEMR-014634]
-
-9. For Beauval fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, Louis Mederic Adam to Indian Affairs, 22 September 1927. [BVL-000879] For Cross Lake fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. MacNamara, 8 March 1930; [CLD-000933-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930. [CLD-000934]
-
-10. For deaths, see: Stanley, “Alberta’s Half-Breed Reserve,” 96–98; Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, O. Charlebois to Duncan Scott, 21 September 1927; [BVL-000874] Louis Mederic Adam to Indian Affairs, 22 September 1927; [BVL-000879] TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. McNamara, 8 March 1930; [CLD-000933-0000] William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930; [CLD-000934] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 675/6-2-018, volume 2, D. Greyeyes to Indian Affairs, 22 June 1968. [GDC-005571]
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1906*, 274–275.
-
-12. Bryce, *Report on the Indian Schools*, 18.
-
-13. Bryce, *Report on the Indian Schools*, 17.
-
-14. Bryce, *Report on the Indian Schools*, 18.
-
-15. For details, see: Canada, *Annual Report of the Department of Indian Affairs, 1904*, xxvii–xxviii; TRC, NRA, Library and Archives Canada, MG17, B2, Class ‘G’ C.1/P.2, Church Missionary Society, “Resolutions Regarding the Administration of the North-West Canada Missions,” 7 April 1903; [PAR-003622] Blake, *Don’t you hear*; TRC, NRA, Library and Archives Canada, RG10, volume 3928, file 117004-1, “Report on Indian Missions and Schools,” Presented to the Diocesan Synod,
-
-Endnotes • 463
-
-464 • Truth & Reconciliation Commission
-
-Diocese of Calgary, J. W. Tims, August 1908; [OLD-008159] The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 5, file 68, “Report of the Synod’s Commission on Indian Affairs,” 5 December 1904; [RIS-000246] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Reverend and dear sirs, 21 March 1908; [AEMR-120155] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Frank Pedley to Norman Tucker, 26 March 1909; [AAC-090228] Archives of Saskatchewan, MacKay Papers, Frank Oliver, “Letter to S. H. Blake, 28 January, 1908,” quoted in Wasylow, “History of Battleford Industrial School,” 225–226; Anglican Church General Synod Archives, 75-103, series 2-14, Frank Oliver to A. G. G., 28 January 1908, quoted in Gull, “‘Indian Policy,’” 15; TRC, NRA, An- glican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Letter signed by S. H. Blake, Andrew Baird, Hamilton Cassels, T. Ferrier, R. F. MacKay, 22 May 1908; [AAC-090192] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Frank Oliver, 9 April 1908; [AEMR-120157] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, “Report of the Sub-Com- mittee of the Advisory Board On Indian Education,” n.d.; [AAC-090231] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, J. B. Magnan to D. Laird, 12 December 1902; [SBR-003409] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, Clif- ford Sifton to Governor General in Council, 23 December 1903; [FAR-000095] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Mr. Oliver, 30 May 1908; [120.00294] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. Hugonnard to Frank Oliver, 28 March 1908; [PLD-007334] TRC, NRA, Library and Archives Cana- da, RG10, volume 6039, file 160-1, part 1, Superintendent General of Indian Affairs to T. Ferrier, 18 July 1908; [AEMR-016328] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Heron to Frank Oliver, 16 February 1909; [AEMR-120164] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-4, part 1, Association of Indian Workers to Frank Oliver, 19 February 1909; [AEMR-016332] TRC, NRA, Library and Archives Canada, RG10, FA 10-17, volume 6041, file 160-5, part 1, 1905–1934, Emile Legal to Frank Pedley, 20 July 1908; [AEMR-254243] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Arthur Barner to S. H. Blake, 16 February 1909. [AAC-090206]
-
-1. Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, *Correspondence and Agree- ment Relating to the Maintenance and Management of Indian Boarding Schools* (Ottawa: Govern- ment Printing Bureau, 1911). [AEMR-120208A]
-
-2. For examples, see: TRC, NRA, Library and Archives Canada, RG10, volume 6113, file 350-23, part 1, H. A. Alderwood to Percy Moore, 25 January 1946; [FGA-001121] TRC, NRA, No document location, no file source, 988/23-9, p. 2, 1947–48, R. H. Moore to Indian Affairs Branch, 30 June 1948; [KUP-001240] TRC, NRA, Library and Archives Canada, RG10, volume 6279, file 584-10, part 4, R. S. Davies to Indian Affairs, 3 October 1951; [SBR-004545-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 5, P. E. Moore to Superintendent, Welfare and Train- ing Division, 23 December 1940. [LEJ-002117]
-
-3. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 173.
-
-4. Library and Archives Canada, RG10, volume 3674, file 11422-5, H. Reed to Deputy Superintendent General of Indian Affairs, 13 May 1891.
-
-5. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, H. J. Denovan, 1 May 1901. [EDM-009805]
-
-6. For Regina, see: TRC, NRA, Library and Archives Canada, RG10, volume 3927, file 116836-1A, J. A. Graham to J. A. Sinclair, 2 February 1904. [RIS-000075] For Onion Lake, see: TRC, NRA, Library
-
-and Archives Canada, RG29, volume 2915, file 851-1-A671, part 1a, Lang Turner to Secretary, Indian Affairs, 31 October 1921. [NPC-602633] For Mission, see: TRC, NRA, Library and Archives Canada, RG10, volume 6470, file 890-5, part 2, A. O’N. Daunt, 18 December 1924. [MIS-004992] For Muncey, see: TRC, NRA, Library and Archives Canada, RG10, volume 6207, file 468-5, part 7, A. F. MacKenzie to K. J. Beaton, 9 July 1935. [MER-000845]
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 6305, file 652-1, part 1, J. McArthur to Secretary, Indian Affairs, 5 July 1909; [SMD-001186] 6 July 1909. [SMD-001187]
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956]
-
-3. TRC, NRA, Library and Archives Canada, RG10, volume 6041, file 160-5, part 1, “Memorandum of the Convention of the Catholic Principals of Indian Residential Schools held at Lebret, Saskatche- wan, August 28 and 29, 1924.” [200.4.00016]
-
-4. For an example from the Sarcee Reserve school, see: TRC, NRA, Library and Archives Canada, RG29, volume 3403, file 823-1-A772, T. J. Fleetham to Secretary, Indian Affairs, 4 March 1915. [NPC-604045a] For an example from the High River school, see: Provincial Archives of Alberta, Ob- lates of Mary Immaculate, école Dunbow, Boîte 80, #3381, Journal quotidien de l’école Dunbow, 18 January 1916, quoted in Pettit, “‘To Christianize and Civilize,’” 254.
-
-5. For concerns about hospitals from the 1940s, see: TRC, NRA, Library and Archives Canada, RG29, volume 2905, file 851-1-A486, part 1, P. E. Moore to B. T. McGhie, 19 February 1942. [NPC-620532] For overall concerns regarding care in British Columbia school infirmaries in 1960, see: TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 8697, file 957/6-1, part 3, P. E. Moore to H. M. Jones, 22 July 1960. [MIS-000240]
-
-6. For complaints from the Winnipeg, Manitoba, school, see: TRC, NRA, Library and Archives Canada, RG10, volume 8797, file 1/25-13, part 10, André Renaud to R. F. Davey, 10 August 1959. [NRD-300276] For complaints from the Roman Catholic school in The Pas, Manitoba, see: TRC, NRA, Library and Archives Canada, RG29, volume 2915, file 851-1-A578, part 3, P. E. Moore to Regional Superintendent, Central Region, INHS, 15 May 1961. [NPC-602638] For complaints from the La Tuque, Québec, school, see: TRC, NRA, Quebec Regional Service Centre – LAC – Québec City, Acc. 81-116, box 303441, file 377/17-1, J. E. DeWolf to R. L. Boulanger, 21 January 1965. [LTR- 001513-0005] For concerns from the Roman Catholic school in Cardston, Alberta, see: TRC, NRA, Provincial Archives – Alberta, PAA 71.220 B161 2419, J. E. Y. Levaque to Mr. Tully, 19 November 1967. [OGP-023087]
-
-7. Waldram, Herring, and Young, *Aboriginal Health in Canada*, 188–198; Wherrett, *Miracle of the Empty Beds*, 109–110.
-
-8. Library and Archives Canada, Canadian Tuberculosis Association, quoted in Wherrett, *Miracle of the Empty Beds*, 111.
-
-9. Library and Archives Canada, RG10, volume 3940, file 121698-13, Summary of statements made at meeting attached to correspondence, H. R. Halpin to Secretary, Indian Affairs, 16 November 1897. For Kah-pah-pah-mah-am-wa-ko-we-ko-chin’s name and his being deposed from office, see: Li- brary and Archives Canada, RG10, volume 3940, file 121698-13, Extract of a report of a Committee of the Honourable Privy Council Approved his Excellency on the 20 September 1897.
-
-10. Moine, *My Life in a Residential School*.
-
-11. Dion, *My Tribe the Crees*, 129.
-
-12. Baker, *Khot-La-Cha*, 46.
-
-13. TRC, AVS, Ray Silver, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 17 May 2011, Statement Number: 2011-3467.
-
-Endnotes • 465
-
-466 • Truth & Reconciliation Commission
-
-1. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Deline, Northwest Territories, 2 March 2010, Statement Number: 07-NWT-02MR1-002.
-
-2. Canada, *Annual Report of the Department of Indian Affairs, 1888*, xiv.
-
-3. Fraser River Heritage Park, The OMI Cemetery, http://www.heritagepark-mission.ca/omicemetery.html (accessed 4 November 2014).
-
-4. Father Allard’s diary, quoted in Cronin, Cross in the Wilderness, 219.
-
-5. TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956]
-
-6. Shanahan, *Jesuit Residential School at Spanish*, 4.
-
-7. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-12, part 1, “Burial Expenses,” J. D. McLean, no date. [PAR-008816]
-
-8. For examples from the Spanish, Ontario, school, see: Library and Archives Canada, RG10, volume 6217, file 471-1, part 1, N. Dugas to Dear Sir, 25 August 1913; [Story no 1.1.jpg] Library and Archives Canada, RG10, volume 6217, file 471-1, part 1, N. Dugas to Secretary, Indian Affairs, 2 September 1913. [Story no 1.1.6.jpg]
-
-9. Brass, *I Walk in Two Worlds*, 26.
-
-10. TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, J. H. Gordon to Superintendent, Indian Affairs, Yukon, 16 July 1958; [46b-c009024-d0015-001] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. Matas to Gordon Harris, 16 April 1958; [46a-c001040-d0010-005] TRC, LACAR, Depart- ment of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. Matas to W. L. Falconer, 22 July 1958; [46a-c001040-d0010-002] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, W. L. Falconer to Director, Indian and Northern Health Services, 24 July 1958; [46a-c001040-d0010-001] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Re- gional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. G. Jutras to Indian Commissioner, British Columbia, 26 August 1958. [46b-c009024-d0010-001]
-
-11. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 17, file 4, Colin Wasacase to Giollo Kelly, 17 November 1966. [CJC-007910] For Wenjack’s age, see: Adam, “The Lonely Death of Charlie Wenjack,” 30.
-
-12. TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 486/18-2, volume 2, box V-24-83, 06/26/1946–09/23/1975, M. J. Pierce to Indian Affairs, 23 October 1974; [FTA-001096] Edwards, “This Is about Reuniting a Family, Even in Death,” *Toronto Star*, 4 March 2011, http:// www.thestar.com/news/gta/2011/03/04/this_is_about_reuniting_a_family_even_in_death.html; Edwards, “Star Gets Action: Charlie Hunter Headed Home,” *Toronto Star*, 24 March 2011, http:// www.thestar.com/news/gta/2011/03/24/star_gets_action_charlie_hunter_headed_home.html.
-
-13. Wasylow, “History of Battleford Industrial School,” 268.
-
-14. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, D. L. Clink to Indian Commissioner, June 4 1895. [EDM-003380]
-
-15. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, H. Reed to Assistant Commissioner, 28 June 1895. [EDM-003376]
-
-16. TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, Reverend Canon
-
-Gould to Duncan Campbell Scott, 26 January 1920. [IRC-041334]
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 8542, file 51/25-1, part 2, Philip Phelan, 14 April 1953. [FAR-000067]
-
-2. Library and Archives Canada, RG10, volume 3558, file 64, part 39, David Laird to Superintendent of Indian Affairs, 13 March 1899.
-
-3. TRC, NRA, Library and Archives Canada, RG10, volume 1346, Microfilm reel C-13916, G. Donckele to W. H. Lomas, 29 December 1896. [KUP-004264]
-
-4. Audette, “Report on the Commission,” 2–7.
-
-5. Library and Archives Canada, RG10, volume 3880, file 92499, Memorandum, Hayter Reed, undated; T. Clarke, “Report of Discharged Pupils,” in Canada, Sessional Papers 1894, Paper 13, 103.
-
-6. TRC, NRA, Library and Archives Canada, RG10 (Red), volume 2771, file 154845, part 1, J. G. Ramsden to J. D. McLean, 23 December 1907. [TAY-003542]
-
-7. “Damages for Plaintiff in Miller Vs. Ashton Case,” *Brantford Expositor*, 1 April 1914.
-
-8. TRC, NRA, Anglican Church of Canada, General Synod Archives, Accession GS 75-403, series 2:15[a], box 16, [Illegible] Chairman, Indian and Eskimo Commission, Westgate, T. B. R., Field Sec- retary, Indian and Eskimo Commission, “Minutes of the Meeting of the Indian Residential School Commission held on March 18th, 1921.” [AGS-000014]
-
-9. TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6358, file 758-1, part 1, 20 August 1919 [OLD-000497]; TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758- 1, part 1, “Statement taken by Constable Wright, RNWMP, 27 November 1919”; [IRC-041330] TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6358, file 758-1, part 1, 20 August 1919; [OLD-000497] TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, Thomas Graham to W. M. Graham, 1 December 1919; [IRC-041328] TRC, NRA, Library and Ar- chives Canada, RG10, volume 6358, file 758-1, part 1, P. H. Gentleman to Canon Gould, 12 January 1920. [IRC-041335]
-
-10. TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Microfilm reel C-8762, 1890–1912, Statement of Johnny Sticks, 28 February 1902. [JOE-060004]
-
-11. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. W. Waddy to W. M. Graham, 5 October 1925. [DRS-000543-0001]
-
-12. TRC, AVS, Isabelle Whitford, Statement to the Truth and Reconciliation Commission of Canada, Keeseekoowenin First Nation, Manitoba, 28 May 2010, Statement Number: S-KFN-MB-01-004.
-
-13. TRC, AVS, Rachel Chakasim, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-4-6NOV10-019.
-
-14. TRC, AVS, Fred Brass, Statement to the Truth and Reconciliation Commission of Canada, Key First Nation, Saskatchewan, 21 January 2012, Statement Number: SP039.
-
-15. TRC, AVS, Geraldine Bob, Statement to the Truth and Reconciliation Commission of Canada, Fort Simpson, Northwest Territories, 23 November 2011, Statement Number: 2011-2685.
-
-16. TRC, AVS, William Antoine, Statement to the Truth and Reconciliation Commission of Canada, Little Current, Ontario, 12 May 2011, Statement Number: 2011-2002.
-
-17. TRC, AVS, Eva Simpson, Statement to the Truth and Reconciliation Commission of Canada, Nor- way House First Nation, Manitoba, 10 May 2011, Statement Number: 2011-0290.
-
-18. TRC, AVS, Dorothy Ross, Statement to the Truth and Reconciliation Commission of Canada, Thun- der Bay, Ontario, 25 November 2010, Statement Number: 01-ON-24NOV10-014.
-
-19. TRC, AVS, Archie Hyacinthe, Statement to the Truth and Reconciliation Commission of Canada, Kenora, Ontario, 15 March 2011, Statement Number: 2011-0279.
-
-20. TRC, AVS, Jonas Grandjambe, Statement to the Truth and Reconciliation Commission of Canada,
-
-Endnotes • 467
-
-468 • Truth & Reconciliation Commission
-
-Fort Good Hope, Northwest Territories, 15 July 2010, Statement Number: 01-NWT-JY10-024.
-
-1. TRC, AVS, Delores Adolph, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 19 May 2011, Statement Number: 2011-3458.
-
-2. TRC, AVS, Joseph Wabano, Statement to the Truth and Reconciliation Commission of Canada, Fort Albany, Ontario, 29 January 2013, Statement Number: SP099.
-
-3. TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: 2011-3314.
-
-4. TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4391.
-
-5. TRC, AVS, Nellie Trapper, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-16JU10-086.
-
-6. TRC, AVS, Wendy Lafond, Statement to the Truth and Reconciliation Commission of Canada, Batoche, Saskatchewan, 24 July 2010, Statement Number: 01-SK-18-25JY10-015.
-
-7. TRC, AVS, Don Willie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 3 August 2011, Statement Number: 2011-3284.
-
-8. Adams, “The Indians.”
-
-9. TRC, NRA, Library and Archives Canada, “Native Mission School Shut Down over Discipline Controversy,” by Margaret Loewen Reimer, *Mennonite Reporter*, Volume 19, Number 22, 13 November 1989. [PHD-000143]
-
-10. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 372/25-13-024, volume 1, C. T. Blouin and L. Poulin, to A. R. Jolicoeur, 13 October 1970. [LTR-001178-0001]
-
-11. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box R2, [Name redacted], Ronald J. Pratt and Herman Blind to [Name redacted], 8 December 1993. [IRC047202-0002]
-
-12. Library and Archives Canada, Hayter Reed Papers MG29, E 106, volume 18, Personnel H-L, J. W. Tims to Indian Commissioner, October 27, 1891.
-
-13. Library and Archives Canada, Hayter Reed Papers MG29, E 106, volume 18, Personnel H-L, L. Vankoughnet to H. Reed, 7 December 1891.
-
-14. For example, see: Library and Archives Canada, Sifton Papers, volume 19, 12129-39; 12123, J. H. Fairlie to A. Forget, 23 August 1897; A. Forget to Sifton, 30 October 1897; TRC, NRA, Library and Archives Canada, RG10, volume 6211, file 469-1, part 3, Duncan C. Scott to B. P. Fuller, 16 Novem- ber 1916. [SWK-001406]
-
-15. TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939, Police report regarding runaways from Kuper Island School,” 10 January 1939; [IRC- 040001] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939,” D. M. MacKay to Secretary, Indian Affairs Branch, Ottawa, 12 January 1939; [IRC-040007-0001] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939, Cpl S. Service, 13 January 1939; [IRC-040003] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939, Confidential Notes,” Gerald H. Barry, 13 January 1939. [IRC-040010]
-
-16. TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939,” G. H. Barry to Major D. M. MacKay, 17 January 1939; [IRC-040014] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939,” Harold McGill to Major D. M. MacKay, 27 January 1939. [IRC-040021]
-
-17. For example, see: TRC, NRA, INAC – Archival Unit – Ottawa, file 772/3-1, volume 2, 10/11–05/66, C. Pant Schmidt to Harold McGill, 17 August 1944; [IRC-047003] T. R. L. MacInnes to Director, In-
-
-dian Affairs, 25 August 1944; [IRC-047005] Sarah Elizabeth Brown, “Ex-residential School Student Files Suit,” *Whitehorse Star*, 21 April 2003; Elizabeth Asp, Jackie McLaren, Jim Sheldon, Michelle Tochacek, and Ruby Van Bibber, “Bishop’s comments invalided any apology,” Letter to the Editor, *Whitehorse Star*, 11 August 1999.
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, R. S. Davis, excerpt from Quarterly Report Ending March, 1945, on Touchwood Agency. [IRC-047128]
-
-2. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box 1A, file 22, Head Teacher [Illegible] to My Lord Bishop, 10 January 1956. [IRC-040120]
-
-3. For examples, see: TRC, NRA, Library and Archives Canada, 709/25-1-001, 1951–1961, part 2, L. C. Hunter to R. F. Davey, 30 November 1960; [IRC-040054] TRC, NRA, United Church of Canada/Vic- toria University Archives, Acc. No. 8 [Illegible].050C, box 112, file 17, Edmonton IRS – Correspon- dence 1958–60/UCC Docs Toronto, Dwight Powell to E. E. M. Joblin, 25 November 1960. [UCA- 080215] It was not until 1968 that Indian Affairs began requiring school schools superintendents to submit the names of all who had been dismissed because they had “created problems.” TRC, NRA, National Archives of Canada, Acc. E1996-97/312, Vol. 2, File 672/25-1, R.F. Davey to All School Superintendents, 7 May 1968; [120.07885] TRC, NRA, Library and Archives Canada – Burnaby Vol. 11500, File 901/1-13, pt. 1, School Establishment, 1968-1972, FA 10-138, A. H. Friesen to All District School Superintendents, 1 June 1968. [120.07891]
-
-4. TRC, NRA, Library and Archives Canada – Burnaby Vol. 11500, File 901/1-13, pt. 1, School Estab- lishment, 1968-1972, FA 10-138, A. H. Friesen to All District School Superintendents, 1 June 1968. [120.07891]
-
-5. The details of these convictions will be outlined in a forthcoming TRC report.
-
-6. Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics, from September 19, 2007, to January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015).
-
-7. Joseph Jean Louis Comeau worked there from 1959 to 1965, *R. v. Comeau*, 1988 CanLII 3839 AB QB). Martin Houston worked there from 1960 to 1962, TRC, ASAGR, Aboriginal Affairs and Northern Development Canada, Walter Rudnicki to Director, Indian Affairs, 17 August 1962; [AANDC-234696] Aboriginal Affairs and Northern Development Canada, Royal Canadian Mount- ed Police Report, Western Arctic Division, Division file number 628-626-1, code 0559, re: Martin Houston, 29 August 1962. [AANDC-234684] George Maczynski worked there from 1966 to 1967, TRC, NRA, Beaufort-Delta Education Council Warehouse, Inuvik, NWT, Payroll, 1959 to 1966 [box 1], M. Ruyant to Department of Northern Affairs and National Resources, Payroll list of employees at the hostel for September 1966, September 1966; [GHU-002427] Beaufort-Delta Education Coun- cil Warehouse, Inuvik, NWT, Payroll, 1967 to 1970 [box 1], Department of Northern Affairs and Na- tional Resources, Northern Administration: Paylist – Hostel, May 1967. [GHU-002435] Paul Leroux worked there from 1967 to 1979, TRC, ASAGR, Glenn Taylor, “Grollier Man Pleads Not Guilty to Sex Offences,” Northern News Services, 28 November 1997, http://www.nnsl.com/frames/newspa- pers/1997-11/nov28_97sex.html.
-
-8. Mandryk, “Uneasy Neighbours,” 210.
-
-9. TRC, NRA, Library and Archives Canada, RG10, volume 8798, file 371/25-13-019, part 2, R. F. Davey to William Starr, 19 July 1962; [FGA-001179] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2:15, box 24, file 3, Extract from Report on Visit of Major-General G. R. Turner to St. Paul’s Anglican Indian Residential School, Cardston, Alberta, 6–8, 1958. [AAC-090593]
-
-10. Mandryk, “Uneasy Neighbours,” 210.
-
-Endnotes • 469
-
-470 • Truth & Reconciliation Commission
-
-1. *R. v. Plint*, [1995] B.C.J. No. 3060 (B.C. S.C.); “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times–Colonist*, January 24, 2004.
-2. TRC, AVS, Jean Pierre Bellemare, Statement to the Truth and Reconciliation Commission of Cana- da, La Tuque, Québec, 5 March 2013, Statement Number: SP104.
-3. TRC, AVS, Andrew Yellowback, Statement to the Truth and Reconciliation Commission of Canada, Kamloops, British Columbia, 9 August 2009, Statement Number: 2011-5015.
-4. See, for example: TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commis- sion of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055; TRC, AVS, Myrna Kaminawaish, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 7 January 2011, Statement Number: 01-ON-06JA11-004; TRC, AVS, Percy Tuesday, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-083; TRC, AVS, Isaac Daniels, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, State- ment Number: 2011-1779.
-5. TRC, AVS, Marlene Kayseas, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035. For gifts of candy, see: TRC, AVS, Elaine Durocher, Statement to the Truth and Reconciliation Commission of Canada, Winni- peg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-059; TRC, AVS, John B. Custer, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-057; TRC, AVS, Louise Large, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 7 January 2011, Statement Number: 01-AB-06JA11-012. For field trips, see: TRC, AVS, Ben Pratt, Statement to the Truth and Recon- ciliation Commission of Canada, Regina, Saskatchewan, 18 January 2012, Statement Number: 2011-3318.
-6. See, for example: TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commis- sion of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055; TRC, AVS, Leona Bird, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4415; TRC, AVS, Barbara Ann Pahpasay Skead, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-159.
-7. TRC, AVS, Josephine Sutherland, Statement to the Truth and Reconciliation Commission of Cana- da, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON4-6NOV10-013.
-8. TRC, AVS, Marie Therese Kistabish, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 6 February 2012, Statement Number: SP101.
-9. TRC, AVS, Richard Morrison, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-080.
-10. For shower, see: TRC, AVS, Leonard Peter Alexcee, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: 2011-3228. For lunch pail, see: TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconcili- ation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011- 4391.
-11. TRC, AVS, Donna Antoine, Statement to the Truth and Reconciliation Commission of Canada, Enderby, British Columbia, 13 October 2011, Statement Number: 2011-3287.
-12. TRC, AVS, Helen Harry, Statement to the Truth and Reconciliation Commission of Canada, Van- couver, British Columbia, 20 September 2013, Statement Number: 2011-3203.
-13. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada,
-
-Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510; TRC, AVS, Doris Judy McKay, Statement to the Truth and Reconciliation Commission of Canada, Rolling River First Nation, Manitoba, 23 November 2011, Statement Number: 2011-2514.
-
-1. TRC, AVS, Timothy Henderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 28 June 2011, Statement Number: 2011-0291.
-2. TRC, AVS, Nellie Ningewance, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0305.
-3. TRC, AVS, Flora Northwest, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 24 July 2013, Statement Number: SP124.
-4. For examples, see: TRC, AVS, Hazel Mary Anderson, Statement to the Truth and Reconcilia- tion Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB- 18JU10-034; TRC, AVS, Peter Ross, Statement to the Truth and Reconciliation Commission of Canada, Tsiigehtchic, Northwest Territories, 8 September 2011, Statement Number: 2011-0340.
-5. TRC, AVS, Eric Robinson, Statement to the Truth and Reconciliation Commission of Canada, Win- nipeg, Manitoba, 16 June 2010, Statement Number: SC093.
-6. TRC, AVS, Lynda Pahpasay McDonald, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-130.
-7. For examples, see: TRC, AVS, Larry Roger Listener, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125; TRC, AVS, Mary Vivier, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manito- ba, 18 June 2010, Statement Number: SC110.
-8. TRC, AVS, Louisa Papatie, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 6 February 2012, Statement Number: SP101. For an example of abuse stopping as students became older, see: Fontaine, *Broken Circle*, 18–19.
-9. For examples, see: TRC, AVS, Ken A. Littledeer, Statement to the Truth and Reconciliation Com- mission of Canada, Thunder Bay, Ontario, 26 November 2010, Statement Number: 01-ON-24- NOV10-028; TRC, AVS, Sphenia Jones, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 29 November 2011, Statement Number: 2011-3300.
-10. TRC, AVS, Lawrence Waquan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.
-11. TRC, AVS, Hazel Mary Anderson, Statement to the Truth and Reconciliation Commission of Cana- da, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-034.
-12. TRC, AVS, Wayne Reindeer, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.
-13. TRC, AVS, Michael Muskego, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-045.
-14. TRC, AVS, Josephine Sutherland, Statement to the Truth and Reconciliation Commission of Cana- da, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON4-6NOV10-013.
-15. TRC, AVS, Norman Courchene, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-065.
-16. For examples, see: TRC, AVS, Ben Pratt, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 18 January 2012, Statement Number: 2011-3318; TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3975.
-17. TRC, AVS, Violet Rupp Cook, Statement to the Truth and Reconciliation Commission of Canada, Bloodvein First Nation, Manitoba, 25 January 2012, Statement Number: 2011-2565.
-
-Endnotes • 471
-
-472 • Truth & Reconciliation Commission
-
-1. For examples, see: TRC, AVS, Ivan George, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 18 May 2011, Statement Number: 2011-3472; TRC, AVS, Dorothy Jane Beaulieu, Statement to the Truth and Reconciliation Commission of Canada, Fort Resolution, Northwest Territories, 28 April 2011, Statement Number: 2011-0379; TRC, AVS, Lorna Morgan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-041.
-
-2. Ruben, “Abraham Ruben,” 136.
-
-3. For examples, see: TRC, AVS, Stella Marie Tookate, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-8- 10NOV10-003; TRC, AVS, Richard Hall, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: 2011-1852.
-
-4. TRC, AVS, William Garson, Statement to the Truth and Reconciliation Commission of Canada, Split Lake First Nation, Manitoba, 24 March 2011, Statement Number: 2011-0122.
-
-5. TRC, AVS, Percy Thompson, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.
-
-6. TRC, AVS, Alice Ruperthouse, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 5 February 2012, Statement Number: SP100.
-
-7. TRC, AVS, Albert Elias, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 1 July 2011, Statement Number: SC092.
-
-8. TRC, AVS, Denis Morrison, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-028.
-
-9. TRC, AVS, Bob Baxter, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 24 November 2010, Statement Number: 01-ON-24NOV10-012.
-
-10. TRC, AVS, Clara Quisess, Statement to the Truth and Reconciliation Commission of Canada, Win- nipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-032.
-
-11. TRC, AVS, Louisa Birote, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104.
-
-12. See, for example: TRC, AVS, Ruth Chapman, Statement to the Truth and Reconciliation Commis- sion of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-118; TRC, AVS, Gordon James Pemmican, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-0069; TRC, AVS, Mary Vivier, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-082; TRC, AVS, Roy Johnson, Statement to the Truth and Reconciliation Commission of Canada, Dawson City, Yukon, 24 May 2011, Statement Number: 2011-0203; TRC, AVS, Ken Lacquette, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-052.
-
-13. TRC, AVS, Agnes Moses, Statement to the Truth and Reconciliation Commission of Canada, Inu- vik, Northwest Territories, 29 June 2011, Statement Number: SC090.
-
-14. TRC, AVS, Don Willie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 3 August 2011, Statement Number: 2011-3284.
-
-15. TRC, AVS, Christina Kimball, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 January 2011, Statement Number: 03-001-10-020.
-
-16. TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: 2011-3314.
-
-17. TRC, AVS, Geraldine Shingoose, Statement to the Truth and Reconciliation Commission of Cana- da, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-033.
-
-18. TRC, AVS, Paul Andrew, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.
-
-19. TRC, NRA, National Archives of Canada – Burnaby, FA 10-138, 07/1956, Perm. volume 13528, C. G. Brown, G. J. Buck, B. O. Filteau, “Report of the Educational Survey Commission on the Educational Facilities and Requirements of the Indians of Canada,” July 1956, 10. [120.18398]
-
-20. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 8703, file 962/6-1, part 7, NAC – Ottawa, L. K. Poupore to H. M. Jones, 14 October 1957. [JOE-063234]
-
-21. TRC, NRA, INAC – Departmental Library – Ottawa, “St. Michael’s Indian School Wins Service Club Trophy,” The Indian Record, April 1946. [SMD-002822]
-
-22. TRC, NRA, Library and Archives Canada, RG10, volume 8610, file 652/1-13, part 1, George Roussel to B. F. Neary, 25 March 1949. [SMD-001575-0001]
-
-23. TRC, NRA, Library and Archives Canada, RG10, volume 8610, file 652/1-13, part 1, Geo.-L. Roussel to B. F. Neary, 25 March 1949. [SMD-001575-0001]
-
-24. Marks, *They Call Me Chief*, 31. Sasakamoose played with the Chicago Blackhawks in the 1952–53 season. He was born on the Sandy Lake, Saskatchewan, reserve in 1933. TRC, NRA, INAC – Depart- mental Library – Ottawa, “Saskatchewan Midget Hockey Champions,” Indian Record, Volume 12, Number 5, May 1949. [SMD-002829]
-
-25. TRC, NRA, Library and Archives Canada, RG29, volume 792, file 344, Pratt, Gerry. “Little Indians Are Big Fighters,” in the *Vancouver Sun Magazine Supplement*, 31 March 1951. [NPC-600625]
-
-26. TRC, NRA, INAC – Departmental Library – Ottawa, “First Winner of the Tom Longboat Trophy,” *The Indian Missionary Record*, Volume 15, Number 3, March 1952, 3. [IMR-000400]
-
-27. Hughes, *Jackson Beardy*, 6–7.
-
-28. MacGregor, *Chief*, 34–35.
-
-29. Canadien, *From Lishamie*, 253–254.
-
-30. Canadien, *From Lishamie*, 264–265.
-
-31. For an example from the Presbyterian school at Shoal Lake, see: TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, “Report of Inspector Semmens on the Cecilia Jaffrey [sic] Boarding School,” 22 January 1917. [IRC-048048]
-
-32. Library and Archives Canada, RG10, volume 4041, file 334503, Duncan Campbell Scott to Frank Pedley, 19 February 1912, cited in Wasylow, “History of Battleford Industrial School,” 261–263. For Battleford capacity, see: Canada, *Annual Report of the Department of Indian Affairs, 1907*, 341.
-
-33. Canada, *Annual Report of the Department of Indian Affairs, 1915*, xxvi.
-
-34. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 297; Canada, *Annual Report of* *the Department of Indian Affairs, 1910*, 474; TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B16 668, unsigned letter to J. T. McNally, 22 February 1922. [OGP-090011]
-
-35. Canada, *Annual Report of the Department of Indian Affairs 1906*, 191; Canada, *Annual Report of the* *Department of Indian Affairs, 1907*, xxxiii.
-
-36. For St. Boniface closing, see: Canada, *Annual Report of the Department of Indian Affairs, 1905*, xxxiii; Canada, *Annual Report of the Department of Indian Affairs, 1906*, 191. For difficulty in recruiting, see: Canada, *Annual Report of the Department of Indian Affairs, 1896*, 362. For Calgary closing, see: Canada, *Annual Report of the Department of Indian Affairs, 1908*, 197. For Calgary recruiting problem, see: Canada, *Annual Report of the Department of Indian Affairs, 1904*, 375. For Regina closing, see: Canada, *Annual Report of the Department of Indian Affairs, 1910*, 364. For evi- dence of Indian Affairs’ dissatisfaction with the management of the Regina school, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 1, W. M. Graham to Secretary, Indian Affairs, 17 November 1910. [RLS-000027] For the Elkhorn school, see: TRC, NRA, Library
-
-Endnotes • 473
-
-474 • Truth & Reconciliation Commission
-
-and Archives Canada, RG10, volume 3925, file 116823-1A, Clerk of the Privy Council to Super- intendent General, Indian Affairs, 18 February 1918. [ELK-000248] For the Red Deer school, see: TRC, NRA, Library and Archives Canada, RG10, volume 6350, file 753-1, part 1, J. F. Woodsworth to James Endicott, 5 June 1919. [EDM-000242]
-
-1. The government actually closed day schools in an effort to force parents to send their children to residential schools. Canada, *Annual Report of the Department of Indian Affairs, 1895,* xxi–xii.
-2. For examples of the withholding of rations, see: TRC, NRA, Library and Archives Canada, RG10, volume 1629, A. J. McNeill to D. Laird, 10 December 1901; [SAR-000404] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 658-1, part 1, David Laird to Secretary, Indian Affairs, 3 April 1906; [PAR-000980-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 658-1, part 1, Microfilm reel C-9802, M. Benson to Deputy Superintendent General, Indian Affairs, 21 February 1907. [120.00284]
-3. TRC, NRA, Library and Archives Canada, RG10, volume 6475, file 918-1, part 1, [Illegible], Office of the General Superintendent, Oblate Catholic Indian Missions to Philip Phelan, 21 October 1941. [FPU-000133]
-4. TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6352, file 753-10, part 1, Microfilm reel C-8708, P. Phelan to J. F. Woodsworth, 22 January 1941; [EDM-003580]
-5. TRC, NRA, Library and Archives Canada, RG10, volume 1346, Microfilm reel C-13916, G. Donckele to W. R. Robertson, 23 July 1906. [KUP-004276]
-6. TRC, NRA, English Language Summary of the Fort Resolution Chronicles, Volume 1, 1903–1942, 3. [GNN-000077-0001]
-7. TRC, NRA, Library and Archives Canada, RG10, Perm. volume 6451, file 883-1, part 1, Bella Coola Agency – Kitamaat Boarding School – General Administration, 1906–1932, FA 10-17, Microfilm reel C-8773; [KMT-095676-0001] TRC, NRA, Library and Archives Canada, “Royal Canadian Mounted Police Report, Re: Kitimat Indian Reserve, Re: Hanna Grant, Deceased, 15 June 1922,” I. Fougner to Secretary, Indian Affairs, 15 June 1922. [KMT-095674]
-8. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 773/25-1-003, 05/36–09/70, volume 1, RCAP, R. D. Ragan, “Extract from minutes of Blood Indian Council Meeting March 15, 1948.” [MRY-000302] For Charron’s initials, see: TRC, NRA, National Archives of Canada, RG29, volume 974, file 388-6-4, part 1, 02/1948–07/1949, B. F. Neary to P. A. Charron, 21 July 1948. [120.03363]
-9. TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, A. Ogletree to Dep- uty Secretary, Department of Indian Affairs, 23 July 1926. [ELK-000331]
-10. TRC, NRA, Library and Archives Canada, RG10, volume 6371, file 764-1, part 1, M. Christianson to W. M. Graham, 28 October 1927. [PUL-001008]
-11. TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 5, Agent’s Report on Stuart Lake Agency for September, Robert Howe, 2 October 1940. [LEJ-002079]
-12. For examples from British Columbia, see: TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 6, Report of Corporal L. F. Fielder, 14 October 1943; [LEJ-001389] TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6443, file 881-1, part 2, R. Howe to Indian Affairs Branch, 12 September 1946; [LEJ-000855] TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 7, R. Howe to Indian Affairs, 7 October 1946. [LEJ-001830] For Manitoba example, see: TRC, NRA, Library and Archives Canada, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 501/25-1-076, volume 1, A. G. Hamilton to Indian Affairs, 4 November 1943. [SBR-000408] For Saskatchewan examples, see: TRC, NRA, Library and Archives Canada, RG10, volume 6302, file 650-10, part 3, R. A. Hoey to J. P. B. Ostrander, 11 September 1942;
-
-[BVL-000433] TRC, NRA, Library and Archives Canada, RG10, volume 9148, file 309-11 ACE, John Baptiste, Peter King, and Alex Sapp to Indian Agent, Battleford, 31 August 1945. [PAR-000897-0002] For Alberta examples, see: TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 1/18-24, volume 1 (locator #X-46-4), Rev. L. C. Schmidt to Harold McGill, 2 July 1943; [NCA- 014258] TRC, NRA, Library and Archives Canada, RG10, volume 6374, file 764-10, part 2, PARC, H. A. R. Gagnon to Director, Indian Affairs Branch, 12 October 1945; [PUL-009517-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6355, file 757-1, part 2, 1928–1948, John E. Pugh to Indian Affairs, 8 October 1947; [MOR-005548] TRC, NRA, Provincial Archives – Alberta, PAA 71.220 B94 3972, Principal Ermineskin Indian Residential School to Indian Affairs Branch, 31 March 1948; [OGP-032546] TRC, NRA, Library and Archives Canada, RG10, volume 6374, file 764-10, part 2, PARC, J. E. Pugh to Indian Affairs Branch, 7 March 1946; [PUL-009511] TRC, NRA, Library and Ar- chives Canada – Edmonton, 103/6-1-764, volume 1, 09/44–12/54, C. A. F. Clark to Superintendent of Education, 9 November 1949; [IRC-048180] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 773/25-1-003, volume 1, 10/36–09/70, “Minutes of the Blood Band Council Held in The Indian Agency Office,” 22 November 1949, annotated by C. A. F. Clark. [IRC- 041373]
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 6467, file 889-1, part 1, 12/1894–11/1933, Vancouver Agency – Squamish Residential School – General Administration, FA 10-17, Microfilm reel C-8785, NAC, Ottawa, A. W. Vowell to the Secretary, Department of Indian Affairs, 5 April 1905. [SQU-000423]
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6270, file 582-1, part 1, “Extract from re- port on meeting Chief of Pine Creek Band,” A. Ogletree, Indian Agent, 16 June 1917. [PCR-010082]
-3. For an example from Morley, Alberta, see: TRC, NRA, Library and Archives Canada, NAC – Otta- wa, 772/3-6, volume 1, dates 1940–1954, Minutes from the council meeting for the Stony Indian Agency, 15 October 1946, 3. [MOR-006118] For an example from Lestock, Saskatchewan, see: TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 673/25-1-003, 25 August 1949. [MRS- 046113-0001]
-4. TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 673/25-1-003, J. P. B. Ostrander to Neary, 24 January 1950. [MRS-046113-0005]
-5. For an example from the Presbyterian school at Shoal Lake, Ontario, see: TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, Chief Kesik, Chief Redsky, and three others to McKenzie, 28 March 1917. [CJC-000006-0002]
-6. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461, part 1, “Report of the Com- mission of Presbytery appointed to investigate conditions at ‘Cecilia Jeffries [sic] Boarding School,’” 26 February 1918. [CJC-000847-0001]
-7. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, “Report of the Commission of Presbytery appointed to investigate conditions at ‘Cecilia Jeffries [sic] Boarding School,’” 26 February 1918. [CJC-000847-0001]
-8. TRC, NRA, Library and Archives Canada, volume 6332, file 661-1, part 2, petition from parents to Crooked Lakes Agency, 25 July 1949. [IRC-041159] Although Indian Affairs official J. P. B. Ostrander opposed replacing the teacher, he did report that she kept a strap on display in her class. He said, “If she does not use it for punishment, at least she keeps it on display as a threat of punishment, which does not promote harmony in the classroom.” TRC, NRA, Library and Archives Canada, volume 6332, file 661-1, part 2, J. P. B. Ostrander to Indian Affairs Branch, Department of Mines and Resources, 12 August 1949. [RLS-000512-0000]
-9. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 2, Mr. Paget to Mr.
-
-Endnotes • 475
-
-476 • Truth & Reconciliation Commission
-
-Ferrier, 21 August 1928. [CJC-001354]
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 6254, file 575-10, part 1, A. G. Smith to Secretary, Indian Affairs, 29 December 1936. [BIR-002631]
-
-2. For an example of a request for an investigation into a death, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Garnet Neff to T. G. Murphy, 26 January 1935; [RLS- 000366-0001] TRC, NRA, Library and Archives Canada, RG29, volume 2917, file 851-1-A673, part 1, Memorandum to Mr. McLean, 13 January 1914. [NPC-603178] For an example of a complaint regarding discipline, see: TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 3, H. H. Craig to H. A. Snell, 29 July 1937. [MSC-000080-0001] For an example of working on behalf of an injured student, see: TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, William Hall to Indian Affairs, 30 April 1936. [PLD-000746] For an example of seeking a discharge, see: TRC, NRA, Library and Archives Canada, volume 12333, box 19, part 1, 1936–1939, NAC, J. D. Caldwell to [Severed], 16 March 1939. [KUP-004496]
-
-3. TRC, NRA, Library and Archives Canada – Ottawa, RG85, volume 1505, file 600-1-1, part 1, N.W.T. – General Policy File – Education and Schools, 1905–1944, Extract From Act. Sgt. G. T. Makinson’s Report-Resolution, N.W.T., 3 July 1937. [FRU-010059]
-
-4. Cuthand, “Native Peoples,” 382–383; Kulchyski, “Considerable Unrest,” 100.
-
-5. Goodwill and Sluman, *John Tootoosis*, 155.
-
-6. Goodwill and Sluman, *John Tootoosis,* 156.
-
-7. Both the 1905 fire at the Saint-Paul-des-Métis, Alberta, school and the 1930 fire at the Cross Lake, Manitoba, school were set by students. The Saint-Paul fire resulted in one death; the Cross Lake fire, in thirteen deaths. For the Saint-Paul fire, see: Stanley, “Alberta’s Half-Breed Reserve,” 96–98. For the Cross Lake fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. McNamara, 8 March 1930; [CLD-000933-0000] William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930. [CLD-000934]
-
-8. Wilson,*Missionarywork*,167–170.
-
-9. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, “Regulations Relating to the Education of Indian Children” (Ottawa: Government Printing Bureau, 1894). [AGA-
-
-   001516-0000]
-
-10. See, for examples: Canada, *Annual Report of the Department of Indian Affairs, 1893*, 104; Canada, *Annual Report of the Department of Indian Affairs, 1902*, 423.
-
-11. See, for example: TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report, Re: Thomas ‘Tommy’ Linklater et al.,” 23 September 1936; [BRS-000240-0006] TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Thomas ‘Tommy’ Linklater et al.,” 20 October 1936; [BRS-000240-0005] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 2, “Royal Canadian Mounted Police Report, Re: Abner Elliott and Leonard Beeswax, truants,” 13 October 1938. [MER-001043-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 2, “Royal Canadian Mounted Police Report, Re: Abner Elliott and Leonard Beeswax, truants,” 11 January 1939. [MER-001048-0001]
-
-12. For Duncan Sticks, see: TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, 3 March 1902; [IRC-047093] Statement of Joseph Fahey, 3 March 1903; [IRC-047092] TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Antonio Boitano, 1 March 1902. [IRC-047086] For William Cardinal, see: TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956] For unnamed boy from The Pas,
-
-Manitoba, school, see: TRC, NRA, Anglican Church of Canada, General Synod Archives Angli-
- can Church of Canada GS 75-103, B17, “Minutes of meeting of Indian and Eskimo Commission, M.S.C.C., Held on Tuesday, January 11th, 1927,” 11. [AAC-083001] For three unnamed boys from the Fort Alexander, Manitoba, school, see: St. Boniface Historical Society, Archives Deschâtelets,
- L 541 M27L 266, Brachet to père provincial, 20 October 1928. For Agnes Ben, see: “Find Body of Indian Girl, Long Missing,” *Winnipeg Free Press*, 17 April 1930. For Percy Ochapowace, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Royal Canadian Mount- ed Police Report, “Re: Percy Ochapowace – Death of, Ochapowace Indian Reserve, Saskatchewan,” H. S. Casswell, 19 January 1935; [RLS-000365-0003] J. P. B. Ostrander to Secretary, Indian Affairs, 19 January 1935. [RLS-000365-0001] For Allen Patrick, Andrew Paul, Justa Maurice, and John Jack, see: TRC, NRA, Library and Archives Canada, RG10, volume 6446, file 881-23, part 1, R. H. Moore to Secretary, Indian Affairs, 6 January 1937. [LEJ-004083-0000] For Andrew Gordon, see: TRC, NRA, Library and Archives Canada, RG10, volume 9151, file 312-11 ACE, “Royal Mounted Police Report, Re Andrew Gordon (Juvenile), Deceased,” 16 March 1939. [GDC-009280-0001] For John Kioki, Michael Sutherland, and Michael Matinas, see: TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, Paul Langlois to Constable Dexter, 14 June 1941. [FTA-000105- 0001] For Leonard Major, Ambrose Alexander, and Alec Francis, see: TRC, NRA, Library and Archives Canada – Ottawa, file 882-2, part 8, Kamloops Agency – Kamloops Residential School – Quarterly Returns, 1947–1952, FA 10-17, volume 6447, Microfilm reel C-8770, Library and Archives Canada – Ottawa, Indian Residential School Quarterly Return for Kamloops Indian Residential School, 30 September 1947, pages 8, 9, and 10 of 20-page portable document file; [KAM-002274] TRC, ASAGR, RCMP-564517, Royal Canadian Mounted Police, E-Div NIRS task force Final Report, M. W. Pacholuk, “Final Report of the Native Indian Residential School Task Force, Project E-NIRS,” Royal Canadian Mounted Police, 49. [AGCA-564517] For Albert Nepinak, see: TRC, NRA, Library and Archives Canada, RG10, volume 6272, file 582-23, part 1, Royal Canadian Mounted Police Report, 9 April 1951. [PCR-000190] For Tom and Charles Ombash, see: TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 494/3-3-3, volume 1, “Provincial Police Report,” G.
-
-A. McMonagle, 19 December 1956. [PLK-001205-0001] For Beverly Joseph and Patricia Joseph, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 961/25-
- 2, volume 15, Admissions and Discharges – Kuper Island Residence, Cowichan Agency, B.C., 01/08/1958–02/07/1966, Control No. 34-15 IRSRC – Historical Files, J. V. Boys to Indian Commis- sioner for B.C., 29 January 1959. [KUP-200601] For Mabel Crane Bear and Belinda Raw Eater, see: TRC, NRA, Library and Archives Canada – Edmonton, 772/25-1, volume 1, 04/60–06/70, N. Goater to A. H. Murray, 10 March 1962. [OLD-007287-0005] For Alfred Whitehawk, see: TRC, NRA, Library and Archives Canada – Edmonton, RG10, Acc. E1996-97/415, box 36, file 25-2-662, 1964–1966, E. Turenne to K. Kerr, 6 June 1965. [SPR-006307] For Charles Wenjack, see: TRC, NRA, The Presbyte- rian Church in Canada Archives, Toronto, On., Acc. 1988-7004, box 17, file 4, “Inquest Hears Tragic Tale of Runaway Boy,” *Kenora Miner and News*, 18 November 1966; Coroner’s Statement Upon Issuing His Warrant for Holding an Inquest in the Case of Charles Wenjack, R. Glenn Davidson,
-
-4 November 1966; Report of Post-Mortem Examination, A-258, Charles Wenjack, 23 October 1966, Dr. Peter Pan; Adams, “The Lonely Death,” 30–44. [CJC-007909] For Joseph Commanda, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 451/25-2-004, volume 2, “Report on the Death of Joseph Commanda,” H. B. Rodine, 6 September 1968. [TAY- 001114-0001] For Philip Swain and Roderick Keesick, see: TRC, NRA, INAC, file 487/18-2, volume 1, “2 Boys Died from Exposure,” *Kenora Miner and News*, 18 December 1970; [KNR-003158-0002] P. J. Hare to Indian Affairs, 7 December 1970. [KNR-003168] For Jack Elanik and Dennis Dick, see:
-
-Endnotes • 477
-
-478 • Truth & Reconciliation Commission
-
-TRC, NRA, Anglican Church of Canada, Diocese of the Arctic, General Synod Archives, file 110-09, Stringer Hall, Accession M96-7, series 2:1, Notice of missing boys, 1972; [AGS-000341] TRC, NRA, Government of Northwest Territories Archives Confidential, Hostels, 1971–1974, Archival box 8-24, Archival Acc. G1995-004, Leonard Holman to J. Coady, 14 July 1972. [SHU-000486]
-
-1. For examples of cases where criticism was directed against school authorities for the handling
-   of runaways, including cases that led to fatalities, see: TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, 3 March 1902; [IRC- 047093] TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, Statement of Joseph Fahey, 3 March 1903; [IRC-047092] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, W. G. Tweddell to W. M. Graham, 6 May 1931; [DRS-000588] TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Royal Canadian Mounted Police Report, “Re: Percy Ochapowace – Death of, Ochapowace Indian Reserve, Saskatchewan,” H. S. Casswell, 19 January 1935; [RLS-000365-0003] TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, J. P. B. Ostrander
-   to Secretary, Indian Affairs, 19 January 1935; [RLS-000365-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6446, file 881-23, part 1, R. H. Moore to Secretary, Indian Affairs, 6 January 1937; [LEJ-004083-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 2, “Memorandum of an inquiry into the cause and circumstances of the death of Andrew Gordon,” R. W. Frayling, 11 March 1939; [GDC-028479] TRC, NRA, Library and Archives Canada, RG10, volume 11553, file 312-11, “Indian Boy Frozen on Bush Trail,” *Regina Leader-Post*, 16 March 1939; [GDC-009281] TRC, NRA, Library and Archives Canada, RG10, volume 9151, file 312-11
-   ACE, “Royal Mounted Police Report, Re Andrew Gordon (Juvenile), Deceased,” 16 March 1939; [GDC-009280-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 2, Police Report, G. N. McRae, 23 April 1940; [SBR-110686-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 2, Police Report, G. L. Tisdale, 30 April 1940; [SBR- 110686-0002] TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, Paul Langlois to Constable Dexter, 14 June 1941; [FTA-000105-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, “Statement of Charles Kioki,” 22 June 1942; [FTA- 000116-0013] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 657-10, part 2, Royal Canadian Mounted Police Report, J. P. Douglas, 7 October 1944; [MDD-001704] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 657-10, part 2, Royal Canadian Mounted Police Report, T. H. Playford, 10 October 1944; [MDD-002258] TRC, NRA, Library and Archives Canada, RG10, volume 6272, file 582-23, part 1, Royal Canadian Mounted Police Report, 9 April 1951; [PCR-000190] TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 487/18-24, volume 1, L. A. Marshall to Indian Affairs, 20 December 1954; [KNR-001380-0003] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 961/25-2, volume 15, Admissions and Discharges – Kuper Island Residence, Cowichan Agency, B.C., 01/08/1958– 02/07/1966, Control no. 34-15 IRSRC – Historical Files, J. V. Boys to Indian Commissioner for B.C., 29 January 1959; [KUP-200601] TRC, NRA, Library and Archives Canada – Edmonton, 772/25-1, volume 1, 04/60–06/70, N. Goater to A. H. Murray, 10 March 1962; [OLD-007287-0005] TRC, NRA, INAC, file 487/18-2, volume 1, “2 Boys Died from Exposure,” *Kenora Miner and News*, 18 Decem- ber 1970; [KNR-003158-0002] TRC, NRA, INAC, file 487/18-2, volume 1, P. J. Hare to Indian Affairs, 7 December 1970. [KNR-003168]
-
-2. For the reporting to the Ontario Provincial Police, see: TRC, NRA, National Capital Regional Ser- vice Centre – LAC – Ottawa, file 494/3-3-3, volume 1, “Provincial Police Report,” G. A. McMonagle, 19 December 1956. [PLK-001205-0001] For the reporting to Indian Affairs, see: TRC, NRA, Library
-
-and Archives Canada, RG10, volume 8275, file 494/6-1-014, part 5, R. F. Davey to G. Swartman, 13
-
-November 1956. [PLK-000488]
-
-1. Porter, “Remains Found Near Residential School Are ‘Non-human,’” *CBC News*, 12 July 2012, http://www.cbc.ca/news/canada/thunder-bay/remains-found-near-residential-school-are-non-human-1.1249599.
-
-2. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-5-2, volume 1, “Regulations With Respect to Teaching, Education, Inspection, and Discipline for Indian Residential Schools, Made and Established for the Superintendent General of Indian Affairs Pursu- ant to Paragraph (a) of Section 114 of the Indian Act,” 20 January 1953. [PAR-001203-0001]
-
-3. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 901/25-13, volume 4 (locator 156-2), J. B. Bergevin to H. B. Cotnam, 1 March 1971. [NCA-012545-0000]
-
-4. For an example from Chilliwack, British Columbia, see: TRC, NRA, Library and Archives Canada, RG10, volume 6422, file 869-1, part 1, Microfilm reel C-8754, J. Hall to F. Devlin, 19 January 1900. [COQ-000345]
-
-5. TRC, NRA, Library and Archives Canada, RG10, volume 6308, file 653-10, part 1, “Royal Canadian Mounted Police Report Re: Douglas Shingoose and Donald Stevenson,” 23 February 1935. [FHR- 001050-0001]
-
-6. See, for examples: North-West Mounted Police, *Annual Report, 1894*, 52–53; TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, C. E. Somerset to Indian Commissioner, 6 October 1896; [EDM-009788] TRC, NRA, Library and Archives Canada, RG10, volume 2771, file 154845, part 1, Mohawk Institute to Hayter Reed, 18 March 1896; [TAY-003510] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, “RCMP Report regarding [Name redacted],” 16 October 1933. [SBR-110565-0001]
-
-7. Sutherland, *Children in English-Canadian Society,* 122. For examples of prosecutions, see: TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, A. H. L. Mellor to Deputy Superintendent General, Indian Affairs, 19 September 1935; [SBR-110607-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 1, “Royal Canadian Mounted Police report, Re: [Names redacted],” 21 November 1937; [MER-000580-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6193, file 462-10, part 3, A. D. Moore to Secretary, Indian Affairs, 16 September 1940. [CRS-000507-0000]
-
-8. For examples of the Royal Canadian Mounted Police’s being used to return students to school, see: TRC, NRA, Library and Archives Canada, RG10, volume 6330, file 660-10, part 1, R. W. Greatwood to Indian Affairs, 11 April 1930; [PLD-003278-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6330, file 660-10, part 2, H. E. P. Mann to Commissioner, RCMP, 6 February 1934; [PLD-003316-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6193, file 462-10, part 1, page 1/1, “Royal Canadian Mounted Police Report,” 11 February 1935, C. Graham; [CRS-001237- 0001] TRC, NRA, Library and Archives Canada, RG10, volume 6275, file 583-10, part 1, “Royal Ca- nadian Mounted Police Report, Re: Frank Puckina or Edwards,” 15 September 1939; [PLP-000374] TRC, NRA, Library and Archives Canada, RG10, volume 6304, file 651-10, part 1, Constable G. J. Mitchell, 9 September 1931. [MRS-045402-0001]
-
-9. TRC, NRA, Untitled document, purportedly Chronologie Dépuis Leur Foundations, École Blue Quills (Daily Journal from their Founding, Grey Nuns at Blue Quills) 1931–1936, entry for 1 May 1932. [GNA-000404]
-
-10. TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, “RCMP’s Report on Truant,” Constable R. D. Toews, 23 October 1936; [SBR-110630-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, Constable R. D. Toews, 8 May 1937. [SBR-
-
-Endnotes • 479
-
-480 • Truth & Reconciliation Commission
-
-110645-0001]
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Wallace Hahawahi, Delinquent,” 28 October 1936. [BRS-000240-0004]
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Kenneth Thompson, Runaway Boy,” 28 October 1936. [BRS-000240-
-
-   0001]
-
-3. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Peter Ryder Runaway Boy,” 28 October 1936. [BRS-000240-0002]
-
-4. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. Waddy, 24 November 1928. [DRS-000564]
-
-5. TRC, NRA, Library and Archives Canada, RG10, volume 6253, file 575-5, part 5, A. G. Hamilton to Indian Affairs, November 4, 1935. [BIR-000208]
-
-6. TRC, NRA, Library and Archives Canada, RG10, volume 6057, file 265-10, part 1, J. P. Mackey to Secretary, Indian Affairs, 16 July 1937; [SRS-006077] J. P. Mackey to Secretary, Indian Affairs, 27 July 1937. [SRS-006079]
-
-7. TRC, NRA, Library and Archives Canada, RG10, volume 6057, file 265-10, part 2, “Royal Canadian Mounted Police Report Re: Steven LaBobe,” 15 October 1938. [SRS-006090-0001]
-
-8. TRC, NRA, Library and Archives Canada, RG10, volume 6053, file 260-10, part 1, J. P. Mackey to W. J. Cameron, 21 March 1939; [SRS-007977] TRC, NRA, Library and Archives Canada, RG10, volume 6053, file 260-10, part 1, J. P. Mackey to Secretary, Indian Affairs, 14 April 1939. [SRS-007980]
-
-9. TRC, AVS, Ken Lacquette, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-052.
-
-10. TRC, AVS, Anthony Wilson, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3303.
-
-11. TRC, AVS, Arthur Ron McKay, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-044.
-
-12. TRC, AVS, Ivan George, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 18 May 2011, Statement Number: 2011-3472.
-
-13. TRC, AVS, Muriel Morrisseau, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-057.
-
-14. TRC, AVS, Isaac Daniels, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-1779.
-
-15. TRC, AVS, Dora Necan, Statement to the Truth and Reconciliation Commission of Canada, Ignace, Ontario, 3 June 2011, Statement Number: 2011-1503.
-
-16. TRC, AVS, Nellie Cournoyea, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 28 June 2011, Statement Number: NNE105. Cournoyea later went on to lead the negotiation of the first comprehensive land rights agreement in the Northwest Territo- ries for her Inuvialuit people, and later became the first Aboriginal and female premier in Canada.
-
-17. TRC, AVS, Lawrence Waquan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.
-
-18. TRC, AVS, Beverley Anne Machelle, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 27 May 2011, Statement Number: 2011-1133.
-
-19. TRC, NRA, INAC, file 494/18-28, volume 1, G. Swartman to Indian Affairs Branch, 12 May 1955. [PLK-002025]
-
-20. TRC, AVS, Mel H. Buffalo, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 24 July 2013, Statement Number: SP124.
-
-21. Canada, *Annual Report of the Department of Indian Affairs, 1907*, 189.
-
-22. United Church of Canada Archives, Toronto, Archive accession information: Fonds, 3282: John Chantler McDougall Fonds, 1986.291C, box 1, file 8, Mrs. J. McDougall, “Founding of the McDougall Orphanage and Training School,” Historical Sketch, no date.
-
-23. Coccola, *They Call Me Father,* 89.
-
-24. Stocken, *Among the Blackfoot,* 1–2.
-
-25. Kelm, “Introduction” to Butcher, *Letters of Margaret Butcher*, xi, xxvi.
-
-26. Butcher, *Letters of Margaret Butcher,* 5.
-
-27. TRC, AVS, Lorraine Arbez, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-007.
-
-28. TRC, AVS, Noreen Fischbuch, Statement to the Truth and Reconciliation Commission of Canada, Beaver Mines, Alberta, 3 August 2011, Statement Number: 2011-1692.
-
-29. TRC, AVS, George Takashima, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 3 August 2011, Statement Number: 2011-1700.
-
-30. TRC, NRA, Library and Archives Canada, RG10, volume 3938, file 121607, Deputy Superintendent General of Indian Affairs to A. E. Forget, Assistant Commissioner of Indian Affairs, NWT, 18 January 1895. [RIS-000385-0000]
-
-31. Library and Archives Canada, RG10, volume 2100, file 17960, part 2, A. Sutherland to Superintendent General of Indian Affairs, 31 March 1887.
-
-32. TRC, NRA, Library and Archives Canada, RG10, volume 8843, file 709/16-2-001, part 1, C. H. Birdsall to Dr. Dorey, 2 June 1948. [EDM-000371]
-
-33. TRC, NRA, No document location, no document file source, H. F. Dunlop to P. Phelan, 4 November \1948. [SEC-000063]
-
-34. TRC, NRA, No document location, no document file source, A. Noonan to L. K. Poupore, 27 November 1960. [CIS-000553]
-
-35. TRC, NRA, Library and Archives Canada, file 883-1, part 1, Bella Coola Agency – Kitamaat Boarding School – General Administration, 1906–1932, FA 10-17, Perm. volume 6451, Microfilm reel C-8773, Library and Archives Canada, L. Spotton to C. G. Young, 28 February 1930. [KMT-095721]
-
-36. TRC, NRA, Library and Archives Canada, RG10, volume 6377, file 767-1, part 1, M. Christianson to H. W. McGill, 2 August 1933. [JON-000073]
-
-37. Fast, “Amelia Le Soeur (Yeomans),” http://www.biographi.ca/009004-119.01-e.php?BioId=41653 (accessed 26 May 2013); Canada, *Annual Report of the Department of Indian Affairs, 1900*, 109; Canada, *Annual Report of the Department of Indian Affairs, 1901*, 80. (Charlotte Amelia’s name is mistakenly given as Annie in the annual report.)
-
-38. TRC, AVS, Theresa Reid, Statement to the Truth and Reconciliation Commission of Canada, Powell River, British Columbia, 28 September 2011, Statement Number: 2011-0263.
-
-39. TRC, AVS, George Takashima, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 3 August 2011, Statement Number: 2011-1700.
-
-40. TRC, AVS, Olive Saunders, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 7 and 8 March 2011, Statement Number: 2011-0042.
-
-41. TRC, NRA, Provincial Archives Alberta, PAA 71.220 B161 2357, E. O. Drouin to Chief Shot on Both Sides and Blood Band Council, Indian Agency, Cardston, 27 December 1966. [OGP-022362]
-
-42. Regina principal A. J. McLeod (1900), TRC, NRA, The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 2, file 20, Alex Skene to Mr. McKay, 1 December 1900; [RIS-000436] Muncey, Ontario, principal W. W. Shepherd (died after a horse-drawn cart accident in 1903), TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 1, R. G. Howes to Deputy
-
-Endnotes • 481
-
-482 • Truth & Reconciliation Commission
-
-Superintendent General, 25 May 1903; [MER-000331] Regina principal J. A. Sinclair (1905), TRC, NRA, Library and Archives Canada, RG10, volume 3927, file 116836-1A, Frank Pedley to W. M. Graham, 16 January 1905; [RIS-000090] Mission, British Columbia, principal Charles Marchal (diphtheria, 1906), TRC, NRA, Library and Archives Canada, RG10, volume 6468, file 890-1, part
- 1, Microfilm reel C-8786, A. W. Vowell to Secretary, Indian Affairs, 10 October 1906; [MIS-004766] Onion Lake, Saskatchewan, Anglican school principal John Matheson (1916), TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 658-1, part 1, W. Sibbald to Secretary, Indian Affairs, 28 August 1916; [PAR-003569] Qu’Appelle, Saskatchewan, principal Joseph Hugonnard (1917), RG10, volume 6327, file 660-1, part 1, M. Kalmes to Duncan C. Scott, 13 February 1917; [PLD- 000005] Shoal Lake, Ontario, principal Mr. Mathews (influenza, 1918), TRC, NRA, RG10, volume 6187, file 461-1, part 1, R. S. McKenzie to Assistant Deputy and Secretary, 23 October 1918; [CJC- 000870] High River, Alberta, principal George Nordmann (influenza, 1918), Library and Archives Canada, RG10, volume 3933, file 117657-1, A. Naessens to Secretary, Indian Affairs, 7 January 1919; Gordon’s, Saskatchewan, principal H. W. Atwater (1925), TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-02016, volume 4, T. J. Davies to Mr. Moore, 25 November 1925; [GDC-002528] Beauval, Saskatchewan, principal Mederic Adam (typhoid, 1930), TRC, NRA, Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, O. Charlebois to Duncan Scott, 28 October 1930; [BVL-000005] Grayson, Saskatchewan, principal J. Carriere (1933), TRC, NRA, Library and Archives Canada, RG10, volume 6303, file 651-1, part 1, A. F. MacKenzie to J. P. B. Ostrander, 3 July 1933; [MRS-001401] Kamsack, Saskatchewan, principal C. Brouillet (1935), TRC, NRA, Library and Archives Canada, RG10, volume 6334, file 662-1, part 2, A. F. MacKenzie to W. Murison, 14 February 1935. [SPR-000465]
-
-1. TRC, NRA, Library and Archives Canada, RG10, volume 1346, Microfilm reel C-13916, G. Don- ckele to W. R. Robertson, 1 January 1907; [KUP-004280] RG10, FA 10-1, volume 1346, Microfilm reel C-13916, Cowichan Agency – Incoming Correspondence re Kuper Island Industrial School, 1891–1907, P. Claessen to W. R. Robertson, 5 June 1907. [KUP-022198] For A. J. McLeod’s initials, see: Canada, *Annual Report of the Department of Indian Affairs, 1900*, 383.
-2. TRC, NRA, Anglican Church of Canada Archives, Diocese of the Arctic, M96-7, box 188, “File 8, Collected Material – Bessie Quirt, Articles written by Bessie re: Shingle Point and Fort George” “RE: First Eskimo Residential School (Anglican) – Shingle Point. Story One – Fifty Years Ago – August 1929–1979”; Library and Archives Canada, RG919-10, part 1, Fort Norman Agency – Aklavik Church of England Residential School – Admissions and Discharges, 1936–1946, FA 10-17, Perm. volume 6477, Microfilm reel C-8792, H. S. Shepherd to Philip Phelan, 30 March 1939; [ASU-001138] RG29, volume 2906, file 851-1-A486, part 3, H. S. Shepherd to P. E. Moore, 14 January 1948; [NPC- 603247] RG10, volume 10728, file 484/25-2-467, part 1, H. S. Shepherd to J. L. Whitey, 17 November 1952; [MFI-001074] Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2.15, box 22, file 2, “Minutes of a Meeting of the Sub-Executive Committee MSCC,” 8th Sep- tember 1954; [AAC-090761]Anglican Church of Canada, General Synod Archives GS 75-103, series 2-15, box 22, “Report of the Superintendent, Indian School Administration, to the M.S.C.C. Board of Management, Toronto, November 16th, 1954.” [GDC-007201]
-3. TRC, NRA, Library and Archives Canada, RG10, volume 6430, file 876-1, part 1, West Coast Agency – Ahousaht Residential School – General Administration, 1901–1931, FA 10-17, Microfilm reel C-8759, W. R. Woods to Dr. Young, 5 November 1929. [AST-200068-0001]
-4. Methodist Church of Canada, British Columbia Conference, Port Simpson District, Ministerial Sessions, 1893, 188, quoted in Bolt, *Thomas Crosby,* 63.
-5. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 8803, file 959/25-13, part 2, Hen-
-
-ry Cook to Frank Howard, 29 March 1960. [MIK-002122]
-
-1. TRC, NRA, O.M.I. House – Vancouver, box 39, Fort St. John–Kakawis Family Development, folder 20, Kakawis Correspondence 1942–1979, Series One Plus Finding Aid, B.C./Yukon Local Commu- nity of O.M.I. Lacombe Canada Province [formerly St. Paul’s Province], Mary Gemma to M. Kear- ney, 3 February 1958. [CST-800117] For background on the Benedictine Sisters of Mount Angel, see: The Benedictine Sisters of Mount Angel, “About Us, A Brief History of the Benedictine Sisters of Mt. Angel,” http://www.benedictine-srs.org/history.html (accessed 12 June 2014).
-
-2. TRC, NRA, Library and Archives Canada, RG55, FA 55-22, Acc. 1980-81/069, box 118, file 1105, part 2, Rates of Pay & Conditions of Employment of Teachers, 1964–1965, R. F. Davey to Peter Fillipoff, 25 May 1965. [AEMR-150636]
-
-3. Bruno-Jofre, *Missionary Oblate Sisters,* 4–12, 132–139; Choquette, *Canada’s Religions,* 83–84, 201; McCarthy, *From the Great River,* 156; Gresko, “Gender and Mission,” 9; Huel, *Proclaiming the Gos- pel,* 165–166, 171; Shanahan, *Jesuit Residential School,* 5; TRC, NRA, Provincial Archives – Alberta, Acc. 78.204/5, Vital Grandin to Mother Ste. Marie, 27 September 1890; [ORC-000775] No document location, no document file source, Victor Rassier to Gerald Murphy, 15 September 1930; [BVT- 000239] No document location, no document file source, M. Agatha, to Gerald Murray, 26 May 1931; [BVT-000260] TRC, NRA, Library and Archives Canada, RG10, volume 6276, file 584-3, part 1, H. B. Rayner to W. M. Graham, 26 August 1931. [SBR-000879-0001]
-
-4. TRC, CAR, United Church Archives, Presbyterian Church in Canada, Board of Foreign Missions, Records Pertaining to Missions to Aboriginal People in Manitoba and the North West, 79.199C, box 3, file 29, (C0990), Austin McKitrick to Dr. R. P. MacKay, 30 September 1901, quoted in Hildebrand, “Staff Perspectives,” 170. [13d-c000990-d0017-001]
-
-5. Gagan, *Sensitive Independence*, 201.
-
-6. Canada, *Annual Report of the Department of Indian Affairs, 1906*, 2:52–56.
-
-7. Grant, “Two-Thirds of the Revenue,” 108–109.
-
-8. For an example, see: Canada, *Annual Report of the Department of Indian Affairs, 1893*, 172.
-
-9. TRC, NRA, Library and Archives Canada, file 886-24, part 1, Skeena River Agency – Crosby Girls Residential School [Port Simpson] – Audit Reports 1935–1948, FA 10-17, Perm. volume 6458, Mi- crofilm reel C-8779; Library and Archives Canada – Ottawa, “Crosby Girls’ Home, United Church of Canada, Cost of Operations for Fiscal Year 1934–35.” [PSM-200049-0003]
-
-10. TRC, NRA, Library and Archives Canada, RG10, volume 8845, file 963/16-2, part 1, July 3, 1936, Re: Kamloops Residential School, Roman Catholic. [KAM-002000]
-
-11. TRC, NRA, Anglican Diocese of Cariboo Archives Section #205, St. George Indian Residential School, Card D.C. 2C11, Lytton-St.-George’s School, #88.44, “All Saints Indian Residential School Staff Manual 2nd Revision, 1967, Mr. A. W. Harding, Vice-Principal,” 26–27. [AEMR-177341]
-
-12. Canada, *Annual Report of the Department of Indian Affairs, 1896*, 366.
-
-13. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 9:08, box 131, file 5-3, “The Indian Residential School Commission of the Mission Society of the Church of England in Canada, An Outline of the Duties of Those Who Occupy Positions on the Staff at the Society’s Indian Residential Schools, No. III, The Teacher.” [AAC-090142]
-
-14. TRC, NRA, Library and Archives Canada, RG10, volume 6462, file 888-1, part 1, H, EGN-007951, F. J. C. Ball to D. C. Scott, 5 May 1921. [GRG-022150-0000]
-
-15. TRC, NRA, Library and Archives Canada, RG10, volume 6028, file 118-7-1, part 1, E. B. Glass to Dr. Sutherland, 4 September 1896. [WFL-000648-0002]
-
-16. Hare and Barman, “Good Intentions,” 168, 205, 206, 216.
-
-17. Buck, *Doctor Rode Side-Saddle,* 114, 133.
-
-Endnotes • 483
-
-484 • Truth & Reconciliation Commission
-
-1. Buck, *Doctor Rode Side-Saddle,* 92.
-
-2. Brandon, Manitoba, principal T. Ferrier in 1903; Mount Elgin, Ontario, principal S. R. McVitty in 1913; and Kuper Island, British Columbia, principal W. Lemmens in 1915—all used the word “evil” in describing tendencies in Aboriginal culture. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 342–343; TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 1, Public Archives Canada, S. R. McVitty, “Helping the Indian: How it Is Done at Mount Elgin Industrial Institute,” *The Christian Guardian*, 31 May 1913; [MER-0376] RG10, volume 1347, Micro- film reel C-13916, W. Lemmens to W. R. Robertson, 10 February 1915. [KUP-004240]
-
-3. See, for example, *Algoma Missionary News* (April 1877): 14, quoted in Wilson, “Note on Shingwauk Industrial Home,” 69; Butcher, *Letters of Margaret Butcher,* 26.
-
-4. TRC, NRA, Library and Archives Canada, RG10, volume 6057, file 265-10, part 1, J. P. Mackey to Father MacNeil, 5 October 1936. [SRS-000280-0003]
-
-5. Bush, *Western Challenge,* 27.
-
-6. Fisher, *Contact and Conflict,* 185–188; Usher, *William Duncan,* 126.
-
-7. TRC, NRA, Anglican Church of Canada, General Synod Archives, MSCC, GS 75-103, series 2-15, box 29, file 10, Anglican document no. 52.63, Victoria Ketcheson and Patricia Watson, 29 November 1952. [PAR-001992]
-
-8. TRC, NRA, Document location to be determined, Hance/Aleck/Michell – Anglican Church of Canada and Anglican Church of Cariboo List of Documents, Helen Clafton to Bishop Dean, 5 March 1957. [ANG-063238]
-
-9. Canada, *Annual Report of the Department of Indian Affairs, 1930*, 17.
-
-10. TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 2, “Successful Graduates.” [TAY-004294-0002]
-
-11. TRC, NRA, Library and Archives Canada, RG10, volume 2006, file 7825-1A, “Report on the Mohawk Institute and Six Nations Board School,” 30 August 1895, 43. [TAY-003821-0000]
-
-12. TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 2, A. F. MacKenzie to H. W. Snell, 7 May 1936. [TAY-003085-0002]
-
-13. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 402.
-
-14. TRC, NRA, United Church of Canada Archives, Acc. No. 1979.199C, box 5, file 60, J. A. Sinclair to R. P. MacKay, 26 April 1904. [RIS-000306]
-
-15. TRC, NRA, Library and Archives Canada, RG10, volume 6255, file 576-1, part 2, J. Doyle to Secretary, Indian Affairs, 14 September 1932. [BRS-000234]
-
-16. Canada, *Annual Report of the Department of Indian Affairs, 1960*, 56.
-
-17. TRC, AVS, Stanley McKay, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 13 July 2011, Statement Number: 2011-0269
-
-18. Kirkness, *Creating Space*, 3–12, 29–40.
-
-19. Kirkness, *Creating Space*, 29–30.
-
-20. TRC, NRA, Library and Archives Canada, RG10, file 494/1-13-014, volume 1, T. B. Jones to R. F. Davey, 21 June 1963. [PLK-001867] For Spence as a residential school student, see: Canada, Special Joint Committee, 1947, 1066–1067.
-
-21. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 494/25-1-014, volume 2, “The Anglican Indian Residential School, Sioux Lookout, Ontario,” 10 June 1965. [PLK000304-0001]
-
-22. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 487/25-1-014, R. F. Davey to Giollo Kelly, 10 June 1966. [CJC-000308]
-
-23. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 43, file
-
-4, Giollo Kelly to Mrs. Colin Wasacase, 8 July 1966. [NCA-009161-0002]
-
-1. For Mission, see: TRC, NRA, “Historic Transfer of Authority,” *Fraser Valley Record*, 5 September 1973. [OMS-000307] For Kamloops, see: TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-138, Acc. v85-86/353, file 963/1-13, Perm. volume 6 [502372], part 1, Student Residence Es- tablishment, 1969–78, NAC – Burnaby, A. H. Friesen to A. H. Noonan, 18 April 1973. [KAM-008144] For Blue Quills, Alberta, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 779/25-2-009, volume 1 (Ctrl #55-4), “Confidential: Notes: Re Blue Quills,” undated. [NCA-007302] For Prince Albert, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 601/25-13-1, J. B. Freeman to James A. Roberts, 2 April 1973. [PAR-019374] For Duck Lake, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box 8A, file 15, D. Seesequasis to H. Kolakowski, 3 February 1982. [GDC-014654-0004] For Qu’Appelle, see: LaRose, “Wrecker’s ball Claims White Calf Collegiate,” http://www.ammsa. com/publications/saskatchewan-sage/wreckers-ball-claims-white-calf-collegiate-0. For Fort George, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 371/25-1-019, volume 2, Right Rev. James A. Watton to A. Gill, 7 September 1971. [FGA-000225- 0001] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, NCR-E4974-1 (Encl 1), volume 3, (Ctrl #446-19), Saskatchewan Region, Student Residences: An Issue Manage- ment Discussion Paper, 8 February 1994. [NCA-016023-0002]
-
-2. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, NCR-E4974-1 (Encl 1), volume 3, (Ctrl #446-19), Saskatchewan Region, Student Residences: An Issue Management Discussion Paper, 8 February 1994. [NCA-016023-0002]
-
-3. TRC, NRA, Anglican Church of Canada, General Synod Archives, file 1, Visit Reports of the Super- intendent 02/54–12/54, pg. 004126-004227, Accession GS 75-103, series 2:15, box 24, “Superinten- dent’s Visit to Chooutla School, Carcross, Y.T., December 3th–6th, 1954.” [DYK-201620]
-
-4. TRC, CAR, General Synod of the Anglican Church of Canada Archives, Archive accession in- formation: MSSC Indian School Administration, Visit Reports, 1954–62, file 2 (1955–56), “Su- perintendent’s Visit to St. John’s Residential School, Wabasca, Alberta, 26th August, 1956.” [13a-c000034-d0002-022]
-
-5. General Synod of the Anglican Church of Canada Archives, Missionary Society of the Church of England in Canada, Indian School Administration – Visit Reports, Committees, Textual Records, 1903–1968, Indian and Eskimo Residential Schools and Indian School Administration, 1921–1977, GS75-103, box 23, file 10, “Superintendent’s Visit to St. Philip’s School, Fort George – March 24–25,” 1953. [13a-c000032-d0025-001]
-
-6. TRC, CAR, The General Synod of the Anglican Church of Canada Archives, ACC-MSCC-GS 75-103, series 2:15, box 24, file 2, Superintendent’s Visit to St. Philip’s School, Fort George, P.Q., January 16 and 17, 1956. [13a-c000034-d0002-004]
-
-7. TRC, AVS, Jeanne Rioux, Statement to the Truth and Reconciliation Commission of Canada, Van- couver, British Columbia, 18 September 2013, Statement Number: 2011-3207.
-
-8. TRC, AVS, Mary Chapman, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 4 October 2011, Statement Number: 2011-1529.
-
-9. Vitaline Elsie Jenner, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-131.
-
-10. Coates, *A Global History of Indigenous Peoples*, 244–245.
-
-11. United Nations, *United Nations Declaration on the Rights of Indigenous Peoples*; Coates, *A Global* *History of Indigenous Peoples*, 244–245.
-
-12. Smith, *Apology to First Nations People,* http://www.united-church.ca/beliefs/policies/1986/a651
-
-Endnotes • 485
-
-486 • Truth & Reconciliation Commission
-
-(accessed 23 October 2014).
-
-1. The Missionary Oblates of Mary Immaculate, *An Apology to the First Nations of Canada by the Ob-* late Conference of Canada*, http://www.cccb.ca/site/images/stories/pdf/oblate_apology_english.pdf (accessed 27 October 2014)
-
-2. For the Anglican apology, see: Hiltz, *A Step Along the Path: Apology by Archbishop Fred Hiltz*, http://www.anglican.ca/relationships/files/2011/06/Apology-English.pdf (accessed 27 October 2014). For the Presbyterian apology, see: Presbyterian Church in Canada, *The Confession of the Presbyterian Church in Canada as Adopted by the General Assembly,* http://presbyterian.ca/?wpd- mdl=92& (accessed 27 October 2014); The United Church of Canada, *Apology to Former Students of United Church Indian Residential Schools, and to Their Families and Communities*, http://www. united-church.ca/beliefs/policies/1998/a623 (accessed 27 October 2014).
-
-3. “Bernard’s Lawsuit Helped Natives Nationwide*,” The Daily News*, http://www.canada.com/sto- ry_print.html?id=983a8b88-a8ac-4e09-9e5c-b2c0e207ac3d.
-
-4. Canadian Broadcasting Corporation, *The Journal*, Barbara Frum interview with Phil Fontaine, 30 October 1990, http://archives.cbc.ca/society/education/clips//11177.
-
-5. Lleweyn, “Dealing with the Legacy,” 253 at 261.
-
-6. Assembly of First Nations, *Assembly of First Nations Report,* 11.
-
-7. *Cloud v. Canada (Attorney General)* 2004 CanLII 45444 (ON CA).
-
-8. Canada, House of Commons Debates (11 June 2008), 6850.
-
-9. Canada, House of Commons Debates (11 June 2008), 6851.
-
-10. Canada, House of Commons Debates (11 June 2008), 6852.
-
-11. Canada, House of Commons Debates (11 June 2008), 6853.
-
-12. Canada, House of Commons Debates (11 June 2008), 6855.
-
-13. Canada, House of Commons Debates (11 June 2008), 6855.
-
-14. Canada, House of Commons Debates (11 June 2008), 6855.
-
-15. Canada, House of Commons Debates (11 June 2008), 6856.
-
-16. Canada, House of Commons Debates (11 June 2008), 6856.
-
-The legacy
-
-\1. 2. 3. 4. 5. 6. 7.
-
-TRC, AVS, Johanne Coutu-Autut, Statement to the Truth and Reconciliation Commission of Cana- da, Rankin Inlet, Nunavut, 21 March 2011, Statement Number: 2011- 0160.
-
-TRC, AVS, Joseph Martin Larocque, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4386.
-
-TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4391.
-
-TRC, AVS, Genine Paul-Dimitracopoulos, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2862.
-
-TRC, AVS, Alma Scott, Statement to the Truth and Reconciliation of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-016.
-
-Canada, Truth and Reconciliation Commission of Canada, *Interim Report*, Recommendation 15, 29.
-
-Canada, Aboriginal Affairs and Northern Development Canada, *Canada’s Statement of Support*, http://www.aadnc-aandc.gc.ca/eng/1309374239861/1309374546142.
-
-8.
-
-9.
-
-10.
-
-\11. 12.
-
-\13. 14. 15. 16.
-
-\17. 18. 19. 20. 21.
-
-\22. 23.
-
-24.
-
-\25. 26.
-
-\27. 28. 29. 30. 31. 32.
-
-\33. 34. 35.
-
-TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 6-21-1, volume 2 (Ctrl #27-6), H. M. Jones to Deputy Minister, 13 December 1956. [NCA-001989-0001]
-
-For a discussion that places both child welfare and residential schools in the context of the ongo- ing colonization of Aboriginal people, see: McKenzie and Hudson, “Native Children.”
-
-Royal Commission on Aboriginal Peoples, as cited in Sinha and Kozlowski, “Structure of Aborigi- nal Child Welfare,” 4.
-
-Canada, Statistics Canada, *Aboriginal People in Canada,* 19.
- TRC, AVS, Norma Kassi, Statement to the Truth and Reconciliation Commission of Canada, Inu-
-
-vik, Northwest Territories, 29 June 2011, Statement Number: NNE203.
- United Nations, Convention on the Rights of the Child, *Concluding observations,* 12–13. United Nations, Convention on the Rights of the Child, *Concluding observations,* 7.
- Vandna et al., *Kiskisik Awasisak,* x–xi.
- Vandna et al., *Kiskisik Awasisak*, xi. The authors concluded that there was not enough data on
-
-Métis and Inuit children, and excluded them from the study. Vandna et al., *Kiskisik Awasisak,* ix. Vandna et al., *Kiskisik Awasisak*, 83–87.
- Vandna et al., *Kiskisik Awasisak,* xviii.
- Vandna et al., *Kiskisik Awasisak*, xii.
-
-Ruiz-Casares et al., “Supervisory Neglect,” 478.
- TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada,
-
-Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-048.
- TRC, AVS, Linda Clarke, Statement to the Truth and Reconciliation Commission of Canada, St.
-
-Albert, Alberta, 12 June 2011, Statement Number: 2011-0013.
- Information about ethnicity was available for 94 of the 145 children who have died in foster care
-
-since 1999. Of that number, 74 were Aboriginal. “Deaths of Alberta Aboriginal Children in Care No ‘Fluke of Statistics,’” *Edmonton Journal,* 8 January 2014, http://www.edmontonjournal.com/ life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story.html (accessed 18 February 2014).
-
-Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 3; “Deaths of Alberta Aboriginal Children in Care No ‘Fluke of Statistics,’” *Edmonton Journal,* 8 January 2014, http://www.edmon- tonjournal.com/life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story. html (accessed 18 February 2014).
-
-Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 4.
- Canada, Aboriginal Affairs and Northern Development Canada, Program Expenditures/Statis-
-
-tics, First Nations Child and Family Services Program Statistics, First Nations children ordinarily resident on reserve in care, https://www.aadnc-aandc.gc.ca/eng/1382549135936/1382549233428 (accessed 1 May 2015).
-
-National Collaborating Centre for Aboriginal Health, *Child and Youth Health,* 3. Wien et al., “Keeping First Nations Children at Home,” 13.
- Blackstock et al., *Wen: de: We Are Coming*, 38.
- Blackstock et al., *Wen: de: We Are Coming,* 89–90.
-
-Cradock, “Extraordinary Costs,” 179.
- Canada, Aboriginal Affairs and Northern Development Canada, “Jordan’s Principle,” http://www.
-
-aadnc-aandc.gc.ca/eng/1334329827982/1334329861879 (accessed 3 January 2014).
- *Pictou Landing Band Council v. Canada (Attorney General),* 2013 FC 342 (CanLII), para. 82. *Pictou Landing Band Council v. Canada (Attorney General),* 2013 FC 342 (CanLII), para. 82. Fletcher, “Origins of the Indian Child Welfare Act,” 1, 4.
-
-Endnotes • 487
-
-488 • Truth & Reconciliation Commission
-
-\36. 37.
-
-38.
-
-Atwood, “Voice of the Indian Child,” 128.
- TRC, AVS, Doris Young, Statement to the Truth and Reconciliation Commission of Canada, Saska-
-
-toon, Saskatchewan, 22 June 2012, Statement Number: 2011-3517.
- Canada, *Annual Report of the Department of Indian Affairs, 1942*, 154; Canada, *Annual Report of*
-
-*the Department of Indian Affairs, 1943,* 168; Canada, *Annual Report of the Department of Indian Affairs, 1944,* 177; Canada, *Annual Report of the Department of Indian Affairs, 1945,* 190; Canada, *Annual Report of the Department of Indian Affairs, 1946*, 231; Canada, *Annual Report of the De- partment of Indian Affairs, 1947*, 236; Canada, *Annual Report of the Department of Indian Affairs, 1948*, 234; Canada, *Annual Report of the Department of Indian Affairs, 1949,* 215; Canada, *Annual Report of the Department of Indian Affairs, 1950*, 86–87; Canada, *Annual Report of the Department of Indian Affairs, 1951,* 34–35; Canada, *Annual Report of the Department of Indian Affairs, 1952*, 74–75; Canada, *Annual Report of the Department of Indian Affairs, 1953*, 82–83; Canada, *Annual Report of the Department of Indian Affairs, 1954,* 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1955,* 78–79; Canada, *Annual Report of the Department of Indian Affairs, 1956,* 76–77; Canada, *Annual Report of the Department of Indian Affairs*, *1956–57*, 88–89; Canada, *Annu- al Report of the Department of Indian Affairs*, *1958*, 91; Canada, *Annual Report of the Department of Indian Affairs, 1959*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1960,* 94; Canada, *Annual Report of the Department of Indian Affairs, 1961,* 102; Canada, *Annual Report of the Department of Indian Affairs*, *1962*, 73; Canada, *Annual Report of the Department of Indian Affairs*, *1963*, 62.
-
-United Nations, *Declaration on the Rights of Indigenous Peoples*, Article 14:1, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf.
-
-Bougie and Senecal, “Registered Indian Children’s School Success,” 21.
- Bougie and Senecal, “Registered Indian Children’s School Success,” 21.
- Canada, Statistics Canada, *Educational Portrait of Canada, Census Year 2006*, 6, 19.
- Canada, Statistics Canada Fact Sheet, *2011 National Household Survey Aboriginal Demographics*,
-
-https://www.aadnc-aandc.gc.ca/eng/1376329205785/1376329233875.
- National Committee on Inuit Education, *First Canadians, Canadians First,* https://www.itk.ca/
-
-sites/default/files/National-Strategy-on-Inuit-Education-2011_0.pdf, 7; Penny, “Formal Educa- tional Attainment,” 33; Canada, Statistics Canada, *Educational attainment of Aboriginal peoples,* http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_3-eng.pdf.
-
-Richards et al., *Understanding the Aboriginal/Non-Aboriginal Gap,* 1; Wilk et al., “Métis Educa- tional Attainment,” 51–52.
-
-Canadian Human Rights Commission, “Report on Equality Rights,” 3, 12, 32.
- Canada, Statistics Canada, *Aboriginal People Living Off-reserve*, 15.
- Canada, Statistics Canada, “Census Inuit Table: 89-636-x,” http://www.statcan.gc.ca/pub/89-636-
-
-x/89-636-x2008001-eng.htm.
- Joe Friesen, “Ottawa Failing to Include First Nations in Key Employment Data,” *Globe and Mail,* 23
-
-January 2015, http://www.theglobeandmail.com/news/politics/unemployment-stats-missing-in- areas-where-job-training-is-a-priority/article22598523 (accessed 1 May 2015).
-
-Wilson and Macdonald, *Income Gap*, 8.
- Wilson and Macdonald, *Income Gap*, 4.
- Macdonald and Wilson, *Poverty or Prosperity,* 6.
- Wilson and Macdonald, *Income Gap*, 14.
- Canadian Human Rights Commission, *Report on Equality Rights of Aboriginal People,* 17. The
-
-poverty line is measured by the 2009 SLID Low-Income Measure (LIM).
-
-39.
-
-\40. 41. 42. 43.
-
-44.
-
-45.
-
-\46. 47. 48.
-
-49.
-
-\50. 51. 52. 53. 54.
-
-\55. 56. 57.
-
-\58. 59. 60.
-
-\61. 62. 63. 64.
-
-\65. 66.
-
-\67. 68.
-
-\69. 70. 71.
-
-\72. 73. 74.
-
-Canadian Human Rights Commission, *Report on Equality Rights of Aboriginal People*, 18–19. Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 9. Canada, Department of Indian and Northern Affairs, “Indian Education Paper: Phase 1,” 1982, as
-
-cited in Paquette and Fallon, *First Nations Education Policy,* 80.
- Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 56.
-
-McCue, *First Nations 2nd and 3rd Level Education Services,* 52, http://www.afn.ca/uploads/files/ education/9._2006_april_harvey_mccue_first_nations_2nd_&_3rd_level_services_paper.pdf.
-
-Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education*, 11; First Nations Education Council, *Funding Formula for First Nation Schools*, http://www.cepn- fnec.com/PDF/etudes_documents/fiche_complete_eng.pdf.
-
-Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 11, 31.
-
-First Nations Education Council, *Funding Formula for First Nation Schools,* 1, http://www.cepn- fnec.com/PDF/etudes_documents/fiche_complete_eng.pdf.
-
-Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 35.
-
-Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education;* Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, *Nurturing the Learning Spirit,* http://www.afn.ca/uploads/files/education2/ national-panel.pdf; First Nations Education Council et al., *Report on Priority Actions,* http://www. cepnfnec.com/PDF/accueil/Report%20on%20Priority%20Actions%20in%20View%20of%20Im- proving%20First%20Nations%20Education%20-%20November%202011_eng_website%20version_. pdf.
-
-TRC, AVS, Albert Marshall, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-050.
-
-Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, *Nurturing the Learning Spirit,* 14*,* http://www.afn.ca/uploads/files/edu- cation2/national-panel.pdf.
-
-Hodgson-Smith, *State of Métis Nation Learning,* 4, 26, http://www.ccl-cca.ca/pdfs/AbLKC/Sta- teOfMetisNationLearning.pdf.
-
-Hodgson-Smith, *State of Métis Nation Learning,* 4, 17, 82, http://www.ccl-cca.ca/pdfs/AbLKC/ StateOfMetisNationLearning.pdf.
-
-National Committee on Inuit Education, *First Canadians, Canadians First*, 7–9, 76–79. National Committee on Inuit Education, *First Canadians, Canadians First,* 80.
- Canada, Statistics Canada, *The Educational Attainment of Aboriginal People,* Table 2, https://
-
-www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_3-eng.cfm.
- Canada, Auditor General of Canada, *Status Report,* 13, http://www.oag-bvg.gc.ca/internet/docs/
-
-parl_oag_201106_04_e.pdf.
- TRC, AVS, Geraldine Bob, Statement to the Truth and Reconciliation Commission of Canada, Fort
-
-Simpson, Northwest Territories, 23 November 2011, Statement Number: 2011-2685.
- Assembly of First Nations, “Financial Support for First Nation Students in College and Universi- ty: The Cost of Implementing the Recommendations of the Standing Committee of the House of
-
-Commons on Aboriginal Affairs and Northern Development,” as cited in First Nations Education Council, *Paper on First Nations Education Funding*, 35.
-
-Endnotes • 489
-
-490 • Truth & Reconciliation Commission
-
-75.
-
-\76. 77. 78.
-
-\79. 80.
-
-\81. 82. 83.
-
-\84. 85. 86.
-
-\87. 88. 89. 90. 91.
-
-92.
-
-\93. 94.
-
-95.
-
-\96. 97. 98.
-
-99.
-
-100.
-
-\101. 102.
-
-Assembly of First Nations, Chiefs Assembly on Education, *Early Childhood Education,* http:// www.afn.ca/uploads/files/events/fact_sheet-ccoe-5.pdf.
-
-Assembly of First Nations, *Breaking the Silence*, 25–26.
- Royal Commission on Aboriginal Peoples, *Gathering Strength*, 3:612–613.
- TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada,
-
-Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870.
- TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 81/25-1 (Ctrl
-
-\#240-13), R. Morris to Chiefs, Petahbun [Pehtabun] Area, 9 February 1979, 2–3. [NCA-001721] TRC, AVS, Conrad Burns, Statement to the Truth and Reconciliation Commission of Canada, Regi-
-
-na, Saskatchewan, 17 January 2012, Statement Number: SP036.
- United Nations, *International Covenant,* Article 27.
- United Nations, *Declaration of the Rights of Indigenous Peoples*, articles 8, 13, 14, and 16.
- TRC, AVS, Agnes Mills, Statement to the Truth and Reconciliation Commission of Canada, Inuvik,
-
-Northwest Territories, 29 June 2011, Statement Number: SC090.
- TRC, AVS, Mary Courchene, Statement to the Truth and Reconciliation Commission of Canada,
-
-Pine Creek First Nation, Manitoba, 28 November 2011, Statement Number: 2011-2515.
- Canada, Statistics Canada, *Aboriginal Peoples and Language,* http://www12.statcan.gc.ca/nhs-
-
-enm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm.
- Canada, Statistics Canada, *Aboriginal Peoples and Language*, http://www12.statcan.gc.ca/nhs-
-
-enm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm; Canada, Statistics Canada, *Population reporting an Aboriginal identity,* http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/ demo38a-eng.htm; Canada, Statistics Canada, *Aboriginal Languages in Canada*. http://www. statcan.gc.ca/pub/11-008-x/2007001/9628-eng.htm.
-
-Moseley and Nicolas, *Atlas of the World’s Languages,* 117.
- *R. v. Van der Peet*, 1996 CanLII 216 (SCC).
- Assembly of First Nations, *Royal Commission on Aboriginal Peoples at 10 Years*, 18.
- Canada, House of Commons Debates (2 November 2006), 1010.
- TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada,
-
-Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870.
- Email from Glenn Morrisson, Policy Manager of the Aboriginal Affairs Directorate in the Citizen-
-
-ship Participation Branch, to the Truth and Reconciliation Commission (July 9, 2012). Canada, Department of Canadian Heritage, *2012–2013 Report on Plans and Priorities,* 26. Canada, Standing Senate Committee on Legal and Constitutional Affairs, *Language Rights in*
-
-*Canada’s North,* 19–20.
- TRC, AVS, Sabrina Williams, Statement to the Truth and Reconciliation Commission of Canada,
-
-Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3982.
- French, *My Name Is Masak*, 19.
- Gresko, “Everyday Life at Qu’Appelle Industrial School,” 80.
- TRC, AVS, Ruby Firth, Statement to the Truth and Reconciliation Commission of Canada, Inuvik,
-
-Northwest Territories, 22 July 2011, Statement Number: 2011-0326.
- TRC, AVS, Sonia Wuttunee-Byrd, Statement to the Truth and Reconciliation Commission of Cana-
-
-da, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093.
- TRC, AVS, Katherine Copenace, Statement to the Truth and Reconciliation Commission of Cana-
-
-da, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-129. United Nations, *Declaration on the Rights of Indigenous Peoples,* articles 7, 21, 22, 24. United Nations, *Declaration on the Rights of Indigenous Peoples,* Article 23.
-
-\103. 104. 105.
-
-\106. 107. 108. 109.
-
-110.
-
-\111. 112. 113.
-
-\114. 115.
-
-116.
-
-\117. 118.
-
-\119. 120.
-
-121.
-
-\122. 123.
-
-124.
-
-\125. 126.
-
-127.
-
-United Nations, *Declaration on the Rights of Indigenous Peoples,* articles 24, 31.
- National Collaborating Centre for Aboriginal Health, *Looking for Aboriginal Health*, 43–50. Canada, Report of an Interdepartmental Working Group to the Committee of Deputy Ministers on
-
-Justice and Legal Affairs, Fiduciary Relationship of the Crown with Aboriginal Peoples: Implemen- tation and Management Issues – A Guide for Managers (Ottawa, 1995), 13, as cited in Boyer, *No. 1 Aboriginal Health,* 5, 20–21.
-
-Boyer, *No. 1 Aboriginal Health,* 19–21, 23.
- Boyer, *No. 1 Aboriginal Health,* 19.
- Smylie, “Review of Aboriginal Infant Mortality Rates, 147.
- Canada, Statistics Canada, *Mortality rates among children and teenagers,* http://www.statcan.
-
-gc.ca/pub/82-003-x/2012003/article/11695-eng.htm.
- Canada, Statistics Canada, *Select health indicators of First Nations people,* http://www.statcan.
-
-gc.ca/daily-quotidien/130129/dq130129b-eng.htm.
- First Nations Centre, *First Nations Regional Longitudinal Health Survey,* 114.
- Kirmayer et al., *Suicide Among Aboriginal People*, xv, 22.
- Australia, Department of the Prime Minister and Cabinet, *Closing the Gap,* http://www.dpmc.gov.
-
-au/pmc-indigenous-affairs/publication/closing-gap-prime-ministers-report-2015.
- Canadian Medical Association, “Aboriginal Health Programming under Siege,” E740.
- TRC, AVS, Trudy King, Statement to the Truth and Reconciliation Commission of Canada, Fort
-
-Resolution, Northwest Territories, 28 April 2011, Statement Number: 2011-0381.
- TRC, AVS, M. R. E. Linklater, Statement to the Truth and Reconciliation Commission of Canada,
-
-Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055.
- Chansonneuve, *Addictive Behaviours,* 42–46.
- TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian
-
-Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 20, 21, 28, 45. [RCMP-564517]
-
-TRC, ASGAR, Stephen N. S. Thatcher, Affidavit in Supreme Court of BC, no date, 25–35. [RCMP- 564327]
-
-TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 27, 32, 45. [RCMP-564517]
-
-TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 40. [RCMP-564517]
-
-*Criminal Code, 1985,* chapter C-46, section 274.
- Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics,
-
-from September 19, 2007, January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015).
-
-TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 45. [RCMP-564517]
-
-Canada, Law Commission of Canada, *Restoring Dignity*, 151, 178.
- Indian Residential Schools Settlement Agreement, http://www.residentialschoolsettlement.ca/
-
-IRS%20Settlement%20Agreement-%20ENGLISH.pdf.
- TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada,
-
-Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510.
-
-Endnotes • 491
-
-492 • Truth & Reconciliation Commission
-
-\128. 129.
-
-\130. 131. 132. 133. 134.
-
-\135. 136. 137. 138. 139. 140. 141.
-
-142.
-
-\143. 144. 145. 146.
-
-\147. 148.
-
-149.
-
-\150. 151.
-
-152.
-
-\153. 154.
-
-TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: 2011-3975.
-
-Canada, Statistics Canada, *Adult Correctional Services in Canada 1995–1996,* http://www.statcan. gc.ca/pub/85-002-x/85-002-x1997004-eng.pdf; Canada, Statistics Canada, *Adult Correctional Ser- vices in Canada 2011–2012,* http://www.statcan.gc.ca/pub/85-002-x/2014001/article/11918-eng. htm#a5.
-
-Canada, Statistics Canada, *Adult Correctional Services in Canada, 2011–2012,* http://www.statcan. gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5.
-
-Canada, Statistics Canada, *Adult Correctional Services in Canada, 2011–2012,* http://www.statcan. gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5.
-
-TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Long Plain First Nation, Manitoba, 27 July 2010, Statement Number: 01-MB-26JY10-011.
-
-TRC, AVS, Daniel Andre, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 23 May 2011, Statement Number: 2011-0202.
-
-TRC, AVS, Grace Campbell, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-136.
-
-*Criminal Code,* 1985, chapter C-46, section 718.2(e).
- *R. v. Gladue*, 1999 CanLII 679 (SCC), para. 58–65.
- *R. v. Gladue*, 1999 CanLII 679 (SCC), para. 64.
- For a description of the process of preparing Gladue reports, see: Istvanffy, *Gladue Primer*. *R. v. Ipeelee*, 2012 SCC 13 (CanLII), para. 81, 84.
-
-*Safe Streets and Communities Act*, 2012, chapter 1.
- There have been some recent cases in which courts have made decisions counter to the mandato-
-
-ry minimum provisions. See, for example: *R. v. Smickle*, 2012, ONSC 602 (CanLII). Canada, Public Safety Canada, *Fetal Alcohol Spectrum Disorder,* 5,
-
-http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ftl-lchl-spctrm/ftl-lchl-spctrm-eng.pdf. Tait, *Fetal Alcohol Syndrome.
-\* Tait, *Fetal Alcohol Syndrome*, xviii.
- Ospina and Dennett, *Systematic Review,* iii.
-
-Canada, Correctional Service of Canada, *Fetal Alcohol Spectrum Disorder(FASD),* iv*,* http://www. publicsafety.gc.ca/lbrr/archives/cn21451-eng.pdf.
-
-*R. v. Harris*, 2002 BCCA 152 (CanLII), para. 18–20.
- Mitten, “Fetal Alcohol Spectrum Disorders,” http://www.justicereformcomm.sk.ca/volume2/
-
-12section9.pdf.
- For a study that involved interviews with inmates in a minimum security institution designed
-
-specifically for Aboriginal inmates, see: Braun, *Colonization, Destruction, and Renewal*. See also: Waldram, *The Way of the Pipe*, 129–150; Crutcher and Trevethan, *Examination of Healing Lodges,* 52.
-
-Nielson, “Canadian Aboriginal Healing Lodges.”
- British Columbia, Ministry of Justice, Corrections Branch, Aboriginal Programs and Relationships,
-
-*Inclusivity*, http://www.pssg.gov.bc.ca/corrections/docs/AboriginalStratPlan.pdf.
- TRC, AVS, Chris Gargan, Statement to the Truth and Reconciliation Commission of Canada, Yel-
-
-lowknife, Northwest Territories, 30 October 2012, Statement Number: 2011-0430. *Corrections and Conditional Release Act*, SC 1992, chapter 20, http://canlii.ca/t/52db0. Bonta et al., “Risk Prediction,” 127.
-
-155.
-
-\156. 157.
-
-\158. 159.
-
-160.
-
-\161. 162. 163. 164.
-
-\165. 166.
-
-\167. 168.
-
-Canada, Statistics Canada, *Youth Correctional Services in Canada 2011–2012,* http://www.statcan. gc.ca/pub/85-002-x/2014001/article/11917-eng.htm#a5; Canada, Department of Justice, Youth Justice Research, “A One-Day Snapshot,” 3. These figures do not include Saskatchewan, which has a high rate of Aboriginal youth incarceration
-
-*Youth Criminal Justice Act*, SC 2002, chapter 1, section 38(1).
- Canada, Statistics Canada, “Youth Court Statistics 2011/2012,” http://www.statcan.gc.ca/dai-
-
-ly-quotidien/130613/dq130613d-eng.pdf ); Canada, Statistics Canada*, Youth Correctional Statistics in Canada, 2010/2011*; Canadian Bar Association, *Submission on Bill C-10,* 8, http://www.cba.org/ cba/submissions/PDF/11-45-eng.pdf. Not all provinces and territories have seen a decrease in youth in correctional services. In fact, since 2005–06, rates have increased in Manitoba, Yukon, and Alberta. Canada, Statistics Canada, *Youth Correctional Statistics in Canada, 2010/2011,* 5.
-
-Canada, Statistics Canada, *Youth Correctional Statistics in Canada, 2010/2011*, 7.
- British Columbia, Office of the Provincial Health Officer, “Health, Crime and Doing Time,” http://
-
-www.health.gov.bc.ca/pho/pdf/health-crime-2013.pdf.
- Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics,
-
-from September 19, 2007, January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015).
-
-TRC, AVS, Ruby Firth, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 22 July 2011, Statement Number: 2011-0326.
-
-Canada, Statistics Canada, *Violent Victimization of Aboriginal People,* http://wgc.ca/pub/85- 002-x/2011001/article/11415-eng.pdf.
-
-Canada, Statistics Canada, *Violent Victimization of Aboriginal Women,* http://www.statcan.gc.ca/ pub/85-002-x/2011001/article/11439-eng.pdf.
-
-Canada, Statistics Canada, *Violent Victimization of Aboriginal People,* 15*,* http://wgc.ca/pub/85- 002-x/2011001/article/11415-eng.pdf; Canada, Statistics Canada, *Measuring Violence Against Women,* 67; Native Women’s Association of Canada, *Voices of Our Sisters in Spirit,* 6, http://www. nwac.ca/sites/default/files/download/admin/NWAC_VoicesofOurSistersInSpiritII_March2009FI- NAL.pdf.
-
-Canada, Statistics Canada, *Victimization and Offending,* http://www.statcan.gc.ca/pub/85-002- x/85-002-x2006003-eng.pdf.
-
-Canada, Statistics Canada, *Measuring Violence Against Women,* 9, 19; Native Women’s Association of Canada, *Voices of Our Sisters in Spirit,* 94–95, http://www.nwac.ca/sites/default/files/download/ admin/NWAC_VoicesofOurSistersInSpiritII_March2009FINAL.pdf.
-
-TRC, AVS, Velma Jackson, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 6 January 2011, Statement Number: 01-AB-06JA11-003.
-
-Royal Canadian Mounted Police, *Missing and Murdered Aboriginal Women,* 3, http://www.rc- mp-grc.gc.ca/pubs/mmaw-faapd-eng.pdf.
-
-The challenge of reconciliation
-
-\1. TRC, AVS, Ian Campbell, Statement to the Truth and Reconciliation Commission of Canada, Win- nipeg, Manitoba, 25 June 2014, Statement Number: SE048.
-
-\2. Canada, Debates of the Senate, 40th Parliament, 2nd session (11 June 2009), volume 146, issue 45. 3. Miller, *Lethal Legacy*, 165.
-
-Endnotes • 493
-
-494 • Truth & Reconciliation Commission
-
-\4. 5. 6.
-
-\7. 8.
-
-\9. 10.
-
-\11. 12. 13.
-
-\14. 15.
-
-\16. 17. 18.
-
-\19. 20.
-
-For various perspectives on the events at Oka, see, for example: Alfred, *Heeding the Voices*; Per- tusati, *In Defense of Mohawk Land*; Miller, *Lethal Legacy*; Simpson and Ladner, *This is an Honour Song*.
-
-On the place of media in shaping popular opinion on the role of warriors in conflicts with the state, see: Valaskakis, *Indian Country*. On warriors and warrior societies in contemporary Indige- nous communities, see: Alfred and Lowe, “Warrior Societies,”
-
-Letters from Prime Minister Brian Mulroney to Tony Penikett, Government Leader, Government of the Yukon Territory, 15 November 1990, and Dennis Patterson, Government Leader, Government of the Northwest Territories, 15 November 1990, PCO 2150-1, Ident. No. 34788, TRC Document Number TRC3379.
-
-Canada, Royal Commission on Aboriginal Peoples, *Report*, 1:675–697.
- United Nations, *Declaration on the Rights of Indigenous Peoples,* Article 43, http://www.un.org/
-
-esa/socdev/unpfii/documents/DRIPS_en.pdf.
- Anaya, “Right of Indigenous Peoples,” 196.
- Canada, Aboriginal Affairs and Northern Development Canada, “Canada’s Endorsement,” http://
-
-www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015). Canada, Aboriginal Affairs and Northern Development Canada, “Canada’s Endorsement,” http://
-
-www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015). United Nations General Assembly, “Outcome Document,” A/RES/69/2, 25 September 2014,
-
-http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/2.
- Canada, Permanent Mission of Canada to the United Nations, “Canada’s Statement on the World
-
-Conference,” http://www.canadainternational.gc.ca/prmny-mponu/canada_un-canada_onu/ statements-declarations/other-autres/2014-09-22_WCIPD-PADD.aspx?lang=eng.
-
-Amnesty International Canada et al., “Canada Uses World Conference,” http://www.fns.bc.ca/pdf/ Joint_Public_Statement_re_Canada_attack_on_UNDRIP_Sept_24_2014.pdf.
-
-John, “Survival, Dignity, Well-Being,” 58. Grand Chief John, an executive member of the First Nations Summit Task Group in British Columbia, participated in the development of the *Declara- tion*. He is a former co-chair of the North American Indigenous Peoples Caucus and will serve as a North American Representative to the United Nations Permanent Forum on Indigenous Issues until 2016. See: First Nations Summit, http://www.fns.bc.ca/about/e_john.htm.
-
-*Tsilhqot’in Nation v. British Columbia,* 2014 CanLII 44 (SCC), para. 73.
- *Tsilhqot’in Nation v. British Columbia,* 2014 CanLII 44 (SCC), para. 97.
- TRC, AVS, Sol Sanderson, Statement to the Truth and Reconciliation Commission of Canada,
-
-Winnipeg, Manitoba, 17 June 2010, Statement Number: SC108.
- Reid, “Roman Catholic Foundations,” 5.
- The Permanent Observer Mission of the Holy See explains its role and function at the United
-
-Nations as follows: “The Holy See ... is the central government of the Roman Catholic Church.
- As such, the Holy See is an institution, which under international law and in practice, has a legal personality that allows it to enter into treaties as the juridical equal of a State.... The Holy See maintains full diplomatic relations with one hundred seventy-seven (177) countries out of the one hundred ninety-three (193) member countries of the UN.... The Holy See enjoys *by its own choice* the status of Permanent Observer at the United Nations, rather than of a full Member. This is due primarily to the desire of the Holy See to obtain absolute neutrality in specific political problems.” See: UN Permanent Observer Mission of the Holy See, “A Short History,” http://www.holyseemis- sion.org/about/history-of-diplomacy-of-the-holy-see.aspx (accessed 19 February 2015).
-
-\21. 22.
-
-UN Permanent Observer Mission of the Holy See, Statement to Economic and Social Council, Discussion on the reports, “Impact on Indigenous Peoples,” http://www.ailanyc.org/wp-content/ uploads/2010/09/Holy-See.pdf (accessed 20 January 2015).
-
-For example, in a study of how the doctrine was used to justify colonization, American legal schol- ar Robert A. Williams Jr. observed that the United States Supreme Court decision issued by Chief Justice John Marshall in 1823 in the case of *Johnson v. McIntosh* 21 U.S. 543 (1823), “represents the most influential legal opinion on indigenous peoples’ human rights ever issued by a court of law
- in the Western world. All the major English-language-speaking settler states adopted Marshall’s understanding of the Doctrine of Discovery and its principle that the first European discoverer of lands occupied by non-Christian tribal savages could claim a superior right to those lands under the European Law of Nations. Canada, Australia, and New Zealand all followed Marshall’s opinion as a precedent for their domestic law on indigenous peoples’ inferior rights to property and control over their ancestral lands.” See: Williams, *Savage Anxieties*, 224. See also: Williams, *American Indi- an*; Miller et al., *Discovering Indigenous Lands;* Newcomb, *Pagans in the Promised Land*, 2008.
-
-United Nations Economic and Social Council, Permanent Forum on Indigenous Issues, “Study on the Impacts of the Doctrine,” http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/ N1424184.pdf?OpenElement.
-
-Anglican Church of Canada, General Synod 2010, Resolution A086 R1, http://archive.anglican.ca/ gs2010/resolutions/a086/.
-
-Sison, “Primate’s Commission.” See also: Anglican Church of Canada, “Message to the Church,” http://www.anglican.ca/primate/communications/commission-on-discovery-reconciliation-jus- tice. See also: Anglican Church of Canada, “Learning to Call One Another Friends,” http://www. anglican.ca/primate/files/2014/06/PCDRJ_June2014_Update.pdf.
-
-World Council of Churches*, What Is the World Council of Churches?,* http://www.oikoumene.org/ en/about-us (accessed 15 April 2015). Settlement Agreement signatories the Anglican Church of Canada, the Presbyterian Church in Canada, and the United Church of Canada are members of the WCC.
-
-World Council of Churches*, Statement on the doctrine of discovery,* http://www.oikoumene.org/ en/resources/documents/executive-committee/bossey-february-2012/statement-on-the-doc- trine-of-discovery-and-its-enduring-impact-on-indigenous-peoples (accessed 20 March 2015).
-
-Executive of the General Council of the United Church of Canada, *Meeting Summary, March 24–26, 2013,* http://www.united-church.ca/files/general-council/gc40/gce_1203_highlights.pdf (accessed 20 March 2015).
-
-United Nations Permanent Forum on Indigenous Issues, “Joint Statement,” http://www.afn.ca/ uploads/files/pfii_2012_–_doctrine_of_discovery_–_joint_statement_fe.pdf (accessed 20 March 2015).
-
-United Nations Permanent Forum on Indigenous Issues, “Study on the Impacts of the Doctrine,” para. 13, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/N1424184.pd- f?OpenElement (accessed 14 March 2015). For the views of the court on the need for reconcilia- tion, John cited *Haida Nation v. British Columbia (Minister of Forests),* 2004 SCC 73 (CanLII), para. 20. For the judicial notice on colonialism, John cited *R. v. Ipeelee,* 2012 SCC 13 (CanLII), para. 60.
-
-Onondaga Nation, “Oren Lyons Presents,” http://www.onondaganation.org/news/2014/oren- lyons-presents-at-u-n-51514/ (accessed 21 March 2015). Article 7, paragraph 2 of the *Declaration* affirms that “Indigenous peoples have the collective right to live in freedom, peace and security as distinct peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly removing children of the group to another group.”
-
-23.
-
-\24. 25.
-
-26.
-
-\27. 28. 29. 30.
-
-31.
-
-Endnotes • 495
-
-496 • Truth & Reconciliation Commission
-
-\32. 33.
-
-34.
-
-\35. 36. 37.
-
-\38. 39.
-
-\40. 41.
-
-42.
-
-43.
-
-\44. 45.
-
-46.
-
-\47. 48. 49.
-
-Kelly, “Confessions of a Born Again Pagan,” 22–23.
- See, for example: Treaty 7 Tribal Council et al., *True Spirit and Original Intent*; Miller, *Compact,*
-
-*Contract, Covenant*; Ray, Miller, and Tough, *Bounty and Benevolence*.
- The Treaty commissions in Ontario, Saskatchewan, and Manitoba have developed public educa-
-
-tion programs and materials designed to teach Canadians, particularly children and youth, about the Treaties. See, for example: Treaty Relations Commission of Manitoba, Public Education/Learn- ing Centre, http://www.trcm.ca/public-education/learning-centre/ (accessed 15 April 2015).
-
-Borrows, “Wampum at Niagara,” 160–161.
- Miller, *Compact, Contract, Covenant*, 72.
- Capt. Thomas G. Anderson, “Report on the Affairs of the Indians of Canada, Section III,” Appendix
-
-No. 95 in Appt T of the *Journals of the Legislative Assembly of Canada,* vol. 6 (1818), cited in Bor- rows, “Wampum at Niagara,” 166.
-
-Capt. Thomas G. Anderson, “Report on the Affairs of the Indians of Canada, Section III,” Appendix No. 95 in Appt T of the *Journals of the Legislative Assembly of Canada,* vol. 6 (1818), cited in Bor- rows, “Wampum at Niagara,” 167–168.
-
-The Governor General of Canada, his Excellency the Right Honourable David Johnston, Speech delivered at the Symposium in Honour of the 250th Anniversary of the Royal Proclamation of 1763, Gatineau, Que., October 7, 2013, http://www.gg.ca/document.aspx?id=15345&lan=eng.
-
-First Nations Summit, “Royal Proclamation Still Relevant,” http://www.fns.bc.ca/pdf/FNS_Op- ed_re_250th_anniver_of_Royal_Proclamation_10_07_13.pdf (accessed 5 December 2014).
-
-Steve Rennie, “Idle No More Protestors Mark 25th Anniversary of Royal Proclamation,” *Canadian Press*, October 7, 2013, http://www.thestar.com/news/canada/2013/10/07/idle_no_more_pro- testers_mark_250th_anniversary_of_royal_proclamation.html. For more on the Idle No More movement, see: The Kino-nda-niimi Collective, *The Winter We Danced*.
-
-Legal scholar Robert A. Williams Jr. explains the Gus-Wen-Tah or Two-Row Wampum as “a sacred treaty belt ... comprised of a bed of white wampum shell beads symbolizing the sacredness and purity of the treaty agreement between the two sides. Two parallel rows of purple wampum beads that extend down the length of the belt represent the separate paths travelled by the two sides on the same river. Each side travels in its own vessel: the Indians in a birch bark canoe, representing their laws, customs, and ways, and the whites in a ship, representing their laws, customs, and ways.” See: Williams Jr., *Linking Arms Together*, 12–13.
-
-“Two-Row Wampum Centers Idle No More Toronto Rally, Not the Royal Proclamation,” October 9, 2013, *BasicNews.ca*, http://basicsnews.ca/two-row-wampum-centers-idle-no-more-toronto-rally- not-the-royal-proclamation/.
-
-United Nations, *Declaration on the Rights of Indigenous Peoples,* Article 40, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf.
-
-United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, “Access to Justice,” 23, http://www.ohchr.org/Documents/Issues/IPeoples/ EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.
-
-United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, “Access to Justice,” 6, 8, 22–24, http://www.ohchr.org/Documents/Issues/ IPeoples/EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.
-
-United Nations General Assembly, “Report of the Special Rapporteur,” 13, 20.
- See, for example: Borrows, *Canada’s Indigenous Constitution*.
- Canada, Royal Commission on Aboriginal Peoples, *Highlights from the Report,* http://www.aad-
-
-nc-aandc.gc.ca/eng/1100100014597/1100100014637.
-
-\50. 51.
-
-52.
-
-\53. 54.
-
-\55. 56.
-
-57.
-
-\58. 59.
-
-\60. 61.
-
-62.
-
-\63. 64. 65.
-
-TRC, AVS, Stephen Augustine, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.
-
-Friedland, “IBA Accessing Justice and Reconciliation,” 18, quoting Chief White, Snuneymuxw First Nation, 16 November 2012, http://indigenousbar.ca/indigenouslaw/wp-content/up- loads/2013/04/iba_ajr_final_report.pdf (accessed 15 April 2015). Funding for the AJR project was provided by the Ontario Law Foundation. The Academic Lead for the project was Professor Val Napoleon, Law Foundation Professor of Aboriginal Justice and Governance, University of Victoria, Faculty of Law. The project coordinator was Hadley Friedland, PhD candidate, Vanier Scholar, University of Alberta, Faculty of Law.
-
-On the importance of recognizing that victims of violence are also holders of rights, see: de Greiff, “Report of the Special Rapporteur,” 2012, 10, para. 29, http://www.ohchr.org/Documents/HRBod- ies/HRCouncil/RegularSession/Session21/A-HRC-21-46_en.pdf.
-
-Simpson, *Dancing on Our Turtle’s Back*, 22.
- TRC, AVS, Honourable Steven Point, Statement to the Truth and Reconciliation Commission of
-
-Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: BCNE304. Stanton, “Canada’s Truth and Reconciliation Commission,” 4.
- Castellano, Archibald, and DeGagné, “Introduction,” in Castellano, Archibald, and DeGagné,
-
-*From Truth to Reconciliation*, 2–3.
- de Greiff, “Report of the Special Rapporteur,” 2012, 10–12, http://www.ohchr.org/Documents/HR-
-
-Bodies/HRCouncil/RegularSession/Session21/A-HRC-21-46_en.pdf.
- Wab Kinew, “It’s the Same Great Spirit,” *Winnipeg Free Press*, October 22, 2012.
- TRC, AVS, Shawn A-in-chut Atleo, Statement to the Truth and Reconciliation Commission of Can-
-
-ada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE202.
- Canada, Royal Commission on Aboriginal Peoples, *Report,* 1:38.
- *R. v. Sparrow,* 1990 CanLII 104 (SCC). See also: *Guerin v. R.,* 1984 CanLII 25 (SCC); *Delgamuukw*
-
-*v. BC,* 1997 CanLII 302 (SCC); *Haida Nation v. British Columbia (Minister of Forests),* 2004 SCC 73 (CanLII).
-
-*Manitoba Métis Federation Inc. v. Canada (Attorney General),* 2013 SCC 14 (CanLII), Appellants Factum, para. 94, citing Manitoba Court of Appeal ruling *Manitoba Métis Federations Inc. v. Cana- da (Attorney General) et al*., 2010 MBCA 71, paras. 533, 534.
-
-The Solicitor’s Opinions on Native American issues can be found at: http://www.doi.gov/solicitor/ opinions.html (accessed 25 March 2015).
-
-On the unfair burden of proof placed on Aboriginal peoples and the need to shift the onus onto the Crown, see, for example: Borrows, *Recovering Canada*, 101.
-
-Canada, Royal Commission on Aboriginal Peoples, *Report*, 1:8. The Commission adopts the definition of “civic trust” put forward by justice scholar Pablo de Greiff as it relates to the role of apologies in reconciliation processes: “Trust involves an expectation of ... commitment to the norms and values we share ... not the thick form of trust characteristic of relations between inti- mates, but rather ‘civic’ trust ... that can develop among citizens who are strangers to one another, but who are members of the same political community.... Trusting an institution, then, amounts to knowing that its constitutive rules, values, and norms are shared by participants and that they re- gard them as binding.... Reconciliation, minimally, is the condition under which citizens can trust one another as citizens again (or anew).... It presupposes that both institutions and persons can become *trustworthy*, and this is not something that is merely granted but *earned*.” See: de Greiff, “Role of Apologies,” 125–127.
-
-Endnotes • 497
-
-498 • Truth & Reconciliation Commission
-
-\66. 67.
-
-68.
-
-\69. 70. 71. 72. 73.
-
-74.
-
-\75. 76.
-
-\77. 78.
-
-\79. 80.
-
-81.
-
-TRC, AVS, Eugene Arcand, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE202.
-
-On the role of official apologies in reparations and reconciliation, see, for example: Barkan and Karn, *Taking Wrongs Seriously*; de Greiff, “Role of Apologies”; James, “Wrestling with the Past”; Nobles, *Politics of Official Apologies*; Tavuchis, *Mea Culpa*.
-
-Canada, Debates of the Senate, 40th Parliament, 2nd session (11 June 2009), volume 146, issue 45. Other speakers included National President Mary Simon, Inuit Tapiriit Kanatami; Métis Nation-
- al Council President Clément Chartier; and Kevin Daniels, Interim National Chief, Congress of Aboriginal Peoples.
-
-TRC, AVS, Theodore Fontaine, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: SP203.
-
-TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.
-
-Vatican, Communiqué of the Holy See Press Office, April 29, 2009, http://www.vatican.va/resourc- es/resources_canada-first-nations-apr2009_en.html.
-
-“Pope Expresses ‘Sorrow’ for Abuse at Residential Schools,” *CBC News*, April 29, 2009, http://www. cbc.ca/news/world/pope-expresses-sorrow-for-abuse-at-residential-schools-1.778019.
- Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19,
-
-2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_ let_20100319_church-ireland_en.html.
-
-Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19, 2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_ let_20100319_church-ireland_en.html.
-
-TRC, AVS, Commissioner Wilton Littlechild, speaking at Oblates of St. Mary Immaculate gathering in St. Albert, Alberta, 2 May 2011, Statement Number: SC012.
-
-In the Learning Places at National Events, there were information posters on the schools in the region, the Legacy of Hope Foundation exhibit, an information booth on the Missing Children Project, interactive maps, and a writing wall where people could offer their personal reflections.
- At each event in or near the Learning Place, the Settlement Agreement churches also organized a Churches Listening Area. The intent was to provide an opportunity for those Survivors who wished to do so to speak personally with a church representative about their residential school experience. When requested, church representatives also offered apologies to Survivors.
-
-TRC, AVS, Alvin Dixon, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE302.
-
-TRC, AVS, Anonymous, Statement to the Truth and Reconciliation Commission of Canada, Winni- peg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055.
-
-Kelly, “Confession of a Born Again Pagan,” 20–21, 39.
- TRC, AVS, Jennie Blackbird, Statement to the Truth and Reconciliation Commission of Canada,
-
-Muncey, Ontario, 16 September 2011, Statement Number: 2011-4188.
- The right of Indigenous peoples to observe traditional spiritual practices is upheld by the United
-
-Nations. Article 12:1 of the *United Nations Declaration on the Rights of Indigenous Peoples* says, “Indigenous peoples have the right to manifest, practice, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect, and have access in privacy to their religious and cultural sites; the right to use and control of their ceremonial objects; and the right to the repatriation of their human remains.” See: United Nations, *Declaration on the Rights of Indigenous Peoples*, http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.
-
-82.
-
-83.
-
-\84. 85.
-
-\86. 87. 88. 89. 90.
-
-\91. 92. 93. 94.
-
-95.
-
-\96. 97.
-
-\98. 99.
-
-\100. 101.
-
-\102. 103.
-
-See, for example, the case of a Christian Cree community that passed a resolution denying some of its community members the right to construct a sweat lodge and to teach youth about Cree spirituality: http://aptn.ca/news/2011/01/17/crees-ban-sweat-lodges-fns-spirituality-from-com- munity/; http://indiancountrytodaymedianetwork.com/2011/02/07/christian-crees-tear-down- sweat-lodge-15500.
-
-TRC, AVS, Jim Dumont, Statement to the Truth and Reconciliation Commission of Canada, Winni- peg, Manitoba, 26 June 2014, Statement Number: SE049.
-
-Dumont and Hutchinson, “United Church Mission Goals,” 226–227.
- Mullin (Thundering Eagle Woman), “We Are One in the Spirit,” 28, http://presbyterian.ca/healing/
-
-(accessed 22 March 2015).
- Presbyterian Church of Canada, 2013 General Assembly Referral, *Aboriginal Spirituality,* 2, 6,
-
-http://presbyterian.ca/gao/2013referrals/ (accessed 22 March 2015).
- Anglican Church of Canada, “A New Agape,” http://www.anglican.ca/about/ccc/acip/a-new- agape/ (accessed 22 March 2015).
-
-United Church of Canada, “Living Faithfully,” 2, http://www.united-church.ca/files/economic/ globalization/report.pdf (accessed 22 March 2015).
-
-United Church of Canada, “Reviewing Partnership,” 26, http://www.gc41.ca/sites/default/files/ pcpmm_empire.pdf (accessed 22 March 2015).
-
-United Church of Canada, The Executive of the General Council, March 24–26, 2012, Adden- dum H: Covenanting for Life, http://www.united-church.ca/files/general-council/gc40/adden- da_2012-03-2426_executive.pdf (accessed 22 March 2015).
-
-Presbyterian Church in Canada, “Presbyterian Statement,” https://ecumenism.net/2015/01/pres- byterian-statement-on-aboriginal-spiritual-practices.htm (accessed 17 March 2015).
-
-United Church of Canada, “Affirming Other Spiritual Paths,” http://www.united-church.ca/files/ aboriginal/schools/affirming-other-spiritual-paths.pdf (accessed 17 March 2015).
-
-Canadian Conference of Catholic Bishops, “Let Justice Flow,” 24–25, http://www.cccb.ca/site/im- ages/stories/pdf/let_justice_flow_like_a_mighty_river.pdf (accessed 22 March 2015).
-
-Canadian Catholic Aboriginal Council, Mandate, http://www.cccb.ca/site/eng/commis- sions-committees-and-aboriginal-council/aboriginal-council/canadian-catholic-aborigi- nal-council (accessed 22 March 2015).
-
-TRC, AVS, Dr. Alan L. Hayes, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 2 June 2012, Statement Number: SE020.
-
-MacKenzie, “For Everything There Is a Season,” 89.
- “Toronto Urban Native Ministry,” cited in Bush, “How Have the Churches Lived out Their Apolo-
-
-gies,” 16.
- Presbyterian Church in Canada, *Acts and Proceedings of the 137th General Assembly*, 368. Healing Fund, Anglican Church, 2008, cited in Bush, “How Have the Churches Lived out Their
-
-Apologies,” 24–25.
- Healing Fund, Anglican Church, 2008, cited in Bush, “How Have the Churches Lived out Their
-
-Apologies,” 24–25.
- Healing Fund, Anglican Church, 2000, cited in Bush, “How Have the Churches Lived out Their
-
-Apologies,” 19.
- Bush, “How Have the Churches Lived out Their Apologies,” 18.
- The Aboriginal Healing Foundation (AHF) was mandated to provide funding and support for
-
-Aboriginal community-based healing projects. For more on the history of the AHF and the circum-
-
-Endnotes • 499
-
-500 • Truth & Reconciliation Commission
-
-\104. 105. 106. 107.
-
-108.
-
-109.
-
-110.
-
-\111. 112.
-
-113.
-
-114.
-
-115.
-
-\116. 117.
-
-stances surrounding the closure, see: Spear, “Full Circle,” http://www.ahf.ca/downloads/full-cir- cle-2.pdf (accessed 28 April 2015).
-
-TRC, AVS, Allan Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-067.
-
-TRC, AVS, Esther Lachinette-Diabo, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 24 November 2010, Statement Number: 01-ON-24Nov10-020.
-
-TRC, AVS, Charlotte Marten, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 9 October 2013, Statement Number: SP127.
-
-Education scholar Penney Clark’s study identifies how Aboriginal peoples have been portrayed in Canadian history textbooks and how gaps in the history impact students. See: Clark, “Representa- tions of Aboriginal People,” 96–98, 103–111.
-
-Council of Ministers of Education, “Developments on Indian Residential Schools by Jurisdiction,” July 2014, email correspondence from Christy Bressette, Coordinator, Aboriginal Education, Coun- cil of Ministers of Education, Canada to Truth and Reconciliation Commission of Canada, 18 July 2014, TRC Document Number TRC3353.
-
-Council of Ministers of Education, “Education Ministers Signal Transformation Key,” http://cmec. ca/278/Press-Releases/Education-Ministers-Signal-Transformation-Key-to-the-Future.html?id_ article=826.
-
-Freedom of conscience and religion is protected under Section 2 of the Canadian Charter of Rights and Freedoms, and Section 3 of Québec’s Charter of Human Rights and Freedoms.
-
-*S.L. v. Commission scolaire des Chênes,* 2012 SCC 7 (CanLII), p. 237.
- Educator and scholar Marie Battiste’s work on decolonizing and transforming the education sys-
-
-tem has informed the Commission’s thinking on this issue. See: Battiste, *Decolonizing Education*, 175–191.
-
-Education scholars Megan Boler and Michalinas Zembylas describe this way of teaching as a “pedagogy of discomfort” that requires both educators and students to “move outside their com- fort zones” in constructive ways that can “radically alter their worldviews.” See: Boler and Zemby- las, “Discomforting Truths,” 111. See also: Sheppard, “Creating a Caring Classroom.”
-
-See, for example, studies by education scholars: Immordino-Yang and Domasio, “We Feel, There- fore We Learn”; Schonert-Reichl and Hymel, “Educating the Heart.” See also: Mary Gordon’s initia- tive, Roots of Empathy, “an evidence-based classroom program that has shown significant effect in reducing levels of aggression among school children while raising social/emotional competence and increasing empathy,” http://www.rootsofempathy.org/ (accessed 15 April 2015). See also: Gordon, *Roots of Empathy*.
-
-TRC, AVS, Samantha Crowe, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014. Statement Number: ABNE401. For more information on the project, see: Ontario Provincial Advocate for Children and Youth, “Feathers of Hope: A First Na- tions Youth Action Plan, 2014,” http://www.inspiritfoundation.org/files/6114/0656/0111/Feathers- of-Hope_report.pdf (accessed 15 April 2015).
-
-Cultural theorist Roger Simon makes this point in an essay on the pedagogical practice of public history in the context of the Commission’s public education mandate. See: Simon, “Towards a Hopeful Practice,” 135–136.
-
-The 2013 annual report of the Historical Thinking Project makes a similar point, arguing that the education system must produce historically literate citizens. See: Seixas and Colyer, “Report on the National Meeting,” 3, http://historicalthinking.ca/sites/default/files/files/docs/HTP2013Report. pdf (accessed 15 April 2015). The purpose of the Historical Thinking Project was to provide history
-
-118.
-
-\119. 120. 121.
-
-122.
-
-\123. 124. 125.
-
-\126. 127. 128. 129.
-
-\130. 131. 132. 133.
-
-134.
-
-\135. 136.
-
-\137. 138.
-
-education resources for teachers to train students how to think critically and effectively about history. See: Seixas and Colver, “Report on the National Meeting,” 2, http://historicalthinking.ca/ sites/default/files/files/docs/HTP2013Report.pdf (accessed 15 April 2015).
-
-Centre for Youth & Society, “Residential Schools Resistance Narratives.” Videos available online at: http://youth.society.uvic.ca/TRC (accessed 15 April 2015).
-
-Prairie Women’s Health Centre of Excellence, “Nitâpwewininân,” 3–7.
- Prairie Women’s Health Centre of Excellence, “Nitâpwewininân,” 14–16.
- Brooklyn Rae, Saskatchewan National Event Education Day, Saskatoon, Saskatchewan, 23 June
-
-2013, video, Statement Number: SNE502, https://vimeo.com/48143907.
- Barney Williams, Saskatchewan National Event Education Day, Saskatoon, Saskatchewan, 23 June
-
-2013, video, Statement Number: SNE502, https://vimeo.com/48143907.
- ICTJ/Canada TRC Youth Retreat, http://vimeo.com/26397248.
- ICTJ/Canada TRC Youth Retreat, http://vimeo.com/26128253.
- International Center for Transitional Justice, “ICTJ Program Report,” http://www.ictj.org/news/
-
-ictj-program-report-children-and-youth.
- International Center for Transitional Justice, “Youth Reporters Tell the Story,” http://ictj.org/news/
-
-youth-reporters-tell-story-residential-schools.
- International Center for Transitional Justice, “Our Legacy, Our Hope,” press release, 20 June 2012.
-
-Video, *Our Legacy, Our Hope,* at: http://www.youtube.com/watch?v=Xz2SUV0vFCI. International Center for Transitional Justice, “ICTJ Program Report,” http://www.ictj.org/news/
-
-ictj-program-report-children-and-youth.
- TRC, AVS, Centre for Global Citizenship Education and Research, Statement to the Truth and
-
-Reconciliation Commission of Canada, Edmonton, Alberta, 27 March 2014, Statement Number: ABNE102.
-
-Bolton, “Museums Taken to Task,” 146–147.
- Buchanan, “Decolonizing the Archives,” 44.
- Morse, “Indigenous Human Rights,” 2, 10.
- The decisions state that “the laws of evidence must be adapted in order that this type of evidence
-
-be accommodated and placed on an equal footing with the types of historic evidence that courts are familiar with, which largely consists of historical documents.” See: Reasons for Decision, *Del- gamuukw v. British Columbia,* 1997 CanLII 302 (SCC), para. 87. On the honour of the Crown, see, for example: *R. v. Sparrow,* 1990 CanLII 104 (SCC); *Haida Nation v. British Columbia Minister of Forests,* 2004 CanLII 73 (SCC); *Delgamuukw v. British Columbia,* 1997 CanLII 302 (SCC).
-
-Legal scholar Bradford W. Morse makes this point. See: Morse, “Indigenous Human Rights,” 12, 26.
-
-Canada, Royal Commission on Aboriginal Peoples, *Report*, 5:232–233.
- They have done so in accordance with their legislated mandate. Canada’s *Museums Act (1990)*
-
-provides the legislative framework for museums. See: *Museums Act (1990),* chapter 3, section 3, http://laws-lois.justice.gc.ca/PDF/M-13.4.pdf. The Act was amended in 2008 to include the Cana- dian Museum for Human Rights.
-
-Bolton, “Museums Taken to Task,” 151.
- On December 12, 2013, Bill C-7, *An Act to amend the Museums Act in order to establish the Canadi-*
-
-*an Museum of History*, received Royal Assent, thus officially establishing the legislative authority to “rebrand” the Canadian Museum of Civilization. Neither the original *Museums Act* nor the amendment made specific reference to Aboriginal peoples. See: http://www.parl.gc.ca/LegisInfo/ BillDetails.aspx?Language=E&Mode=1&billId=6263562&View=3. See also: “Civilization Museum
-
-Endnotes • 501
-
-502 • Truth & Reconciliation Commission
-
-139.
-
-\140. 141.
-
-142.
-
-\143. 144.
-
-\145. 146.
-
-147.
-
-148.
-
-149.
-
-150.
-
-\151. 152.
-
-153.
-
-\154. 155.
-
-Now the Canadian Museum of History,” *CBC News,* December 12, 2013, http://www.cbc.ca/news/ canada/ottawa/civilization-museum-now-the-canadian-museum-of-history-1.2461738.
-
-House of Commons Standing Committee on Canadian Heritage, 41st Parliament, 1st session, June 5, 2013, http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=6209352&Lan- guage=E&Mode=1&Parl=41&Ses=1 (accessed 12 January 2014).
-
-The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 7, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf. The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15,
-
-2013, 8–9, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy. pdf.
-
-The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 10, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf.
-
-Canadian Museum for Human Rights, https://humanrights.ca/about (accessed 15 April 2015). President and CEO, Stuart Murray, Canadian Museum for Human Rights, Speech to the
-
-Truth and Reconciliation Commission of Canada’s National Research Centre Forum, March 3, 2011, Vancouver, BC, https://humanrights.ca/about-museum/news/speech-delivered-pre- sident-and-ceo-stuart-murray-truth-and-reconciliation (accessed 15 April 2015).
-
-Jake Edmiston, “Indian Residential Schools or Settler Colonial Genocide? Native Group Slams Hu- man Rights Museum over Exhibit Wording,” *National Post*, June 8, 2013, http://news.nationalpost. com/news/canada/indian-residential-schools-or-settler-colonial-genocide.
-
-Canadian Museum for Human Rights, Statement from the President and CEO: Use of “Genocide” in relation to treatment of Indigenous peoples in Canada, July 26, 2013, http://museumforhu- manrights.ca/about-museum/news/statement-president-and-ceo-use-genocide-relation-treat- ment-indigenous-peoples.
-
-Canadian Museum for Human Rights, President and CEO Stuart Murray, speech delivered at “2017 Starts Now” forum, May 3, 2013, https://humanrights.ca/about-museum/news/speech-de- livered-cmhr-president-and-ceo-stuart-murray-2017-starts-nowdebute.
-
-Library and Archives Canada, “Collection Development Framework,” March 30, 2005, 7–8, http:// www.collectionscanada.gc.ca/obj/003024/f2/003024-e.pdf.
-
-Library and Archives Canada, “Aboriginal Heritage,” http://www.bac-lac.gc.ca/eng/discover/ab- original-heritage/Pages/introduction.aspx#d.
-
-Library and Archives Canada, “Native Residential Schools in Canada,” http://www.collectionscan- ada.gc.ca/native-residential/index-e.html (accessed 15 April 2015).
-
-Wilson, “Peace, Order and Good Government,” 239.
- “New Exhibition Reflecting the Uniqueness of the Inuit Experience of Residential Schools
-
-Launched at Library and Archives Canada,” media release, March 4, 2009, http://www.collection- scanada.gc.ca/013/013-380-e.html. See also: Legacy of Hope Foundation, http://wherearethechil- dren.ca/en; Legacy of Hope Foundation, http://weweresofaraway.ca/ (accessed 15 April 2015).
-
-Library and Archives Canada, “Legacy of the Residential School System,” http://www.bac-lac.gc. ca/eng/archives/archives-en/aboriginal-heritage/Pages/residential-schools-bibliography-2009. aspx (accessed 15 April 2015).
-
-Library and Archives Canada, “Conducting Research on Residential Schools,” http://www.collec- tionscanada.gc.ca/obj/020008/f2/020008-2000-e.pdf (accessed 15 April 2015).
-
-Indian Residential Schools Settlement Agreement, Truth and Reconciliation Commission of Canada, Mandate, Schedule N, 11, http://www.trc.ca/websites/trcinstitution/File/pdfs/SCHED- ULE_N_EN.pdf.
-
-\156. 157.
-
-158.
-
-\159. 160. 161. 162.
-
-\163. 164. 165.
-
-166.
-
-167.
-
-\168. 169.
-
-*Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII).
- Professor Terry Cook, University of Manitoba, long-time archivist at the National Archives, Fellow
-
-of the Association of Canadian Archivists, and a Fellow of the Royal Society of Canada, makes this point. See: Cook, “Evidence, Memory, Identity,” 111.
-
-United Nations Commission on Human Rights, Sub-Commission on the Prevention of Dis- crimination and Protection of Minorities, *The Administration of Justice and the Human Rights of Detainees: Question of the Impunity of Perpetrators of Human Rights Violations (Civil and Political)* (revised final report prepared by Mr. Joinet to the Sub-commission decision 1996/199) UN Doc. E/ CN.4/Sub,2/1997/20/Rev.1, 1997-10-02; updated by UN DocE/CN.4/2005/102 (18 February 2005), and UN Doc E/CN.4/2005/102/Add.1 (8 February 2005), cited in *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument. December 13, 2012, note 35, 14, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.
-
-de Greiff, “Report of the Special Rapporteur,” 2013, 22, http://daccess-dds-ny.un.org/doc/UN- DOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
-
-de Greiff, “Report of the Special Rapporteur,” 2013, 23, http://daccess-dds-ny.un.org/doc/UN- DOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
-
-de Greiff, “Report of the Special Rapporteur,” 2013, 29, http://daccess-dds-ny.un.org/doc/UN- DOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
-
-Several prominent archivists have noted this trend. See, for example: Cook, “Evidence, Memo- ry, Identity”; Wilson, “Peace, Order and Good Government”; Harris, “Archival Sliver”; Jimerson, “Archives for All.”
-
-TRC, AVS, Peter Cunningham, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: ABNE201.
-
-Rev. Fausak is also General Council Liaison Minister, Indigenous Justice and Residential Schools, United Church of Canada.
-
-TRC, AVS, Remembering the Children Society, Statement to the Truth and Reconciliation Com- mission of Canada, Edmonton, Alberta, 29 March 2014, Statement Number: ABNE302. Based on their experience, United Church of Canada staff, in collaboration with the Remembering the Chil- dren Society, developed an educational resource with guidelines for other communities wishing to develop their own commemoration projects for residential school cemeteries and unmarked burials. See: United Church of Canada, Residential Schools Update, January 2012, http://develop. united-church.ca/files/communications/newsletters/residential-schools-update_120101.pdf (accessed 16 April 2015).
-
-The United Church of Canada’s online resources are available at: http://thechildrenremembered. ca/. Anglican Church online resources and school histories are available at: http://www.anglican. ca/relationships/trc. Presbyterian Church of Canada’s online resources are available at: http:// www.presbyterianarchives.ca/RS%20-%20Home%20Page.html (accessed 15 April 2015).
-
-United Church of Canada, Residential School Archive Project, “The Children Remembered,” http://thechildrenremembered.ca/about/ (accessed 15 April 2015).
-
-Ian Wilson makes this point. See: Wilson, “Peace, Order and Good Government,” 238.
- This is based on the concept and philosophy of “sites of conscience,” as described by the Interna-
-
-tional Coalition of Sites of Conscience, which is “a global network of historic sites, museums and memory initiatives connecting past struggles to today’s movements for human rights and social justice,” See: International Coalition of Sites of Conscience, http://www.sitesofconscience.org/ (accessed 15 April 2015).
-
-Endnotes • 503
-
-504 • Truth & Reconciliation Commission
-
-\170. 171. 172. 173.
-
-\174. 175.
-
-\176. 177. 178. 179.
-
-180.
-
-\181. 182.
-
-Truth and Reconciliation Commission of Canada, “Sharing Truth: Creating a National Research Centre on Residential Schools,” Forum, Vancouver, British Columbia, March 1–4, 2011. Videos of the forum can be viewed at: http://www.trc.ca/websites/trcinstitution/index.php?p=513.
-
-Georges Erasmus, Truth and Reconciliation Commission of Canada, “Sharing Truth: Creating a National Research Centre on Residential Schools,” Forum, Vancouver, British Columbia, 2 March 2011, https://vimeo.com/207788339.
-
-Centre for Truth and Reconciliation Administrative Agreement, clauses 9 (c), (d), 11 (a), (e), http://chrr.info/images/stories/Centre_For_Truth_and_Reconciliation_Administrative_Agree- ment.pdf.
-
-As of April 2015, existing partners included: The National Association of Friendship Centres, Legacy of Hope Foundation, Canadian Museum for Human Rights, University of British Columbia, Lakehead University, University College of the North, University of Winnipeg, Red River College, Archives of Manitoba, University College of the North, L’Université de Saint-Boniface, St. John’s College, St. Paul’s College, Manitoba Museum, Centre for Indigenous Environmental Resources, and the Sandy-Saulteaux Spiritual Centre. It is anticipated that more partners will be added as the centre develops. See: National Centre for Truth and Reconciliation, Our Partners, http://umanito- ba.ca/centres/nctr/partners.html (accessed 15 April 2015).
-
-*Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 6–7, http://chrr.info/images/stories/Materials_filed_by_ UM_2_.pdf.
-
-Sue McKemmish, Shannon Faulkhead, and Lynette Russell, “Distrust in the Archive: Reconciling Records,” *Archival Science* 11 (2011): 212, cited in *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2011, 11, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.
-
-*Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 11–12, http://chrr.info/images/stories/Materials_filed_by_ UM_2_.pdf.
-
-*Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 12–13, http://chrr.info/images/stories/Materials_filed_by_ UM_2_.pdf.
-
-University of Manitoba, “Historic Agreement Signed on National Aboriginal Day,” 21 June 2013, http://umanitoba.ca/news/blogs/blog/2013/06/21/historic-agreement-signed-on-national-ab- original-day/.
-
-Such access will be “subject to privacy law and culturally appropriate protocols,” Truth and Rec- onciliation Commission of Canada and the University of Manitoba, Centre for Truth and Recon- ciliation Trust Deed, 21 June 2013, 3–4, http://umanitoba.ca/admin/indigenous_connect/media/ IND-00-013-NRCAS-TrustDeed.pdf.
-
-Centre for Truth and Reconciliation, http://umanitoba.ca/centres/nctr/reconciliation.html (accessed 16 April 2015). See also: Centre for Truth and Reconciliation Administrative Agreement, http://chrr.info/images/stories/Centre_For_Truth_and_Reconciliation_Administrative_Agree- ment.pdf.
-
-TRC, AVS, Jessica Bolduc, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014, Statement Number: ABNE401.
-
-The Commission’s definition of “public memory” is based on the work of historians who study public memory. For example, James Opp and John C. Walsh define “public memory” as “memo- ries that are made, experienced, and circulated in public spaces and that are intended to be com-
-
-\183. 184.
-
-\185. 186. 187.
-
-188.
-
-\189. 190. 191.
-
-192.
-
-193.
-
-194.
-
-\195. 196.
-
-197.
-
-\198. 199. 200. 201.
-
-municated and shared,” See: Opp and Walsh, *Placing Memory*, 9. John Bodnar says that “public memory” is “a body of beliefs and ideas about the past that help [sic] a public or society under- stand both [sic] its past, present, and by implication, its future,” See: Bodnar, *Remaking America*, 15.
-
-Historian W. James Booth makes this important point in his study of how communities of memory are established, maintained, or disrupted through everyday habits and practices. See: Booth, *Com- munities of Memory*, 45.
-
-In its report “Strengthening Indigenous Rights through Truth Commissions: A Practitioner’s Resource,” the International Center for Transitional Justice identifies four thematic areas where commissions must rethink widely held assumptions in the field of transitional justice in order to become more responsive to Indigenous rights. These include: a) moving beyond a state-centric approach; b) moving beyond an individualistic form of analysis; c) moving beyond a focus only
- on recent violations; and d) moving beyond an overreliance on archival and written sources. See: International Center for Transitional Justice, “Strengthening Indigenous Rights,” 3–5, https://www. ictj.org/sites/default/files/ICTJ-Truth-Seeking-Indigenous-Rights-2012-English.pdf.
-
-Chamberlin, *If This Is Your Land*, 238–239.
- Schirch, *Ritual and Symbol*, 1–2.
- Truth and Reconciliation Commission of Canada, “Atlantic National Event Concept Paper,” 4,
-
-http://www.myrobust.com/websites/atlantic/File/Concept%20Paper%20atlantic%20august%20 10%20km_cp%20_3_.pdf.
-
-In 2015, the Bentwood Box was on temporary loan to the Canadian Museum for Human Rights, where it was part of a public exhibit.
-
-Campbell, “Remembering for the Future,” 30. See also: Campbell, *Our Faithfulness to the Past*. Qwul’sih’yah’maht (Thomas), “Honouring the Oral Traditions,” 253.
- TRC, AVS, Charles Cardinal, Statement to the Truth and Reconciliation Commission of Canada, St.
-
-Paul, Alberta, 7 January 2011, Statement Number: 01-AB-06JA11-005.
- TRC, AVS, Laurie McDonald, Statement to the Truth and Reconciliation Commission of Canada,
-
-Beausejour, Manitoba, 4 September 2010, Statement Number: 01-MB-3-6SE10-005.
- TRC, AVS, Victoria Grant-Boucher, Statement to the Truth and Reconciliation Commission of
-
-Canada, Ottawa, Ontario, 25 February 2011, Statement Number: 01-ON-05-FE11-004.
- TRC, AVS, Desarae Eashappie, Statement to the Truth and Reconciliation Commission of Canada,
-
-Winnipeg, Manitoba, 19 June 2010, Statement Number: SC112.
- Regan, *Unsettling the Settler Within*, 13.
- TRC, AVS, Florence Kaefer, Statement to Truth and Reconciliation Commission of Canada, Winni-
-
-peg, Manitoba, 18 June 2010, Statement Number: SC111.
- “Teacher Seeks Healing through Truth Commission,” *CBC News, Manitoba,* June 18, 2010, http://
-
-www.cbc.ca/news/canada/manitoba/story/2010/06/18/mb-truth-reconciliation-healing-teach- ers-winnipeg.html.
-
-TRC, AVS, Jack Lee, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.
-
-TRC, AVS, Mark DeWolf, Statement to the Truth and Reconciliation Commission of Canada, Hali- fax, Nova Scotia, 28 October 2011, Statement Number: SC075.
-
-TRC, AVS, Tina Keeper, Statement to the Truth and Reconciliation Commission of Canada, Saska- toon, Saskatchewan, 24 June 2013, Statement Number: SNE403.
-
-TRC, AVS, the Right Honourable Paul Martin, Statement to the Truth and Reconciliation Commis- sion of Canada, Montreal, Québec, 26 April 2013, Statement Number: QNE303.
-
-Endnotes • 505
-
-506 • Truth & Reconciliation Commission
-
-202.
-
-203.
-
-204.
-
-205.
-
-\206. 207.
-
-208.
-
-\209. 210. 211.
-
-212.
-
-\213. 214.
-
-\215. 216.
-
-217.
-
-218.
-
-\219. 220. 221.
-
-TRC, AVS, the Right Honourable Joe Clark, Statement to Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 23 June 2012, Statement Number: SNE301.
-
-TRC, AVS, Andy Scott, Statement to the Truth and Reconciliation Commission of Canada, Saska- toon, Saskatchewan, 22 June 2012, Statement Number: SNE203.
-
-TRC, AVS, Therese Boullard, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 28 June 2011, Statement Number: NNE103.
-
-TRC, AVS, Ginelle Giacomin, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: SC112.
-
-See, for example: Cohen, Varea, and Walker, *Acting Together*.
- van Erven and Gardner, “Performing Cross-Cultural Conversations,” 41. Quote from Francois
-
-Matarraso in correspondence with van Erven, March 19, 2008.
- David Garneau, artist, writer, curator, and professor of visual arts, makes this critical point. See:
-
-Garneau, “Imaginary Spaces,” 38.
- Garneau, “Imaginary Spaces,” 33–34.
- Archibald et al., *Dancing, Singing, Painting*, 18.
- Andrea Ratuski, “Residential School Art Series Awarded to U of M,” *CBC News*, September 24,
-
-2013, http://www.cbc.ca/news/canada/manitoba/scene/residential-school-art-series-awarded- to-u-of-m-1.1865994.
-
-Morris and Helen Belkin Art Gallery, http://www.belkin.ubc.ca/past/witnesses (accessed 16 April 2015); University of British Columbia Museum of Anthropology, http://moa.ubc.ca/portfo- lio_page/speaking-to-memory/ (accessed 16 April 2015).
-
-Robertson, “Threads of Hope,” 87, 99–101.
- University of Winnipeg, “UWinnipeg Healing Quilt Gifted to TRC Commissioners,” 17 June 2010,
-
-http://www.uwinnipeg.ca/index/uw-news-action/story.364/title.uwinnipeg-healing-quilt-gift- ed-to-trc-commissioner.
-
-Dewar et al., “Practicing Reconciliation,” 5–6.
- Full descriptions of the 2011–12 commemoration projects can be found online at:
-
-http://www.aadnc-aandc.gc.ca/eng/1370974213551/1370974338097 (accessed 15 April 2015). For 2012–13 commemoration projects, see: http://www.aadnc-aandc.gc.ca/ eng/1370974253896/1370974471675 (accessed 15 April 2015).
-
-Hague defines place as “a geographic space that is defined by meanings, sentiments and stories rather than by a set of co-ordinates.” See: Cliff Hague, “Planning and Place Identity,” in Cliff Hague and Paul Jenkins, eds., *Place Identity, Participation and Planning* (New York, 2005), 4, cited in Opp and Walsh, *Placing Memory*, 5.
-
-Alan S. Hale, “Treaty 3 Holds Commemoration Ceremony for Survivors of District Residential School System,” *Kenora Daily Miner and News*, March 25, 2014, http://www.kenoradailyminerand- news.com/2014/03/25/treaty-3-holds-commemoration-ceremony-for-survivors-of-district-resi- dential-school-system.
-
-Debora Steel, “Alberni Residential Students Reunited with Childhood Art,” *Ha-Shilth-Sa*, 2 April 2013, http://www.hashilthsa.com/news/2013-04-03/alberni-indian-residential-students-reunit- ed-childhood-art.
-
-Judith Lavoie, “Paintings Bear Witness to B.C. Residential Schools’ Harsh Life,” *Victoria Times-Col- onist,* March 31, 2013, http://www.timescolonist.com/news/local/paintings-bear-witness-to-b-c- residential-schools-harsh-life-1.101179.
-
-Canada, Aboriginal Affairs and Northern Development Canada, “Remembering the Past,” http:// www.aadnc-aandc.gc.ca/eng/1332859355145/1332859433503.
-
-222.
-
-223.
-
-\224. 225.
-
-\226. 227. 228.
-
-\229. 230.
-
-\231. 232. 233. 234.
-
-\235. 236. 237. 238.
-
-\239. 240. 241. 242.
-
-Christi Belcourt, Speech at dedication ceremony for the stained-glass window on Parliament Hill, November 26, 2012, Ottawa, Ontario, Canada, Aboriginal Affairs and Northern Development Can- ada, https://www.aadnc-aandc.gc.ca/eng/1370613921985/1370613942308. A detailed description of the window is available at: Canada, Aboriginal Affairs and Northern Development Canada, https://www.aadnc-aandc.gc.ca/eng/1353338933878/1353338974873 (accessed 30 March 2015).
-
-Commissioner Wilton Littlechild, Speech at dedication ceremony for the stained-glass window on Parliament Hill, November 26, 2012, Ottawa, Ontario, Canada, Aboriginal Affairs and Northern Development Canada, https://www.aadnc-aandc.gc.ca/eng/1370615213241/1370615618980.
-
-Opp and Walsh, *Placing Memory*, 15–16.
- *Historic Sites and Monuments Act,* Revised Statutes of Canada 1985, chapter H-4, http://laws-lois.
-
-justice.gc.ca/PDF/H-4.pdf (accessed 15 April 2015).
- Parks Canada, Historic Sites and Monuments Board of Canada, http://www.pc.gc.ca/clmhc-hsm-
-
-bc/comm-board/Transparence-Transparency.aspx (accessed 15 April 2015).
- Parks Canada, Historic Sites and Monuments Board of Canada, National Program of Historical
-
-Commemoration, http://www.pc.gc.ca/clmhc-hsmbc/ncp-pcn.aspx (accessed 15 April 2015). *Joinet-Orentlicher Principles*, cited in United Nations Human Rights Council, “Report of the Spe-
-
-cial Rapporteur,” 8, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ ListReports.aspx.
-
-United Nations Human Rights Council, “Report of the Special Rapporteur,” 14, http://www.ohchr. org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.
-
-United Nations Human Rights Council, “Report of the Special Rapporteur,” 19, http://www.ohchr. org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx. The Special Rappor- teur is referencing the commemoration projects undertaken as part of the Settlement Agreement.
-
-United Nations Human Rights Council, “Report of the Special Rapporteur,” 20–21, http://www. ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.
-
-United Nations Human Rights Council, “Report of the Special Rapporteur,” 21–22, http://www. ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.
-
-United Nations Human Rights Council, “Report of the Special Rapporteur,” 22, http://www.ohchr. org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.
-
-The study was based on research conducted by Trina Cooper-Bolam and based in part on her ex- periences as the Legacy of Hope’s former executive director, her work with the Aboriginal Healing Foundation, and her role as a project leader for the Assembly of First Nations and the Aboriginal Healing Foundation’s national commemoration project. See: Cooper-Bolam, “Healing Heritage,” 8–9, 106–107.
-
-Cooper-Bolam, “Healing Heritage,” 108–109.
- Cooper-Bolam, “Healing Heritage,” 109.
- Cooper-Bolam, “Healing Heritage,” 61–63.
- Jeff Corntassel et al., “Indigenous Story-telling, Truth-telling and Community Approaches to
-
-Reconciliation,” *English Studies in Canada* 35, 1 (2009): 143, cited in Cooper-Bolam, “Healing Heritage,” 98.
-
-Cooper-Bolam, “Healing Heritage,” 97–99.
- Cooper-Bolam, “Healing Heritage,” ii.
- *Broadcasting Act* (1991), last revised 2014, http://laws-lois.justice.gc.ca/PDF/B-9.01.pdf. David, “Aboriginal Languages Broadcasting in Canada,” 14, http://aptn.ca/corporate/PDFs/Ab-
-
-original_Language_and_Broadcasting_2004.pdf.
-
-Endnotes • 507
-
-508 • Truth & Reconciliation Commission
-
-243.
-
-\244. 245.
-
-\246. 247. 248. 249.
-
-250.
-
-\251. 252. 253.
-
-\254. 255. 256. 257.
-
-\258. 259.
-
-\260. 261.
-
-262.
-
-\263. 264.
-
-265.
-
-CBC/Radio-Canada, “Going the Distance,” 48. The annual report also provides information
- on CBC’s Aboriginal-languages programming and news coverage. See: http://www.cbc.ra- dio-canada.ca/_files/cbcrc/documents/annual-report/2013-2014/cbc-radio-canada-annual-re- port-2013-2014.pdf. In 2013, Statistics Canada published this data as part of the National House- hold Survey conducted in 2011. See: Statistics Canada, *Aboriginal Peoples in Canada*, *2011*, 4, http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011001-eng.pdf.
-
-Aboriginal Peoples Television Network, Annual Report, 2013, http://aptn.ca/corporate/PDFs/ APTN_2013_AnnualReport_ENG.pdf.
-
-Aboriginal Peoples Television Network, Corporate Factsheet, http://aptn.ca/corporate/facts.php (accessed 18 March 2015).
-
-Canada, Royal Commission on Aboriginal Peoples, *Report*, 5:103–104.
- Canada, Royal Commission on Aboriginal Peoples, *Report*, 2:614.
- See, for example: Anderson and Robertson, *Seeing Red*.
- Journalists for Human Rights is a media development organization that provides education and
-
-resources to “help journalists build their capacity to report ethically and effectively on human rights and governance issues in their communities.” See: http://www.jhr.ca/en/aboutjhr_learn- about.php (accessed 15 April 2015).
-
-Journalists for Human Rights, “Buried Voices,” August 2013, 18–19, http://www.documentcloud. org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015).
-
-Journalists for Human Rights, “Buried Voices,” 5–6, http://www.documentcloud.org/docu- ments/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015).
-
-Journalists for Human Rights, “Buried Voices,” 16, http://www.documentcloud.org/docu- ments/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015).
-
-Journalists for Human Rights, “Buried Voices,” 19, http://www.documentcloud.org/docu- ments/784473-media-coverage-of-aboriginal-issues.html#document/p1.
-
-Miller, *Lethal Legacy*, vi.
- Miller, “Ipperwash and the Media,” 11, 14.
- Miller, “Ipperwash and the Media,” 19–20, 22–23.
- TRC, AVS, Theodore Fontaine, Statement to the Truth and Reconciliation Commission of Canada,
-
-Edmonton, Alberta, 28 March 2014, Statement Number: AB202.
- TRC, AVS, Laura Robinson, Statement to the Truth and Reconciliation Commission of Canada,
-
-Edmonton, Alberta, 28 March 2014, Statement Number: ABNE202.
- “Law Society Throws Support behind Reconciliation Initiatives,” *Gazette: Law Society of Upper*
-
-*Canada*, 11 December 2014, http://www.lawsocietygazette.ca/news/law-society-throws-sup- port-behind-reconciliation-initiatives/.
- Mason and Koehli, “Barriers to Physical Activity,” 103–105.
-
-*Physical Activity and Sport Act,* http://laws-lois.justice.gc.ca/eng/acts/P-13.4/page-1.html?- texthighlight=under-represented#s-5.
-
-IndigenACTION, “Roundtable Report,” appendix 2, 18–19, http://www.afn.ca/uploads/files/indi- genaction/indigenactionroundtablereport.pdf.
-
-Te Hiwi, “What Is the Spirit,” 3.
- Sport Canada, Policy Renewal, “Summary Report,” July 15, 2011, 4, https://sirc.ca/sites/default/
-
-files/content/docs/pdf/aboriginal.pdf.
- *Canadian Sport Policy*, http://canadiansporttourism.com/sites/default/files/docs/csp2012_en_
-
-lr.pdf (acessed 15 April 2015).
-
-\266. 267. 268. 269.
-
-TRC, AVS, David Courchene Jr., Statement to the Truth and Reconciliation Commission of Cana- da, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.
-
-TRC, AVS, Ian Campbell, Statement to the Truth and Reconciliation Commission of Canada, Win- nipeg, Manitoba, 25 June 2014, Statement Number: SE048.
-
-Jeff Lee, “Tsilhqot’in Nation Strikes Conciliatory Note with Municipalities,” *Vancouver Sun,* Sep- tember 24, 2014, A6.
-
-Canada, *Northern Frontier, Northern Homeland,* 1:1, 82–83. Beginning in the 1980s, several land-claims agreements were signed across the North, including the Inuvialuit Final Agreement (1984), the Gwich’in Comprehensive Land Claim Agreement (1992), the Sahtu Dene and Métis Comprehensive Land Claim Agreement (1994), and the Tlicho Agreement (2005) in the Northwest Territories.
-
-Although there have been attempts to revitalize the Mackenzie Valley pipeline project, with the participation of a coalition of Aboriginal partners, as of 2014, it remained unclear as to whether the project would proceed. See: Brent Jang, “Gas Exports from B.C. Seen as Key to Reviving Pipe-
- line,” *Globe and Mail,* February 2, 2014, http://www.theglobeandmail.com/report-on-business/ industry-news/energy-and-resources/gas-exports-from-bc-said-key-to-reviving-pipeline/arti- cle16657138/; Jeff Lewis, “Northwest Territories Eyes Revival of Mackenzie Valley Pipeline Project,” *Financial Post,* June 11, 2013, http://business.financialpost.com/2013/06/11/northwest-territo- ries-eyes-revival-of-mackenzie-valley-pipeline-project/?__lsa=c5d4-608a.
-
-Canada, Royal Commission on Aboriginal Peoples, *Report*, 1:466–504.
- See, for example: *Delgamuukw v. British Columbia*, 1997 CanLII 302 (SCC); *Haida Nation v. British Columbia (Minister of Forests)*, 2004 SCC 73 (CanLII); *Mikisew Cree First Nation v. Canada (Min- ister of Canadian Heritage),* 2005 SCC 69 (CanLII); *Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council,* 2010 SCC 43; *Tsilhqot’in Nation v. British Columbia*, 2014 SCC 44; *Grassy Narrows First Nation v. Ontario (Natural Resources)*, 2014 SCC 48.
-
-*Delgamuukw v. British Columbia*, 1997 CanLII 302 SCC, para. 165.
- *Haida Nation v. British Columbia (Minister of Forests)*, 2004 SCC 73 (CanLII), para. 53, cited in
-
-Newman, *Rule and Role of Law*, 10, http://www.macdonaldlaurier.ca/files/pdf/DutyToConsult-Fi- nal.pdf.
-
-Newman, *Rule and Role of Law*, 13, http://www.macdonaldlaurier.ca/files/pdf/DutyToConsult-Fi- nal.pdf.
-
-Public Policy Forum, “Building Authentic Partnerships,” 7.
- Public Policy Forum, “Building Authentic Partnerships,” 6.
- Eyford, “Forging Partnerships,” 3, 7, https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/www/
-
-pdf/publications/ForgPart-Online-e.pdf.
- Letter of transmission from Douglas R. Eyford to Prime Minister, 29 November 2013, in Eyford,
-
-“Forging Partnerships,” np, https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/www/pdf/pub- lications/ForgPart-Online-e.pdf.
-
-The Charrette on Energy, Environment and Aboriginal Issues, “Responsible Energy Resource Development,” 2.
-
-The Charrette on Energy, Environment and Aboriginal Issues, “Responsible Energy Resource Development.”
-
-The Charrette on Energy, Environment and Aboriginal Issues, “Responsible Energy Resource Development,” 8–14.
-
-Coates and Newman, *End Is Not Nigh*, 21.
- United Nations Global Compact, *Business Reference Guide*.
-
-\270. 271.
-
-\272. 273.
-
-274.
-
-\275. 276. 277.
-
-278.
-
-\279. 280. 281.
-
-\282. 283.
-
-Endnotes • 509
-
-510 • Truth & Reconciliation Commission
-
-\284. 285. 286. 287. 288. 289. 290.
-
-\291. 292.
-
-293.
-
-294.
-
-295.
-
-\296. 297. 298. 299. 300. 301. 302.
-
-TRC, AVS, Wab Kinew, Statement to the Truth and Reconciliation Commission of Canada, Ed- monton, Alberta, 28 March 2014, Statement Number: ABNE202.
-
-TRC, AVS, Victoria Wells, Statement to the Truth and Reconciliation Commission of Canada, Vic- toria, British Columbia, 13 April 2012, Statement Number: SP016.
-
-TRC, AVS, Lynne Phillips, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 5 December 2010, Statement Number: 01-BC-03DE10-007.
-
-TRC, AVS, Roger Epp, Statement to the Truth and Reconciliation Commission of Canada, Hobbe- ma, Alberta, 25 July 2013, Statement Number: SP125.
-
-TRC, AVS, Bill Elliot, Statement to the Truth and Reconciliation Commission of Canada, Hobbe- ma, Alberta, 25 July 2013, Statement Number: SP125.
-
-TRC, AVS, Bill Elliot, Statement to the Truth and Reconciliation Commission of Canada, Edmon- ton, Alberta, 29 March 2014, Statement Number: ABNE301.
-
-Reconciliation Canada, “City of Vancouver Council Unanimously Support,” http://reconciliation- canada.ca/city-of-vancouver-council-unanimously-support-city-of-reconciliation-framework/. See also: Report from City Manager to Vancouver City Council, “Framework for City of Reconcilia- tion,” http://former.vancouver.ca/ctyclerk/cclerk/20141028/documents/rr1.pdf.
-
-TRC, AVS, Gregor Robertson, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE102.
-
-Kim Harvey, *Be the Change: Young People Healing the Past and Building the Future*, Van- couver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476.
-
-Kevin Takahide Lee, *Be the Change: Young People Healing the Past and Building the Future*, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476.
-
-Caroline Wong, *Be the Change: Young People Healing the Past and Building the Future*, Van- couver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476.
-
-Danny Richmond, *Be the Change: Young People Healing the Past and Building the Future*, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo. com/78638476.
-
-TRC, AVS, Akua Benjamin, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.
-
-TRC, AVS, Ali Kazimi, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.
-
-TRC, AVS, Winnie Ng, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.
-
-Canada, Minister of Citizenship and Immigration Canada, *Discover Canada*, http://www.cic. gc.ca/english/resources/publications/discover/index.asp (accessed 15 April 2015).
-
-Canada, Minister of Citizenship and Immigration Canada, *Discover Canada*, http://www.cic. gc.ca/english/resources/publications/discover/index.asp (accessed 15 April 2015).
-
-Video recordings of the Walk for Reconciliation are available at: Reconciliation Canada, http:// reconciliationcanada.ca/2013/09/ (accessed 15 April 2015).
-
-Elders Statement, “A Shared Tomorrow.” The statement and video recording of the Elders Circle are available at: Reconciliation Canada, http://reconciliationcanada.ca/explore/elders-statement/ (accessed 15 April 2015).
-
-Appendix 1: The mandate of the Truth and Reconciliation Commission
-
-1. This refers to the Aboriginal principle of “witnessing.”
-
-2. The Government of Canada undertakes to provide for wider dissemination of the report pursuant to the recommendations of the Commissioners.
-
-3. The Commission may make recommendations for such further measures as it considers necessary for the fulfillment of the Truth and Reconciliation Mandate and goals.
-
-Appendix 2: Canada’s Residential Schools
-
-1. Aboriginal and Northern Affairs Canada, List of Recognized Institutions, https://www.aadnc- aandc.gc.ca/eng/1100100015606/1100100015611 (accessed 3 March 2015).
-
-2. TRC, NRA, Deschatelets Archives, Oblates of Mary Immaculate, Ottawa, HR 6796.C73R 2, Oblates of Mary Immaculate to Indian Affairs, 15 November 1923. [SPR-000436]
-
-3. TRC, NRA, Headquarters, 775/25-1-006, 01/39–08/72, volume 2, HQ., Calgary, L. Beuglet to G. H. Gooderham, 1 February 1951. [AMP-006646]
-
-4. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 775/6-1-GHC, volume 1, 05/1973–06/1975, RCAP, E. W. Robinson to Don McBride, 27 April 1973. [AMP-010378]
-
-5. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 3834, file 65138, part 4, E. M. Legal to Indian Commissioner, Regina, 30 March 1887. [SAC-000211-0001]
-
-6. TRC, NRA, Deschatelets Archives Ottawa, HR 6103.C73R 4, *Report of the Indian Affairs Branch for the Year ended 31 March 1962*, 31. [OMI-030380]
-
-7. Canada, *Annual Report of the Department of Indian Affairs, 1891*, 62.
-
-8. TRC, NRA, Deschatelets Archives Ottawa, HR 6103.C73R 4, *Report of the Indian Affairs Branch for* the Year ended 31 March 1962*, 31. [OMI-030380]
-
-9. Canada, *Annual Report of the Department of Indian Affairs, 1908*, xxxiv.
-
-10. TRC, NRA, Deschatelets Archives Ottawa, HR 6103.C73R 4, *Report of the Indian Affairs Branch for the Year ended 31 March 1962*, 31. [OMI-030380]
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 444.
-
-12. TRC, NRA, Library and Archives Canada – Edmonton, 4700-10-435, volume 1, 9/87–12/88, NAC, Edmonton, Sheila Carr-Stewart to Jim Twigg, 14 January 1988. [MRY-008208]
-
-13. Canada, *Annual Report of the Department of Indian Affairs, 1890,* 82; Canada, *Annual Report of the* *Department of Indian Affairs, 1891*, 180.
-
-14. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 773/6-1-, 04/66– 07/75, volume 3, RCAP, E. J. Dosdall to Regional Advisor, Engineering and Architecture, 3 July 1975. [PUL-002529]
-
-15. Canada, *Annual Report of the Department of Indian Affairs, 1900*, 343–344.
-
-16. TRC, NRA, Library and Archives Canada, NAC, file 772/6-1-001, 01/67–10/69, “Cluny Indian School Closing,” by Don Peacock [Calgary *Albertan*] , 20 December 1969. [CFT-002237]
-
-17. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011. Indian Affairs began funding the school in 1902. Canada, *Annual* *Report of the Department of Indian Affairs, 1903*, 241, 387–388.
-
-18. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 775/6-1, 03/72– 08/76, volume 3, RCAP, E. J. Dosdall to G. K. Gooderham, 26 June 1973. [MAR-001983]
-
-Endnotes • 511
-
-512 • Truth & Reconciliation Commission
-
-1. Canada, *Annual Report of the Department of Indian Affairs, 1924*, 13.
-
-2. TRC, NRA, INAC – AB Regional Records Office – Edmonton, 774/1-13, volume 2, 07/1968–07/1975, CR – ALB, [Illegible] for W. Evan Armstrong to Churchman, 21 May 1968. [EDM-009699]
-
-3. McCarthy, *From the Great River*, 160; Carney, “Grey Nuns and Children,” 291; Duchaussois, *Grey* Nuns*, 148.
-
-4. TRC, NRA, INAC – Main Records Office – Ottawa, 701/25-20-1, 1965–1975, volume 1, CR HQ, E. J. Dosdall to Chief, Student Residence Services, Ottawa, 6 March 1974. [RCA-001185]
-
-5. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 3952, file 134858, Indian Affairs, Public Archives – Archives Publiques Canada, Indian Affairs, “Minutes,” 5 August 1900. [AGL-
-
-   000570]
-
-6. TRC, NRA, INAC – Main Records Office – Ottawa, 775/6-1-005, Jan/64–Feb/73, volume 5, DIAND, Central Records – HQ, R. F. Davey to Henri Routhier, 23 August 1968. [FTV-006722-0000]
-
-7. Canada, *Annual Report of the Department of Indian Affairs, 1887*, 178.
-
-8. TRC, NRA, INAC – Main Records Office – Ottawa, 772/16-2-002, 1966–1971, volume 2, CR-HQ, H. W. Allen to Mr. D. P. Nigra, 20 April 1971. [OLD-000209]
-
-9. Brandak, “A Study of Missionary Activity,” 108.
-
-10. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 76.
-
-12. TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B92 3866, W. M. Graham to Principal, Ermineskin Roman Catholic Boarding School, 28 October 1922. [OGP-030045]
-
-13. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 131.
-
-14. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, E4974-2021, 1975– 1980, volume 2, RCAP, K. W. Johnson to D. W. Simpson, 4 September 1975. [ERM-002507-0000]
-
-15. TRC, NRA, Headquarters, 777/25-1-007, 02/13–03/65, volume 1, HQ., D. C. Scott to Frank Pedley, 9 April 1913. [GRU-002710]
-
-16. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-17. Persson, “Blue Quills,” 50.
-
-18. Persson, “Blue Quills,” 51.
-
-19. Brandak, “A Study of Missionary Activity,” 37.
-
-20. TRC, NRA, Library and Archives Canada, RG10, volume 6380, file 769-1, part 1, A. F. MacKenzie to Dr. T. B. R. Westgate, 8 August 1932. [WFL-000246]
-
-21. TRC, NRA, Library and Archives Canada – Ottawa, 757-1, part 1, volume 6355, 1886–1927, NAC, J. D. McLean to E. H. Yeomans, 28 December 1922. [MOR-004751-0001]
-
-22. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-23. Canada, *Annual Report of the Department of Indian Affairs, 1894,* 91.
-
-24. TRC, NRA, Library and Archives Canada, RG10, volume 6350, file 753-1, part 1, J. F. Woodsworth to James Endicott, 5 June 1919. [EDM-000242]
-
-25. TRC, NRA, Library and Archives Canada, RG10, volume 6345, file 751-5, part 1, 1896–1902, Microfilm reel C-8701, Lumber list for erecting Indian Boarding School Building, 1 August 1898; [BQL-007304] TRC, NRA, Library and Archives Canada, RG10, volume 6345, file 751-5, part 1, 1896–1902, Microfilm reel C-8701, H. Leduc to A. E. Forget, 4 September 1898. [BQL-007314]
-
-26. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011. In 1987, Indian Affairs informed the Blue Quills administration that it
-
-would not provide funding for the high school program after June 1988. The decision was driven, at least in part, by the desire of other local First Nations to develop their own high school programs. Indian Affairs continued to fund post-secondary programs at Blue Quills. The high school program and associated residence closed in June 1988. That year, seventy-six Grade Twelve students graduated from the school: the largest graduating class in the high school’s twelve-year history. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-2020, volume 3 (Ctrl #7-7), D. Wattie to G. P. Kerr, 17 March 1988; [NCA-007261-0000] Blue Quills First Nations College, *Pimohteskanaw,* 14.
-
-1. The St. Albert Mission was founded in 1861. Choquette, *The Oblate Assault*, 86. The Grey Nuns arrived in 1853 and established a school in that year. Côté, “St. Albert,” 33.
-
-2. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6364, file 760-1, part 2, 1936– 1948, Microfilm reel C-8717 PAC, R. A. Hoey to Deputy Minister, 3 September 1948. [SAL-000283]
-
-3. Canada’s Historic Places, St. Augustine’s Roman Catholic Mission, http://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=11611 (accessed 23 February 2015).
-
-4. The Smoky River school is included in the 1908 Indian Affairs annual report list of Alberta boarding schools (Canada, *Annual Report of the Department of Indian Affairs, 1908,* 2:56), but not in the 1909 report (Canada, *Annual Report of the Department of Indian Affairs, 1909,* 2:20).
-
-5. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 292–293.
-
-6. Canada, *Annual Report of the Department of Indian Affairs, 1922,* 18.
-
-7. Brandak, “A Study of Missionary Activity,” 37.
-
-8. TRC, NRA, INAC – Main Records Office – Ottawa, 777/16-2-009, 1966–1967, volume 2, CR-HQ, L. E. Wrag for R. F. Davey to Chief Treasury Officer, 15 March 1966. [JON-001035]
-
-9. Brandak, “A Study of Missionary Activity,” 83.
-
-10. TRC, NRA, INAC – AB Regional Records Office – Edmonton, 777/6-1-769, 01/05–09/50, CR-AB, [Illegible], Director to L. A. Dixon, 10 June 1950. [WFL-000753]
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1905*, 249–250.
-
-12. Canada, *Annual Report of the Department of Indian Affairs, 1940*, 186.
-
-13. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 158.
-
-14. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 978/25-13, volume 1, Student Residence – Gen. 10/05/1973–11/15/1979, Control No. 449-80, IRSRC – Historical Files, Larry Wight to District Supervisor, 2 October 1974. [MIK-008346-0005]
-
-15. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-16. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-147, V1985-86/476, box 16 [18], file 989/25-8, volume 6, Indian Education – Educational Assist. – Gen., [dates illegible] 1976–77, NAC Burnaby, Smith to Cahoose, 19 July 1977. [JOE-014593]
-
-17. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 203.
-
-18. Canada, *Annual Report of the Department of Indian Affairs, 1941*, 165.
-
-19. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xi.
-
-20. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-138, volume 13464, file 964/25-1, part 1, Education – General, 05/1969–12/1970, NAC Burnaby, R. M. Hall to G. D. Cromb, 21 May 1970; [EGN-002451] TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-189, Acc. v96-97/816, file 6-1, box 4, 1972 Contract Documents [Kamloops Indian Residential School], NAC – Burnaby, G. D. Cromb to W. L. Fraser, 26 May 1970. [EGN-011708]
-
-21. Canada, *Annual Report of the Department of Indian Affairs, 1922*, 18.
-
-Endnotes • 513
-
-514 • Truth & Reconciliation Commission
-
-1. TRC, NRA, Library and Archives Canada – Burnaby, file 965/6-1-012, part 22, Lejac Residential School, 1973–1976, FA 10-138, Acc. V1985-86/397, box 2 [502381], National Archives of Canada – Burnaby, Friesen to E. Korchinski, 9 July 1976. [LEJ-009413]
-
-2. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xi.
-
-3. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-145, Acc. v85-86/496, file 963/25-
-
-   1, Perm. volume 1, Education 1974–78, NAC – Burnaby, R. G. Lyon to K. W. Manuel, 4 July 1978. KAM-009590]
-
-4. Canada, *Annual Report of the Department of Indian Affairs, 1906*, 482.
-
-5. TRC, NRA, Library and Archives Canada – Ottawa, file 883-1, part 2, Bella Coola Agency – Kitamaat, Residential School – General Administration, 1933–1950, FA 10-17, Perm. volume 6451, Microfilm reel C-8773, Library and Archives Canada – Ottawa, George Dorey to Harold W. McGill, 21 April 1941. [KMT-095750]
-
-6. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xi.
-
-7. TRC, NRA, Library and Archives Canada, GARDD, V1985-86/397, 901/25-13-1, box 502381, volume 1, 1973–1975, R. Evans to Regional Supervisor, 7 July 1975. [SLT-002387]
-
-8. TRC, NRA, Library and Archives Canada, file 942-5, part 4, 1950–51, volume 6482, Microfilm reel C-8796, A. H. Fleury to B. H. Neary, 22 January 1951. [LOW-000506]
-
-9. TRC, NRA, Library and Archives Canada, RG10, box 66, Acc. 1988-1989/057, General Correspondence Lower Post Students Residence, 1965–1978, G. K. Gooderham to Department Secretariat, 2 May 1975. [LOW-041388]
-
-10. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 437.
-
-11. TRC, NRA, No document location, no document file source, E-4974-2030 V.1, I. R. Shand to J. Epp, 23 August 1979. [GRG-022833]
-
-12. Canada, *Annual Report of the Department of Indian Affairs, 1900*, 281.
-
-13. TRC, NRA, British Columbia Archives – Victoria, Vertical Files – Christie IRS, Microfilm reel 28, frame 1988, B.C. Archives, George Nicholson, “Indian Children Give up Their School in the Forest,” *Vancouver Sun*, 15 June 1971. [CST-800006]
-
-14. Gresko, “Paul Durieu,” http://www.biographi.ca/en/bio/durieu_paul_12E.html (accessed 31 August 2014). McNally gives the opening as 1862: McNally, *Lord’s Distant Vineyard*, 67; TRC, NRA, The British Columbian, 11 May 1865, page 3; [OMS-000291] TRC, NRA, Mission Community Archives, file 660.6, L. Fouquet to J. Douglas, 23 May 1867. [MIS-005038]
-
-15. TRC, NRA, INAC – BC Regional Records Office – Vancouver BC-CR, V87-395, box: 87-09-D40/42- 009, E4974-2031, volume 3, 04/83–07/84, C. E. Van Alstyne to Joe Aleck, 25 June 1984. [MIS-000494]
-
-16. Canada, *Annual Report of the Department of Indian Affairs, 1900*, 420.
-
-17. TRC, NRA, Library and Archives Canada – Ottawa, RG10, FA 10-379, 1999-01431-6, box 405, 987/25-1-013, part 1, Indian Education – Fraser District – St. Paul’s School, 1959–1968, NAC – Ottawa, W. S. Arneil to R. F. Davey, 16 February 1959. [SQU-000672]
-
-18. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 165.
-
-19. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 6-1-2032, Alberni Indian Residential School, Control No. 303-13, 11/1970–12/1978, IRSRHF, W. R. Cooke to Regional Director, 9 August 1973. [ABR-021977-0000]
-
-20. Bolt, *Thomas Crosby and the Tsimshian*, 63.
-
-21. TRC, NRA, Library and Archives Canada, file 886-1, part 3, Skeena River Agency – Port Simpson Girls Residential School, 1894–1950, FA 10-17, Perm. volume 6458, Eva Middleton to Superintendent Indian Education, 27 September 1948. [PSM-200706]
-
-22. Canada, *Annual Report of the Department of Indian Affairs, 1905*, 217.
-
-23. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-137 v86-87/243, volume 4 [501374], 987/25-13-1 School Closures – Sechelt, part 1, 1975–1977, NAC – Burnaby, J. M. Neely to B. Banner, 7 July 1975. [MIS-007429]
-
-24. Canada, *Annual Report of the Department of Indian Affairs, 1890*, 248.
-
-25. TRC, NRA, Agness Jack, “New Use for St. Joseph’s Mission: Now Adult Education Centre,” *Williams* *Lake Tribune*, 10 September 1981. [WLM-000627]
-
-26. Canada, *Annual Report of the Department of Indian Affairs, 1888*, xii.
-
-27. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-7-3, volume 2 (Ctrl #14-21), J. B. Bergevin to Mrs. Gordon Long, 2 July 1970. [NCA-001847]
-
-28. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 203.
-
-29. TRC, NRA, Library and Archives Canada – Winnipeg, RG10, Acc. 2001-01035-4, box 015, file 501/25-13-082G, volume 1, Soulodre, J. P. to Manitoba Telephone System, 7 June 1972. [BRS006834]
-
-30. TRC, NRA, Library and Archives Canada, R776-0-5 (RG55), volume 290, T.B. #626127, May 14, 1964, Department of Northern Affairs and National Resources to Treasury Board, “Details of request to the Honourable the Treasury Board,” 20 April 1964. [120.10656A]
-
-31. TRC, NRA, Library and Archives Canada, file 380/6-2-007, volume 1, C. L’Heureux to W. J. McGuire, 22 March 1972; [PHQ-005693] INAC – Archival Unit – Ottawa, file 5150/C6-1, volume 1, D. Davidson to the Secretary-Treasurer, “Junior HIgh School – Hearne Hall,” 27 March 1973. [CVC- 000615-0000]
-
-32. Canada, *Annual Report of the Department of Indian Affairs, 1912*, 351.
-
-33. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-34. TRC, NRA, Library and Archives Canada, RG10, Acc. 88-89/57, file 501/25-2, volume 1, R. D. Ragan to DIAND, 20 June 1957. [DRS-122339-0003]
-
-35. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-2012, volume 3, G. R. Maxwell to W. Wright, 25 September 1987. [DRS-000170]
-
-36. Canada, *Annual Report of the Department of Indian Affairs, 1889*, 58.
-
-37. TRC, NRA, Library and Archives Canada, RG10, volume 3925, file 116, 823-1A, Martin Benson to D. C. Scott, 4 March 1918. [ELK-000250]
-
-38. Canada, *Annual Report of the Department of Indian Affairs, 1924*, 13.
-
-39. TRC, NRA, Library and Archives Canada, RG10, volume 6263, file 578-9, part 2, D. M. MacKay to Deputy Minister, 9 August 1949. [ELK-000162]
-
-40. Canada, *Annual Report of the Department of Indian Affairs, 1899*, xxiii.
-
-41. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-42. Canada, *Annual Report of the Department of Indian Affairs, 1890,* 1:94.
-
-43. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-44. Canada, *Annual Report of the Department of Indian Affairs, 1906*, xxxii.
-
-45. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 15, R. F. Davey to Assistant Deputy Minister, Indian and Eskimo Affairs, 18 August 1969. [NCA-011279]
-
-46. Canada, *Annual Report of the Department Indian Affairs, 1891*, 99.
-
-47. TRC, NRA, Library and Archives Canada, Winnipeg, RG10, Acc. W86-87/083, box 001, file 501/251, volume 2A, J. Malcolm to Friends, 25 May 1975. [PLP-100300]
-
-48. Canada, *Annual Report of the Department of Indian Affairs, 1906*, xxxii.
-
-Endnotes • 515
-
-516 • Truth & Reconciliation Commission
-
-1. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 15, R. F. Davey to Assistant Deputy Minister, Indian and Eskimo Affairs, 18 August 1969. [NCA-011279]
-
-2. Canada, *Annual Report of the Department of Indian Affairs, 1915*, xxvi–xxv.
-
-3. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part. 2, A. F. MacKenzie to Reverend T. B. R. Westgate, 24 April 1933. [DRS-000616]
-
-4. TRC, NRA, Library and Archives Canada, RG10, volume 8638, file 511/6-1-038, part 1, R. S. Davis to Indian Affairs Branch, 15 December 1952. [GUY-000164]
-
-5. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-2011, volume 1, Jake Epp to Henry Wilson, 30 August 1979. [GUY-000606]
-
-6. City of Winnipeg, Historical Buildings Committees, “611 Academy – Former Julia Clark School,” August 1997, 1–3, 9–10; TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 6-21-7, volume 1 (Ctrl #25-7), H. M. Jones to Deputy Minister, 4 July 1958. [NCA- 011600-0000]
-
-7. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 20, D. Hueston to A. Akehurst, 4 July 1973. [PLK-001019]
-
-8. Canada, *Annual Report of the Department of Indian Affairs, 1927*, 14.
-
-9. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual* Report of the Department of Indian Affairs, 1959–1960*, 96.
-
-10. Canada, *Annual Report of the Department of Indian Affairs, 1937*, 208.
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual* *Report of the Department of Indian Affairs, 1959–1960*, 96.
-
-12. TRC, NRA, Library and Archives Canada – Ottawa, RG85, file 632-108-1, volume 1, box 22, Quarterly Attendance Report/Fort Franklin – NWT, 09/1967–12/1968, “Pupil Residence Quarterly Return, Fort Franklin,” 30 September 1967. [FFS-000001-0001]
-
-13. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, file 73600-303, volume 2, School Services – Fort Franklin, 01/72–09/73, Transfer No. 0330, box 9, J. A. Coady to N. Macpherson, 22 March 1973. [FFS-000018]
-
-14. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106.
-
-15. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, file 73-500-402, volume 2, Fort McPherson Hostel [Anglican] – Quarterly Returns [Fort McPherson], 01/72–12/76, Transfer No. 0330, box 8-21, N. J. Macpherson to Member of the Executive for Education, 21 April 1976. [FHU-002403]
-
-16. McCarthy, *From the Great River,* 159.
-
-17. TRC, NRA, Government of Northwest Territories Archives, file 600-1-1, part 4, School Policy [and Hostels], 1959–1961, Archival box 202-1, Archival Acc. G-1979-003, Department of Northern Affairs and National Resources, “Historic Names for Northern Schools and Residences,” news release, 2 March 1961. [RCN-010612-0002]
-
-18. Carney, “Relations in Education,” 60.
-
-19. TRC, NRA, INAC – Departmental Library – Ottawa, “Farewell to St. Joseph’s School, Fort Resolution, N.W.T.,” *Indian Record*, volume XX, number 5, May 1957. [IMR-000160]
-
-20. TRC, NRA, Government of Northwest Territories Archives, file 602, Provincial Schools and Education Systems, 1960–1961, Archival box 211-1, Archival Acc. G-1979-003, Administrator of the Mackenzie to Director, 12 December 1960. [FNU-001695]
-
-21. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports, RIMS ID# 1209, box 9, Student Enrolment in Hostels, 1967–1975. [RCN-007181]
-
-22. TRC, NRA, Government of Northwest Territories Archives, file 602, Provincial Schools and Education Systems, 1960–1961, Archival box 211-1, Archival Acc. G-1979-003, Administrator of the Mackenzie to Director, 12 December 1960. [FNU-001695]
-
-23. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports, RIMS ID #1209, box 9, Student Enrolment in Hostels, 1967–1975. [RCN-007181]
-
-24. TRC, NRA, Government of Northwest Territories Archives, Pupil Residence – General, 1973–1978, Archival box 4-2, Archival Acc. G1995-004, R. L. Julyan to R. W. Halifax, 28 December 1977. [LHU- 000685-0001]
-
-25. Roxanna Thompson, “Dehcho Hall to Close its Doors,” *Northern News Services* online, 26 January 2009, http://www.nnsl.com/frames/newspapers/2009-01/jan26_09h.html.
-
-26. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106.
-
-27. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports, RIMS ID #1209, box 9, Student Enrolment in Hostels, 1967–1975. [RCN-007181]
-
-28. TRC, NRA, Government of Northwest Territories Archives, file 600-1-1, part 1A, Education, Schools – General Policy, 1962–1969, Archival box 202-4, Archival Acc. G-1979-003, P. Piché to R. J. Orange, 27 May 1964. [GCU-000178]
-
-29. TRC, NRA, Diocese of Mackenzie – Yellowknife, NWT, Grandin College – Administration Files, Miscellaneous Papers, Letter Sent on Behalf of Bishop P. Piché and his Diocesan Council, 4 June \1985. [GCU-800247]
-
-30. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2.15, box 27, file 8, St. Peter’s Mission, Hay River, Diocese of Mackenzie River, Parish History, n.d.; [AAC-087477] Hay River Slides, Alf. J. Vale, n.d. [AAC-087480]
-
-31. The Hay River residential school is listed in the 1937–38 Indian Affairs annual report (Canada, *Annual Report of the Department of Indian Affairs, 1938,* 231), but not in the 1938–39 annual report (Canada, *Annual Report of the Department of Indian Affairs, 1939*, 265).
-
-32. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual* *Report of the Department of Indian Affairs, 1959–1960*, 96.
-
-33. TRC, NRA, No document location, no document file source, B. Pusharenko, Inuvik, NWT, “Demolition of Former Residential School Called for to Put Bad Memories to Rest,” *Edmonton* *Journal*, 13 August 1998. [GNN-000298-0026]
-
-34. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual* *Report of the Department of Indian Affairs, 1959–1960*, 96.
-
-35. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, ECE [02330-6, 004508], Government of NWT, Yellowknife, NWT, Peter L. McKlusky to Territorial Auditor, 17 December 1975. [SHU-000074-0000]
-
-36. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106.
-
-37. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Misc. Correspondence, 1991–1994, Transfer No. 1531, box 5, C. McLean to J. Stad, 24 June 1994. [AHU004085]
-
-38. TRC, NRA, Library and Archives Canada, RG10, volume 6054, file 265-1, part 1, Chas Stewart to A. E. MacLean, 22 May 1930. [SRS-000300]
-
-Endnotes • 517
-
-518 • Truth & Reconciliation Commission
-
-1. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 211/6-1-010, volume 6, R. F. Davey to Michael Kearney, 12 June 1967. [SRS-000175]
-
-2. TRC, NRA, Government of Northwest Territories Archives, file A-630/153-11, part 1, Education Facilities – Schools Small Hostels – Eskimo Point, 1961–1966, Archival box 247-12, Archival Acc. G-1979-003, Pupil Residence Quarterly Return, Eskimo Point Student Hostel, 31 March 1962. [EPS- 000343]
-
-3. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-4. TRC, NRA, Government of Northwest Territories Archives, file 630-150/12-1,2,3, Cambridge Bay Cottage Hostel General, Reports, 1963–1964, Archival box 247-10, Archival Acc. G-1979-003, Pupil Residence Quarterly Return, Cambridge Bay Federal Hostel, 31 March 1964. [CBS-000002-0001]
-
-5. TRC, NRA, CGS Records Warehouse, Iqaluit, Government of Nunavut, Resid – Correspondence – Kitikmeot, 1991–1992, Kitikmeot Region [Kugluktuk] – box 102, CGS Records Warehouse, Iqaluit, Government of Nunavut, List to Kitikmeot Divisional Education Council, Student Accommodation Information – September 30, 1996, 18 October 1996. [CPU-001700-0002]
-
-6. TRC, NRA, Library and Archives Canada, RG85, volume 711, file 630/158-1, part 5, Government School – Chesterfield Inlet N.W.T., 1956–1957, “Boarding Schools for Eskimos – Chesterfield Inlet,” 8 August 1958. [CIU-000485]
-
-7. TRC, NRA, Government of Northwest Territories Archives, CR# 71-602-000, Pupil Residence – General, 04/1968–12/71, Archival box 266, Archival Acc. G1999-046, G. Devitt to Director of Education, 5 December 1969. [CIU-001807]
-
-8. TRC, NRA, Government of Northwest Territories Archives, file 630-145/22-2, Reports and Returns, Coppermine Tent Hostel School, 1954–1956, Archival box 247-3, Archival Acc. G-1979-003, “Report on the Coppermine Experimental Tent Hostel,” David S. Wilson, undated report. [CPU-001206- 0002]
-
-9. TRC, NRA Library and Archives Canada – Ottawa, RG85, Perm. volume 644, file 630/145-2, part 7, Anglican Schools – Coppermine, N.W.T. [Incl. Tent Hostel] November 1957–December 1959, FA 85-1, Director to Administrator of the Mackenzie, Fort Smith, N.W.T., 26 September 1959. [CPU- 000436]
-
-10. TRC, NRA, Government of Northwest Territories Archives, file A-600-1-6-1, part 2, Small Hostel, N.W.T, 1962–1965, Archival box 205-4, Archival Acc. G-1979-003, [Illegible] Director to Administrator of the Arctic, 10 January 1962. [IGS-000239]
-
-11. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-12. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Schools Registers and Hostels Forms 1961–1974 [Ukkivik Hostel], Transfer No. 0274, box 4-23, “Student Residence Quarterly Return,” September 1971. [FBS-000001]
-
-13. TRC, NRA, No document location, no document file source, B. Pusharenko, Inuvik, NWT, “Demolition of Former Residential School Called for to Put Bad Memories to Rest,” *Edmonton Journal*, 13 August 1998. [GNN-000298-0026]
-
-14. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-15. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-16. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-17. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-18. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-19. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-20. TRC, NRA, Government of Northwest Territories Archives, file A-630/170-1, part 1, Education Facilities – Schools Pangnirtung, N.W.T., 1959–1966, Archival box 249-10, Archival Acc. G1979-003, R. L. Kennedy to Regional Administrator, 14 July 1964. [PAS-000083]
-
-21. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.
-
-22. TRC, NRA, Government of Northwest Territories Archives, file A-630/159-1, part 1, Education Facilities – School Small Hostels – Baker Lake, 1961–1966, Archival box 248-8, Archival Acc. G-1979-003, M. E. Gordon to Department of Northern Affairs and National Resources, 21 January 1961. [BLS-000320]
-
-23. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 600-1-6, volume 10, Hostel Management – N.W.T. [General and Policy], Aug. 1967–Sept. 1968, W. Ivan Mouat, to J. B. Gunn to Regional Administrator to Administrator of the Arctic, 30 January 1968. [RCN-002847]
-
-24. TRC, NRA, Government of Northwest Territories Archives, file A-630/1023-11, volume 1, Small Hostels Broughton Island, 1962–1966, Archival box 251-12, Archival Acc. G-1979-003, Broughton Island Federal School Hostel Quarterly Report, 31 December 1962. [BIS-000001]
-
-25. TRC, NRA, Government of Northwest Territories Archives, file A-630/1023-11, part 1, Small Hostels Broughton Island, 1962–1966, Archival box 251-12, Archival Acc. G-1979-003, Service Agreement of Hostel Mother, Ada Atagoojuk, Broughton Island Hostel, 1 April 1966. [BIS-000097]
-
-26. TRC, NRA, Government of Northwest Territories Archives, file AQR 630/174-11, volume 1, Education Facilities – Small Hostels – Belcher Islands, 1963–1968, Archival box 250-4, Archival Acc. G-1979-003, Peter H. Zacharias to Northern Administration Branch, 31 March 1964. [BES-000002]
-
-27. TRC, NRA, Government of Northwest Territories Archives, file AQR 630/174-1, part 1, Education Facilities – School Belcher Islands, 1960–1969, Archival box 250-3, Archival Acc. G1979-003, H. Helbecque to Northern Administrator, Great Whale River, 24 November 1964. [BES-000036]
-
-28. Graham, *Mush Hole*, 7.
-
-29. TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, “Mohawk Institute May Close after 139 Years,” no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London, ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC – Resolution Sector – IRS Historical Files
-
-Endnotes • 519
-
-520 • Truth & Reconciliation Commission
-
-Collection – Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970.
-
-[TAY-003053-0001]
-
-1. Canada, *Annual Report of the Department of Indian Affairs, 1908*, 289.
-
-2. TRC, NRA, Library and Archives Canada, RG10, volume 11091, Shannon File, 1948, Letters to Indian Affairs Branch, J. L. Whitney to Philip Phelan, 31 July 1948. [CRS-002092]
-
-3. TRC, ASAGR, Aboriginal Affairs and Northern Development Canada, letter received 27 July 1976. AANDC-01471]
-
-4. Auger, *Indian Residential Schools in Ontario*, 193.
-
-5. Taylor, “Northern Algonquians,” 350.
-
-6. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 486/25-13-1, H. B. Rodine to All Program/Section Heads District Supervisor, 8 April 1976. [FTA-000510-0000]
-
-7. Canada, *Annual Report of the Department of Indian Affairs, 1906*, xxxii.
-
-8. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/1-8, volume 3 Ctrl #123-HQ-7), M. Rehaluk to G. K. Gooderham, 11 March 1974. [NCA-016551-0000]
-
-9. TRC, NRA, Library and Archives Canada, RG10, volume 6196, file 464-1, part 1, Report on “Fort William Orphanage,” March 1899. [SJS-000153]
-
-10. TRC, NRA, Library and Archives Canada, RG10, volume 11630, file 492/25-2, M. Ouimet to A. F. McWhinnie, 6 August 1968. [SJS-001351]
-
-11. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6468, file 890-1, part 1, Microfilm reel C-8786, A. W. Vowell to Deputy Superintendent General of Indian Affairs, 5 July 1897. [MIS004738]
-
-12. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 487/1-18, volume 1, W. McKim to A. Lacerte, 22, undated. [KNR-000214]
-
-13. Canada, *Annual Report of the Department of Indian Affairs, 1902*, 103.
-
-14. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 486/25-13-1, H. B. Rodine to Program/Section Heads, 8 April 1976, [Program/Section Heads]; TRC, NRA, Ontario Regional Service Centre – LAC – Toronto, file 487/25-1, volume 3, Fred Kelly to Erik Weigeldt, 18 November 1976. [CJC-001887]
-
-15. Canada, *Annual Report of the Department of Indian Affairs, 1926*, 17.
-
-16. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-17. General Synod of the Anglican Church of Canada, “Bishop Horden Memorial School.”
-
-18. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 486/25-13-1, H. B. Rodine to All Program/Section Heads District Supervisor, 8 April 1976. [FTA-000510-0000]
-
-19. *Report of the Special Commissioners 1858*, n.p.
-
-20. TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 3, R. A. Hoey to Dr. McGill, 9 November 1942; [MER-000498] TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 1, M. Benson to Deputy Superintendent General of Indian Affairs, 28 November 1902; [MER-000328] TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 3, R. A. Hoey to Dr. McGill, 9 November 1942; [MER-000498] TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 3, R. A. Hoey to George Dorey, 16 June 1944; [MER-000532] TRC, NRA, Library and Archives Canada, RG10, file 468-1, volume 6205, part 3, R. A. Hoey to George Dorey, 12 June 1943; [IRC-041082] TRC, NRA, Library and Archives Canada, RG10, file 468-1, volume 6205, part 3, George Dorey to R. A. Hoey, 10 June 1943; [MER-000505] TRC, NRA, Library and Archives Canada, RG10, volume 6210, file 468-10, part 5, Samuel Devlin to Indian Affairs, 20 May 1946; [MER-003806-0001] Canada, *Annual Report of the Department of Indian Affairs, 1969–1970,* 128.
-
-21. TRC, NRA, Library and Archives Canada, RG10, volume 11447, file 494/25-2, part 1, Irwin Schantz to D. B. MacBeth, 29 August 1962. [PHD-000451-0000]
-
-22. TRC, NRA, Library and Archives Canada, Margaret Reimer, “Native Mission School Shut Down over Discipline Controversy,” *Mennonite Reporter*, volume 19, number 22, 13 November 1989. [PHD-000143]
-
-23. Wilson, *Missionary work,* 129, 130–131.
-
-24. TRC, NRA, Library and Archives Canada, RG10, Acc. 86-87/347, file 411/25-2, volume 1, A. F. McWhinnie to District Superintendent of Education, Sudbury Agency, 8 June 1970. [SWK-007859]
-
-25. Wilson,*Missionarywork,*215.
-
-26. From 1895 onwards, Indian Affairs stopped reporting on the Wawanosh school separately, apparently including the former school’s statistics with those for the Shingwauk school. The same principal was responsible for both Anglican schools, which were located in Sault Ste. Marie. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 19, 330.
-
-27. Canada, *Annual Report of the Department of Indian Affairs, 1927*, 18.
-
-28. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E-4974-2008, volume 1, V. Gran to J. R. Wright, 29 August 1978. [PLK-000315-0000]
-
-29. Canada, *Annual Report of the Department of Indian Affairs, 1914*, xxii.
-
-30. TRC, NRA, Library and Archives Canada, RG10, volume 11359, file 13/25-2-471, part 3, Reverend Wm. Kearns to Parents and Guardians, 4 July 1958; [NCA-013327] TRC, NRA, The Archives of the Jesuits of Upper Canada, Regis College, Toronto, ON, Jesuit Fathers of Upper Canada Archives, “Parish Announcement,” Father E. Dowling, 6 July 1958. [AGA-000812]
-
-31. Canada, *Annual Report of the Department of Indian Affairs, 1914*, xxii.
-
-32. TRC, NRA, Library and Archives Canada, RG10, Acc. 84-85/112, box 51, file 471/25-2, F. L. Hall to Regional Supervisor , 21 June 1962. [AGA-004741] TRC, NRA, United Church of Canada/Victoria University Archives, Acc. No. 83.050C, box 111, file 2, Morley IRS – Correspondence 1961–62, UCC Docs, Toronto, R. F. Davey, Rev. E. E. M. Joblin, 17 August 1962. [UCA-081423]
-
-33. TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 101, file 494/25-1, part 3, I. L. Howes to Assistant Regional Director, 10 January 1973. [PHD-000215]
-
-34. *Fontaine v. Canada (Attorney General)*, 2011 CanLII 4938 (ON SC), 6.
-
-35. TRC, NRA, Library and Archives Canada, RG10, volume 7187, file 371/25-1-021, H. M. Jones to Deputy Minister, 22 September 1955. [NCA-005273]
-
-36. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 20, D. Hueston to A. Akehurst, 4 July 1973. [PLK-001019]
-
-37. TRC, NRA, Anglican Church of Canada, General Synod Archives, Triennial Report of the Board of Management to the Board of Missions, M.S.C.C. 07/1934, Accession GS 75-2A, Archibald [Fleming], Bishop of the Arctic, “The Arctic,” in S. Gould, General Secretary, Board of Management, M.S.C.C., “Triennial Report of the Board of Management, M.S.C.C.,” 4 July 1934, 353. [AGS-000185]
-
-38. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 371/6-1-019, G. K. Gooderham to E. T. Parker, 27 February 1975. [HFG-000035-0008]
-
-39. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:2, box 55, file 6, S. Gould to D. C. Scott, 18 December 1931. [AAC-090271]
-
-40. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 372/25-13-019, volume 1, Laurent Faucher, Director, Financial and Equipment Services, Cree School Board to Jean-Marie St. Jacques, Assistant Director of Finance, Education Department, 2 August 1978. [FTG- 000171]
-
-Endnotes • 521
-
-522 • Truth & Reconciliation Commission
-
-1. Aboriginal and Northern Affairs Canada, List of Recognized Institutions, https://www.aadnc- aandc.gc.ca/eng/1100100015606/1100100015611 (accessed 3 March 2015).
-
-2. Aboriginal and Northern Affairs Canada, List of Recognized Institutions, https://www.aadnc- aandc.gc.ca/eng/1100100015606/1100100015611 (accessed 3 March 2015).
-
-3. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 630/304-11, volume 2, T. B. Golding to DIAND, 11 January 1960. [PHQ-005752]
-
-4. TRC, NRA, Library and Archives Canada, file 380/6-2-007, volume 1, C. L’Heureux to W. J. McGuire, 22 March 1970. [PHQ-005693]
-
-5. TRC, NRA, Library and Archives Canada, RG85, Perm. volume 1435, file 600-14, part 1, Seasonal Schools N.W.T.–General, 1959–1964, FA 85-4, Memorandum from Bishop, R. A., A/Chief, Education Division, Northern Administration Branch, Northern Affairs and National Resources, Ottawa to Director, 9 February 1960. [FGR-000012]
-
-6. TRC, NRA, Library and Archives Canada, RG10, 2003-0196-4, box 19, file AQR-630/314-1, “George River Seasonal School Report,” November 1960. [FGR-000015-0001]
-
-7. TRC, NRA, Library and Archives Canada, RG10, Acc. 2003-00196-4, file AQR630/313-1, box 19, volume 1, W. G. Devitt to Administrator of the Arctic, Engineering Section, 21 June 1960. [PBH- 000107]
-
-8. TRC, NRA, Library and Archives Canada, RG10, Acc. 2003-00196-4, box 19, file AQR630/313-11, volume 1, page 3 of 3, Enrolment form from Meldrum to Regional Superintendent of Schools, Department of Northern Affairs and National Resources, 1 April 1962. [PBH-000121]
-
-9. TRC, NRA, Library and Archives Canada, RG85, volume 1290, file 303/302, part 2, “Great Whale Housing,” 21 September 1960. [GWR-000068]
-
-10. TRC, NRA, Library and Archives Canada, RG10, Acc. 2003-00196-4, box 12, file AQR, R. G. Armstrong to Y. Gosselin, 22 December 1970. [GWR-000251]
-
-11. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 21/6-1-355, volume 2, Rev. J. E. DeWolf to C. E. Reynolds, 27 March 1963. [LTR-000338-0002]
-
-12. TRC, NRA, Library and Archives Canada, RG55, Acc. 1989-90/143, box 74, file 7878-01, part 1, Status of closed residences as of June 1977. [HFG-000024-0002]
-
-13. *Fontaine v. Canada (Attorney General)*, 2013 CanLII 1293 (QC CS).
-
-14. *Fontaine v. Canada (Attorney General)*, 2013 CanLII 1293 (QC CS).
-
-15. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 21/25-1-354, Pointe Bleue Indian Agency, “Confirmation de l’appel téléphonique à Monsieur Jolicoeur du 7 octobre 1960 date de l’ouverture des classes,” 12 October 1960. [PTB-000301]
-
-16. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E-4974/076, volume NC 3, Rene Carriere to Rejean Perron, 22 April 1991. [BAX-000905-0001]
-
-17. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 321/25-1-352 (Ctrl #407-Q-195), Philip Phelan to J. D’Astous, 16 July 1952; [NPC-400716 ] TRC, NRA, Library and Archives Canada, RG10, Acc. 1999-01431-6, box 125, file 379/16-2-009, part 1, K. A. Cameron to W. Lauchlan, 6 September 1952. [SIR-000504-0000]
-
-18. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 379/25-1-  009, volume 2 (Ctrl #14-25), G. Cromb to Regional Director, 10 March 1971; [NCA-015502] TRC, NRA, Library and Archives Canada, RG55, Acc. 1989-90/143, box 74, file 7878-01, part 1, Status of closed residences as of June 1977; [HFG-000024-0002] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 379/25-1-009, volume 2, A. Gill to G. Cromb, 23 June 1971. [NCA-001483]
-
-19. Canada, *Annual Report of the Department of Indian Affairs, 1889*, 60.
-
-20. TRC, NRA, Library and Archives Canada, RG10, volume 6307, file 653-1, part 2, Director [to Deputy Minister], 22 June 1949. [FHR-000356]
-
-21. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 154.
-
-22. Canada, *Annual Report of the Department of Indian Affairs, 1915*, xxvi.
-
-23. Foran, “‘Les Gens de cette place,’” 59.
-
-24. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4965-2013, volume 3, Beauval Residential School, box 1, file 1-5, Memorandum of Understanding and Agreement Re: The Beauval Indian Education Centre, 6 June 1995. [BVL-001306]
-
-25. Canada, *Annual Report of the Department of Indian Affairs, 1901*, xxx.
-
-26. TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 671/25-1-010, “The Fire at the Thunderchild Residential School,” J. B. Cabana, January 1948. [THR-000266-0003]
-
-27. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 76.
-
-28. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-10474, volume 2, Ray Gamracy to Dana Commercial Credit Canada, 6 June 1996. [SMD-000651-0000]
-
-29. Canada, *Annual Report of the Department of Indian Affairs, 1888*, xii.
-
-30. Gordon’s School, Anglican Indian and Eskimo Residential Schools, Anglican Church of Canada, www.anglican.ca/relationships/histories/gordons-school-punnichy, http://www.anglican.ca/ relationships/histories/gordons-school-punnichy (accessed 5 May 2014).
-
-31. Canada, *Annual Report of the Department of Indian Affairs, 1899*, 323.
-
-32. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4971-361, volume 3, Myler Savill to Lionel Sparvier, 21 July 1997. [MRS-000002-0001]
-
-33. TRC, NRA, Library and Archives Canada, RG10, volume 6281, file 604-1, part 1, W. McWhinney to E. A. W. R. McKenzie, 10 October 1928. [CTS-000418-0001]
-
-34. TRC, NRA, Library and Archives Canada, RG10, volume 6282, file 604-5, part 7, Philip Phelan to L. J. Bryant, 6 September 1940. [CTS-000474]
-
-35. Canada, *Annual Report for the Department of Indian Affairs, 1889*, 258.
-
-36. TRA, NRA, Library and Archives Canada – Ottawa, RG10, volume 6281, file 604-1, part 1, Rev. W. McWhinney to Secretary, 27 July 1915. [CRW-000208]
-
-37. Canada, *Annual Report of the Department of Indian Affairs, 1928*, 17.
-
-38. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-39. Canada, *Annual Report of the Department of Indian Affairs, 1907*, *119.*
-
-40. TRC, NRA, Provincial Archives of Alberta, Anglican Diocese of Athabasca Fonds, Edmonton, AB, Acc. PR1970.0387/1641, box 41, Anglican Diocese of Athabasca Fonds, file A320/572, Indian Schools – General, Official Correspondence of Bishop Sovereign, 1941–1947, Report of Fire at All Saints’ School, Lac la Ronge, Sask., 2 February 1947; [PAR-123539] TRC, NRA, Library and Archives Canada, RG10, volume 6317, file 656-5, part 8, R. A. Hoey to C. G. Brault, 29 August 1947. [PAR- 003667]
-
-41. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 161.
-
-42. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-6- 02017, Irvin Starblanket to Roy Bird, 1 October 1997; [PLD-009978-0002] LaRose, “Wrecker’s ball Claims White Calf Collegiate”; TRC, NRA, Talking points for the media on the closure of White Calf Collegiate in Lebret, Sask., Andrew Bemister to Media, 26 June 1998; [PLD-014223] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-6-02017, volume 1, Huck Andrews to INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-6- 02017, volume 1, 23 July 1998. [PLD-009201-0001]
-
-43. Canada, *Annual Report of the Department of Indian Affairs, 1889*, 260.
-
-Endnotes • 523
-
-524 • Truth & Reconciliation Commission
-
-1. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, Muskowekwan Residential School, box 67, file 1, Muskowekwan Education Centre Board of Directors, Minutes 16 July 1997. [MDD-007310-0001]
-
-2. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 75.
-
-3. Canada, *Annual Report of the Department of Indian Affairs, 1944*, 155.
-
-4. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 75.
-
-5. TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 671/6-2-025, volume 4, Onion Lake Band Council Resolution, 31 July 1974. [ORC-008733-0002]
-
-6. TRC, NRA, Library and Archives Canada, RG10, volume 8645, file 651/6-1, part 2, Memorandum to the Deputy Minister, Director [of Indian Affairs], 22 August 1951. [PAR-017615-0000]
-
-7. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-1355, volume 8, “Education Centre Set to Re-open,” *Prince Albert Herald*, Carrie Hunter, 15 October 1997. [PAR-003103-0001]
-
-8. Canada, *Annual Report of the Department of Indian Affairs, 1944*, 155.
-
-9. TRC, NRA, Library and Archives Canada, RG10, volume 8645, file 651/6-1, part 2, Memorandum to the Deputy Minister, Director [of Indian Affairs], 22 August 1951. [PAR-017615-0000]
-
-10. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xii.
-
-11. Canada, *Annual Report of the Department of Indian Affairs, 1911*, xxvi.
-
-12. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 246.
-
-13. TRC, NRA, Library and Archives Canada, RG10, volume 11539, file 677/25-2, James D. Ormiston to Indian Agent, Kamsack, 31 August 1950. [RLS-001087]
-
-14. Canada, *Annual Report of the Department of Indian Affairs, 1927*, 14.
-
-15. TRC, NRA, Library and Archives Canada, RG10, volume 8638, file 511/6-1-038, part 1, E. S. Jones to J. P. B. Ostrander, 6 September 1952. [GUY-000148]
-
-16. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6479, file 940-1, part 1, “The Chooutla Indian School,” *Northern Lights*, volume XV, number 1, February 1927. [CAR-011225]
-
-17. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.
-
-18. Peake, *Bishop Who Ate His Boots*, 108; TRC, NRA, Anglican Church of Canada, General Synod Archives Northern Lights, Anglican Church of Canada, Newsletter, “St. Paul’s Hostel Dawson,” page 8, November 1920. [DYK-201331]
-
-19. TRC, NRA, Library and Archives of Canada, RG10, volume 8762, file 906/25-1-001, R. J. Meek to Indian Affairs Branch, 4 February 1954. [YKS-000750]
-
-20. Johns, “A History of St Peter’s Mission,” 22; TRC, NRA Anglican Church of Canada, General Synod Archives, Northern Lights, August 1929, “Eskimo Residential School,” 16. [DYK-201365]
-
-21. TRC, NRA, Library and Archives Canada – Ottawa, RG85, Perm. volume 1881, file 630/119-2, part 1, Aklavik Area Residential School September 1936–April 1943, FA 85-8, Field Secretary to R. A. Gibson, 11 August 1936. [RCN-004646-0001]
-
-22. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 853/25-1, volume 2 (Ctrl #49-5), “Report to the Chief of the Education Division, Indian Affairs Branch, On the Experiment With Integration of Indian Students (R.C.) Into Whitehorse Schools, 1960–1961,” E. Cullinane, 1961. [NCA-009389-0001]
-
-23. TRC, NRA, Library and Archives Canada, volume 2, 04/71–02/80, Student Residence, PARC, I. P. Kirkby to G. D. Cromb, 24 November 1971. [YKS-002862, 25-13]
-
-24. TRC, NRA, Library and Archives Canada – Ottawa, file 921-1, part 1, Yukon Agency – Whitehorse Day School – General Admin., 1911–1949, FA 10-17, volume 6477, Microfilm reel C-8793, R. J. Meek
-
-to Unknown, 14 October 1946; [BAP-000307-0001] M. Hackett to P. E. Moore, 24 January 1947.
-
-[BAP-000315]
-
-1. TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 1/25-1, volume 15 locator #H4-77), Yukon, G. R. Cameron to E. A. Côté, 26 May 1966. [NCA-001030]
-
-2. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 853/25-1, 1956– 1968, volume 2, H. M. Jones to Deputy Minister Attention, 18 August 1960. [YHU-090021-0001]
-
-3. Canada, *Annual Report of the Department of Indian Affairs, 1984–1985*, 54; TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, E4974-1, volume 1, 10/1979–10/1987, W. F. Lamont to Director, 6 June, 1985. [YKS-005140]
-
-Appendix 3: Persons Found Guilty of Abusing Residential School Students
-
-1. TRC, NRA, No document location, no document file source, Alberta Justice, Clerk of the Provincial Court of Alberta, Conviction, 28 September 1960. [EDM-003354]
-
-2. TRC, ASAGR, R. G. Pooley to R. F. Davey, 23 November 1963; [AANDC-261608] TRC, ASAGR, M. Brodhead to Regional School Superintendent – Alberta, 3 January 1964; [AANDC-261599] “Jail Teacher for One Year,” *Winnipeg Free Press*, 26 September 1963.
-
-3. TRC, NRA, Library and Archives Canada, 978/2, volume 1209, 05/1965–06/1971, NAC, V. A. Ste- phens to H. B. Robinson, 29 May 1970. [ABR-094456]
-
-4. Eva Salinas, “Four-year Hunt Ends in Arrest,” *Globe and Mail*, 3 August 2006. http://www.the- globeandmail.com/news/national/four-year-hunt-ends-in-arrest/article713735/.
-
-5. Shea, *Institutional Child Abuse in Canada,* 2.
-
-6. Shea, *Institutional Child Abuse in Canada*, 2.
-
-7. LeBeuf, *Role of the RCMP*, 462.
-
-8. *R. vs. Maczynski*, 1997 CanLII 2491 (BCCA) (appeal of sentence); TRC, NRA, No document location, no document file source, E. Morriset to R. B. Kohls, 28 October 1974. [OBG-002922]
-
-9. “Former Students File Suit Over Sexual, Physical Abuse,” Saskatoon *Star-Phoenix,* 26 November 1996; Caroline Murray, “Abuse Victims Recall Atrocities,” *Whitehorse Daily Star. 25 November 1996;* Shea, *Institutional Child Abuse in Canada*, 2.
-
-10. Richard Gleeson, “Four Years for Sex Assault,” *Northern News Services,* 8 August 1997, http:// www.nnsl.com/frames/newspapers/1997-08/aug8_97jail.html; Shea, *Institutional* *Child Abuse in Canada*, 9.
-
-11. It should be noted that of the eight counts of buggery, five related to offences committed at Lytton and the other three to offences committed at another institution that was not a residential school, the Central City Mission.
-
-12. LeBeuf, *Role of the RCMP*, 462; “School Sex Assaults Bring Jail,” *Vancouver Sun,* 4 October 1996; Shea, *Institutional Child Abuse in Canada*, 2.
-
-13. LeBeuf, *Role of the RCMP*, 462; “School Sex Assaults Bring Jail,” *Vancouver Sun,* 4 October 1996.
-
-14. Canadian Press, “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times-Colonist,* January 24, 2004; United Church of Canada Archives, Residential School Archive Project, “The Children Remembered, Alberni Residential School,” http://thechildrenremem- bered.ca/schools-history/alberni/ (accessed 6 November 2013).
-
-15. *R. v. Plint,* [1995] B.C.J. No. 3060 (BCSC); Canadian Press, “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times-Colonist*, January 24, 2004.
-
-Endnotes • 525
-
-526 • Truth & Reconciliation Commission
-
-1. *R. v. Plint,* [1995] B.C.J. No. 3060 (BCSC); Canadian Press, “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times-Colonist*, January 24, 2004.
-
-2. TRC, NRA, Her Majesty the Queen and Harold Daniel McIntee, Reasons for Judgment, Judge C. C. Marnett, Provincial Court of British Columbia, 1 June 1989; [BKM-000204] Ann Rees, “Priest’s Victims Admit Sexual Abuse,” *The Province* (Vancouver)*,* 19 July 1989; Shea, *Institutional Child Abuse in Canada,* 2–3.
-
-3. *R. v. Constant* (28 September 2005), Court of Queen’s Bench (Dauphin Centre), Indictment (5 May 2003), and Disposition (26 September 2005), #03-05-00069, documents obtained from Court of Queen’s Bench (Dauphin Centre), Dauphin, Manitoba, 28 January 2014.
-
-4. TRC, NRA, file 630-118/10-1,2,3, part 1A, Fort McPherson Reports, General and Supplies, 1963–1967, Archival box 239-1, Archival Acc. G-1979-003, O. G. Tucker to H. Darkes, 26 March 1963. [FHU-001914]
-
-5. TRC, NRA, Library and Archives Canada – Ottawa, RG22, Perm. volume 1074, file 250-26-17, part 2, Fort McPherson – School, 1959, FA 22-3, David Searle to D. M. Christie, 23 April 1964. [FHU- 001380-0001]
-
-6. *R. v. Comeau,* [1998] N.W.T.J. No. 34 (NTSC); Shea, *Institutional Child Abuse in Canada*, 9.
-
-7. Ed Struzik, “Priest’s Sordid Past Shocks Parish: Father Houston Was Declared Dangerous Sex Offender, Sent to Prison in 1962,” *Edmonton Journal*, 6 June 2002.
-
-8. Andrew Raven, “Grollier Hall Supervisor Sentenced,” *Northern News Services,* 20 August 2004, http://www.nnsl.com/frames/newspapers/2004-08/aug20_04crt.html.
-
-9. Justice J. Vertes, “In the Supreme Court of the Northwest Territories, Between Her Majesty the Queen and Paul Leroux,” 10 August 1998; Glenn Taylor, “Arrest in Grollier Hall Sex Case: Former Boys Supervisor Faces 32 Counts of Sexual Assault on His Student,” *Northern News Services*, 16 June 1997, http://www.nnsl.com/frames/newspapers/1997-06/jun16_97sex.html.
-
-10. Dawn Ostrem, “Back to Court: Paul Leroux Challenges Convictions, Sentence,” *Northern News Ser- vices,* 26 June 1997, http://www.nnsl.com/frames/newspapers/2000-06/jun26_00back. html.
-
-11. “Ex-residential School Worker Convicted of Abusing Boys,” *CBC News,* 5 November 2013, http:// www.cbc.ca/news/canada/saskatchewan/ex-residential-school-worker-convict- ed-of-abusing-boys-1.2415810; “Paul Leroux Gets 3 Years for Residential School Abuse, *CBC News,* 12 December 2013, http://www.cbc.ca/news/canada/saskatoon/paul-leroux- gets-3-years-for-residential-school-abuse-1.2461629.
-
-12. “Nun Guilty in Residential School Assaults,” *CBC News,* 28 December 1998, http://www.cbc.ca/ news/canada/nun-guilty-in-residential-school-assaults-1.166827.
-
-13. Shea, *Institutional Child Abuse in Canada*, 10. Shea observes only that the sentence did not in- clude jail time.
-
-14. Shea, *Institutional Child Abuse in Canada*, 12.
-
-15. Shea, *Institutional Child Abuse in Canada*, 14–15.
-
-16. “Nun Forced Native Students to Eat Their Own Vomit,” *Edmonton Journal,* 25 June 1999.
-
-17. *R. v. Hands,* [1996] O.J. No. 264; LeBeuf, *Role of the RCMP*, 456; Shea, *Institutional Child Abuse in* *Canada*, 11.
-
-18. TRC, NRA, Library and Archives Canada, RG10, volume 8754, file 654/25-1, volume 1, Henry G. Cook to R. F. Davey, 2 December 1955. [IRC-047015]
-
-19. LeBeuf, *Role of the RCMP*, 457.
-
-20. Ewald Holfeld’s last name appears in some records as Schofield and in others as Holdfeld.
-
-21. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, R. S. Davis, extract from Quarterly Report Ending March, 1945, on Touchwood Agency. [IRC-047128]
-
-22. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, Royal Canadian Mounted Police, Constable A. Zimmerman, 28 July 1945. [GDC-010369-0001]
-
-23. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, R. S. Davis to Indi- an Affairs, 13 February 1947. [GDC-010362-0001]
-
-24. TRC, NRA, Library and Archives Canada, RG10, volume 8754, file 654-1/25-1, volume 1, Henry G. Cook to R. F. Davey, 2 December 1955. [IRC-047015]
-
-25. Mandryk, “Uneasy Neighbours,” 210.
-
-26. LeBeuf, *Role of the RCMP*, 458.
-
-27. “Man sentenced to five years for sexually assaulting Native girls,” Windspeaker Staff, Prince Albert, Saskatchewan, Windspeaker, Canada’s National Aboriginal News Source, Volume 12 Issue 20, 1995, http://www.ammsa.com/publications/windspeaker/man-sen- tenced-five-years-sexually-assaulting-native-girls, accessed 8 November 2013.
-
-28. *R. v. Frappier*, [1990] Y.J. No.163 (Terr. Ct.) (QuickLaw); Shea, *Institutional Child Abuse in Canada*; *Criminal Cases*, 17.
-
-Appendix 4: Apologies
-
-\1. United Church Social Policy Positions, Apology to Former Students of United Church Indian Residential Schools, and to their Families and Communities (1998) at http://www.united-church.ca/beliefs/policies/1998/a623
-
-Endnotes • 527
+1. TRC, AVS, Frederick Ernest Koe, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: SC091.<!--linkrefid=1-->
+2. TRC, AVS, Marlene Kayseas, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.<!--linkrefid=2-->
+3. TRC, AVS, Larry Beardy, Statement to the Truth and Reconciliation Commission of Canada, Thompson, Manitoba, 25 September 2012, Statement Number: SP082.<!--linkrefid=3-->
+4. TRC, AVS, Florence Horassi, Statement to the Truth and Reconciliation Commission of Canada, Tulita, Northwest Territories, 10 May 2011, Statement Number: 2011-0394.<!--linkrefid=4-->
+5. TRC, AVS, Lily Bruce, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 4 August 2011, Statement Number: 2011-3285.<!--linkrefid=5-->
+6. TRC, AVS, Vitaline Elsie Jenner, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-131. (Translated words confirmed by Translation Bureau, Public Works and Government Services Canada [8817169_TG_ Kinugus_EN_CP].)<!--linkrefid=6-->
+7. TRC, AVS, Nellie Ningewance, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0305.<!--linkrefid=7-->
+8. TRC, AVS, Bernice Jacks, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3971.<!--linkrefid=8-->
+9. TRC, AVS, Marthe Basile-Coocoo, Statement to the Truth and Reconciliation Commission of Canada (translated from French), Montréal, Québec, 26 April 2013, Statement Number: 2011-6103.<!--linkrefid=9-->
+10. TRC, AVS, Pauline St-Onge, Statement to the Truth and Reconciliation Commission of Canada (translated from French), Montréal, Québec, 25 April 2013, Statement Number: 2011-6134.<!--linkrefid=10-->
+11. TRC, AVS, Campbell Papequash, Statement to the Truth and Reconciliation Commission of Canada, Key First Nation, Saskatchewan, 20 January 2012, Statement Number: SP038.<!--linkrefid=11-->
+12. TRC, AVS, Roy Denny, Statement to the Truth and Reconciliation Commission of Canada, Eskasoni First Nation, Nova Scotia, 14 October 2011, Statement Number: 2011-2678.<!--linkrefid=12-->
+13. TRC, AVS, Calvin Myerion, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-122.<!--linkrefid=13-->
+14. TRC, AVS, Archie Hyacinthe, Statement to the Truth and Reconciliation Commission of Canada, Kenora, Ontario, 15 March 2011, Statement Number: 2011-0279.<!--linkrefid=14-->
+15. TRC, AVS, Margo Wylde, Statement to the Truth and Reconciliation Commission of Canada, Vald’Or, Québec, 5 February 2012, Statement Number: SP100.<!--linkrefid=15-->
+16. TRC, AVS, Murray Crowe, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0306.<!--linkrefid=16-->
+17. TRC, AVS, Wilbur Abrahams, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3301.<!--linkrefid=17-->
+18. TRC, AVS, Martin Nicholas, Statement to the Truth and Reconciliation Commission of Canada, Grand Rapids, Manitoba, 24 February 2010, Statement Number: 07-MB-24FB10-001.<!--linkrefid=18-->
+19. TRC, AVS, Lorna Morgan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-041.<!--linkrefid=19-->
+20. TRC, AVS, Gilles Petiquay, Statement to the Truth and Reconciliation Commission of Canada translated from French), La Tuque, Québec, 6 March 2013, Statement Number: 2011-6001.<!--linkrefid=20-->
+21. TRC, AVS, Wilbur Abrahams, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3301.<!--linkrefid=21-->
+22. TRC, AVS, Peter Ross, Statement to the Truth and Reconciliation Commission of Canada, Tsiigehtchic, Northwest Territories, 8 September 2011, Statement Number: 2011-0340.<!--linkrefid=22-->
+23. TRC, AVS, Daniel Nanooch, Statement to the Truth and Reconciliation Commission of Canada, High Level, Alberta, 4 July 2013, Statement Number: 2011-1868.<!--linkrefid=23-->
+24. TRC, AVS, Bernice Jacks, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3971.<!--linkrefid=24-->
+25. TRC, AVS, Helen Kakekayash, Statement to the Truth and Reconciliation Commission of Canada, Ottawa, Ontario, 5 February 2011, Statement Number: 01-ON-05FE11-002.<!--linkrefid=25-->
+26. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510.<!--linkrefid=26-->
+27. TRC, AVS, Julianna Alexander, Statement to the Truth and Reconciliation Commission of Canada, Enderby, British Columbia, 12 October 2011, Statement Number: 2011-3286.<!--linkrefid=27-->
+28. TRC, AVS, William Herney, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 29 October 2011, Statement Number: 2011-2923.<!--linkrefid=28-->
+29. TRC, AVS, Raymond Cutknife, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.<!--linkrefid=29-->
+30. TRC, AVS, Timothy Henderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 28 June 2011, Statement Number: 2011-0291.<!--linkrefid=30-->
+31. TRC, AVS, Shirley Waskewitch, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 24 June 2012, Statement Number: 2011-3521.<!--linkrefid=31-->
+32. TRC, AVS, Patrick Bruyere, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-157.<!--linkrefid=32-->
+33. TRC, AVS, Ernest Barkman, Statement to the Truth and Reconciliation Commission of Canada, Garden Hill First Nation, Manitoba, 30 March 2011, Statement Number: 2011-0123. (Translated from Oji-Cree to English by Translation Bureau, Public Works and Government Services Canada, 8956124.)<!--linkrefid=33-->
+34. TRC, AVS, Paul Dixon, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 6 February 2012, Statement Number: SP101.<!--linkrefid=34-->
+35. TRC, AVS, Betsy Annahatak, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 28 October 2011, Statement Number: 2011-2896.<!--linkrefid=35-->
+36. TRC, AVS, Rick Gilbert, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: 2011-2389.<!--linkrefid=36-->
+37. TRC, AVS, Nick Sibbeston, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.<!--linkrefid=37-->
+38. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Prince Albert, Saskatchewan, 1 February 2012, Statement Number: 2011-3879. (Translated from Woodland Cree to English by Translation Bureau, Public Works and Government Services Canada, 8956130.)<!--linkrefid=38-->
+39. TRC, AVS, Jack Anawak, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.<!--linkrefid=39-->
+40. TRC, AVS, Lydia Ross, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-029.<!--linkrefid=40-->
+41. TRC, AVS, Stephen Kakfwi, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.<!--linkrefid=41-->
+42. TRC, AVS, Victoria McIntosh, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-123.<!--linkrefid=42-->
+43. TRC, AVS, Shirley Flowers, Statement to the Truth and Reconciliation Commission of Canada, Goose Bay, Newfoundland and Labrador, 20 September 2011, Statement Number: SP025.<!--linkrefid=43-->
+44. Howe, *Empire*, 21–22.<!--linkrefid=44-->
+45. Howe, *Empire*, 57.<!--linkrefid=45-->
+46. For East Africa, see: Thiong’o, *Dreams in a Time of War*. For Australia, see: Australia, “‘Bringing Them Home,’ National Inquiry,” www.humanrights.gov.au/sites/default/files/content/pdf/social_justice/bringing_them_home_report.pdf [25]. For Siberia, see: Bartels and Bartels, *When the North Was Red*, 12; Bloch, *Red Ties*, 38.<!--linkrefid=46-->
+47. Diffie and Winnius, *Foundations*, 78–83; Pagden, *Peoples and Empires*, 56.<!--linkrefid=47-->
+48. Howe, *Empire*, 62–63.<!--linkrefid=48-->
+49. Hobsbawm, *On Empire*, 67.<!--linkrefid=49-->
+50. Wood, *Empire of Capital*, 74–87.<!--linkrefid=50-->
+51. Wolfe, “Settler Colonialism,” 388.<!--linkrefid=51-->
+52. Wolfe, “Settler Colonialism,” 388, 391, 399.<!--linkrefid=52-->
+53. Address of C. C. Painter to the 1886 Lake Mohonk Conference, “Proceedings of the Lake Mohonk Conference,” in *Eighteenth Annual Report of the Board of Indian Commissioners, 1886*, 61–62.<!--linkrefid=53-->
+54. Howe, *Empire*, 80–81.<!--linkrefid=54-->
+55. Howe, *Empire*, 62.<!--linkrefid=55-->
+56. Wood, *Empire of Capital*, 40–41.<!--linkrefid=56-->
+57. For examples, see: Diffie and Winius, *Foundations*, 65–66, 94–95; Pagden, *Peoples and Empires*, 54; Williams, *American Indian*, 72–73.<!--linkrefid=57-->
+58. Elliott, *Empires of the Atlantic*, 11, 23; Pagden, *Spanish Imperialism*, 14.<!--linkrefid=58-->
+59. Pagden, *Lords of All the World*, 47.<!--linkrefid=59-->
+60. Elliott, *Empires of the Atlantic*, 11–12; Frichner, “Preliminary Study,” 11; Seed, *Ceremonies of Posses-* *sion*, 17–18.<!--linkrefid=60-->
+61. H. Verelst, “Some Observations on the Right of the Crown of Great Britain to the North West Continent of America,” PRC co 5/283, f. 5, quoted in Armitage, *Ideological Origins*, 192.<!--linkrefid=61-->
+62. Banner, “Why Terra Nullius,” 95. The court case is referred to as *Mabo v. Queensland (No. 2).*<!--linkrefid=62-->
+63. Wood, *Origin of Capitalism*, 111.<!--linkrefid=63-->
+64. Howe, *Empire*, 86–87.<!--linkrefid=64-->
+65. Speech quoted in: *Archibald Philip Primrose* (*5th earl of Rosebery*) ... *Australian speechlets*, *1883–84* *[by A. P. Primrose*], http://books.google.ca/books?id=CncIAAAAQAAJ&printsec=frontcover&dq=Australian+speechlets,+1883-84+by+A.P.+Primrose.].&hl=en&sa=X&ei=zN2IUuGdMOTA2g-W0vIHYDA&ved=0CDkQ6AEwAA#v=onepage&q=Australian%20speechlets%2C%201883-84%20[by%20A.P.%20Primrose.].&f=false (accessed 17 November 2013).<!--linkrefid=65-->
+66. Canada, *Annual Report of the Department of Indian Affairs, 1884,* 154.<!--linkrefid=66-->
+67. Usher, *William Duncan*, 41. See also: Choquette, *Oblate Assault*; Huel, *Proclaiming the Gospel*; Hyam, *Britain’s Imperial Century*.<!--linkrefid=67-->
+68. Howe, *Empire*, 85.<!--linkrefid=68-->
+69. Howe, *Empire*, 90; Perry, “Metropolitan Knowledge,” 109–111.<!--linkrefid=69-->
+70. Huel, *Proclaiming the Gospel*, 1–6; Choquette, *Oblate Assault*, 1–20; Choquette, *Canada’s Religions*, 173–176.<!--linkrefid=70-->
+71. For example, see: Usher, *William Duncan*, 8, 11.<!--linkrefid=71-->
+72. Moorhouse, *Missionaries*, 274.<!--linkrefid=72-->
+73. Moorhouse, *Missionaries*, 33; Rompkey, *Story of Labrador*, 34, 36–39.<!--linkrefid=73-->
+74. For Canada, see, for example: McMillan and Yellowhorn, *First Peoples*. For a global perspective, see: Coates, *A Global History*.<!--linkrefid=74-->
+75. Jaenen, “Education for Francization,” 54–55; Trudel, *Beginnings of New France*, 134–135.<!--linkrefid=75-->
+76. Jaenen, *Friend and Foe Aspects*, 96, 163, 166.<!--linkrefid=76-->
+77. Magnuson, *Education in New France*, 47–50; Trudel, *Beginnings of New France*, 231; Axtell, *Inva-* *sion Within*, 56–58; Jaenen, “Education for Francization,” 56; Jaenen, *Friend and Foe Aspects*, 95, 168.<!--linkrefid=77-->
+78. Hamilton, *Federal Indian Day Schools*, 4–5; Fingard, “New England Company,” 30–32.<!--linkrefid=78-->
+79. Stevenson, “Red River Indian Mission School,” 141.<!--linkrefid=79-->
+80. Graham, *Mush Hole*, 7.<!--linkrefid=80-->
+81. TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, “Mohawk Institute May Close after 139 Years,” no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London,  ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970. [TAY-003053-0001]<!--linkrefid=81-->
+82. Ryerson, “Report on Industrial Schools,” 76.<!--linkrefid=82-->
+83. Ryerson, “Report on Industrial Schools,” 73.<!--linkrefid=83-->
+84. *Report of the Special Commissioners 1858*, n.p.<!--linkrefid=84-->
+85. TRC, NRA, Library and Archives Canada, RG10, volume 6210, file 468-10, part 5, Samuel Devlin to Indian Affairs, 20 May 1946. [MER-003806-0001]<!--linkrefid=85-->
+86. Gresko, “Paul Durieu,” http://www.biographi.ca/en/bio/durieu_paul_12E.html (accessed 31 August 2014). McNally gives the opening as 1862: McNally, *Lord’s Distant Vineyard*, 67.<!--linkrefid=86-->
+87. McCarthy, *From the Great River*, 160; Carney, “Grey Nuns and Children,” 291; Duchaussois, *Grey* *Nuns*, 148.<!--linkrefid=87-->
+88. Miller, *Compact, Contract, Covenant*, 156; Davin, *Report on Industrial Schools*, 10. Population figures for this period are only estimates. James Miller cites 12,000 mixed-blood people in 1870, and, in his 1879 report, Nicholas Flood Davin stated that 28,000 people were under Treaty. Miller, *Compact, Contract, Covenant*, 199; Davin, *Report on Industrial Schools*, 10.<!--linkrefid=88-->
+89. Great Britain, *Rupert’s Land and North-Western Territory Order* (Schedule A), 23 June 1870, http:// www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t32.html.<!--linkrefid=89-->
+90. Getty and Lussier, *Long as the Sun Shines*, 35.<!--linkrefid=90-->
+91. Banner, *How Indians Lost Their Land*, 85.<!--linkrefid=91-->
+92. Tobias, “Protection, Civilization, Assimilation,” 128.<!--linkrefid=92-->
+93. Miller, *Compact, Contract, Covenant*, 156.<!--linkrefid=93-->
+94. Miller, *Compact, Contract, Covenant*, 154.<!--linkrefid=94-->
+95. Friesen, “Magnificent Gifts,” 205, 212.<!--linkrefid=95-->
+96. Erasmus, *Buffalo Days*, 250.<!--linkrefid=96-->
+97. Ray, *Illustrated History*, 212; Taylor, “Canada’s Northwest Indian Policy,” 3.<!--linkrefid=97-->
+98. Sprague, *Canada’s Treaties with Aboriginal People*, 13.<!--linkrefid=98-->
+99. For an example of a request for a day school on a reserve, see: McCullough, “Peyasiw-awasis,” http://www.biographi.ca/en/bio/peyasiw_awasis_15E.html (accessed 6 June 2014).<!--linkrefid=99-->
+100. Miller, *Compact, Contract, Covenant*, 164–165.<!--linkrefid=100-->
+101. Morris, *Treaties of Canada*, 202.<!--linkrefid=101-->
+102. In Canada, the *Indian Act* had been preceded by the 1868 *Act to provide for the organization of* *the Department of the Secretary of State of Canada and for the Administration of the Affairs of the* *Indians,* and the 1869 *An Act for the gradual enfranchisement of Indians*.<!--linkrefid=102-->
+103. *An Act to amend and consolidate the laws respecting Indians*, Statutes of Canada 1876, chapter 18.<!--linkrefid=103-->
+104. Miller, *Skyscrapers Hide the Heavens*, 255.<!--linkrefid=104-->
+105. Library and Archives Canada, RG10, volume 6810, file 470-2-3, volume 7, Evidence of D. C. Scott to the Special Committee of the House of Commons Investigating the Indian Act amendments of 1920, (L-2)(N-3).<!--linkrefid=105-->
+106. For the banning of the Potlatch, see: LaViolette, Struggle for Survival, 41–42; Cole and Chaikin, *Iron* *Hand*, 16–17, 95. For the banning of the Thirst Dance, see: Pettipas, *Severing the Ties*, 53–54, 95–96.<!--linkrefid=106-->
+107. For examples, see: LaViolette, *Struggle for Survival*, 41–42; Cole and Chaikin, *Iron Hand*, 16–17, 95; TRC, NRA, Library and Archives Canada, RG10, volume 3825, file 60511-1, J. Hugonard to Indian Commissioner, 23 November 1903. [RCA-011007-0001]<!--linkrefid=107-->
+108. Canada, Sessional Papers 1885, number 116. F., 95–96, J. S. Dennis to Sir John A. Macdonald, 20 December 1878.<!--linkrefid=108-->
+109. Davin, *Report on Industrial Schools*, 14.<!--linkrefid=109-->
+110. Driver, “Discipline Without Frontiers?,” 282.<!--linkrefid=110-->
+111. Parker, *Uprooted*, 190.<!--linkrefid=111-->
+112. Sutherland, *Children in English-Canadian Society*, 100.<!--linkrefid=112-->
+113. Sutherland, *Children in English-Canadian Society*, 138.<!--linkrefid=113-->
+114. Fear-Segal, *White Man’s Club*, 186; Standing Bear, *My People the Sioux*, 123–133.<!--linkrefid=114-->
+115. Canada, *Annual Report of the Department of Indian Affairs, 1884* (for High River, 76; for Battleford, 154; for Qu’Appelle, 161).<!--linkrefid=115-->
+116. Canada, House of Commons Debates (22 May 1883), 1376.<!--linkrefid=116-->
+117. Library and Archives Canada, RG10, volume 3647, file 8128, Andsell Macrae, 18 December 1886.<!--linkrefid=117-->
+118. Canada, *Annual Report of the Department of Indian Affairs, 1910*, 273.<!--linkrefid=118-->
+119. Canada, *Annual Report of the Department of Indian Affairs, 1883*, 104.<!--linkrefid=119-->
+120. Library and Archives Canada, RG10, volume 3924, file 116823, L. Vankoughnet to Sir John A. Macdonald, 15 March 1886.<!--linkrefid=120-->
+121. TRC, NRA, Library and Archives Canada, RG10, volume 6001, file 1-1-1, part 1, Privy Council Order Number 1278, 7 June 1888; [PLD-007312] Library and Archives Canada, RG10, volume 3819, file 58418, J. Hugonnard to Hayter Reed, 11 May 1889; [PLD-009475] Library and Archives Canada, RG10, volume 3675, file 11422-4, J. Hugonnard to E. Dewdney, 5 May 1891. [PLD-009435]<!--linkrefid=121-->
+122. TRC, NRA, Library and Archives Canada, RG10, volume 3879, file 91833, Order-in-Council, 22 October 1892. [RIS-000354]<!--linkrefid=122-->
+123. For the admission of infected children, see: TRC, NRA, Library and Archives Canada, RG10, volume 4037, file 317021, T. Ferrier to the editor, 23 November 1907. [RCA-000315]<!--linkrefid=123-->
+124. For details, see: Canada, *Annual Report of the Department of Indian Affairs, 1904*, xxvii–xxviii; TRC, NRA, Library and Archives Canada, MG17, B2, Class ‘G’ C.1/P.2, Church Missionary Society, “Resolutions Regarding the Administration of the North-West Canada Missions,” 7 April 1903; [PAR-003622] Blake, *Don’t you hear*; TRC, NRA, Library and Archives Canada, RG10, volume 3928, file 117004-1, “Report on Indian Missions and Schools,” Presented to the Diocesan Synod, Diocese of Calgary, J. W. Tims, August 1908; [OLD-008159] The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 5, file 68, “Report of the Synod’s Commission on Indian Affairs,” 5 December 1904; [RIS-000246] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Reverend and dear sirs, 21 March 1908; [AEMR-120155] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Frank Pedley to Norman Tucker, 26 March 1909; [AAC-090228] Archives of Saskatchewan, MacKay Papers, Frank Oliver, “Letter to S. H. Blake, 28 January, 1908,” quoted in Wasylow, “History of Battleford Industrial School,” 225–226; Anglican Church General Synod Archives, 75-103, series 2-14, Frank Oliver to A. G. G., 28 January 1908, quoted in Gull, “‘Indian Policy,’” 15; TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Letter signed by S. H. Blake, Andrew Baird, Hamilton Cassels, T. Ferrier, R. F. MacKay, 22 May 1908; [AAC-090192] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Frank Oliver, 9 April 1908; [AEMR-120157] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, “Report of the Sub-Committee of the Advisory Board On Indian Education,” n.d.; [AAC-090231] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, J. B. Magnan to D. Laird, 12 December 1902; [SBR-003409] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, Clifford Sifton to Governor General in Council, 23 December 1903; [FAR-000095] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Mr. Oliver, 30 May 1908; [120.00294] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. Hugonnard to Frank Oliver, 28 March 1908; [PLD-007334] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Superintendent General of Indian Affairs to T. Ferrier, 18 July 1908; [AEMR-016328] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Heron to Frank Oliver, 16 February 1909; [AEMR-120164] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-4, part 1, Association of Indian Workers to Frank Oliver, 19 February 1909; [AEMR-016332] TRC, NRA, Library and Archives Canada, RG10, FA 10-17, volume 6041, file 160-5, part 1, 1905–1934, Emile Legal to Frank Pedley, 20 July 1908; [AEMR-254243] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Arthur Barner to S. H. Blake, 16 February 1909. [AAC-090206]<!--linkrefid=124-->
+125. For the initial improvement, see: TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Headquarters – Compulsory Attendance of Pupils – Indian Schools, 1904–1933, Microfilm reel C-8149, FA 10-17, “Re: Per Capita Grants at Indian Residential Schools,” Russell Ferrier, 5 April 1932. [120.18050] For an example of the impact of inflation, see: TRC, NRA, Library and Archives Canada, RG10, volume 6468, file 890-1, part 1, J. Welch to D. C. Scott, 28 July 1916. [MIS-001473] For cuts in the 1930s, see: TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2.15, box 27, file 1, The Joint Delegation and Interview with the Prime Minister, 20 December 1934; [AAC-087280] TRC, NRA, Library and Archives Canada, RG10, volume 7185, file 1/25-1-7-1, part 1, Harold McGill to Church Officers, Principals of Indian Residential Schools, 22 February 1933. [AEMR-255373]<!--linkrefid=125-->
+126. TRC, NRA, Library and Archives Canada, RG10, volume 7185, file 1/25-1-7-?, part 1, R. A. Hoey to Dr. McGill, 4 November 1938. [AEMR-120432]<!--linkrefid=126-->
+127. For staffing, see: Canada, *Annual Report of the Department of Indian Affairs, 1955*, 51; Canada, *Annual Report of the Department of Indian Affairs, 1957*, 56. As an experiment in 1949, Indian Affairs had taken on responsibility for directly employing the teaching staff in schools at Shubenacadie, the Mohawk Institute, and Port Alberni. TRC, NRA, DIAND HQ, file 1/25-1-5-2, volume 1, 1952–1969, Laval Fortier to J. P. Mulvihill, 26 October 1953. [AEMR-120563] For diet, see: TRC, NRA, Library and Archives Canada, RG55, FA 55-19, volume 20784, Treasury Board Submission 559690, Req. Authority for the Recommendation and Establishment of Domestic Staff, Laval Fortier to Secretary, Treasury Board, 22 January 1960. [120.04620]<!--linkrefid=127-->
+128. TRC, NRA, Canadian Welfare Council and Caldwell 1967, 89. [AEMR-019759]<!--linkrefid=128-->
+129. TRC, NRA, Canadian Welfare Council and Caldwell 1967, 92. [AEMR-019759]<!--linkrefid=129-->
+130. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Regulations Relating to the Education of Indian Children, Ottawa: Government Printing Bureau, 1894. [AGA-001516-0000]<!--linkrefid=130-->
+131. For example, see: TRC, NRA, Library and Archives of Canada, RG10, volume 6374, file 764-10, part 1, S. H. Middleton to J. E. Pugh, 26 April 1940. [PUL-071183]<!--linkrefid=131-->
+132. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-136, volume 11466, 987/18-24, part 1, Truancy, 1952–1969, NAC, Burnaby, R. Sedgewick to Acting Deputy Superintendent General Indian Affairs, 11 October 1891; [SQU-001298-0001] RG10, volume 1575, C-14851, 1898–1899, NAC, Application for Admission, 30 November 1898. [BQL-008267-0001]<!--linkrefid=132-->
+133. TRC, NRA, Library and Archives Canada, RG10, FA 10-379, 1999-01431-6, box 405, 987/25-1-018, part 1, Indian Education – Squamish Students Residence, Fraser District, 1950–1969, NAC, Ottawa, P. Phelan to Legal Adviser, 17 November 1952; [SQU-000595] Burnaby, RG10, FA 10-136, volume 11466, 987/18-24, part 1, Truancy, 1952–1969, NAC, Burnaby, P. Phelan to W. S. Arneil, 22 November 1952. [SQU-001297] For an example of a father who successfully went to court to have his children, who had been voluntarily enrolled in a residential school, returned to him, see: Library and Archives Canada, RG10, volume 2552, file 112-220-1, Martin Benson to Deputy Superintendent General of Indian Affairs, 25 September 1903.<!--linkrefid=133-->
+134. TRC, NRA, Library and Archives Canada, RG10, volume 7184, file 1/25-1-5-7, part 1, W. M. Graham to Secretary, 19 February 1926. [NCA-014626]<!--linkrefid=134-->
+135. Canada, Annual Report of the Department of Indian Affairs, 1945, 168, 183.<!--linkrefid=135-->
+136. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, Memorandum, 13, 15 July 1897. [100.00108]<!--linkrefid=136-->
+137. For *Indian Act*, see: *An Act respecting Indians*, Statutes of Canada 1951, chapter 29, sections 113–122, 169–172. For regulations, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-5-2, volume 1, “Regulations With Respect to Teaching, Education, Inspection, and Discipline for Indian Residential Schools, Made and Established for the Superintendent General of Indian Affairs Pursuant to Paragraph (a) of Section 114 of the Indian Act,” 20 January 1953. [PAR-001203-0001]<!--linkrefid=137-->
+138. The *Public Schools Act*, Revised Statutes of Manitoba 1954, chapter 215, 923–1,114.<!--linkrefid=138-->
+139. *The Manitoba Gazette*, April 9, 1955, 509–510.<!--linkrefid=139-->
+140. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, Headquarters – Compulsory Attendance of Pupils – Indian Schools, 1904–1933, Microfilm reel C-8149, FA 10-17, Indian Agent, Hagersville to Secretary, Indian Affairs, 20 February 1922; [AEMR-255312] *An Act respecting Indians*, Statutes of Canada 1919–1920, chapter 50, section 1, amending Revised Statutes of Canada 1906, chapter 81, section 10, reproduced in Venne, *Indian Acts*, 178–179.<!--linkrefid=140-->
+141. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 1, J. K. Irwin to Indian Affairs, 22 October 1926. [GDC-006528]<!--linkrefid=141-->
+142. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 1, J. D. McLean to J. K. Irwin, 29 October 1926. [GDC-006529]<!--linkrefid=142-->
+143. TRC, NRA, DIAND HQ, file 1/25-1, volume 19, 1968, J. A. MacDonald to the Minister, 9 October 1968. [AEMR-121636]<!--linkrefid=143-->
+144. Canada, *Annual Report of the Department of Indian Affairs, 1956*, 76–77; TRC, ASAGR, Department of Northern Affairs and National Resources, *Annual Report Fiscal Year 1957–1958*, 115. [AAN-DC-452773]<!--linkrefid=144-->
+145. Canada, *Annual Report of the Department of Indian Affairs, 1931*, 60.<!--linkrefid=145-->
+146. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:2, box 55, file 6, S. Gould to D. C. Scott, Ottawa, 18 December 1931; [AAC-090271] TRC, NRA, Anglican Church of Canada, General Synod Archives, Triennial Report of the Board of Management to the Board of Missions, M.S.C.C. 07/1934, Accession GS 75-2A, Archibald [Fleming], Bishop of the Arctic, “The Arctic,” in S. Gould, General Secretary, Board of Management, M.S.C.C., “Triennial Report of the Board of Management, M.S.C.C.,” 4 July 1934, 353. [AGS-000185]<!--linkrefid=146-->
+147. TRC, NRA, Library and Archives Canada, RG10, volume 6112, file 350-10, part 1, W. L. Tyrer to Sutherland, 8 February 1934. [FGA-001100] Although no trace of the decision to award funds to the Catholic school has been found in the archives, by April 1937, the Oblates had begun submitting official Indian Affairs paperwork with regard to the student population at St. Joseph’s. See, for example: TRC, NRA, Library and Archives Canada, RG10, volume 6113, file 351-10, part 1, D. Couture, “Application for Admission to the Ste. Theresa Fort George Catholic Residential School for Louise Jolly,” 1 April 1937. [FTG-003180-0000]<!--linkrefid=147-->
+148. For the Carcross, Yukon, fire, see: Canada, *Annual Report of the Department of Indian Affairs, 1940*, 186. For the Ahousaht, British Columbia, fire, see: Canada, *Annual Report of the Department of Indian Affairs, 1940*, 186. For the Alberni, British Columbia, fire, see: Canada, *Annual Report of the Department of Indian Affairs, 1941*, 166. For the File Hills, Saskatchewan, fire, see: TRC, NRA, Library and Archives Canada, volume 6303, file 653-5, part 6, E. S. Jones to The Secretary, Indian Affairs Branch, Department of Mines and Resources, 10 April 1943; [FHR-000252] Canada, *Annual Report of the Department of Indian Affairs, 1942*, 136. For the Fort George, Québec (the Anglican school), fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6112, file 350-5, part 1, Thomas Orford to Secretary, Indian Affairs, 3 February 1943. [FGA-001026] For the Onion Lake, Saskatchewan (the Anglican school), fire, see: Canada, *Annual Report of the Department of Indian Affairs, 1944*, 155. For the Wabasca, Alberta, fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6378, file 767-5, part 3, H. A. Alderwood to R. A. Hoey, 3 January 1945; [JON-003675] Canada, Annual Report of the Department of Indian Affairs, *1945*, 169. For the Norway House, Manitoba, fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6268, file 581-1, part 2, R. A. Hoey to Acting Deputy Minister, 29 May 1946. [NHU-000117] For the Lac La Ronge, Saskatchewan, fire, see: TRC, NRA, Provincial Archives of Alberta, Anglican Diocese of Athabasca Fonds, Edmonton, AB, Acc. PR1970.0387/1641, box 41, Anglican Diocese of Athabasca Fonds, file A320/572, Indian Schools – General, Official Correspondence of Bishop Sovereign, 1941–1947, Report of Fire at All Saints’ School, Lac la Ronge, Sask., 2 February 1947. [PAR-123539] For the Delmas, Saskatchewan, fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 671/25-1-010, J. P. B. Ostrander to Indian Affairs Branch, 19 January 1948. [THR-000266-0001]<!--linkrefid=148-->
+149. See, for example: TRC, NRA, Library and Archives Canada, RG85, volume 229, file 630/158-9, part 1, Government Hostel – Chesterfield Inlet, 1929–1953, Extracts from S. J. Bailey’s Report, Eastern Arctic Patrol, 27 July 1948. [CIU-000189]<!--linkrefid=149-->
+150. See, for example: Davin, *Report on Industrial Schools*, 9.<!--linkrefid=150-->
+151. For an example of Métis children at a church-run boarding school, see: Erickson, “‘Bury Our Sorrows in the Sacred Heart,’” 34–35.<!--linkrefid=151-->
+152. For an example of the Métis being viewed as ‘dangerous,’ see: Library and Archives Canada, RG10, volume 6031, “Extract from a letter dated the 19th July, 1899, from the Rev. Father Hugonard.”<!--linkrefid=152-->
+153. For an example, see: TRC, NRA, Library and Archives Canada, R776-0-5 (RG55), volume 562, T.B. #252440, Clifford Sifton to Mr. Smart, 18 October 1899. [NPC-523981c]<!--linkrefid=153-->
+154. For an early example of this view, see: Canada, Sessional Papers 1885, number 116, 81, Memo: Hugh Richardson, 1 December 1879.<!--linkrefid=154-->
+155. For an example, see: Library and Archives Canada, RG10, volume 6323, file 658-10, part 3, W. M. Graham to the Secretary of the Department of Indian Affairs, 5 December 1929.<!--linkrefid=155-->
+156. For example, it was estimated in 1936 that 80% of Métis children in Alberta received no education. Chartrand, “Métis Residential School Participation,” 41.<!--linkrefid=156-->
+157. Quiring, *CCF Colonialism in Northern Saskatchewan*; Barron, *Walking in Indian Moccasins*.<!--linkrefid=157-->
+158. For detailed treatment of the issue, see: Chartrand, Logan, and Daniels, *Métis History and Experience*.<!--linkrefid=158-->
+159. For examples, see: TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, volume 2, file 600-1, locator #062-94, Education of Eskimos (1949–1957), Department of Northern Affairs and National Resources to Northern Administration and Lands Branch, 8 April 1958; [NCA-016925] TRC, NRA, Library and Archives Canada – Ottawa, RG85, volume 1506, file 600-1-1, part 2A, J. G. Wright to Mr. Gibson, 19 November 1946. [NCA-005728]<!--linkrefid=159-->
+160. For a 1940 assessment of building conditions, see: TRC, NRA, Library and Archives Canada, RG10, volume 6012, file 1-1-5A, part 2, R. A. Hoey to Dr. McGill, 31 May 1940. [BIR-000248]<!--linkrefid=160-->
+161. Canada, Special Joint Committee, 1946, 3, 15.<!--linkrefid=161-->
+162. Canada, *Annual Report of the Department of Indian Affairs, 1945*, 168, 183; Canada, *Annual Report* *of the Department of Indian Affairs, 1955*, 70, 76–78.<!--linkrefid=162-->
+163. Canada, *Annual Report of the Department of Indian Affairs, 1949*, 199.<!--linkrefid=163-->
+164. *An Act respecting Indians*, Statutes of Canada 1951, chapter 29, section 113, reproduced in Venne, *Indian Acts*, 350.<!--linkrefid=164-->
+165. Canada, *Annual Report of the Department of Indian Affairs, 1961*, 57.<!--linkrefid=165-->
+166. Canada, *Annual Report of the Department of Indian Affairs, 1961*, 63.<!--linkrefid=166-->
+167. See, for example: TRC, NRA, No document location, no document file source, The Canadian Catholic Conference, “A Brief to the Parliamentary Committee on Indian Affairs,” May 1960, 8. [GMA001642-0000]<!--linkrefid=167-->
+168. Newman, *Indians of the Saddle Lake Reserve*, 81–87.<!--linkrefid=168-->
+169. For a discussion that places both child welfare and residential schools in the context of the ongoing colonization of Aboriginal people, see: McKenzie and Hudson, “Native Children.”<!--linkrefid=169-->
+170. For an example of this assessment, see: TRC, NRA, Canadian Welfare Council and Caldwell 1967, \89. [AEMR-019759]<!--linkrefid=170-->
+171. For examples of the link between the closure of residential schools and the increase in children in care, see: TRC, NRA, Library and Archives Canada, RG10, box 98, Acc., 1999-01431-6, file 274/25-1010, part 1, P. L. McGillvray to Indian Affairs Branch, 17 November 1964; [NCA-010544] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 211/6-1-010, volume 6, R. F. Davey to Michael Kearney, 12 June 1967; [SRS-000175] TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, “Mohawk Institute May Close after 139 Years,” no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London, ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970; [TAY-003053-0001] TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 671/6-2-025, volume 4, Onion Lake Band Council Resolution, 31 July 1974. [ORC-008733-0002]<!--linkrefid=171-->
+172. McKenzie and Hudson, “Native Children,” 126.<!--linkrefid=172-->
+173. See, for example: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, RCAP [89-22], file E4974-2031, St. Mary’s Student Residence, BC Region, part 1, 1981–1989, B, Benefit to Children,” undated notes from 1982. [MIS-008062-0001]<!--linkrefid=173-->
+174. TRC, NRA, DIAND, file 1/25-13, volume 13, R. F. Battle to Deputy Minister, 2 February 1968; AEMR-014646] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 1/25-13, 01/68–07/68, volume 13, R. F. Davey to Regional Superintendent of Schools, 13 June 1968. [LOW-016591]<!--linkrefid=174-->
+175. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=175-->
+176. TRC, NRA, DIAND HQ, file 1/25-13-2, volume 2, 06/1968–03/1969, J. A. MacDonald to J. J. Carson, 8 November 1968. [AEMR-121640]<!--linkrefid=176-->
+177. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports RIMS ID# 1209, box 9, “Student Residences (Hostels),” undated. [RCN-007183]<!--linkrefid=177-->
+178. Canada, *Annual Report of the Department of Indian Affairs, 1968–1969*, 139; Canada, *Annual Report of the Department of Indian Affairs, 1970–1971*, 19.<!--linkrefid=178-->
+179. Canada, “Statement of the Government of Canada on Indian Policy,” 1969, pages 7, 8, and 22 of 24-page portable document format file.<!--linkrefid=179-->
+180. Canada, “Statement of the Government of Canada on Indian Policy,” 1969, pages 8 and 20 of 24-page portable document format file.<!--linkrefid=180-->
+181. National Indian Brotherhood, “Statement on the Proposed New Indian Policy,” Ottawa, 26 June 1969, quoted in Weaver, *Making Canadian Indian Policy*, 174.<!--linkrefid=181-->
+182. Indian Chiefs of Alberta 1970, page 16 of 95-page portable document file. [Citizens plus red paper]<!--linkrefid=182-->
+183. Weaver, *Making Canadian Indian Policy*, 187.<!--linkrefid=183-->
+184. For an example of local dissatisfaction, see: TRC, NRA, No document location, no document file source, Jos Houle to G.-M. Latour, 24 July 1966. [OGP-417032]<!--linkrefid=184-->
+185. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 779/25-2-009, volume 1 (Ctrl #55-4), Dennis Bell, “Indian School,” CP [Canadian Press], 15 September 1970. [NCA-007310-0001]<!--linkrefid=185-->
+186. “Indians Will Operate Blue Quills School,” *Edmonton Journal*, 1 August 1970. [Blue Quills clippings.pdf]<!--linkrefid=186-->
+187. TRC, NRA, Library and Archives Canada – Burnaby, file 951/6-1-030, volume 9, New Christie Student Residence, 1974–1977, FA 10-138, Archival Acc. V1985-86/397, Archival box 2, R. C. Telford to L. E. Wight, 6 May 1974; [CST-001710-0000] INAC – Main Records Office – Ottawa 901/16-2, volume 5, Audit Reports – B.C. Regional Office, 07/1974–06/1978, locator #L362, DIAND – Ottawa Central Registry, [illegible] for R. C. Pankhurst to Director, Finance and Management, 29 January 1975. [CST-009455]<!--linkrefid=187-->
+188. All these schools were in Saskatchewan. The Beauval school closed in 1995, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4965-2013, volume 3, Beauval Residential School, box 1, file 1-5, Memorandum of Understanding and Agreement Re: The Beauval Indian Education Centre, 6 June 1995. [BVL-001306] The Duck Lake and the Gordon’s residences both closed in 1996, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-10474, volume 2, Ray Gamracy to Dana Commercial Credit Canada, 6 June 1996; [SMD-000651-0000] Gordon’s School, Anglican Indian and Eskimo Residential Schools, Anglican Church of Canada, www.anglican.ca/relationships/histories/gordons-school-punnichy (accessed 5 May 2014). The Lestock, Marieval, and Prince Albert residences all closed in 1997, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, Muskowekwan Residential School, box 67, file 1, Muskowekwan Education Centre Board of Directors, Minutes 16 July 1997; [MDD-007310-0001] INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4971-361, volume 3, Myler Savill to Lionel Sparvier, 21 July 1997; [MRS-000002-0001] INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-1355, volume 8, “Education Centre Set to Re-open,” *Prince Albert Herald*, Carrie Hunter, 15 October 1997 [PAR-003103-0001]<!--linkrefid=188-->
+189. Canada, *Annual Report of the Department of Indian Affairs, 1984–1985*, 54.<!--linkrefid=189-->
+190. Thompson, “Dehcho Hall to Close its Doors,” *Northern News Services online*, 26 January 2009, http://www.nnsl.com/frames/newspapers/2009-01/jan26_09h.html.<!--linkrefid=190-->
+191. TRC, NRA, No document location, no document file source, B. Pusharenko, Inuvik, NWT, “Demolition of Former Residential School Called for to Put Bad Memories to Rest,” *Edmonton Journal*, 13 August 1998. [GNN-000298-0026]<!--linkrefid=191-->
+192. TRC, NRA, Library and Archives Canada, RG10, volume 6040, file 160-4, part 1, R. B. Heron to Regina Presbytery, April 1923. [AEMR-016371]<!--linkrefid=192-->
+193. Canada, *Annual Report of the Department of Indian Affairs, 1941*, 189; Canada, *Annual Report of the Department of Indian Affairs, 1942*, 154; Canada, *Annual Report of the Department of Indian Affairs, 1943*, 168; Canada, *Annual Report of the Department of Indian Affairs, 1944*, 177; Canada, *Annual Report of the Department of Indian Affairs, 1945*, 190; Canada, *Annual Report of the Department of Indian Affairs, 1946*, 231; Canada, *Annual Report of the Department of Indian Affairs, 1947*, 236; Canada, *Annual Report of the Department of Indian Affairs, 1948*, 234; Canada, *Annual Report of the Department of Indian Affairs, 1949*, 215, 234; Canada, *Annual Report of the Department of Indian Affairs, 1950*, 86–87; Canada, *Annual Report of the Department of Indian Affairs, 1951*, 34–35; Canada, *Annual Report of the Department of Indian Affairs, 1952*, 74–75; Canada, *Annual Report of the Department of Indian Affairs, 1953*, 82–83; Canada, *Annual Report of the Department of Indian Affairs, 1954*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1955*, 78–79; Canada, *Annual Report of the Department of Indian Affairs, 1956*, 76–77; Canada, *Annual Report of the Department of Indian Affairs, 1956–57*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1958*, 90–91; Canada, *Annual Report of the Department of Indian Affairs, 1959*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1960*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1961*, 103.<!--linkrefid=193-->
+194. Canada, *Annual Report of the Department of Indian Affairs, 1942*, 154; Canada, *Annual Report of the Department of Indian Affairs, 1943*, 168; Canada, *Annual Report of the Department of Indian Affairs, 1944*, 177; Canada, *Annual Report of the Department of Indian Affairs, 1945*, 190; Canada, *Annual Report of the Department of Indian Affairs, 1946*, 231; Canada, *Annual Report of the Department of Indian Affairs, 1947*, 236; Canada, *Annual Report of the Department of Indian Affairs, 1948*, 234; Canada, *Annual Report of the Department of Indian Affairs, 1949*, 215; Canada, *Annual Report of the Department of Indian Affairs, 1950*, 86–87; Canada, *Annual Report of the Department of Indian Affairs, 1951*, 34–35; Canada, *Annual Report of the Department of Indian Affairs, 1952*, 74–75; Canada, *Annual Report of the Department of Indian Affairs, 1953*, 82–83; Canada, *Annual Report of the Department of Indian Affairs, 1954*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1955*, 78–79; Canada, *Annual Report of the Department of Indian Affairs, 1956*, 76–77; Canada, *Annual Report of the Department of Indian Affairs, 1956–57*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1958*, 91; Canada, *Annual Report of the Department of Indian Affairs, 1959*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1960*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1961*, 102; Canada, *Annual Report of the Department of Indian Affairs, 1962*, 73; Canada, *Annual Report of the Department of Indian Affairs, 1963*, 62.<!--linkrefid=194-->
+195. Canada, *Annual Report of the Department of Indian Affairs, 1883*, 96.<!--linkrefid=195-->
+196. TRC, NRA, Library and Archives Canada, RG10, volume 6323, file 658-6, part 1, Department of Indian Affairs Inspector’s Report for the St. Barnabas, Indian Residential school, D. Hicks, 25 September 1928. [PAR-003233]<!--linkrefid=196-->
+197. Library and Archives Canada, RG10, volume 6205, file 468-1, part 2, S. R. McVitty to Secretary, Indian Affairs, 30 January 1928. [McVittie to Secretary, Jan 30 1928]<!--linkrefid=197-->
+198. TRC, NRA, Library and Archives Canada, RG10, volume 6342, file 750-1, part 1, Microfilm reel C-8699, J. D. McLean to Reverend E. Ruaux, 21 June 1915. [MRY-001517] For a similar report from the Battleford, Saskatchewan, school, see: Canada, *Annual Report of the Department of Indian Affairs, 1909*, 349–350. For a Manitoba example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-5, part 4, Joseph Hamilton Inspection Report, not dated. [DRS-000570]<!--linkrefid=198-->
+199. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 673/23-5-038, volume 1, H. L. Winter to Indian Affairs, 9 September 1932. [MRS-000138-0001]<!--linkrefid=199-->
+200. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. D. McLean to Rev. J. Hugonard, 30 May 1911. [PLD-007442]<!--linkrefid=200-->
+201. TRC, NRA, Library and Archives Canada, RG10, volume 6422, file 869-1, part 2, R. H. Cairns, inspector to J. D. McLean, 5 January 1915. [COQ-000390]<!--linkrefid=201-->
+202. TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 2, “Extract from Report of Mr. Inspector Cairns dated September 5th and 6th, 1928 on the Alberni Indian Residential School.” [ABR-001591]<!--linkrefid=202-->
+203. TRC, NRA, Library and Archives Canada, RG10, volume 6001, file 1-1-1, part 3, “Department of Indian Affairs, Schools Branch,” 31 March 1935. [SRS-000279]<!--linkrefid=203-->
+204. For a British Columbia example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 1, A. W. Neill to A. W. Vowell, 8 July 1909. [ABR-007011-0001] For a Manitoba example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, W. M. Graham to Secretary, Indian Affairs, 4 February 1922. [ELK-000299]<!--linkrefid=204-->
+205. For example, a 1936 United Church document on First Nations education policy stated that the staff of all United Church schools should be composed of people who had a “Christian motive,  or, in other words, a missionary purpose coupled with skill in some particular field to teach  his specialty to the Indians.” Staff members were expected to be “closely related to and actively interested in the work of the nearest United Church,” and be acquainted with, and sympathetic to, “the religious education programme of the United Church.” Having laid out these fairly specific requirements, the policy document added that “some minimum educational qualifications for staff members should be outlined.” TRC, NRA, United Church Archives, Acc. 83.050C, box 144-21, “Statement of Policy Re Indian Residential Schools,” June 1936. [UCC-050004]<!--linkrefid=205-->
+206. For an example of the link between low pay and unqualified teachers, see: TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, Memorandum, 15 July 1897, 4, 25. [100.00108]<!--linkrefid=206-->
+207. TRC, NRA, Library and Archives Canada, RG10, volume 4041, file 334503, F. H. Paget to Frank Pedley, 25 November 1908, 55. [RCA-000298]<!--linkrefid=207-->
+208. TRC, NRA, Library and Archives Canada, RG10, volume 6431, file 877-1, part 1, A. W. Vowell to Secretary, Indian Affairs, 14 July 1909. [ABR-007011-0000]<!--linkrefid=208-->
+209. Canada, *Annual Report of the Department of Indian Affairs, 1955*, 51.<!--linkrefid=209-->
+210. TRC, NRA, DIAND, file 1/25-1, volume 22, R. F. Davey to Bergevin, 15 September 1959, 3. [AEMR-019616]<!--linkrefid=210-->
+211. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 342–343. For other examples of the emphasis on religious training in the schools, see: Canada, Annual Report of the Department of Indian Affairs, 1887, 27–28; Canada, *Annual Report of the Department of Indian Affairs, 1910*, 433–434; Canada, *Annual Report of the Department of Indian Affairs, 1890*, 119; Canada, *Annual Report of the Department of Indian Affairs, 1900*, 323. Canada, *Annual Report of the Department of Indian Affairs, 1901*, 317, 320.<!--linkrefid=211-->
+212. Moine, *My Life in a Residential School*, n.p.<!--linkrefid=212-->
+213. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Tyler Bjornson File, ‘Presbyterian Research,’ “Presbyterian Indian Residential School Staff Handbook,” 1. [IRC-041206]<!--linkrefid=213-->
+214. For Kelly, see: Morley, *Roar of the Breakers*, 57, 158. For Ahenakew, see: Ahenakew, *Voices of the* Plains Cree*, 14–24. For Kennedy, see: Canada, *Annual Report of the Department of Indian Affairs, 1902*, 194. For Dion, see: Dion, *My Tribe the Crees*, 156–163. For Johnson, see: Johnston, *Buckskin & Broadcloth*, 46. For Lickers, see: “Norman Lickers First Ontario Indian Lawyer,” *Brantford Expositor*, November 18, 1938, quoted in Briggs, “Legal Professionalism,” 2.<!--linkrefid=214-->
+215. Canada, Special Joint Committee, 1947, 747.<!--linkrefid=215-->
+216. TRC, AVS, David Charleson, Statement to the Truth and Reconciliation Commission of Canada, Deroche, British Columbia, 20 January 2010, Statement Number: 2011-5043.<!--linkrefid=216-->
+217. TRC, AVS, Isabelle Whitford, Statement to the Truth and Reconciliation Commission of Canada, Keeseekoowenin First Nation, Manitoba, 28 May 2010, Statement Number: S-KFN-MB-01-004.<!--linkrefid=217-->
+218. TRC, AVS, Betsy Olson, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4378.<!--linkrefid=218-->
+219. TRC, AVS, Leona Agawa, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 6 November 2010, Statement Number: 01-ON-4-6NOV10-006.<!--linkrefid=219-->
+220. Canada, *Annual Report of the Department of Indian Affairs, 1921*, 28.<!--linkrefid=220-->
+221. TRC, NRA, Library and Archives Canada, RG10, volume 6014, file 1-1-6 MAN, part 1, Duncan Campbell Scott to Mr. Meighen, 1 June 1920. [NCA-002403]<!--linkrefid=221-->
+222. Canada, Special Joint Committee, *Minutes of Evidence*, D. F. Brown Presiding, 15 April 1947, 483–484.<!--linkrefid=222-->
+223. Canada, Special Joint Committee, *Minutes of Evidence*, D .F. Brown Presiding, 17 April 1947, 505.<!--linkrefid=223-->
+224. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, “Northern Education: Facade for Failure,” *Variables: the Journal of the Sociology Club* (University of Alberta) 2, no. 1 (February 1963): 16. [NCA-005960]<!--linkrefid=224-->
+225. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, “Northern Education: Facade for Failure.” *Variables: the Journal of the Sociology Club* (University of Alberta) 2, no. 1 (February 1963): 17. [NCA-005960]<!--linkrefid=225-->
+226. TRC, NRA, Library and Archives Canada, RG85, volume 1338, file 600-1-1, part 19, D. W. Hepburn, “Northern Education: Facade for Failure.” *Variables: the Journal of the Sociology Club* (University of Alberta) 2, no. 1 (February 1963): 18. [NCA-005960]<!--linkrefid=226-->
+227. TRC, NRA, National Archives of Canada, RG10, volume 8760, file 901/25-1, part 2, R. F. Davey to Director, 14 March 1956, 4. [AEMR-120651]<!--linkrefid=227-->
+228. See, for example: TRC, NRA, DIAND, file 1/25-1 (E.10), “Report on Textbooks,” 6–9; [AEMR-019193A] Commission Parent, *Rapport de la Commission royale d’enquête sur l’enseignement dans la province de Québec*, volume 3, *L’administration de l’enseignement*, part B, “Diversité religieuse, culturelle, et unité de l’administration,” http://classiques.uqac.ca/contemporains/ quebec_commission_parent/rapport_parent_4/rapport_parent_vol_4.pdf, paragraph 210 (accessed 7 August 2012); TRC, NRA, DIAND, file 1/25-1 (E.10), “Report on Textbooks,” 6–9; [AEMR-019193A] Vanderburgh, The Canadian Indian.<!--linkrefid=228-->
+229. TRC, NRA, DIAND, file 1/25-1 (E.10), “Report on Textbooks,” 1–6. [AEMR-019193A]<!--linkrefid=229-->
+230. TRC, AVS, Mary Courchene, Statement to the Truth and Reconciliation Commission of Canada, Pine Creek First Nation, Manitoba, 28 November 2011, Statement Number: 2011-2515.<!--linkrefid=230-->
+231. TRC, AVS, Lorna Cochrane, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.<!--linkrefid=231-->
+232. Elias, “Lillian Elias,” 51.<!--linkrefid=232-->
+233. See, for example: TRC, AVS, Victoria McIntosh, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-123.<!--linkrefid=233-->
+234. TRC, AVS, Walter Jones, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: 2011-4008.<!--linkrefid=234-->
+235. Pigott, “The Leadership Factory,” B3.<!--linkrefid=235-->
+236. Blondin-Andrew, “New Ways of Looking for Leadership,” 64.<!--linkrefid=236-->
+237. John Amagoalik, quoted in McGregor, *Inuit Education*, 110.<!--linkrefid=237-->
+238. Amagoalik, *Changing the Face of Canada*, 43–46.<!--linkrefid=238-->
+239. TRC, AVS, David Simailak, Statement to the Truth and Reconciliation Commission of Canada, Baker Lake, Nunavut, 15 November 2011, Statement Number: SP032.<!--linkrefid=239-->
+240. TRC, AVS, Roddy Soosay, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: 2011-2379.<!--linkrefid=240-->
+241. TRC, AVS, Martha Loon, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 25 November 2010, Statement Number: 01-ON-24NOV10-021.<!--linkrefid=241-->
+242. TRC, AVS, Frederick Ernest Koe, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: SC091.<!--linkrefid=242-->
+243. TRC, AVS, Madeleine Dion Stout, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-059.<!--linkrefid=243-->
+244. TRC, NRA, Library and Archives Canada, RG10, volume 6191, file 462-1, part 1, Russell T. Ferrier to George Prewer, 8 February 1922. [CRS-001015]<!--linkrefid=244-->
+245. Canada, *Annual Report of the Department of Indian Affairs, 1887*, 126.<!--linkrefid=245-->
+246. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 155.<!--linkrefid=246-->
+247. Canada, *Annual Report of the Department of Indian Affairs, 1886*, 139.<!--linkrefid=247-->
+248. Library and Archives Canada, RG10, volume 3930, file 117377-1 A, H. Reed to Bishop of Rupert’s Land, 31 May 1893.<!--linkrefid=248-->
+249. Wasylow, “History of Battleford Industrial School,” 467.<!--linkrefid=249-->
+250. Elias, “Lillian Elias,” 54–55.<!--linkrefid=250-->
+251. For laundry example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6207, file 468-5, part 6, S. R. McVitty to Secretary Indian Affairs, 3 January 1929. [MER-000751] For kitchen example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6058, file 265-13, part 1, J. P. Mackey to A. F. MacKenzie, 20 May 1930. [SRS-000252] For workshop example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6219, file 471-13, part 1, Russell T. Ferrier to J. Howitt, 13 June 1932. [AGA-000069]<!--linkrefid=251-->
+252. For an example, see: TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, A. F. MacKenzie to G. Leonard, 6 May 1936. [PLD-006119]<!--linkrefid=252-->
+253. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, A. F. MacKenzie to William Hall, 18 May 1936. [PLD-000750]<!--linkrefid=253-->
+254. TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, William Hall to Indian Affairs, 30 April 1936. [PLD-000746]<!--linkrefid=254-->
+255. TRC, NRA, Library and Archives Canada, RG10, volume 6255, file 576-1, part 4, R. T. Chapin to A. G. Hamilton, 10 September 1941. [BRS-000461-0001] For the boy’s age, see: TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 8, “Application for Admission,” Kenneth Smith, 1 July 1938. [BRS-002184-0007]<!--linkrefid=255-->
+256. TRC, NRA, Library and Archives Canada, RG10, volume 6259, file 576-23, part 1, G. C. Elwyn to RCMP, 20 April 1949. [BRS-000332]<!--linkrefid=256-->
+257. TRC, NRA, Library and Archives Canada, RG10, volume 6352, file 753-23, part 1, 1935–1944, Microfilm reel C-8709, Acting Director to J. T. Faunt, 18 December 1944. [EDM-003369]<!--linkrefid=257-->
+258. TRC, NRA, Library and Archives Canada, RG10, volume 6251, file 575-1, part 3, R. A. Hoey to A. G. Smith, 24 September 1942. [BIR-000272]<!--linkrefid=258-->
+259. For ending of half-day system, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-5-2, volume 1, Superintendent General DIAND, “Regulations with respect to teaching, education, inspection, and discipline for Indian Residential Schools, Made and Established by the Superintendent General of Indian Affairs Pursuant to Paragraph (a) of Section 114 of the Indian Act,” 20 January 1953; [PAR-001203-0001] H. M. Jones to Deputy Minister. [PAR-001203-0000]<!--linkrefid=259-->
+260. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 128/25-2-575, volume 1, J. R. Bell to R. D. Ragan, 17 February 1959. [IRC-041312]<!--linkrefid=260-->
+261. TRC, NRA, Library and Archives Canada, RG10, volume 3674, file 11422, E. Dewdney to Thomas Clarke, 31 July 1883. [120.06668]<!--linkrefid=261-->
+262. TRC, NRA, Library and Archives Canada, RG10, volume 6452, file 884-1, part 1, Microfilm reel 8773, “Rules and Regulations, Kootenay Industrial School.” [AEMR-011621A]<!--linkrefid=262-->
+263. Library and Archives Canada, RG10, volume 3836, file 68557, H. Reed, Suggestions for the Government of Indian schools, 27 January 1890.<!--linkrefid=263-->
+264. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 248–249.<!--linkrefid=264-->
+265. Canada, *Annual Report of the Department of Indian Affairs, 1887*, 128.<!--linkrefid=265-->
+266. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 345.<!--linkrefid=266-->
+267. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 355.<!--linkrefid=267-->
+268. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 302.<!--linkrefid=268-->
+269. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 457.<!--linkrefid=269-->
+270. TRC, NRA, St. Paul’s Archives, Acts of Canonical Visitation, 1883–1966, Stacks 2L, Acte Général de Visite des Missions Indiennes du Nord-Ouest Canadien par le T.R.P. Théodore Labouré, O.M.I., Supérieur Géneral, Rome Maison Générale, 45. [OMI-034614]<!--linkrefid=270-->
+271. Wasylow, “History of Battleford Industrial School,” 449.<!--linkrefid=271-->
+272. Moran, *Stoney Creek Woman*, 58.<!--linkrefid=272-->
+273. Callahan, “On Our Way to Healing,” 68.<!--linkrefid=273-->
+274. Graham, *Mush Hole*, 368.<!--linkrefid=274-->
+275. Provincial Archives of British Columbia, Transcript Disc #182, Mary Englund, interviewed by Margaret Whitehead, 31 July 1980, PABC No. 3868.<!--linkrefid=275-->
+276. Graham, *Mush Hole*, 449.<!--linkrefid=276-->
+277. TRC, AVS, Arthur Ron McKay, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-044.<!--linkrefid=277-->
+278. TRC, AVS, Peter Nakogee, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-4-6NOV10-023. (Translated from Swampy Cree to English by Translation Bureau, Public Works and Government Services Canada, 8961944_002.)<!--linkrefid=278-->
+279. TRC, AVS, Meeka Alivaktuk (translated from Inuktitut), Statement to the Truth and Reconciliation Commission of Canada, Pangnirtung, Nunavut, 13 February 2012, Statement Number: SP045.<!--linkrefid=279-->
+280. TRC, AVS, Sam Kautainuk (translated from Inuktitut), Statement to the Truth and Reconciliation Commission of Canada, Pond Inlet, Nunavut, 7 February 2012, Statement Number: SP044.<!--linkrefid=280-->
+281. TRC, AVS, Greg Rainville, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-1752.<!--linkrefid=281-->
+282. TRC, AVS, William Herney, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 29 October 2011, Statement Number: 2011-2923.<!--linkrefid=282-->
+283. TRC, AVS, Alphonsine McNeely, Statement to the Truth and Reconciliation Commission of Canada, Fort Good Hope, Northwest Territories, 13 July 2010, Statement Number: 01-NWT-JY10-002.<!--linkrefid=283-->
+284. TRC, AVS, Pierrette Benjamin, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 6 March 2013, Statement Number: SP105.<!--linkrefid=284-->
+285. TRC, AVS, John Kistabish (translated from French), Statement to the Truth and Reconciliation Commission of Canada, Montréal, Québec, 26 April 2013, Statement Number: 2011-6135.<!--linkrefid=285-->
+286. Snow, *These Mountains Are Our Sacred Places*, 110.<!--linkrefid=286-->
+287. TRC, AVS, Andrew Bull Calf, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 10 October 2013, Statement Number: 2011-0273.<!--linkrefid=287-->
+288. TRC, AVS, Evelyn Kelman, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 10 October 2013, Statement Number: SP128.<!--linkrefid=288-->
+289. TRC, AVS, Marilyn Buffalo, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.<!--linkrefid=289-->
+290. TRC, AVS, Sarah McLeod, Statement to the Truth and Reconciliation Commission of Canada, Kamloops, British Columbia, 8 August 2009, Statement Number: 2011-5009.<!--linkrefid=290-->
+291. TRC, NRA, Library and Archives Canada, RG10, volume 7936, file 32-104, J. W. House to G. H. Gooderham, 26 January 1942. [OLD-004156-0001]<!--linkrefid=291-->
+292. TRC, NRA, Library and Archives Canada, 875-1, part 4, volume 6426, 1937–1947, NAC, F. E. Anfield to Ex-Pupils & Graduates of the Kwawkewlth Agency, 6 April 1943. [MIK-002742-0001]<!--linkrefid=292-->
+293. Thaddee Andre (translated from French), Statement to the Truth and Reconciliation Commission of Canada, Montréal, Québec, 25 April 2013, Statement Number: 2011-6068.<!--linkrefid=293-->
+294. See, for example, the brief that the Canadian Catholic Conference submitted to the Joint Committee of the Senate and House of Commons on Indian Affairs in 1960. TRC, NRA, No document source, no document location, “CCC Brief on Indian Welfare and Education,” *Indian Record*, June 1960, 3. [BVT-001818]<!--linkrefid=294-->
+295. TRC, AVS, Alex Alikashuak, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-137.<!--linkrefid=295-->
+296. Canadian Welfare Council, *Indian Residential Schools*, 100.<!--linkrefid=296-->
+297. TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B56 2429, J. Weitz, “Report on the use of the language, history and customs of the Blood Indians in the classes of Level I, during the school year 1968–69,” 30 June 1969. [OGP-023347]<!--linkrefid=297-->
+298. For an example from British Columbia, see: TRC, NRA, No document location, no document file source, 958/25-13, volume 3, J. A. Andrews to R. F. Davey, 28 June 1966. [ABR-000402]<!--linkrefid=298-->
+299. Canada, *Annual Report of the Department of Indian Affairs, 1974–1975*, 32–33.<!--linkrefid=299-->
+300. TRC, AVS, Rose Dorothy Charlie, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 27 May 2011, Statement Number: 2011-1134.<!--linkrefid=300-->
+301. TRC, AVS, Joline Huskey, Statement to the Truth and Reconciliation Commission of Canada, Behchoko, Northwest Territories, 15 April 2011, Statement Number: 2011-0231.<!--linkrefid=301-->
+302. TRC, AVS, Bruce R. Dumont, Statement to the Truth and Reconciliation Commission of Canada, Batoche, Saskatchewan, 23 July 2010, Statement Number: 01-SK-18-25JY10-013.<!--linkrefid=302-->
+303. Canada, House of Commons Debates (22 May 1888), 1681.<!--linkrefid=303-->
+304. Library and Archives Canada, RG10, volume 6816, file 486-2-5, part 1, H. Reed to J. Hugonnard, 13 June 1890.<!--linkrefid=304-->
+305. Canada, *Annual Report of the Department of Indian Affairs, 1896*, xxxviii.<!--linkrefid=305-->
+306. See, for examples: Canada, *Annual Report of the Department of Indian Affairs, 1894*, 151; Canada, Annual Report of the Department of Indian Affairs, 1894*, 193–194; Canada, *Annual Report of the Department of Indian Affairs, 1897*, 284.<!--linkrefid=306-->
+307. TRC, NRA, Library and Archives Canada, RG10, volume 1347, Microfilm reel C-13916, P. Claessen to W. R. Robertson, 17 August 1909. [KUP-004235]<!--linkrefid=307-->
+308. Canada, *Annual Report of the Department of Indian Affairs, 1909*, 420.<!--linkrefid=308-->
+309. Library and Archives Canada, RG10, volume 3881, file 934189, M. Begg to A. Forget, 23 February 1895.<!--linkrefid=309-->
+310. TRC, NRA, Library and Archives Canada, RG10, volume 6318, file 657-1, part 1, A. E. Forget to Indian Agent, Touchwood Hills, 31 January 1896. [MDD-000851]<!--linkrefid=310-->
+311. TRC, NRA, Library and Archives Canada, RG10, volume 6326, file 659-10, part 1, J. E. Pratt to Philip Phelan, 15 June 1936. [ORC-006021]<!--linkrefid=311-->
+312. Library and Archives Canada, RG10, volume 6816, file 486-2-5, part 1, Extract Presbytery of Winnipeg, Committee on Indian Work, R. J. MacPherson, 9 September 1922.<!--linkrefid=312-->
+313. Montour, *Brown Tom’s School Days*, 26.<!--linkrefid=313-->
+314. Brass, *I Walk in Two Worlds*, 25.<!--linkrefid=314-->
+315. Brass, *I Walk in Two Worlds*, 25–26.<!--linkrefid=315-->
+316. Moran, *Stoney Creek Woman*, 53–54.<!--linkrefid=316-->
+317. Quoted in Krech, “Nutritional Evaluation,” 186.<!--linkrefid=317-->
+318. Quoted in Krech, “Nutritional Evaluation,” 186.<!--linkrefid=318-->
+319. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 114.<!--linkrefid=319-->
+320. TRC, NRA, Library and Archives Canada, RG10, volume 3918, file 116659-1, John F. Smith to Assistant Deputy and Secretary, Indian Affairs, 29 March 1918. [AEMR-255360]<!--linkrefid=320-->
+321. TRC, NRA, Library and Archives Canada, RG10, FA 10-13, volume 3918, Microfilm reel C-10161, file 116.659-1, 1892–1920, Spec. Claims Kamloops Agency: General Correspondence Pertaining to Kamloops Industrial School, F. V. Agnew to Indian Affairs, 4 June 1918. [KAM-009763]<!--linkrefid=321-->
+322. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, to J. D. McLean, 15 July 1897. [100.00109]<!--linkrefid=322-->
+323. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 3, Frank Edwards to the Secretary, Indian Affairs Branch, 26 June 1939. [IRC-048013]<!--linkrefid=323-->
+324. For examples just from the 1920s, see: TRC, NRA, Library and Archives Canada, RG10, volume 3933, file 117657-1, Microfilm reel C-10164, W. M. Graham to Duncan C. Scott, 1 October 1914; [AEMR-013533] TRC, NRA, Library and Archives Canada, RG10, volume 6348, file 752-1, part 1, 1894–1936, Microfilm reel 8705, “Extract from Nurse Ramage’s report, November 1921”; [CFT000156-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6348, file 752-1, part 1, 1894–1936, Microfilm reel 8705, “Extract of report of G. H. Gooderham, for month of October 1921”; [CFT-000148] TRC, NRA, Library and Archives Canada, RG10, volume 6337, file 663-1, part 1, Russell T. Ferrier to Reverend A. Watelle, 31 January 1922; [THR-000149] TRC, NRA, Library and Archives Canada, RG10, volume 6337, file 663-1, part 1, Russell T. Ferrier to Reverend A. Watelle, 16 February 1922; [THR-000151] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 2, “Memorandum for File,” Russell T. Ferrier, 17 March 1922; [PLD-007242] TRC, NRA, Library and Archives Canada, RG10, volume 6444, file 881-5, part 2, 1922–1924, Microfilm reel C-8767, “Extract from Inspector’s Report on the Fraser Lake Residential School, dated April 23rd and 24th, 1923”; [LEJ-003751] TRC, NRA, Library and Archives Canada, RG10, volume 6443, file 881-1, part 1, N. Coccola to J. D. McLean, 22 June 1923; [LEJ-001012] TRC, NRA, Library and Archives Canada, RG10, volume 6318, file 657-1, part 1, A. F. MacKenzie to J. B. Hardinge, 21 September 1923; [MDD-000731] TRC, NRA, Library and Archives Canada, RG10, volume 6324, file 659-5, part 2, “Onion Lake R.C. Boarding School,” 1926; [ORC-000346-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6252, file 575-5, part 2, A. G. Hamilton to Mr. Graham, 23 June 1927; [BIR-000079] TRC, NRA, Library and Archives Canada, RG10, volume 6252, file 575-5, part 2, W. Murison to W. Graham, 17 November 1927; [BIR-000093] TRC, NRA, Library and Archives Canada, RG10, volume 6268, file 580-14, part 1, A. F. MacKenzie to J. W. Waddy, 25 April 1927; [DRS-000574] TRC, NRA, Library and Archives Canada, volume 6268, file 580-14, part 1, J. W. Waddy to Assistant Deputy and Secretary, 6 May 1927; [DRS-000575] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. Waddy to Indian Affairs, 24 November 1928; [DRS-000564] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, Inspection report, 31 October 1929. [DRS-000566]<!--linkrefid=324-->
+325. TRC, NRA, No document location, no document file source, T. M. Kennedy to Reverend Father Provincial, 2 December 1937. [OKM-000248]<!--linkrefid=325-->
+326. TRC, NRA, Library and Archives Canada, RG10, volume 6455, file 884-14, part 1, Microfilm reel C-8777, “Extract from report of Inspector Cairns, Dated Nov. 9, 1922, on the Kuper Island Industrial School.” [KUP-003836-0000]<!--linkrefid=326-->
+327. TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, W. Murison to Indian Affairs, 2 June 1925. [ELK-000330]<!--linkrefid=327-->
+328. Health Canada, Food and Nutrition, Canada’s Food Guides from 1942 to 1992, http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/context/fg_history-histoire_ga-eng.php#fnb9 (accessed 14 December 2013).<!--linkrefid=328-->
+329. TRC, NRA, Library and Archives Canada, RG10, volume 6306, file 652-5, part 6, L. B. Pett to P. E. Moore, 8 December 1947. [SMD-001897-0000]<!--linkrefid=329-->
+330. TRC, NRA, Library and Archives Canada, RG10, 8796, file 1/25-13, part 4, L. B. Pett to H. M. Jones, 21 March 1958. [NPC-400776]<!--linkrefid=330-->
+331. TRC, NRA, Headquarters, 1/25-1-4-1, Indian Education – Dietary Scale, Residential Schools, K. A. Feyrer, G. C. Butler, 22 December 1966. [LOW-002326-0004]<!--linkrefid=331-->
+332. TRC, NRA, Unknown document location, file 901/25-13, Gerald Michaud, 1 April 1969. [120.08100C]<!--linkrefid=332-->
+333. TRC, NRA, Library and Archives Canada, RG29, volume 2990, file 851-6-4, part 5a, L. Leclerc to A/ Regional Director, Manitoba Region, 26 November 1970. [NPC-605542]<!--linkrefid=333-->
+334. TRC, AVS, Daisy Diamond, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.<!--linkrefid=334-->
+335. TRC, AVS, Dora Fraser, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-012.<!--linkrefid=335-->
+336. TRC, AVS, Ellen Okimaw, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON-4-6NOV10-022.<!--linkrefid=336-->
+337. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510.<!--linkrefid=337-->
+338. TRC, AVS, Bernard Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Fort Albany, Ontario, 29 January 2013, Statement Number: 2011-3180. (Translated from Cree to English by Translation Bureau, Public Works and Government Services Canada, 8961944_003.)<!--linkrefid=338-->
+339. “Nun Forced Native Students to Eat Their Own Vomit,” *Edmonton Journal*, 25 June 1999.<!--linkrefid=339-->
+340. TRC, AVS, Simon Awashish, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104.<!--linkrefid=340-->
+341. TRC, AVS, Woodie Elias, Statement to the Truth and Reconciliation Commission of Canada, Fort McPherson, Northwest Territories, 12 September 2012, Statement Number: 2011-0343.<!--linkrefid=341-->
+342. TRC, AVS, Dorothy Nolie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 20 October 2011, Statement Number: 2011-3294.<!--linkrefid=342-->
+343. TRC, AVS, Nellie Trapper, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-16JU10-086.<!--linkrefid=343-->
+344. TRC, AVS, Inez Dieter, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.<!--linkrefid=344-->
+345. TRC, AVS, Gladys Prince, Statement to the Truth and Reconciliation Commission of Canada, Brandon, Manitoba, 13 October 2011, Statement Number: 2011-2498. (Translated from Ojibway to English by Translation Bureau, Public Works and Government Services Canada, 8956132.)<!--linkrefid=345-->
+346. TRC, AVS, Frances Tait, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3974.<!--linkrefid=346-->
+347. TRC, AVS, Hazel Bitternose, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 17 January 2012, Statement Number: SP036.<!--linkrefid=347-->
+348. Sadowski, “Preliminary Report on the Investigation,” 7–8.<!--linkrefid=348-->
+349. TRC, LACAR, Library and Archives Canada, Ottawa, RG29, Department of Health fonds, Medical Services sous-fonds, Medical Services Branch Central Registry File series, Administrative Records from Blocks 800 to 849 sub-series, finding aid 29-143, Perm. volume 2622, file 800-4-9, file volume 1, file dates 09/1952 to 11/1976, file name “Records Retirement,” *Indian and Northern Health Services Administrative Circular 57-66*, Destruction and Retention of Documents, P. E. Moore, 7 August 1957. [46a-c000301-d0008-001]<!--linkrefid=349-->
+350. For an example, see: Canada, *Annual Report of the Department of Indian Affairs, 1893*, 91–97.<!--linkrefid=350-->
+351. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-23, part 1, A. F. MacKenzie to Indian Agents, Principals of Indian Residential Schools, 17 April 1935. [SBR-001147-0000] Under this policy, the principal was to inform the Indian agent of the death of a student. The agent was then to convene and chair a three-person board of inquiry. The two other members of the board were to be the principal and the physician who attended the student. The board was to complete a form provided by Indian Affairs that requested information on the cause of death and the treatment provided to the child. Parents were to be notified of the inquiry and given the right to attend or have a representative attend the inquiry to make a statement. However, an inquiry was not to be delayed for more than seventy-two hours to accommodate parents. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-23, part 1, Indian Affairs Memorandum, 17 April 1935. [SBR-001147-0001]<!--linkrefid=351-->
+352. See, for examples: TRC, NRA, Anglican Church of Canada, General Synod Archives, Anglican Church of Canada, GS-75-103, B17, Minutes of meeting of Indian and Eskimo Commission Held on Tuesday, January 11th, 1927, 11; [AAC-083001] St. Boniface Historical Society, Archives Deschâtelets, L 541 M27L 266, Brachet to père provincial, 20 October 1928.<!--linkrefid=352-->
+353. TRC, NRA, Library and Archives Canada, RG10, volume 6302, file 650-23, part 2, Inspector, Commanding Prince Albert Sub-Division to The Officer in Charge, RCMP, Regina, Saskatchewan, 10 September 1942. [BVL-000822]<!--linkrefid=353-->
+354. For discussions of the health conditions on the Prairies and the federal government’s failure to meet its Treaty commitments, see: Carter, *Lost Harvests*; Daschuk, *Clearing the Plains*; and Lux, *Medicine that Walks*. For food and Treaties, see: Miller, *Skyscrapers Hide the Heavens*, 228–230.<!--linkrefid=354-->
+355. TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Martin Benson, to J. D. McLean, 15 July 1897. [100.00109]<!--linkrefid=355-->
+356. Canada, *Annual Report of the Department of Indian Affairs, 1904*, 204.<!--linkrefid=356-->
+357. TRC, NRA, Library and Archives Canada, RG10, volume 6012, file 1-1-5A, part 2, R. A. Hoey to Dr. McGill, 31 May 1940. [BIR-000248] For date of Hoey’s appointment, see: Manitoba Historical Society, Memorable Manitobans: Robert Alexander Hoey (1883–1965), http://www.mhs.mb.ca/docs/people/hoey_ra.shtml (accessed 21 December 2013).<!--linkrefid=357-->
+358. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 6-21-1, volume 4, control 25-2, The National Association of Principals and Administrators of Indian Residences Brief Presented to the Department of Indian Affairs and Northern Development as requested by Mr. E. A. Cote, Deputy Minister, prepared in 1967, presented 15 January 1968. [NCA-011495]<!--linkrefid=358-->
+359. TRC, NRA, Library and Archives Canada, RG10, volume 13033, file 401/25-13, volume 1, R. F. Davey to H. B. Rodine, 5 February 1968. [AEMR-014634]<!--linkrefid=359-->
+360. For Beauval fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, Louis Mederic Adam to Indian Affairs, 22 September 1927. [BVL-000879] For Cross Lake fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. MacNamara, 8 March 1930; [CLD-000933-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930. [CLD-000934]<!--linkrefid=360-->
+361. For deaths, see: Stanley, “Alberta’s Half-Breed Reserve,” 96–98; Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, O. Charlebois to Duncan Scott, 21 September 1927; [BVL-000874] Louis Mederic Adam to Indian Affairs, 22 September 1927; [BVL-000879] TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. McNamara, 8 March 1930; [CLD-000933-0000] William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930; [CLD-000934] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 675/6-2-018, volume 2, D. Greyeyes to Indian Affairs, 22 June 1968. [GDC-005571]<!--linkrefid=361-->
+362. Canada, *Annual Report of the Department of Indian Affairs, 1906*, 274–275.<!--linkrefid=362-->
+363. Bryce, *Report on the Indian Schools*, 18.<!--linkrefid=363-->
+364. Bryce, *Report on the Indian Schools*, 17.<!--linkrefid=364-->
+365. Bryce, *Report on the Indian Schools*, 18.<!--linkrefid=365-->
+366. For details, see: Canada, *Annual Report of the Department of Indian Affairs, 1904*, xxvii–xxviii; TRC, NRA, Library and Archives Canada, MG17, B2, Class ‘G’ C.1/P.2, Church Missionary Society, “Resolutions Regarding the Administration of the North-West Canada Missions,” 7 April 1903; [PAR-003622] Blake, *Don’t you hear*; TRC, NRA, Library and Archives Canada, RG10, volume 3928, file 117004-1, “Report on Indian Missions and Schools,” Presented to the Diocesan Synod, Diocese of Calgary, J. W. Tims, August 1908; [OLD-008159] The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 5, file 68, “Report of the Synod’s Commission on Indian Affairs,” 5 December 1904; [RIS-000246] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Reverend and dear sirs, 21 March 1908; [AEMR-120155] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Frank Pedley to Norman Tucker, 26 March 1909; [AAC-090228] Archives of Saskatchewan, MacKay Papers, Frank Oliver, “Letter to S. H. Blake, 28 January, 1908,” quoted in Wasylow, “History of Battleford Industrial School,” 225–226; Anglican Church General Synod Archives, 75-103, series 2-14, Frank Oliver to A. G. G., 28 January 1908, quoted in Gull, “‘Indian Policy,’” 15; TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Letter signed by S. H. Blake, Andrew Baird, Hamilton Cassels, T. Ferrier, R. F. MacKay, 22 May 1908; [AAC-090192] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Frank Oliver, 9 April 1908; [AEMR-120157] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, “Report of the Sub-Committee of the Advisory Board On Indian Education,” n.d.; [AAC-090231] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, J. B. Magnan to D. Laird, 12 December 1902; [SBR-003409] TRC, NRA, Library and Archives Canada, RG10, volume 3919, file 116751-1A, Clifford Sifton to Governor General in Council, 23 December 1903; [FAR-000095] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Frank Pedley to Mr. Oliver, 30 May 1908; [120.00294] TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 1, J. Hugonnard to Frank Oliver, 28 March 1908; [PLD-007334] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Superintendent General of Indian Affairs to T. Ferrier, 18 July 1908; [AEMR-016328] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, Heron to Frank Oliver, 16 February 1909; [AEMR-120164] TRC, NRA, Library and Archives Canada, RG10, volume 6039, file 160-4, part 1, Association of Indian Workers to Frank Oliver, 19 February 1909; [AEMR-016332] TRC, NRA, Library and Archives Canada, RG10, FA 10-17, volume 6041, file 160-5, part 1, 1905–1934, Emile Legal to Frank Pedley, 20 July 1908; [AEMR-254243] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:1, box 48, file 3, Arthur Barner to S. H. Blake, 16 February 1909. [AAC-090206]<!--linkrefid=366-->
+367. Library and Archives Canada, RG10, volume 6039, file 160-1, part 1, *Correspondence and Agreement Relating to the Maintenance and Management of Indian Boarding Schools* (Ottawa: Government Printing Bureau, 1911). [AEMR-120208A]<!--linkrefid=367-->
+368. For examples, see: TRC, NRA, Library and Archives Canada, RG10, volume 6113, file 350-23, part 1, H. A. Alderwood to Percy Moore, 25 January 1946; [FGA-001121] TRC, NRA, No document location, no file source, 988/23-9, p. 2, 1947–48, R. H. Moore to Indian Affairs Branch, 30 June 1948; [KUP-001240] TRC, NRA, Library and Archives Canada, RG10, volume 6279, file 584-10, part 4, R. S. Davies to Indian Affairs, 3 October 1951; [SBR-004545-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 5, P. E. Moore to Superintendent, Welfare and Training Division, 23 December 1940. [LEJ-002117]<!--linkrefid=368-->
+369. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 173.<!--linkrefid=369-->
+370. Library and Archives Canada, RG10, volume 3674, file 11422-5, H. Reed to Deputy Superintendent General of Indian Affairs, 13 May 1891.<!--linkrefid=370-->
+371. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, H. J. Denovan, 1 May 1901. [EDM-009805]<!--linkrefid=371-->
+372. For Regina, see: TRC, NRA, Library and Archives Canada, RG10, volume 3927, file 116836-1A, J. A. Graham to J. A. Sinclair, 2 February 1904. [RIS-000075] For Onion Lake, see: TRC, NRA, Library and Archives Canada, RG29, volume 2915, file 851-1-A671, part 1a, Lang Turner to Secretary, Indian Affairs, 31 October 1921. [NPC-602633] For Mission, see: TRC, NRA, Library and Archives Canada, RG10, volume 6470, file 890-5, part 2, A. O’N. Daunt, 18 December 1924. [MIS-004992] For Muncey, see: TRC, NRA, Library and Archives Canada, RG10, volume 6207, file 468-5, part 7, A. F. MacKenzie to K. J. Beaton, 9 July 1935. [MER-000845]<!--linkrefid=372-->
+373. TRC, NRA, Library and Archives Canada, RG10, volume 6305, file 652-1, part 1, J. McArthur to Secretary, Indian Affairs, 5 July 1909; [SMD-001186] 6 July 1909. [SMD-001187]<!--linkrefid=373-->
+374. TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956]<!--linkrefid=374-->
+375. TRC, NRA, Library and Archives Canada, RG10, volume 6041, file 160-5, part 1, “Memorandum of the Convention of the Catholic Principals of Indian Residential Schools held at Lebret, Saskatchewan, August 28 and 29, 1924.” [200.4.00016]<!--linkrefid=375-->
+376. For an example from the Sarcee Reserve school, see: TRC, NRA, Library and Archives Canada, RG29, volume 3403, file 823-1-A772, T. J. Fleetham to Secretary, Indian Affairs, 4 March 1915. [NPC-604045a] For an example from the High River school, see: Provincial Archives of Alberta, Oblates of Mary Immaculate, école Dunbow, Boîte 80, #3381, Journal quotidien de l’école Dunbow, 18 January 1916, quoted in Pettit, “‘To Christianize and Civilize,’” 254.<!--linkrefid=376-->
+377. For concerns about hospitals from the 1940s, see: TRC, NRA, Library and Archives Canada, RG29, volume 2905, file 851-1-A486, part 1, P. E. Moore to B. T. McGhie, 19 February 1942. [NPC-620532] For overall concerns regarding care in British Columbia school infirmaries in 1960, see: TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 8697, file 957/6-1, part 3, P. E. Moore to H. M. Jones, 22 July 1960. [MIS-000240]<!--linkrefid=377-->
+378. For complaints from the Winnipeg, Manitoba, school, see: TRC, NRA, Library and Archives Canada, RG10, volume 8797, file 1/25-13, part 10, André Renaud to R. F. Davey, 10 August 1959. [NRD-300276] For complaints from the Roman Catholic school in The Pas, Manitoba, see: TRC, NRA, Library and Archives Canada, RG29, volume 2915, file 851-1-A578, part 3, P. E. Moore to Regional Superintendent, Central Region, INHS, 15 May 1961. [NPC-602638] For complaints from the La Tuque, Québec, school, see: TRC, NRA, Quebec Regional Service Centre – LAC – Québec City, Acc. 81-116, box 303441, file 377/17-1, J. E. DeWolf to R. L. Boulanger, 21 January 1965. [LTR001513-0005] For concerns from the Roman Catholic school in Cardston, Alberta, see: TRC, NRA, Provincial Archives – Alberta, PAA 71.220 B161 2419, J. E. Y. Levaque to Mr. Tully, 19 November 1967. [OGP-023087]<!--linkrefid=378-->
+379. Waldram, Herring, and Young, *Aboriginal Health in Canada*, 188–198; Wherrett, *Miracle of the Empty Beds*, 109–110.<!--linkrefid=379-->
+380. Library and Archives Canada, Canadian Tuberculosis Association, quoted in Wherrett, *Miracle of the Empty Beds*, 111.<!--linkrefid=380-->
+381. Library and Archives Canada, RG10, volume 3940, file 121698-13, Summary of statements made at meeting attached to correspondence, H. R. Halpin to Secretary, Indian Affairs, 16 November 1897. For Kah-pah-pah-mah-am-wa-ko-we-ko-chin’s name and his being deposed from office, see: Library and Archives Canada, RG10, volume 3940, file 121698-13, Extract of a report of a Committee of the Honourable Privy Council Approved his Excellency on the 20 September 1897.<!--linkrefid=381-->
+382. Moine, *My Life in a Residential School*.<!--linkrefid=382-->
+383. Dion, *My Tribe the Crees*, 129.<!--linkrefid=383-->
+384. Baker, *Khot-La-Cha*, 46.<!--linkrefid=384-->
+385. TRC, AVS, Ray Silver, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 17 May 2011, Statement Number: 2011-3467.<!--linkrefid=385-->
+386. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Deline, Northwest Territories, 2 March 2010, Statement Number: 07-NWT-02MR1-002.<!--linkrefid=386-->
+387. Canada, *Annual Report of the Department of Indian Affairs, 1888*, xiv.<!--linkrefid=387-->
+388. Fraser River Heritage Park, The OMI Cemetery, http://www.heritagepark-mission.ca/omicemetery.html (accessed 4 November 2014).<!--linkrefid=388-->
+389. Father Allard’s diary, quoted in Cronin, Cross in the Wilderness, 219.<!--linkrefid=389-->
+390. TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956]<!--linkrefid=390-->
+391. Shanahan, *Jesuit Residential School at Spanish*, 4.<!--linkrefid=391-->
+392. TRC, NRA, Library and Archives Canada, RG10, volume 6016, file 1-1-12, part 1, “Burial Expenses,” J. D. McLean, no date. [PAR-008816]<!--linkrefid=392-->
+393. For examples from the Spanish, Ontario, school, see: Library and Archives Canada, RG10, volume 6217, file 471-1, part 1, N. Dugas to Dear Sir, 25 August 1913; [Story no 1.1.jpg] Library and Archives Canada, RG10, volume 6217, file 471-1, part 1, N. Dugas to Secretary, Indian Affairs, 2 September 1913. [Story no 1.1.6.jpg]<!--linkrefid=393-->
+394. Brass, *I Walk in Two Worlds*, 26.<!--linkrefid=394-->
+395. TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, J. H. Gordon to Superintendent, Indian Affairs, Yukon, 16 July 1958; [46b-c009024-d0015-001] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. Matas to Gordon Harris, 16 April 1958; [46a-c001040-d0010-005] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. Matas to W. L. Falconer, 22 July 1958; [46a-c001040-d0010-002] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, W. L. Falconer to Director, Indian and Northern Health Services, 24 July 1958; [46a-c001040-d0010-001] TRC, LACAR, Department of Indian Affairs and Northern Development, Indian and Inuit Affairs Program, 133619, Yukon Regional Office, Accession 89-476 VFRC, box 7, file volume 1, file number 29-3, M. G. Jutras to Indian Commissioner, British Columbia, 26 August 1958. [46b-c009024-d0010-001]<!--linkrefid=395-->
+396. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 17, file 4, Colin Wasacase to Giollo Kelly, 17 November 1966. [CJC-007910] For Wenjack’s age, see: Adam, “The Lonely Death of Charlie Wenjack,” 30.<!--linkrefid=396-->
+397. TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 486/18-2, volume 2, box V-24-83, 06/26/1946–09/23/1975, M. J. Pierce to Indian Affairs, 23 October 1974; [FTA-001096] Edwards, “This Is about Reuniting a Family, Even in Death,” *Toronto Star*, 4 March 2011, http://www.thestar.com/news/gta/2011/03/04/this_is_about_reuniting_a_family_even_in_death.html; Edwards, “Star Gets Action: Charlie Hunter Headed Home,” *Toronto Star*, 24 March 2011, http://www.thestar.com/news/gta/2011/03/24/star_gets_action_charlie_hunter_headed_home.html.<!--linkrefid=397-->
+398. Wasylow, “History of Battleford Industrial School,” 268.<!--linkrefid=398-->
+399. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, D. L. Clink to Indian Commissioner, June 4 1895. [EDM-003380]<!--linkrefid=399-->
+400. TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, H. Reed to Assistant Commissioner, 28 June 1895. [EDM-003376]<!--linkrefid=400-->
+401. TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, Reverend Canon Gould to Duncan Campbell Scott, 26 January 1920. [IRC-041334]<!--linkrefid=401-->
+402. TRC, NRA, Library and Archives Canada, RG10, volume 8542, file 51/25-1, part 2, Philip Phelan, 14 April 1953. [FAR-000067]<!--linkrefid=402-->
+403. Library and Archives Canada, RG10, volume 3558, file 64, part 39, David Laird to Superintendent of Indian Affairs, 13 March 1899.<!--linkrefid=403-->
+404. TRC, NRA, Library and Archives Canada, RG10, volume 1346, Microfilm reel C-13916, G. Donckele to W. H. Lomas, 29 December 1896. [KUP-004264]<!--linkrefid=404-->
+405. Audette, “Report on the Commission,” 2–7.<!--linkrefid=405-->
+406. Library and Archives Canada, RG10, volume 3880, file 92499, Memorandum, Hayter Reed, undated; T. Clarke, “Report of Discharged Pupils,” in Canada, Sessional Papers 1894, Paper 13, 103.<!--linkrefid=406-->
+407. TRC, NRA, Library and Archives Canada, RG10 (Red), volume 2771, file 154845, part 1, J. G. Ramsden to J. D. McLean, 23 December 1907. [TAY-003542]<!--linkrefid=407-->
+408. “Damages for Plaintiff in Miller Vs. Ashton Case,” *Brantford Expositor*, 1 April 1914.<!--linkrefid=408-->
+409. TRC, NRA, Anglican Church of Canada, General Synod Archives, Accession GS 75-403, series 2:15[a], box 16, [Illegible] Chairman, Indian and Eskimo Commission, Westgate, T. B. R., Field Secretary, Indian and Eskimo Commission, “Minutes of the Meeting of the Indian Residential School Commission held on March 18th, 1921.” [AGS-000014]<!--linkrefid=409-->
+410. TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6358, file 758-1, part 1, 20 August 1919 [OLD-000497]; TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 7581, part 1, “Statement taken by Constable Wright, RNWMP, 27 November 1919”; [IRC-041330] TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6358, file 758-1, part 1, 20 August 1919; [OLD-000497] TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, Thomas Graham to W. M. Graham, 1 December 1919; [IRC-041328] TRC, NRA, Library and Archives Canada, RG10, volume 6358, file 758-1, part 1, P. H. Gentleman to Canon Gould, 12 January 1920. [IRC-041335]<!--linkrefid=410-->
+411. TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Microfilm reel C-8762, 1890–1912, Statement of Johnny Sticks, 28 February 1902. [JOE-060004]<!--linkrefid=411-->
+412. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. W. Waddy to W. M. Graham, 5 October 1925. [DRS-000543-0001]<!--linkrefid=412-->
+413. TRC, AVS, Isabelle Whitford, Statement to the Truth and Reconciliation Commission of Canada, Keeseekoowenin First Nation, Manitoba, 28 May 2010, Statement Number: S-KFN-MB-01-004.<!--linkrefid=413-->
+414. TRC, AVS, Rachel Chakasim, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-4-6NOV10-019.<!--linkrefid=414-->
+415. TRC, AVS, Fred Brass, Statement to the Truth and Reconciliation Commission of Canada, Key First Nation, Saskatchewan, 21 January 2012, Statement Number: SP039.<!--linkrefid=415-->
+416. TRC, AVS, Geraldine Bob, Statement to the Truth and Reconciliation Commission of Canada, Fort Simpson, Northwest Territories, 23 November 2011, Statement Number: 2011-2685.<!--linkrefid=416-->
+417. TRC, AVS, William Antoine, Statement to the Truth and Reconciliation Commission of Canada, Little Current, Ontario, 12 May 2011, Statement Number: 2011-2002.<!--linkrefid=417-->
+418. TRC, AVS, Eva Simpson, Statement to the Truth and Reconciliation Commission of Canada, Norway House First Nation, Manitoba, 10 May 2011, Statement Number: 2011-0290.<!--linkrefid=418-->
+419. TRC, AVS, Dorothy Ross, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 25 November 2010, Statement Number: 01-ON-24NOV10-014.<!--linkrefid=419-->
+420. TRC, AVS, Archie Hyacinthe, Statement to the Truth and Reconciliation Commission of Canada, Kenora, Ontario, 15 March 2011, Statement Number: 2011-0279.<!--linkrefid=420-->
+421. TRC, AVS, Jonas Grandjambe, Statement to the Truth and Reconciliation Commission of Canada, Fort Good Hope, Northwest Territories, 15 July 2010, Statement Number: 01-NWT-JY10-024.<!--linkrefid=421-->
+422. TRC, AVS, Delores Adolph, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 19 May 2011, Statement Number: 2011-3458.<!--linkrefid=422-->
+423. TRC, AVS, Joseph Wabano, Statement to the Truth and Reconciliation Commission of Canada, Fort Albany, Ontario, 29 January 2013, Statement Number: SP099.<!--linkrefid=423-->
+424. TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: 2011-3314.<!--linkrefid=424-->
+425. TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4391.<!--linkrefid=425-->
+426. TRC, AVS, Nellie Trapper, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-16JU10-086.<!--linkrefid=426-->
+427. TRC, AVS, Wendy Lafond, Statement to the Truth and Reconciliation Commission of Canada, Batoche, Saskatchewan, 24 July 2010, Statement Number: 01-SK-18-25JY10-015.<!--linkrefid=427-->
+428. TRC, AVS, Don Willie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 3 August 2011, Statement Number: 2011-3284.<!--linkrefid=428-->
+429. Adams, “The Indians.”<!--linkrefid=429-->
+430. TRC, NRA, Library and Archives Canada, “Native Mission School Shut Down over Discipline Controversy,” by Margaret Loewen Reimer, *Mennonite Reporter*, Volume 19, Number 22, 13 November 1989. [PHD-000143]<!--linkrefid=430-->
+431. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 372/25-13-024, volume 1, C. T. Blouin and L. Poulin, to A. R. Jolicoeur, 13 October 1970. [LTR-001178-0001]<!--linkrefid=431-->
+432. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box R2, [Name redacted], Ronald J. Pratt and Herman Blind to [Name redacted], 8 December 1993. [IRC047202-0002]<!--linkrefid=432-->
+433. Library and Archives Canada, Hayter Reed Papers MG29, E 106, volume 18, Personnel H-L, J. W. Tims to Indian Commissioner, October 27, 1891.<!--linkrefid=433-->
+434. Library and Archives Canada, Hayter Reed Papers MG29, E 106, volume 18, Personnel H-L, L. Vankoughnet to H. Reed, 7 December 1891.<!--linkrefid=434-->
+435. For example, see: Library and Archives Canada, Sifton Papers, volume 19, 12129-39; 12123, J. H. Fairlie to A. Forget, 23 August 1897; A. Forget to Sifton, 30 October 1897; TRC, NRA, Library and Archives Canada, RG10, volume 6211, file 469-1, part 3, Duncan C. Scott to B. P. Fuller, 16 November 1916. [SWK-001406]<!--linkrefid=435-->
+436. TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939, Police report regarding runaways from Kuper Island School,” 10 January 1939; [IRC040001] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939,” D. M. MacKay to Secretary, Indian Affairs Branch, Ottawa, 12 January 1939; [IRC-040007-0001] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939, Cpl S. Service, 13 January 1939; [IRC-040003] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939, Confidential Notes,” Gerald H. Barry, 13 January 1939. [IRC-040010]<!--linkrefid=436-->
+437. TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939,” G. H. Barry to Major D. M. MacKay, 17 January 1939; [IRC-040014] TRC, NRA, Library and Archives Canada, RG10, volume 13356, “Investigation – Kuper Island School 1939,” Harold McGill to Major D. M. MacKay, 27 January 1939. [IRC-040021]<!--linkrefid=437-->
+438. For example, see: TRC, NRA, INAC – Archival Unit – Ottawa, file 772/3-1, volume 2, 10/11–05/66, C. Pant Schmidt to Harold McGill, 17 August 1944; [IRC-047003] T. R. L. MacInnes to Director, Indian Affairs, 25 August 1944; [IRC-047005] Sarah Elizabeth Brown, “Ex-residential School Student Files Suit,” *Whitehorse Star*, 21 April 2003; Elizabeth Asp, Jackie McLaren, Jim Sheldon, Michelle Tochacek, and Ruby Van Bibber, “Bishop’s comments invalided any apology,” Letter to the Editor, *Whitehorse Star*, 11 August 1999.<!--linkrefid=438-->
+439. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, R. S. Davis, excerpt from Quarterly Report Ending March, 1945, on Touchwood Agency. [IRC-047128]<!--linkrefid=439-->
+440. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box 1A, file 22, Head Teacher [Illegible] to My Lord Bishop, 10 January 1956. [IRC-040120]<!--linkrefid=440-->
+441. For examples, see: TRC, NRA, Library and Archives Canada, 709/25-1-001, 1951–1961, part 2, L. C. Hunter to R. F. Davey, 30 November 1960; [IRC-040054] TRC, NRA, United Church of Canada/Victoria University Archives, Acc. No. 8 [Illegible].050C, box 112, file 17, Edmonton IRS – Correspondence 1958–60/UCC Docs Toronto, Dwight Powell to E. E. M. Joblin, 25 November 1960. [UCA080215] It was not until 1968 that Indian Affairs began requiring school schools superintendents to submit the names of all who had been dismissed because they had “created problems.” TRC, NRA, National Archives of Canada, Acc. E1996-97/312, Vol. 2, File 672/25-1, R.F. Davey to All School Superintendents, 7 May 1968; [120.07885] TRC, NRA, Library and Archives Canada – Burnaby Vol. 11500, File 901/1-13, pt. 1, School Establishment, 1968-1972, FA 10-138, A. H. Friesen to All District School Superintendents, 1 June 1968. [120.07891]<!--linkrefid=441-->
+442. TRC, NRA, Library and Archives Canada – Burnaby Vol. 11500, File 901/1-13, pt. 1, School Establishment, 1968-1972, FA 10-138, A. H. Friesen to All District School Superintendents, 1 June 1968. [120.07891]<!--linkrefid=442-->
+443. The details of these convictions will be outlined in a forthcoming TRC report.<!--linkrefid=443-->
+444. Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics, from September 19, 2007, to January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015).<!--linkrefid=444-->
+445. Joseph Jean Louis Comeau worked there from 1959 to 1965, *R. v. Comeau*, 1988 CanLII 3839 AB QB). Martin Houston worked there from 1960 to 1962, TRC, ASAGR, Aboriginal Affairs and Northern Development Canada, Walter Rudnicki to Director, Indian Affairs, 17 August 1962; [AANDC-234696] Aboriginal Affairs and Northern Development Canada, Royal Canadian Mounted Police Report, Western Arctic Division, Division file number 628-626-1, code 0559, re: Martin Houston, 29 August 1962. [AANDC-234684] George Maczynski worked there from 1966 to 1967, TRC, NRA, Beaufort-Delta Education Council Warehouse, Inuvik, NWT, Payroll, 1959 to 1966 [box 1], M. Ruyant to Department of Northern Affairs and National Resources, Payroll list of employees at the hostel for September 1966, September 1966; [GHU-002427] Beaufort-Delta Education Council Warehouse, Inuvik, NWT, Payroll, 1967 to 1970 [box 1], Department of Northern Affairs and National Resources, Northern Administration: Paylist – Hostel, May 1967. [GHU-002435] Paul Leroux worked there from 1967 to 1979, TRC, ASAGR, Glenn Taylor, “Grollier Man Pleads Not Guilty to Sex Offences,” Northern News Services, 28 November 1997, http://www.nnsl.com/frames/newspapers/1997-11/nov28_97sex.html.<!--linkrefid=445-->
+446. Mandryk, “Uneasy Neighbours,” 210.<!--linkrefid=446-->
+447. TRC, NRA, Library and Archives Canada, RG10, volume 8798, file 371/25-13-019, part 2, R. F. Davey to William Starr, 19 July 1962; [FGA-001179] TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2:15, box 24, file 3, Extract from Report on Visit of Major-General G. R. Turner to St. Paul’s Anglican Indian Residential School, Cardston, Alberta, 6–8, 1958. [AAC-090593]<!--linkrefid=447-->
+448. Mandryk, “Uneasy Neighbours,” 210.<!--linkrefid=448-->
+449. *R. v. Plint*, [1995] B.C.J. No. 3060 (B.C. S.C.); “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times–Colonist*, January 24, 2004.<!--linkrefid=449-->
+450. TRC, AVS, Jean Pierre Bellemare, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104.<!--linkrefid=450-->
+451. TRC, AVS, Andrew Yellowback, Statement to the Truth and Reconciliation Commission of Canada, Kamloops, British Columbia, 9 August 2009, Statement Number: 2011-5015.<!--linkrefid=451-->
+452. See, for example: TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055; TRC, AVS, Myrna Kaminawaish, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 7 January 2011, Statement Number: 01-ON-06JA11-004; TRC, AVS, Percy Tuesday, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-083; TRC, AVS, Isaac Daniels, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-1779.<!--linkrefid=452-->
+453. TRC, AVS, Marlene Kayseas, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035. For gifts of candy, see: TRC, AVS, Elaine Durocher, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-059; TRC, AVS, John B. Custer, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-057; TRC, AVS, Louise Large, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 7 January 2011, Statement Number: 01-AB-06JA11-012. For field trips, see: TRC, AVS, Ben Pratt, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 18 January 2012, Statement Number: 2011-3318.<!--linkrefid=453-->
+454. See, for example: TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055; TRC, AVS, Leona Bird, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4415; TRC, AVS, Barbara Ann Pahpasay Skead, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-159.<!--linkrefid=454-->
+455. TRC, AVS, Josephine Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON4-6NOV10-013.<!--linkrefid=455-->
+456. TRC, AVS, Marie Therese Kistabish, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 6 February 2012, Statement Number: SP101.<!--linkrefid=456-->
+457. TRC, AVS, Richard Morrison, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-080.<!--linkrefid=457-->
+458. For shower, see: TRC, AVS, Leonard Peter Alexcee, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: 2011-3228. For lunch pail, see: TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4391.<!--linkrefid=458-->
+459. TRC, AVS, Donna Antoine, Statement to the Truth and Reconciliation Commission of Canada, Enderby, British Columbia, 13 October 2011, Statement Number: 2011-3287.<!--linkrefid=459-->
+460. TRC, AVS, Helen Harry, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: 2011-3203.<!--linkrefid=460-->
+461. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510; TRC, AVS, Doris Judy McKay, Statement to the Truth and Reconciliation Commission of Canada, Rolling River First Nation, Manitoba, 23 November 2011, Statement Number: 2011-2514.<!--linkrefid=461-->
+462. TRC, AVS, Timothy Henderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 28 June 2011, Statement Number: 2011-0291.<!--linkrefid=462-->
+463. TRC, AVS, Nellie Ningewance, Statement to the Truth and Reconciliation Commission of Canada, Sault Ste. Marie, Ontario, 1 July 2011, Statement Number: 2011-0305.<!--linkrefid=463-->
+464. TRC, AVS, Flora Northwest, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 24 July 2013, Statement Number: SP124.<!--linkrefid=464-->
+465. For examples, see: TRC, AVS, Hazel Mary Anderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-034; TRC, AVS, Peter Ross, Statement to the Truth and Reconciliation Commission of Canada, Tsiigehtchic, Northwest Territories, 8 September 2011, Statement Number: 2011-0340.<!--linkrefid=465-->
+466. TRC, AVS, Eric Robinson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093.<!--linkrefid=466-->
+467. TRC, AVS, Lynda Pahpasay McDonald, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-130.<!--linkrefid=467-->
+468. For examples, see: TRC, AVS, Larry Roger Listener, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125; TRC, AVS, Mary Vivier, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC110.<!--linkrefid=468-->
+469. TRC, AVS, Louisa Papatie, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 6 February 2012, Statement Number: SP101. For an example of abuse stopping as students became older, see: Fontaine, *Broken Circle*, 18–19.<!--linkrefid=469-->
+470. For examples, see: TRC, AVS, Ken A. Littledeer, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 26 November 2010, Statement Number: 01-ON-24NOV10-028; TRC, AVS, Sphenia Jones, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 29 November 2011, Statement Number: 2011-3300.<!--linkrefid=470-->
+471. TRC, AVS, Lawrence Waquan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.<!--linkrefid=471-->
+472. TRC, AVS, Hazel Mary Anderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-034.<!--linkrefid=472-->
+473. TRC, AVS, Wayne Reindeer, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.<!--linkrefid=473-->
+474. TRC, AVS, Michael Muskego, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-045.<!--linkrefid=474-->
+475. TRC, AVS, Josephine Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 8 November 2010, Statement Number: 01-ON4-6NOV10-013.<!--linkrefid=475-->
+476. TRC, AVS, Norman Courchene, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-065.<!--linkrefid=476-->
+477. For examples, see: TRC, AVS, Ben Pratt, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 18 January 2012, Statement Number: 2011-3318; TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3975.<!--linkrefid=477-->
+478. TRC, AVS, Violet Rupp Cook, Statement to the Truth and Reconciliation Commission of Canada, Bloodvein First Nation, Manitoba, 25 January 2012, Statement Number: 2011-2565.<!--linkrefid=478-->
+479. For examples, see: TRC, AVS, Ivan George, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 18 May 2011, Statement Number: 2011-3472; TRC, AVS, Dorothy Jane Beaulieu, Statement to the Truth and Reconciliation Commission of Canada, Fort Resolution, Northwest Territories, 28 April 2011, Statement Number: 2011-0379; TRC, AVS, Lorna Morgan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-041.<!--linkrefid=479-->
+480. Ruben, “Abraham Ruben,” 136.<!--linkrefid=480-->
+481. For examples, see: TRC, AVS, Stella Marie Tookate, Statement to the Truth and Reconciliation Commission of Canada, Timmins, Ontario, 9 November 2010, Statement Number: 01-ON-810NOV10-003; TRC, AVS, Richard Hall, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: 2011-1852.<!--linkrefid=481-->
+482. TRC, AVS, William Garson, Statement to the Truth and Reconciliation Commission of Canada, Split Lake First Nation, Manitoba, 24 March 2011, Statement Number: 2011-0122.<!--linkrefid=482-->
+483. TRC, AVS, Percy Thompson, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.<!--linkrefid=483-->
+484. TRC, AVS, Alice Ruperthouse, Statement to the Truth and Reconciliation Commission of Canada, Val d’Or, Québec, 5 February 2012, Statement Number: SP100.<!--linkrefid=484-->
+485. TRC, AVS, Albert Elias, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 1 July 2011, Statement Number: SC092.<!--linkrefid=485-->
+486. TRC, AVS, Denis Morrison, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-028.<!--linkrefid=486-->
+487. TRC, AVS, Bob Baxter, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 24 November 2010, Statement Number: 01-ON-24NOV10-012.<!--linkrefid=487-->
+488. TRC, AVS, Clara Quisess, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-032.<!--linkrefid=488-->
+489. TRC, AVS, Louisa Birote, Statement to the Truth and Reconciliation Commission of Canada, La Tuque, Québec, 5 March 2013, Statement Number: SP104.<!--linkrefid=489-->
+490. See, for example: TRC, AVS, Ruth Chapman, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-118; TRC, AVS, Gordon James Pemmican, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-0069; TRC, AVS, Mary Vivier, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-082; TRC, AVS, Roy Johnson, Statement to the Truth and Reconciliation Commission of Canada, Dawson City, Yukon, 24 May 2011, Statement Number: 2011-0203; TRC, AVS, Ken Lacquette, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-052.<!--linkrefid=490-->
+491. TRC, AVS, Agnes Moses, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: SC090.<!--linkrefid=491-->
+492. TRC, AVS, Don Willie, Statement to the Truth and Reconciliation Commission of Canada, Alert Bay, British Columbia, 3 August 2011, Statement Number: 2011-3284.<!--linkrefid=492-->
+493. TRC, AVS, Christina Kimball, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 January 2011, Statement Number: 03-001-10-020.<!--linkrefid=493-->
+494. TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: 2011-3314.<!--linkrefid=494-->
+495. TRC, AVS, Geraldine Shingoose, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-033.<!--linkrefid=495-->
+496. TRC, AVS, Paul Andrew, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE202.<!--linkrefid=496-->
+497. TRC, NRA, National Archives of Canada – Burnaby, FA 10-138, 07/1956, Perm. volume 13528, C. G. Brown, G. J. Buck, B. O. Filteau, “Report of the Educational Survey Commission on the Educational Facilities and Requirements of the Indians of Canada,” July 1956, 10. [120.18398]<!--linkrefid=497-->
+498. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 8703, file 962/6-1, part 7, NAC – Ottawa, L. K. Poupore to H. M. Jones, 14 October 1957. [JOE-063234]<!--linkrefid=498-->
+499. TRC, NRA, INAC – Departmental Library – Ottawa, “St. Michael’s Indian School Wins Service Club Trophy,” The Indian Record, April 1946. [SMD-002822]<!--linkrefid=499-->
+500. TRC, NRA, Library and Archives Canada, RG10, volume 8610, file 652/1-13, part 1, George Roussel to B. F. Neary, 25 March 1949. [SMD-001575-0001]<!--linkrefid=500-->
+501. TRC, NRA, Library and Archives Canada, RG10, volume 8610, file 652/1-13, part 1, Geo.-L. Roussel to B. F. Neary, 25 March 1949. [SMD-001575-0001]<!--linkrefid=501-->
+502. Marks, *They Call Me Chief*, 31. Sasakamoose played with the Chicago Blackhawks in the 1952–53 season. He was born on the Sandy Lake, Saskatchewan, reserve in 1933. TRC, NRA, INAC – Departmental Library – Ottawa, “Saskatchewan Midget Hockey Champions,” Indian Record, Volume 12, Number 5, May 1949. [SMD-002829]<!--linkrefid=502-->
+503. TRC, NRA, Library and Archives Canada, RG29, volume 792, file 344, Pratt, Gerry. “Little Indians Are Big Fighters,” in the *Vancouver Sun Magazine Supplement*, 31 March 1951. [NPC-600625]<!--linkrefid=503-->
+504. TRC, NRA, INAC – Departmental Library – Ottawa, “First Winner of the Tom Longboat Trophy,” *The Indian Missionary Record*, Volume 15, Number 3, March 1952, 3. [IMR-000400]<!--linkrefid=504-->
+505. Hughes, *Jackson Beardy*, 6–7.<!--linkrefid=505-->
+506. MacGregor, *Chief*, 34–35.<!--linkrefid=506-->
+507. Canadien, *From Lishamie*, 253–254.<!--linkrefid=507-->
+508. Canadien, *From Lishamie*, 264–265.<!--linkrefid=508-->
+509. For an example from the Presbyterian school at Shoal Lake, see: TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, “Report of Inspector Semmens on the Cecilia Jaffrey [sic] Boarding School,” 22 January 1917. [IRC-048048]<!--linkrefid=509-->
+510. Library and Archives Canada, RG10, volume 4041, file 334503, Duncan Campbell Scott to Frank Pedley, 19 February 1912, cited in Wasylow, “History of Battleford Industrial School,” 261–263. For Battleford capacity, see: Canada, *Annual Report of the Department of Indian Affairs, 1907*, 341.<!--linkrefid=510-->
+511. Canada, *Annual Report of the Department of Indian Affairs, 1915*, xxvi.<!--linkrefid=511-->
+512. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 297; Canada, *Annual Report of* *the Department of Indian Affairs, 1910*, 474; TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B16 668, unsigned letter to J. T. McNally, 22 February 1922. [OGP-090011]<!--linkrefid=512-->
+513. Canada, *Annual Report of the Department of Indian Affairs 1906*, 191; Canada, *Annual Report of the* *Department of Indian Affairs, 1907*, xxxiii.<!--linkrefid=513-->
+514. For St. Boniface closing, see: Canada, *Annual Report of the Department of Indian Affairs, 1905*, xxxiii; Canada, *Annual Report of the Department of Indian Affairs, 1906*, 191. For difficulty in recruiting, see: Canada, *Annual Report of the Department of Indian Affairs, 1896*, 362. For Calgary closing, see: Canada, *Annual Report of the Department of Indian Affairs, 1908*, 197. For Calgary recruiting problem, see: Canada, *Annual Report of the Department of Indian Affairs, 1904*, 375. For Regina closing, see: Canada, *Annual Report of the Department of Indian Affairs, 1910*, 364. For evidence of Indian Affairs’ dissatisfaction with the management of the Regina school, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 1, W. M. Graham to Secretary, Indian Affairs, 17 November 1910. [RLS-000027] For the Elkhorn school, see: TRC, NRA, Library and Archives Canada, RG10, volume 3925, file 116823-1A, Clerk of the Privy Council to Superintendent General, Indian Affairs, 18 February 1918. [ELK-000248] For the Red Deer school, see: TRC, NRA, Library and Archives Canada, RG10, volume 6350, file 753-1, part 1, J. F. Woodsworth to James Endicott, 5 June 1919. [EDM-000242]<!--linkrefid=514-->
+515. The government actually closed day schools in an effort to force parents to send their children to residential schools. Canada, *Annual Report of the Department of Indian Affairs, 1895,* xxi–xii.<!--linkrefid=515-->
+516. For examples of the withholding of rations, see: TRC, NRA, Library and Archives Canada, RG10, volume 1629, A. J. McNeill to D. Laird, 10 December 1901; [SAR-000404] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 658-1, part 1, David Laird to Secretary, Indian Affairs, 3 April 1906; [PAR-000980-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 658-1, part 1, Microfilm reel C-9802, M. Benson to Deputy Superintendent General, Indian Affairs, 21 February 1907. [120.00284]<!--linkrefid=516-->
+517. TRC, NRA, Library and Archives Canada, RG10, volume 6475, file 918-1, part 1, [Illegible], Office of the General Superintendent, Oblate Catholic Indian Missions to Philip Phelan, 21 October 1941. [FPU-000133]<!--linkrefid=517-->
+518. TRC, NRA, Library and Archives Canada, RG10, School Files, volume 6352, file 753-10, part 1, Microfilm reel C-8708, P. Phelan to J. F. Woodsworth, 22 January 1941; [EDM-003580]<!--linkrefid=518-->
+519. TRC, NRA, Library and Archives Canada, RG10, volume 1346, Microfilm reel C-13916, G. Donckele to W. R. Robertson, 23 July 1906. [KUP-004276]<!--linkrefid=519-->
+520. TRC, NRA, English Language Summary of the Fort Resolution Chronicles, Volume 1, 1903–1942, 3. [GNN-000077-0001]<!--linkrefid=520-->
+521. TRC, NRA, Library and Archives Canada, RG10, Perm. volume 6451, file 883-1, part 1, Bella Coola Agency – Kitamaat Boarding School – General Administration, 1906–1932, FA 10-17, Microfilm reel C-8773; [KMT-095676-0001] TRC, NRA, Library and Archives Canada, “Royal Canadian Mounted Police Report, Re: Kitimat Indian Reserve, Re: Hanna Grant, Deceased, 15 June 1922,” I. Fougner to Secretary, Indian Affairs, 15 June 1922. [KMT-095674]<!--linkrefid=521-->
+522. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 773/25-1-003, 05/36–09/70, volume 1, RCAP, R. D. Ragan, “Extract from minutes of Blood Indian Council Meeting March 15, 1948.” [MRY-000302] For Charron’s initials, see: TRC, NRA, National Archives of Canada, RG29, volume 974, file 388-6-4, part 1, 02/1948–07/1949, B. F. Neary to P. A. Charron, 21 July 1948. [120.03363]<!--linkrefid=522-->
+523. TRC, NRA, Library and Archives Canada, RG10, volume 6262, file 578-1, part 4, A. Ogletree to Deputy Secretary, Department of Indian Affairs, 23 July 1926. [ELK-000331]<!--linkrefid=523-->
+524. TRC, NRA, Library and Archives Canada, RG10, volume 6371, file 764-1, part 1, M. Christianson to W. M. Graham, 28 October 1927. [PUL-001008]<!--linkrefid=524-->
+525. TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 5, Agent’s Report on Stuart Lake Agency for September, Robert Howe, 2 October 1940. [LEJ-002079]<!--linkrefid=525-->
+526. For examples from British Columbia, see: TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 6, Report of Corporal L. F. Fielder, 14 October 1943; [LEJ-001389] TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6443, file 881-1, part 2, R. Howe to Indian Affairs Branch, 12 September 1946; [LEJ-000855] TRC, NRA, Library and Archives Canada, RG10, volume 6445, file 881-10, part 7, R. Howe to Indian Affairs, 7 October 1946. [LEJ-001830] For Manitoba example, see: TRC, NRA, Library and Archives Canada, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 501/25-1-076, volume 1, A. G. Hamilton to Indian Affairs, 4 November 1943. [SBR-000408] For Saskatchewan examples, see: TRC, NRA, Library and Archives Canada, RG10, volume 6302, file 650-10, part 3, R. A. Hoey to J. P. B. Ostrander, 11 September 1942; [BVL-000433] TRC, NRA, Library and Archives Canada, RG10, volume 9148, file 309-11 ACE, John Baptiste, Peter King, and Alex Sapp to Indian Agent, Battleford, 31 August 1945. [PAR-000897-0002] For Alberta examples, see: TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 1/18-24, volume 1 (locator #X-46-4), Rev. L. C. Schmidt to Harold McGill, 2 July 1943; [NCA-014258] TRC, NRA, Library and Archives Canada, RG10, volume 6374, file 764-10, part 2, PARC, H. A. R. Gagnon to Director, Indian Affairs Branch, 12 October 1945; [PUL-009517-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6355, file 757-1, part 2, 1928–1948, John E. Pugh to Indian Affairs, 8 October 1947; [MOR-005548] TRC, NRA, Provincial Archives – Alberta, PAA 71.220 B94 3972, Principal Ermineskin Indian Residential School to Indian Affairs Branch, 31 March 1948; [OGP-032546] TRC, NRA, Library and Archives Canada, RG10, volume 6374, file 764-10, part 2, PARC, J. E. Pugh to Indian Affairs Branch, 7 March 1946; [PUL-009511] TRC, NRA, Library and Archives Canada – Edmonton, 103/6-1-764, volume 1, 09/44–12/54, C. A. F. Clark to Superintendent of Education, 9 November 1949; [IRC-048180] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 773/25-1-003, volume 1, 10/36–09/70, “Minutes of the Blood Band Council Held in The Indian Agency Office,” 22 November 1949, annotated by C. A. F. Clark. [IRC-041373]<!--linkrefid=526-->
+527. TRC, NRA, Library and Archives Canada, RG10, volume 6467, file 889-1, part 1, 12/1894–11/1933, Vancouver Agency – Squamish Residential School – General Administration, FA 10-17, Microfilm reel C-8785, NAC, Ottawa, A. W. Vowell to the Secretary, Department of Indian Affairs, 5 April 1905. [SQU-000423]<!--linkrefid=527-->
+528. TRC, NRA, Library and Archives Canada, RG10, volume 6270, file 582-1, part 1, “Extract from report on meeting Chief of Pine Creek Band,” A. Ogletree, Indian Agent, 16 June 1917. [PCR-010082]<!--linkrefid=528-->
+529. For an example from Morley, Alberta, see: TRC, NRA, Library and Archives Canada, NAC – Ottawa, 772/3-6, volume 1, dates 1940–1954, Minutes from the council meeting for the Stony Indian Agency, 15 October 1946, 3. [MOR-006118] For an example from Lestock, Saskatchewan, see: TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 673/25-1-003, 25 August 1949. [MRS-046113-0001]<!--linkrefid=529-->
+530. TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 673/25-1-003, J. P. B. Ostrander to Neary, 24 January 1950. [MRS-046113-0005]<!--linkrefid=530-->
+531. For an example from the Presbyterian school at Shoal Lake, Ontario, see: TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, Chief Kesik, Chief Redsky, and three others to McKenzie, 28 March 1917. [CJC-000006-0002]<!--linkrefid=531-->
+532. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461, part 1, “Report of the Commission of Presbytery appointed to investigate conditions at ‘Cecilia Jeffries [sic] Boarding School,’” 26 February 1918. [CJC-000847-0001]<!--linkrefid=532-->
+533. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 1, “Report of the Commission of Presbytery appointed to investigate conditions at ‘Cecilia Jeffries [sic] Boarding School,’” 26 February 1918. [CJC-000847-0001]<!--linkrefid=533-->
+534. TRC, NRA, Library and Archives Canada, volume 6332, file 661-1, part 2, petition from parents to Crooked Lakes Agency, 25 July 1949. [IRC-041159] Although Indian Affairs official J. P. B. Ostrander opposed replacing the teacher, he did report that she kept a strap on display in her class. He said, “If she does not use it for punishment, at least she keeps it on display as a threat of punishment, which does not promote harmony in the classroom.” TRC, NRA, Library and Archives Canada, volume 6332, file 661-1, part 2, J. P. B. Ostrander to Indian Affairs Branch, Department of Mines and Resources, 12 August 1949. [RLS-000512-0000]<!--linkrefid=534-->
+535. TRC, NRA, Library and Archives Canada, RG10, volume 6187, file 461-1, part 2, Mr. Paget to Mr. Ferrier, 21 August 1928. [CJC-001354]<!--linkrefid=535-->
+536. TRC, NRA, Library and Archives Canada, RG10, volume 6254, file 575-10, part 1, A. G. Smith to Secretary, Indian Affairs, 29 December 1936. [BIR-002631]<!--linkrefid=536-->
+537. For an example of a request for an investigation into a death, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Garnet Neff to T. G. Murphy, 26 January 1935; [RLS-000366-0001] TRC, NRA, Library and Archives Canada, RG29, volume 2917, file 851-1-A673, part 1, Memorandum to Mr. McLean, 13 January 1914. [NPC-603178] For an example of a complaint regarding discipline, see: TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 3, H. H. Craig to H. A. Snell, 29 July 1937. [MSC-000080-0001] For an example of working on behalf of an injured student, see: TRC, NRA, Library and Archives Canada, RG10, volume 6327, file 660-1, part 3, William Hall to Indian Affairs, 30 April 1936. [PLD-000746] For an example of seeking a discharge, see: TRC, NRA, Library and Archives Canada, volume 12333, box 19, part 1, 1936–1939, NAC, J. D. Caldwell to [Severed], 16 March 1939. [KUP-004496]<!--linkrefid=537-->
+538. TRC, NRA, Library and Archives Canada – Ottawa, RG85, volume 1505, file 600-1-1, part 1, N.W.T. – General Policy File – Education and Schools, 1905–1944, Extract From Act. Sgt. G. T. Makinson’s Report-Resolution, N.W.T., 3 July 1937. [FRU-010059]<!--linkrefid=538-->
+539. Cuthand, “Native Peoples,” 382–383; Kulchyski, “Considerable Unrest,” 100.<!--linkrefid=539-->
+540. Goodwill and Sluman, *John Tootoosis*, 155.<!--linkrefid=540-->
+541. Goodwill and Sluman, *John Tootoosis,* 156.<!--linkrefid=541-->
+542. Both the 1905 fire at the Saint-Paul-des-Métis, Alberta, school and the 1930 fire at the Cross Lake, Manitoba, school were set by students. The Saint-Paul fire resulted in one death; the Cross Lake fire, in thirteen deaths. For the Saint-Paul fire, see: Stanley, “Alberta’s Half-Breed Reserve,” 96–98. For the Cross Lake fire, see: TRC, NRA, Library and Archives Canada, RG10, volume 6260, file 577-1, part 1, J. L. Fuller to A. McNamara, 8 March 1930; [CLD-000933-0000] William Gordon to Assistant Deputy and Secretary, Indian Affairs, 10 March 1930. [CLD-000934]<!--linkrefid=542-->
+543. Wilson,*Missionary work*,167–170.<!--linkrefid=543-->
+544. TRC, NRA, Library and Archives Canada, RG10, volume 6032, file 150-40A, part 1, “Regulations Relating to the Education of Indian Children” (Ottawa: Government Printing Bureau, 1894). [AGA-001516-0000]<!--linkrefid=544-->
+545. See, for examples: Canada, *Annual Report of the Department of Indian Affairs, 1893*, 104; Canada, *Annual Report of the Department of Indian Affairs, 1902*, 423.<!--linkrefid=545-->
+546. See, for example: TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report, Re: Thomas ‘Tommy’ Linklater et al.,” 23 September 1936; [BRS-000240-0006] TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Thomas ‘Tommy’ Linklater et al.,” 20 October 1936; [BRS-000240-0005] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 2, “Royal Canadian Mounted Police Report, Re: Abner Elliott and Leonard Beeswax, truants,” 13 October 1938. [MER-001043-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 2, “Royal Canadian Mounted Police Report, Re: Abner Elliott and Leonard Beeswax, truants,” 11 January 1939. [MER-001048-0001]<!--linkrefid=546-->
+547. For Duncan Sticks, see: TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, 3 March 1902; [IRC-047093] Statement of Joseph Fahey, 3 March 1903; [IRC-047092] TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Antonio Boitano, 1 March 1902. [IRC-047086] For William Cardinal, see: TRC, NRA, Library and Archives Canada, RG10, volume 3921, file 116818-1B, J. F. Woodsworth to Secretary, Indian Affairs, 25 November 1918. [EDM-000956] For unnamed boy from The Pas, Manitoba, school, see: TRC, NRA, Anglican Church of Canada, General Synod Archives Anglican Church of Canada GS 75-103, B17, “Minutes of meeting of Indian and Eskimo Commission, M.S.C.C., Held on Tuesday, January 11th, 1927,” 11. [AAC-083001] For three unnamed boys from the Fort Alexander, Manitoba, school, see: St. Boniface Historical Society, Archives Deschâtelets, L 541 M27L 266, Brachet to père provincial, 20 October 1928. For Agnes Ben, see: “Find Body of Indian Girl, Long Missing,” *Winnipeg Free Press*, 17 April 1930. For Percy Ochapowace, see: TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Royal Canadian Mounted Police Report, “Re: Percy Ochapowace – Death of, Ochapowace Indian Reserve, Saskatchewan,” H. S. Casswell, 19 January 1935; [RLS-000365-0003] J. P. B. Ostrander to Secretary, Indian Affairs, 19 January 1935. [RLS-000365-0001] For Allen Patrick, Andrew Paul, Justa Maurice, and John Jack, see: TRC, NRA, Library and Archives Canada, RG10, volume 6446, file 881-23, part 1, R. H. Moore to Secretary, Indian Affairs, 6 January 1937. [LEJ-004083-0000] For Andrew Gordon, see: TRC, NRA, Library and Archives Canada, RG10, volume 9151, file 312-11 ACE, “Royal Mounted Police Report, Re Andrew Gordon (Juvenile), Deceased,” 16 March 1939. [GDC-009280-0001] For John Kioki, Michael Sutherland, and Michael Matinas, see: TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, Paul Langlois to Constable Dexter, 14 June 1941. [FTA-000105-0001] For Leonard Major, Ambrose Alexander, and Alec Francis, see: TRC, NRA, Library and Archives Canada – Ottawa, file 882-2, part 8, Kamloops Agency – Kamloops Residential School – Quarterly Returns, 1947–1952, FA 10-17, volume 6447, Microfilm reel C-8770, Library and Archives Canada – Ottawa, Indian Residential School Quarterly Return for Kamloops Indian Residential School, 30 September 1947, pages 8, 9, and 10 of 20-page portable document file; [KAM-002274] TRC, ASAGR, RCMP-564517, Royal Canadian Mounted Police, E-Div NIRS task force Final Report, M. W. Pacholuk, “Final Report of the Native Indian Residential School Task Force, Project E-NIRS,” Royal Canadian Mounted Police, 49. [AGCA-564517] For Albert Nepinak, see: TRC, NRA, Library and Archives Canada, RG10, volume 6272, file 582-23, part 1, Royal Canadian Mounted Police Report, 9 April 1951. [PCR-000190] For Tom and Charles Ombash, see: TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 494/3-3-3, volume 1, “Provincial Police Report,” G. A. McMonagle, 19 December 1956. [PLK-001205-0001] For Beverly Joseph and Patricia Joseph, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 961/25-2, volume 15, Admissions and Discharges – Kuper Island Residence, Cowichan Agency, B.C., 01/08/1958–02/07/1966, Control No. 34-15 IRSRC – Historical Files, J. V. Boys to Indian Commissioner for B.C., 29 January 1959. [KUP-200601] For Mabel Crane Bear and Belinda Raw Eater, see: TRC, NRA, Library and Archives Canada – Edmonton, 772/25-1, volume 1, 04/60–06/70, N. Goater to A. H. Murray, 10 March 1962. [OLD-007287-0005] For Alfred Whitehawk, see: TRC, NRA, Library and Archives Canada – Edmonton, RG10, Acc. E1996-97/415, box 36, file 25-2-662, 1964–1966, E. Turenne to K. Kerr, 6 June 1965. [SPR-006307] For Charles Wenjack, see: TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, On., Acc. 1988-7004, box 17, file 4, “Inquest Hears Tragic Tale of Runaway Boy,” *Kenora Miner and News*, 18 November 1966; Coroner’s Statement Upon Issuing His Warrant for Holding an Inquest in the Case of Charles Wenjack, R. Glenn Davidson, 4 November 1966; Report of Post-Mortem Examination, A-258, Charles Wenjack, 23 October 1966, Dr. Peter Pan; Adams, “The Lonely Death,” 30–44. [CJC-007909] For Joseph Commanda, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 451/25-2-004, volume 2, “Report on the Death of Joseph Commanda,” H. B. Rodine, 6 September 1968. [TAY-001114-0001] For Philip Swain and Roderick Keesick, see: TRC, NRA, INAC, file 487/18-2, volume 1, “2 Boys Died from Exposure,” *Kenora Miner and News*, 18 December 1970; [KNR-003158-0002] P. J. Hare to Indian Affairs, 7 December 1970. [KNR-003168] For Jack Elanik and Dennis Dick, see: TRC, NRA, Anglican Church of Canada, Diocese of the Arctic, General Synod Archives, file 110-09, Stringer Hall, Accession M96-7, series 2:1, Notice of missing boys, 1972; [AGS-000341] TRC, NRA, Government of Northwest Territories Archives Confidential, Hostels, 1971–1974, Archival box 8-24, Archival Acc. G1995-004, Leonard Holman to J. Coady, 14 July 1972. [SHU-000486]<!--linkrefid=547-->
+548. For examples of cases where criticism was directed against school authorities for the handling of runaways, including cases that led to fatalities, see: TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, 3 March 1902; [IRC-047093] TRC, NRA, Library and Archives Canada, RG10, volume 6436, file 878-1, part 1, Statement of Reverend Henry Boening, Statement of Joseph Fahey, 3 March 1903; [IRC-047092] TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, W. G. Tweddell to W. M. Graham, 6 May 1931; [DRS-000588] TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, Royal Canadian Mounted Police Report, “Re: Percy Ochapowace – Death of, Ochapowace Indian Reserve, Saskatchewan,” H. S. Casswell, 19 January 1935; [RLS-000365-0003] TRC, NRA, Library and Archives Canada, RG10, volume 6332, file 661-1, part 2, J. P. B. Ostrander to Secretary, Indian Affairs, 19 January 1935; [RLS-000365-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6446, file 881-23, part 1, R. H. Moore to Secretary, Indian Affairs, 6 January 1937; [LEJ-004083-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 654-1, part 2, “Memorandum of an inquiry into the cause and circumstances of the death of Andrew Gordon,” R. W. Frayling, 11 March 1939; [GDC-028479] TRC, NRA, Library and Archives Canada, RG10, volume 11553, file 312-11, “Indian Boy Frozen on Bush Trail,” *Regina Leader-Post*, 16 March 1939; [GDC-009281] TRC, NRA, Library and Archives Canada, RG10, volume 9151, file 312-11 ACE, “Royal Mounted Police Report, Re Andrew Gordon (Juvenile), Deceased,” 16 March 1939; [GDC-009280-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 2, Police Report, G. N. McRae, 23 April 1940; [SBR-110686-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 2, Police Report, G. L. Tisdale, 30 April 1940; [SBR-110686-0002] TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, Paul Langlois to Constable Dexter, 14 June 1941; [FTA-000105-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6186, file 460-23, part 1, “Statement of Charles Kioki,” 22 June 1942; [FTA-000116-0013] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 657-10, part 2, Royal Canadian Mounted Police Report, J. P. Douglas, 7 October 1944; [MDD-001704] TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 657-10, part 2, Royal Canadian Mounted Police Report, T. H. Playford, 10 October 1944; [MDD-002258] TRC, NRA, Library and Archives Canada, RG10, volume 6272, file 582-23, part 1, Royal Canadian Mounted Police Report, 9 April 1951; [PCR-000190] TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 487/18-24, volume 1, L. A. Marshall to Indian Affairs, 20 December 1954; [KNR-001380-0003] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 961/25-2, volume 15, Admissions and Discharges – Kuper Island Residence, Cowichan Agency, B.C., 01/08/1958– 02/07/1966, Control no. 34-15 IRSRC – Historical Files, J. V. Boys to Indian Commissioner for B.C., 29 January 1959; [KUP-200601] TRC, NRA, Library and Archives Canada – Edmonton, 772/25-1, volume 1, 04/60–06/70, N. Goater to A. H. Murray, 10 March 1962; [OLD-007287-0005] TRC, NRA, INAC, file 487/18-2, volume 1, “2 Boys Died from Exposure,” *Kenora Miner and News*, 18 December 1970; [KNR-003158-0002] TRC, NRA, INAC, file 487/18-2, volume 1, P. J. Hare to Indian Affairs, 7 December 1970. [KNR-003168]<!--linkrefid=548-->
+549. For the reporting to the Ontario Provincial Police, see: TRC, NRA, National Capital Regional Ser-vice Centre – LAC – Ottawa, file 494/3-3-3, volume 1, “Provincial Police Report,” G. A. McMonagle, 19 December 1956. [PLK-001205-0001] For the reporting to Indian Affairs, see: TRC, NRA, Library and Archives Canada, RG10, volume 8275, file 494/6-1-014, part 5, R. F. Davey to G. Swartman, 13 November 1956. [PLK-000488]<!--linkrefid=549-->
+550. Porter, “Remains Found Near Residential School Are ‘Non-human,’” *CBC News*, 12 July 2012, http://www.cbc.ca/news/canada/thunder-bay/remains-found-near-residential-school-are-non-human-1.1249599.<!--linkrefid=550-->
+551. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-5-2, volume 1, “Regulations With Respect to Teaching, Education, Inspection, and Discipline for Indian Residential Schools, Made and Established for the Superintendent General of Indian Affairs Pursu-ant to Paragraph (a) of Section 114 of the Indian Act,” 20 January 1953. [PAR-001203-0001]<!--linkrefid=551-->
+552. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 901/25-13, volume 4 (locator 156-2), J. B. Bergevin to H. B. Cotnam, 1 March 1971. [NCA-012545-0000]<!--linkrefid=552-->
+553. For an example from Chilliwack, British Columbia, see: TRC, NRA, Library and Archives Canada, RG10, volume 6422, file 869-1, part 1, Microfilm reel C-8754, J. Hall to F. Devlin, 19 January 1900. [COQ-000345]<!--linkrefid=553-->
+554. TRC, NRA, Library and Archives Canada, RG10, volume 6308, file 653-10, part 1, “Royal Canadian Mounted Police Report Re: Douglas Shingoose and Donald Stevenson,” 23 February 1935. [FHR-001050-0001]<!--linkrefid=554-->
+555. See, for examples: North-West Mounted Police, *Annual Report, 1894*, 52–53; TRC, NRA, Library and Archives Canada, RG10, volume 3920, file 116818, C. E. Somerset to Indian Commissioner, 6 October 1896; [EDM-009788] TRC, NRA, Library and Archives Canada, RG10, volume 2771, file 154845, part 1, Mohawk Institute to Hayter Reed, 18 March 1896; [TAY-003510] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, “RCMP Report regarding [Name redacted],” 16 October 1933. [SBR-110565-0001]<!--linkrefid=555-->
+556. Sutherland, *Children in English-Canadian Society,* 122. For examples of prosecutions, see: TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, A. H. L. Mellor to Deputy Superintendent General, Indian Affairs, 19 September 1935; [SBR-110607-0000] TRC, NRA, Library and Archives Canada, RG10, volume 6209, file 468-10, part 1, “Royal Canadian Mounted Police report, Re: [Names redacted],” 21 November 1937; [MER-000580-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6193, file 462-10, part 3, A. D. Moore to Secretary, Indian Affairs, 16 September 1940. [CRS-000507-0000]<!--linkrefid=556-->
+557. For examples of the Royal Canadian Mounted Police’s being used to return students to school, see: TRC, NRA, Library and Archives Canada, RG10, volume 6330, file 660-10, part 1, R. W. Greatwood to Indian Affairs, 11 April 1930; [PLD-003278-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6330, file 660-10, part 2, H. E. P. Mann to Commissioner, RCMP, 6 February 1934; [PLD-003316-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6193, file 462-10, part 1, page 1/1, “Royal Canadian Mounted Police Report,” 11 February 1935, C. Graham; [CRS-001237-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6275, file 583-10, part 1, “Royal Canadian Mounted Police Report, Re: Frank Puckina or Edwards,” 15 September 1939; [PLP-000374] TRC, NRA, Library and Archives Canada, RG10, volume 6304, file 651-10, part 1, Constable G. J. Mitchell, 9 September 1931. [MRS-045402-0001]<!--linkrefid=557-->
+558. TRC, NRA, Untitled document, purportedly Chronologie Dépuis Leur Foundations, École Blue Quills (Daily Journal from their Founding, Grey Nuns at Blue Quills) 1931–1936, entry for 1 May 1932. [GNA-000404]<!--linkrefid=558-->
+559. TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, “RCMP’s Report on Truant,” Constable R. D. Toews, 23 October 1936; [SBR-110630-0001] TRC, NRA, Library and Archives Canada, RG10, volume 6278, file 584-10, part 1, Constable R. D. Toews, 8 May 1937. [SBR-110645-0001]<!--linkrefid=559-->
+560. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Wallace Hahawahi, Delinquent,” 28 October 1936. [BRS-000240-0004]<!--linkrefid=560-->
+561. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Kenneth Thompson, Runaway Boy,” 28 October 1936. [BRS-000240-0001]<!--linkrefid=561-->
+562. TRC, NRA, Library and Archives Canada, RG10, volume 6258, file 576-10, part 9, “Royal Canadian Mounted Police Report Re: Peter Ryder Runaway Boy,” 28 October 1936. [BRS-000240-0002]<!--linkrefid=562-->
+563. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part 2, J. Waddy, 24 November 1928. [DRS-000564]<!--linkrefid=563-->
+564. TRC, NRA, Library and Archives Canada, RG10, volume 6253, file 575-5, part 5, A. G. Hamilton to Indian Affairs, November 4, 1935. [BIR-000208]<!--linkrefid=564-->
+565. TRC, NRA, Library and Archives Canada, RG10, volume 6057, file 265-10, part 1, J. P. Mackey to Secretary, Indian Affairs, 16 July 1937; [SRS-006077] J. P. Mackey to Secretary, Indian Affairs, 27 July 1937. [SRS-006079]<!--linkrefid=565-->
+566. TRC, NRA, Library and Archives Canada, RG10, volume 6057, file 265-10, part 2, “Royal Canadian Mounted Police Report Re: Steven LaBobe,” 15 October 1938. [SRS-006090-0001]<!--linkrefid=566-->
+567. TRC, NRA, Library and Archives Canada, RG10, volume 6053, file 260-10, part 1, J. P. Mackey to W. J. Cameron, 21 March 1939; [SRS-007977] TRC, NRA, Library and Archives Canada, RG10, volume 6053, file 260-10, part 1, J. P. Mackey to Secretary, Indian Affairs, 14 April 1939. [SRS-007980]<!--linkrefid=567-->
+568. TRC, AVS, Ken Lacquette, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-052.<!--linkrefid=568-->
+569. TRC, AVS, Anthony Wilson, Statement to the Truth and Reconciliation Commission of Canada, Terrace, British Columbia, 30 November 2011, Statement Number: 2011-3303.<!--linkrefid=569-->
+570. TRC, AVS, Arthur Ron McKay, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-044.<!--linkrefid=570-->
+571. TRC, AVS, Ivan George, Statement to the Truth and Reconciliation Commission of Canada, Mission, British Columbia, 18 May 2011, Statement Number: 2011-3472.<!--linkrefid=571-->
+572. TRC, AVS, Muriel Morrisseau, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-057.<!--linkrefid=572-->
+573. TRC, AVS, Isaac Daniels, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-1779.<!--linkrefid=573-->
+574. TRC, AVS, Dora Necan, Statement to the Truth and Reconciliation Commission of Canada, Ignace, Ontario, 3 June 2011, Statement Number: 2011-1503.<!--linkrefid=574-->
+575. TRC, AVS, Nellie Cournoyea, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 28 June 2011, Statement Number: NNE105. Cournoyea later went on to lead the negotiation of the first comprehensive land rights agreement in the Northwest Territories for her Inuvialuit people, and later became the first Aboriginal and female premier in Canada.<!--linkrefid=575-->
+576. TRC, AVS, Lawrence Waquan, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.<!--linkrefid=576-->
+577. TRC, AVS, Beverley Anne Machelle, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 27 May 2011, Statement Number: 2011-1133.<!--linkrefid=577-->
+578. TRC, NRA, INAC, file 494/18-28, volume 1, G. Swartman to Indian Affairs Branch, 12 May 1955. [PLK-002025]<!--linkrefid=578-->
+579. TRC, AVS, Mel H. Buffalo, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 24 July 2013, Statement Number: SP124.<!--linkrefid=579-->
+580. Canada, *Annual Report of the Department of Indian Affairs, 1907*, 189.<!--linkrefid=580-->
+581. United Church of Canada Archives, Toronto, Archive accession information: Fonds, 3282: John Chantler McDougall Fonds, 1986.291C, box 1, file 8, Mrs. J. McDougall, “Founding of the McDougall Orphanage and Training School,” Historical Sketch, no date.<!--linkrefid=581-->
+582. Coccola, *They Call Me Father,* 89.<!--linkrefid=582-->
+583. Stocken, *Among the Blackfoot,* 1–2.<!--linkrefid=583-->
+584. Kelm, “Introduction” to Butcher, *Letters of Margaret Butcher*, xi, xxvi.<!--linkrefid=584-->
+585. Butcher, *Letters of Margaret Butcher,* 5.<!--linkrefid=585-->
+586. TRC, AVS, Lorraine Arbez, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-007.<!--linkrefid=586-->
+587. TRC, AVS, Noreen Fischbuch, Statement to the Truth and Reconciliation Commission of Canada, Beaver Mines, Alberta, 3 August 2011, Statement Number: 2011-1692.<!--linkrefid=587-->
+588. TRC, AVS, George Takashima, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 3 August 2011, Statement Number: 2011-1700.<!--linkrefid=588-->
+589. TRC, NRA, Library and Archives Canada, RG10, volume 3938, file 121607, Deputy Superintendent General of Indian Affairs to A. E. Forget, Assistant Commissioner of Indian Affairs, NWT, 18 January 1895. [RIS-000385-0000]<!--linkrefid=589-->
+590. Library and Archives Canada, RG10, volume 2100, file 17960, part 2, A. Sutherland to Superintendent General of Indian Affairs, 31 March 1887.<!--linkrefid=590-->
+591. TRC, NRA, Library and Archives Canada, RG10, volume 8843, file 709/16-2-001, part 1, C. H. Birdsall to Dr. Dorey, 2 June 1948. [EDM-000371]<!--linkrefid=591-->
+592. TRC, NRA, No document location, no document file source, H. F. Dunlop to P. Phelan, 4 November \1948. [SEC-000063]<!--linkrefid=592-->
+593. TRC, NRA, No document location, no document file source, A. Noonan to L. K. Poupore, 27 November 1960. [CIS-000553]<!--linkrefid=593-->
+594. TRC, NRA, Library and Archives Canada, file 883-1, part 1, Bella Coola Agency – Kitamaat Boarding School – General Administration, 1906–1932, FA 10-17, Perm. volume 6451, Microfilm reel C-8773, Library and Archives Canada, L. Spotton to C. G. Young, 28 February 1930. [KMT-095721]<!--linkrefid=594-->
+595. TRC, NRA, Library and Archives Canada, RG10, volume 6377, file 767-1, part 1, M. Christianson to H. W. McGill, 2 August 1933. [JON-000073]<!--linkrefid=595-->
+596. Fast, “Amelia Le Soeur (Yeomans),” http://www.biographi.ca/009004-119.01-e.php?BioId=41653 (accessed 26 May 2013); Canada, *Annual Report of the Department of Indian Affairs, 1900*, 109; Canada, *Annual Report of the Department of Indian Affairs, 1901*, 80. (Charlotte Amelia’s name is mistakenly given as Annie in the annual report.)<!--linkrefid=596-->
+597. TRC, AVS, Theresa Reid, Statement to the Truth and Reconciliation Commission of Canada, Powell River, British Columbia, 28 September 2011, Statement Number: 2011-0263.<!--linkrefid=597-->
+598. TRC, AVS, George Takashima, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 3 August 2011, Statement Number: 2011-1700.<!--linkrefid=598-->
+599. TRC, AVS, Olive Saunders, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 7 and 8 March 2011, Statement Number: 2011-0042.<!--linkrefid=599-->
+600. TRC, NRA, Provincial Archives Alberta, PAA 71.220 B161 2357, E. O. Drouin to Chief Shot on Both Sides and Blood Band Council, Indian Agency, Cardston, 27 December 1966. [OGP-022362]<!--linkrefid=600-->
+601. Regina principal A. J. McLeod (1900), TRC, NRA, The United Church of Canada Archives, Toronto, Acc. No. 1979.199C, box 2, file 20, Alex Skene to Mr. McKay, 1 December 1900; [RIS-000436] Muncey, Ontario, principal W. W. Shepherd (died after a horse-drawn cart accident in 1903), TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 1, R. G. Howes to Deputy Superintendent General, 25 May 1903; [MER-000331] Regina principal J. A. Sinclair (1905), TRC, NRA, Library and Archives Canada, RG10, volume 3927, file 116836-1A, Frank Pedley to W. M. Graham, 16 January 1905; [RIS-000090] Mission, British Columbia, principal Charles Marchal (diphtheria, 1906), TRC, NRA, Library and Archives Canada, RG10, volume 6468, file 890-1, part 1, Microfilm reel C-8786, A. W. Vowell to Secretary, Indian Affairs, 10 October 1906; [MIS-004766] Onion Lake, Saskatchewan, Anglican school principal John Matheson (1916), TRC, NRA, Library and Archives Canada, RG10, volume 6320, file 658-1, part 1, W. Sibbald to Secretary, Indian Affairs, 28 August 1916; [PAR-003569] Qu’Appelle, Saskatchewan, principal Joseph Hugonnard (1917), RG10, volume 6327, file 660-1, part 1, M. Kalmes to Duncan C. Scott, 13 February 1917; [PLD-000005] Shoal Lake, Ontario, principal Mr. Mathews (influenza, 1918), TRC, NRA, RG10, volume 6187, file 461-1, part 1, R. S. McKenzie to Assistant Deputy and Secretary, 23 October 1918; [CJC-000870] High River, Alberta, principal George Nordmann (influenza, 1918), Library and Archives Canada, RG10, volume 3933, file 117657-1, A. Naessens to Secretary, Indian Affairs, 7 January 1919; Gordon’s, Saskatchewan, principal H. W. Atwater (1925), TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-02016, volume 4, T. J. Davies to Mr. Moore, 25 November 1925; [GDC-002528] Beauval, Saskatchewan, principal Mederic Adam (typhoid, 1930), TRC, NRA, Library and Archives Canada, RG10, volume 6300, file 650-1, part 1, O. Charlebois to Duncan Scott, 28 October 1930; [BVL-000005] Grayson, Saskatchewan, principal J. Carriere (1933), TRC, NRA, Library and Archives Canada, RG10, volume 6303, file 651-1, part 1, A. F. MacKenzie to J. P. B. Ostrander, 3 July 1933; [MRS-001401] Kamsack, Saskatchewan, principal C. Brouillet (1935), TRC, NRA, Library and Archives Canada, RG10, volume 6334, file 662-1, part 2, A. F. MacKenzie to W. Murison, 14 February 1935. [SPR-000465]<!--linkrefid=601-->
+602. TRC, NRA, Library and Archives Canada, RG10, volume 1346, Microfilm reel C-13916, G. Donckele to W. R. Robertson, 1 January 1907; [KUP-004280] RG10, FA 10-1, volume 1346, Microfilm reel C-13916, Cowichan Agency – Incoming Correspondence re Kuper Island Industrial School, 1891–1907, P. Claessen to W. R. Robertson, 5 June 1907. [KUP-022198] For A. J. McLeod’s initials, see: Canada, *Annual Report of the Department of Indian Affairs, 1900*, 383.<!--linkrefid=602-->
+603. TRC, NRA, Anglican Church of Canada Archives, Diocese of the Arctic, M96-7, box 188, “File 8, Collected Material – Bessie Quirt, Articles written by Bessie re: Shingle Point and Fort George” “RE: First Eskimo Residential School (Anglican) – Shingle Point. Story One – Fifty Years Ago – August 1929–1979”; Library and Archives Canada, RG919-10, part 1, Fort Norman Agency – Aklavik Church of England Residential School – Admissions and Discharges, 1936–1946, FA 10-17, Perm. volume 6477, Microfilm reel C-8792, H. S. Shepherd to Philip Phelan, 30 March 1939; [ASU-001138] RG29, volume 2906, file 851-1-A486, part 3, H. S. Shepherd to P. E. Moore, 14 January 1948; [NPC-603247] RG10, volume 10728, file 484/25-2-467, part 1, H. S. Shepherd to J. L. Whitey, 17 November 1952; [MFI-001074] Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2.15, box 22, file 2, “Minutes of a Meeting of the Sub-Executive Committee MSCC,” 8th September 1954; [AAC-090761]Anglican Church of Canada, General Synod Archives GS 75-103, series 2-15, box 22, “Report of the Superintendent, Indian School Administration, to the M.S.C.C. Board of Management, Toronto, November 16th, 1954.” [GDC-007201]<!--linkrefid=603-->
+604. TRC, NRA, Library and Archives Canada, RG10, volume 6430, file 876-1, part 1, West Coast Agency – Ahousaht Residential School – General Administration, 1901–1931, FA 10-17, Microfilm reel C-8759, W. R. Woods to Dr. Young, 5 November 1929. [AST-200068-0001]<!--linkrefid=604-->
+605. Methodist Church of Canada, British Columbia Conference, Port Simpson District, Ministerial Sessions, 1893, 188, quoted in Bolt, *Thomas Crosby,* 63.<!--linkrefid=605-->
+606. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 8803, file 959/25-13, part 2, Henry Cook to Frank Howard, 29 March 1960. [MIK-002122]<!--linkrefid=606-->
+607. TRC, NRA, O.M.I. House – Vancouver, box 39, Fort St. John–Kakawis Family Development, folder 20, Kakawis Correspondence 1942–1979, Series One Plus Finding Aid, B.C./Yukon Local Community of O.M.I. Lacombe Canada Province [formerly St. Paul’s Province], Mary Gemma to M. Kearney, 3 February 1958. [CST-800117] For background on the Benedictine Sisters of Mount Angel, see: The Benedictine Sisters of Mount Angel, “About Us, A Brief History of the Benedictine Sisters of Mt. Angel,” http://www.benedictine-srs.org/history.html (accessed 12 June 2014).<!--linkrefid=607-->
+608. TRC, NRA, Library and Archives Canada, RG55, FA 55-22, Acc. 1980-81/069, box 118, file 1105, part 2, Rates of Pay & Conditions of Employment of Teachers, 1964–1965, R. F. Davey to Peter Fillipoff, 25 May 1965. [AEMR-150636]<!--linkrefid=608-->
+609. Bruno-Jofre, *Missionary Oblate Sisters,* 4–12, 132–139; Choquette, *Canada’s Religions,* 83–84, 201; McCarthy, *From the Great River,* 156; Gresko, “Gender and Mission,” 9; Huel, *Proclaiming the Gospel,* 165–166, 171; Shanahan, *Jesuit Residential School,* 5; TRC, NRA, Provincial Archives – Alberta, Acc. 78.204/5, Vital Grandin to Mother Ste. Marie, 27 September 1890; [ORC-000775] No document location, no document file source, Victor Rassier to Gerald Murphy, 15 September 1930; [BVT-000239] No document location, no document file source, M. Agatha, to Gerald Murray, 26 May 1931; [BVT-000260] TRC, NRA, Library and Archives Canada, RG10, volume 6276, file 584-3, part 1, H. B. Rayner to W. M. Graham, 26 August 1931. [SBR-000879-0001]<!--linkrefid=609-->
+610. TRC, CAR, United Church Archives, Presbyterian Church in Canada, Board of Foreign Missions, Records Pertaining to Missions to Aboriginal People in Manitoba and the North West, 79.199C, box 3, file 29, (C0990), Austin McKitrick to Dr. R. P. MacKay, 30 September 1901, quoted in Hildebrand, “Staff Perspectives,” 170. [13d-c000990-d0017-001]<!--linkrefid=610-->
+611. Gagan, *Sensitive Independence*, 201.<!--linkrefid=611-->
+612. Canada, *Annual Report of the Department of Indian Affairs, 1906*, 2:52–56.<!--linkrefid=612-->
+613. Grant, “Two-Thirds of the Revenue,” 108–109.<!--linkrefid=613-->
+614. For an example, see: Canada, *Annual Report of the Department of Indian Affairs, 1893*, 172.<!--linkrefid=614-->
+615. TRC, NRA, Library and Archives Canada, file 886-24, part 1, Skeena River Agency – Crosby Girls Residential School [Port Simpson] – Audit Reports 1935–1948, FA 10-17, Perm. volume 6458, Microfilm reel C-8779; Library and Archives Canada – Ottawa, “Crosby Girls’ Home, United Church of Canada, Cost of Operations for Fiscal Year 1934–35.” [PSM-200049-0003]<!--linkrefid=615-->
+616. TRC, NRA, Library and Archives Canada, RG10, volume 8845, file 963/16-2, part 1, July 3, 1936, Re: Kamloops Residential School, Roman Catholic. [KAM-002000]<!--linkrefid=616-->
+617. TRC, NRA, Anglican Diocese of Cariboo Archives Section #205, St. George Indian Residential School, Card D.C. 2C11, Lytton-St.-George’s School, #88.44, “All Saints Indian Residential School Staff Manual 2nd Revision, 1967, Mr. A. W. Harding, Vice-Principal,” 26–27. [AEMR-177341]<!--linkrefid=617-->
+618. Canada, *Annual Report of the Department of Indian Affairs, 1896*, 366.<!--linkrefid=618-->
+619. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 9:08, box 131, file 5-3, “The Indian Residential School Commission of the Mission Society of the Church of England in Canada, An Outline of the Duties of Those Who Occupy Positions on the Staff at the Society’s Indian Residential Schools, No. III, The Teacher.” [AAC-090142]<!--linkrefid=619-->
+620. TRC, NRA, Library and Archives Canada, RG10, volume 6462, file 888-1, part 1, H, EGN-007951, F. J. C. Ball to D. C. Scott, 5 May 1921. [GRG-022150-0000]<!--linkrefid=620-->
+621. TRC, NRA, Library and Archives Canada, RG10, volume 6028, file 118-7-1, part 1, E. B. Glass to Dr. Sutherland, 4 September 1896. [WFL-000648-0002]<!--linkrefid=621-->
+622. Hare and Barman, “Good Intentions,” 168, 205, 206, 216.<!--linkrefid=622-->
+623. Buck, *Doctor Rode Side-Saddle,* 114, 133.<!--linkrefid=623-->
+624. Buck, *Doctor Rode Side-Saddle,* 92.<!--linkrefid=624-->
+625. Brandon, Manitoba, principal T. Ferrier in 1903; Mount Elgin, Ontario, principal S. R. McVitty in 1913; and Kuper Island, British Columbia, principal W. Lemmens in 1915—all used the word “evil” in describing tendencies in Aboriginal culture. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 342–343; TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 1, Public Archives Canada, S. R. McVitty, “Helping the Indian: How it Is Done at Mount Elgin Industrial Institute,” *The Christian Guardian*, 31 May 1913; [MER-0376] RG10, volume 1347, Microfilm reel C-13916, W. Lemmens to W. R. Robertson, 10 February 1915. [KUP-004240]<!--linkrefid=625-->
+626. See, for example, *Algoma Missionary News* (April 1877): 14, quoted in Wilson, “Note on Shingwauk Industrial Home,” 69; Butcher, *Letters of Margaret Butcher,* 26.<!--linkrefid=626-->
+627. TRC, NRA, Library and Archives Canada, RG10, volume 6057, file 265-10, part 1, J. P. Mackey to Father MacNeil, 5 October 1936. [SRS-000280-0003]<!--linkrefid=627-->
+628. Bush, *Western Challenge,* 27.<!--linkrefid=628-->
+629. Fisher, *Contact and Conflict,* 185–188; Usher, *William Duncan,* 126.<!--linkrefid=629-->
+630. TRC, NRA, Anglican Church of Canada, General Synod Archives, MSCC, GS 75-103, series 2-15, box 29, file 10, Anglican document no. 52.63, Victoria Ketcheson and Patricia Watson, 29 November 1952. [PAR-001992]<!--linkrefid=630-->
+631. TRC, NRA, Document location to be determined, Hance/Aleck/Michell – Anglican Church of Canada and Anglican Church of Cariboo List of Documents, Helen Clafton to Bishop Dean, 5 March 1957. [ANG-063238]<!--linkrefid=631-->
+632. Canada, *Annual Report of the Department of Indian Affairs, 1930*, 17.<!--linkrefid=632-->
+633. TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 2, “Successful Graduates.” [TAY-004294-0002]<!--linkrefid=633-->
+634. TRC, NRA, Library and Archives Canada, RG10, volume 2006, file 7825-1A, “Report on the Mohawk Institute and Six Nations Board School,” 30 August 1895, 43. [TAY-003821-0000]<!--linkrefid=634-->
+635. TRC, NRA, Library and Archives Canada, RG10, volume 6200, file 466-1, part 2, A. F. MacKenzie to H. W. Snell, 7 May 1936. [TAY-003085-0002]<!--linkrefid=635-->
+636. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 402.<!--linkrefid=636-->
+637. TRC, NRA, United Church of Canada Archives, Acc. No. 1979.199C, box 5, file 60, J. A. Sinclair to R. P. MacKay, 26 April 1904. [RIS-000306]<!--linkrefid=637-->
+638. TRC, NRA, Library and Archives Canada, RG10, volume 6255, file 576-1, part 2, J. Doyle to Secretary, Indian Affairs, 14 September 1932. [BRS-000234]<!--linkrefid=638-->
+639. Canada, *Annual Report of the Department of Indian Affairs, 1960*, 56.<!--linkrefid=639-->
+640. TRC, AVS, Stanley McKay, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 13 July 2011, Statement Number: 2011-0269<!--linkrefid=640-->
+641. Kirkness, *Creating Space*, 3–12, 29–40.<!--linkrefid=641-->
+642. Kirkness, *Creating Space*, 29–30.<!--linkrefid=642-->
+643. TRC, NRA, Library and Archives Canada, RG10, file 494/1-13-014, volume 1, T. B. Jones to R. F. Davey, 21 June 1963. [PLK-001867] For Spence as a residential school student, see: Canada, Special Joint Committee, 1947, 1066–1067.<!--linkrefid=643-->
+644. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 494/25-1-014, volume 2, “The Anglican Indian Residential School, Sioux Lookout, Ontario,” 10 June 1965. [PLK000304-0001]<!--linkrefid=644-->
+645. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 487/25-1-014, R. F. Davey to Giollo Kelly, 10 June 1966. [CJC-000308]<!--linkrefid=645-->
+646. TRC, NRA, The Presbyterian Church in Canada Archives, Toronto, ON, Acc. 1988-7004, box 43, file 4, Giollo Kelly to Mrs. Colin Wasacase, 8 July 1966. [NCA-009161-0002]<!--linkrefid=646-->
+647. For Mission, see: TRC, NRA, “Historic Transfer of Authority,” *Fraser Valley Record*, 5 September 1973. [OMS-000307] For Kamloops, see: TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-138, Acc. v85-86/353, file 963/1-13, Perm. volume 6 [502372], part 1, Student Residence Es-tablishment, 1969–78, NAC – Burnaby, A. H. Friesen to A. H. Noonan, 18 April 1973. [KAM-008144] For Blue Quills, Alberta, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 779/25-2-009, volume 1 (Ctrl #55-4), “Confidential: Notes: Re Blue Quills,” undated. [NCA-007302] For Prince Albert, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 601/25-13-1, J. B. Freeman to James A. Roberts, 2 April 1973. [PAR-019374] For Duck Lake, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, GRS Files, box 8A, file 15, D. Seesequasis to H. Kolakowski, 3 February 1982. [GDC-014654-0004] For Qu’Appelle, see: LaRose, “Wrecker’s ball Claims White Calf Collegiate,” http://www.ammsa.com/publications/saskatchewan-sage/wreckers-ball-claims-white-calf-collegiate-0. For Fort George, see: TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 371/25-1-019, volume 2, Right Rev. James A. Watton to A. Gill, 7 September 1971. [FGA-000225-0001] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, NCR-E4974-1 (Encl 1), volume 3, (Ctrl #446-19), Saskatchewan Region, Student Residences: An Issue Manage-ment Discussion Paper, 8 February 1994. [NCA-016023-0002]<!--linkrefid=647-->
+648. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, NCR-E4974-1 (Encl 1), volume 3, (Ctrl #446-19), Saskatchewan Region, Student Residences: An Issue Management Discussion Paper, 8 February 1994. [NCA-016023-0002]<!--linkrefid=648-->
+649. TRC, NRA, Anglican Church of Canada, General Synod Archives, file 1, Visit Reports of the Super-intendent 02/54–12/54, pg. 004126-004227, Accession GS 75-103, series 2:15, box 24, “Superinten-dent’s Visit to Chooutla School, Carcross, Y.T., December 3th–6th, 1954.” [DYK-201620]<!--linkrefid=649-->
+650. TRC, CAR, General Synod of the Anglican Church of Canada Archives, Archive accession in-formation: MSSC Indian School Administration, Visit Reports, 1954–62, file 2 (1955–56), “Su-perintendent’s Visit to St. John’s Residential School, Wabasca, Alberta, 26th August, 1956.” [13a-c000034-d0002-022]<!--linkrefid=650-->
+651. General Synod of the Anglican Church of Canada Archives, Missionary Society of the Church of England in Canada, Indian School Administration – Visit Reports, Committees, Textual Records, 1903–1968, Indian and Eskimo Residential Schools and Indian School Administration, 1921–1977, GS75-103, box 23, file 10, “Superintendent’s Visit to St. Philip’s School, Fort George – March 24–25,” 1953. [13a-c000032-d0025-001]<!--linkrefid=651-->
+652. TRC, CAR, The General Synod of the Anglican Church of Canada Archives, ACC-MSCC-GS 75-103, series 2:15, box 24, file 2, Superintendent’s Visit to St. Philip’s School, Fort George, P.Q., January 16 and 17, 1956. [13a-c000034-d0002-004]<!--linkrefid=652-->
+653. TRC, AVS, Jeanne Rioux, Statement to the Truth and Reconciliation Commission of Canada, Van-couver, British Columbia, 18 September 2013, Statement Number: 2011-3207.<!--linkrefid=653-->
+654. TRC, AVS, Mary Chapman, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 4 October 2011, Statement Number: 2011-1529.<!--linkrefid=654-->
+655. Vitaline Elsie Jenner, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-131.<!--linkrefid=655-->
+656. Coates, *A Global History of Indigenous Peoples*, 244–245.<!--linkrefid=656-->
+657. United Nations, *United Nations Declaration on the Rights of Indigenous Peoples*; Coates, *A Global* *History of Indigenous Peoples*, 244–245.<!--linkrefid=657-->
+658. Smith, *Apology to First Nations People,* http://www.united-church.ca/beliefs/policies/1986/a651 (accessed 23 October 2014).<!--linkrefid=658-->
+659. The Missionary Oblates of Mary Immaculate, *An Apology to the First Nations of Canada by the Oblate Conference of Canada*, http://www.cccb.ca/site/images/stories/pdf/oblate_apology_english.pdf (accessed 27 October 2014)<!--linkrefid=659-->
+660. For the Anglican apology, see: Hiltz, *A Step Along the Path: Apology by Archbishop Fred Hiltz*, http://www.anglican.ca/relationships/files/2011/06/Apology-English.pdf (accessed 27 October 2014). For the Presbyterian apology, see: Presbyterian Church in Canada, *The Confession of the Presbyterian Church in Canada as Adopted by the General Assembly,* http://presbyterian.ca/?wpd-mdl=92& (accessed 27 October 2014); The United Church of Canada, *Apology to Former Students of United Church Indian Residential Schools, and to Their Families and Communities*, http://www. united-church.ca/beliefs/policies/1998/a623 (accessed 27 October 2014).<!--linkrefid=660-->
+661. “Bernard’s Lawsuit Helped Natives Nationwide*,” The Daily News*, http://www.canada.com/story_print.html?id=983a8b88-a8ac-4e09-9e5c-b2c0e207ac3d.<!--linkrefid=661-->
+662. Canadian Broadcasting Corporation, *The Journal*, Barbara Frum interview with Phil Fontaine, 30 October 1990, http://archives.cbc.ca/society/education/clips//11177.<!--linkrefid=662-->
+663. Lleweyn, “Dealing with the Legacy,” 253 at 261.<!--linkrefid=663-->
+664. Assembly of First Nations, *Assembly of First Nations Report,* 11.<!--linkrefid=664-->
+665. *Cloud v. Canada (Attorney General)* 2004 CanLII 45444 (ON CA).<!--linkrefid=665-->
+666. Canada, House of Commons Debates (11 June 2008), 6850.<!--linkrefid=666-->
+667. Canada, House of Commons Debates (11 June 2008), 6851.<!--linkrefid=667-->
+668. Canada, House of Commons Debates (11 June 2008), 6852.<!--linkrefid=668-->
+669. Canada, House of Commons Debates (11 June 2008), 6853.<!--linkrefid=669-->
+670. Canada, House of Commons Debates (11 June 2008), 6855.<!--linkrefid=670-->
+671. Canada, House of Commons Debates (11 June 2008), 6855.<!--linkrefid=671-->
+672. Canada, House of Commons Debates (11 June 2008), 6855.<!--linkrefid=672-->
+673. Canada, House of Commons Debates (11 June 2008), 6856.<!--linkrefid=673-->
+674. Canada, House of Commons Debates (11 June 2008), 6856.<!--linkrefid=674-->
+
+### The legacy
+
+1. TRC, AVS, Johanne Coutu-Autut, Statement to the Truth and Reconciliation Commission of Canada, Rankin Inlet, Nunavut, 21 March 2011, Statement Number: 2011- 0160.<!--linkrefid=1-->
+2. TRC, AVS, Joseph Martin Larocque, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4386.<!--linkrefid=2-->
+3. TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4391.<!--linkrefid=3-->
+4. TRC, AVS, Genine Paul-Dimitracopoulos, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2862.<!--linkrefid=4-->
+5. TRC, AVS, Alma Scott, Statement to the Truth and Reconciliation of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-016.<!--linkrefid=5-->
+6. Canada, Truth and Reconciliation Commission of Canada, *Interim Report*, Recommendation 15, 29.<!--linkrefid=6-->
+7. Canada, Aboriginal Affairs and Northern Development Canada, *Canada’s Statement of Support*, http://www.aadnc-aandc.gc.ca/eng/1309374239861/1309374546142.<!--linkrefid=7-->
+8. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 6-21-1, volume 2 (Ctrl #27-6), H. M. Jones to Deputy Minister, 13 December 1956. [NCA-001989-0001]<!--linkrefid=8-->
+9. For a discussion that places both child welfare and residential schools in the context of the ongoing colonization of Aboriginal people, see: McKenzie and Hudson, “Native Children.”<!--linkrefid=9-->
+10. Royal Commission on Aboriginal Peoples, as cited in Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 4.<!--linkrefid=10-->
+11. Canada, Statistics Canada, *Aboriginal People in Canada,* 19.<!--linkrefid=11-->
+12. TRC, AVS, Norma Kassi, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: NNE203.<!--linkrefid=12-->
+13. United Nations, Convention on the Rights of the Child, *Concluding observations,* 12–13.<!--linkrefid=13-->
+14. United Nations, Convention on the Rights of the Child, *Concluding observations,* 7.<!--linkrefid=14-->
+15. Vandna et al., *Kiskisik Awasisak,* x–xi.<!--linkrefid=15-->
+16. Vandna et al., *Kiskisik Awasisak*, xi. The authors concluded that there was not enough data on Métis and Inuit children, and excluded them from the study. Vandna et al., *Kiskisik Awasisak,* ix.<!--linkrefid=16-->
+17.  Vandna et al., *Kiskisik Awasisak*, 83–87.<!--linkrefid=17-->
+18. Vandna et al., *Kiskisik Awasisak,* xviii.<!--linkrefid=18-->
+19. Vandna et al., *Kiskisik Awasisak*, xii.<!--linkrefid=19-->
+20. Ruiz-Casares et al., “Supervisory Neglect,” 478.<!--linkrefid=20-->
+21. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-048.<!--linkrefid=21-->
+22. TRC, AVS, Linda Clarke, Statement to the Truth and Reconciliation Commission of Canada, St. Albert, Alberta, 12 June 2011, Statement Number: 2011-0013.<!--linkrefid=22-->
+23. Information about ethnicity was available for 94 of the 145 children who have died in foster care since 1999. Of that number, 74 were Aboriginal. “Deaths of Alberta Aboriginal Children in Care No ‘Fluke of Statistics,’” *Edmonton Journal,* 8 January 2014, http://www.edmontonjournal.com/life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story.html (accessed 18 February 2014).<!--linkrefid=23-->
+24. Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 3; “Deaths of Alberta Aboriginal Children in Care No ‘Fluke of Statistics,’” *Edmonton Journal,* 8 January 2014, http://www.edmontonjournal.com/life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story.html (accessed 18 February 2014).<!--linkrefid=24-->
+25. Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 4.<!--linkrefid=25-->
+26. Canada, Aboriginal Affairs and Northern Development Canada, Program Expenditures/Statistics, First Nations Child and Family Services Program Statistics, First Nations children ordinarily resident on reserve in care, https://www.aadnc-aandc.gc.ca/eng/1382549135936/1382549233428 (accessed 1 May 2015).<!--linkrefid=26-->
+27. National Collaborating Centre for Aboriginal Health, *Child and Youth Health,* 3.<!--linkrefid=27-->
+28.  Wien et al., “Keeping First Nations Children at Home,” 13.<!--linkrefid=28-->
+29. Blackstock et al., *Wen: de: We Are Coming*, 38.<!--linkrefid=29-->
+30. Blackstock et al., *Wen: de: We Are Coming,* 89–90.<!--linkrefid=30-->
+31. Cradock, “Extraordinary Costs,” 179.<!--linkrefid=31-->
+32. Canada, Aboriginal Affairs and Northern Development Canada, “Jordan’s Principle,” http://www.aadnc-aandc.gc.ca/eng/1334329827982/1334329861879 (accessed 3 January 2014).<!--linkrefid=32-->
+33. *Pictou Landing Band Council v. Canada (Attorney General),* 2013 FC 342 (CanLII), para. 82.<!--linkrefid=33-->
+34. *Pictou Landing Band Council v. Canada (Attorney General),* 2013 FC 342 (CanLII), para. 82. <!--linkrefid=34-->
+35. Fletcher, “Origins of the Indian Child Welfare Act,” 1, 4.<!--linkrefid=35-->
+36. Atwood, “Voice of the Indian Child,” 128.<!--linkrefid=36-->
+37. TRC, AVS, Doris Young, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-3517.<!--linkrefid=37-->
+38. Canada, *Annual Report of the Department of Indian Affairs, 1942*, 154; Canada, *Annual Report of* *the Department of Indian Affairs, 1943,* 168; Canada, *Annual Report of the Department of Indian Affairs, 1944,* 177; Canada, *Annual Report of the Department of Indian Affairs, 1945,* 190; Canada, *Annual Report of the Department of Indian Affairs, 1946*, 231; Canada, *Annual Report of the Department of Indian Affairs, 1947*, 236; Canada, *Annual Report of the Department of Indian Affairs, 1948*, 234; Canada, *Annual Report of the Department of Indian Affairs, 1949,* 215; Canada, *Annual Report of the Department of Indian Affairs, 1950*, 86–87; Canada, *Annual Report of the Department of Indian Affairs, 1951,* 34–35; Canada, *Annual Report of the Department of Indian Affairs, 1952*, 74–75; Canada, *Annual Report of the Department of Indian Affairs, 1953*, 82–83; Canada, *Annual Report of the Department of Indian Affairs, 1954,* 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1955,* 78–79; Canada, *Annual Report of the Department of Indian Affairs, 1956,* 76–77; Canada, *Annual Report of the Department of Indian Affairs, 1956–57*, 88–89; Canada, *Annual Report of the Department of Indian Affairs, 1958*, 91; Canada, *Annual Report of the Department of Indian Affairs, 1959*, 94; Canada, *Annual Report of the Department of Indian Affairs, 1960,* 94; Canada, *Annual Report of the Department of Indian Affairs, 1961,* 102; Canada, *Annual Report of the Department of Indian Affairs, 1962*, 73; Canada, *Annual Report of the Department of Indian Affairs, 1963*, 62.<!--linkrefid=38-->
+39. United Nations, *Declaration on the Rights of Indigenous Peoples*, Article 14:1, http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.<!--linkrefid=39-->
+40. Bougie and Senecal, “Registered Indian Children’s School Success,” 21.<!--linkrefid=40-->
+41. Bougie and Senecal, “Registered Indian Children’s School Success,” 21.<!--linkrefid=41-->
+42. Canada, Statistics Canada, *Educational Portrait of Canada, Census Year 2006*, 6, 19.<!--linkrefid=42-->
+43. Canada, Statistics Canada Fact Sheet, *2011 National Household Survey Aboriginal Demographics*, https://www.aadnc-aandc.gc.ca/eng/1376329205785/1376329233875.<!--linkrefid=43-->
+44. National Committee on Inuit Education, *First Canadians, Canadians First,* https://www.itk.ca/sites/default/files/National-Strategy-on-Inuit-Education-2011_0.pdf, 7; Penny, “Formal Educational Attainment,” 33; Canada, Statistics Canada, *Educational attainment of Aboriginal peoples,* http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_3-eng.pdf.<!--linkrefid=44-->
+45. Richards et al., *Understanding the Aboriginal/Non-Aboriginal Gap,* 1; Wilk et al., “Métis Educational Attainment,” 51–52.<!--linkrefid=45-->
+46. Canadian Human Rights Commission, “Report on Equality Rights,” 3, 12, 32.<!--linkrefid=46-->
+47. Canada, Statistics Canada, *Aboriginal People Living Off-reserve*, 15.<!--linkrefid=47-->
+48. Canada, Statistics Canada, “Census Inuit Table: 89-636-x,” http://www.statcan.gc.ca/pub/89-636-x/89-636-x2008001-eng.htm.<!--linkrefid=48-->
+49. Joe Friesen, “Ottawa Failing to Include First Nations in Key Employment Data,” *Globe and Mail,* 23 January 2015, http://www.theglobeandmail.com/news/politics/unemployment-stats-missing-in-areas-where-job-training-is-a-priority/article22598523 (accessed 1 May 2015).<!--linkrefid=49-->
+50. Wilson and Macdonald, *Income Gap*, 8.<!--linkrefid=50-->
+51. Wilson and Macdonald, *Income Gap*, 4.<!--linkrefid=51-->
+52. Macdonald and Wilson, *Poverty or Prosperity,* 6.<!--linkrefid=52-->
+53. Wilson and Macdonald, *Income Gap*, 14.<!--linkrefid=53-->
+54. Canadian Human Rights Commission, *Report on Equality Rights of Aboriginal People,* 17. The poverty line is measured by the 2009 SLID Low-Income Measure (LIM).<!--linkrefid=54-->
+55. Canadian Human Rights Commission, *Report on Equality Rights of Aboriginal People*, 18–19.<!--linkrefid=55-->
+56. Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 9.<!--linkrefid=56-->
+57. Canada, Department of Indian and Northern Affairs, “Indian Education Paper: Phase 1,” 1982, as cited in Paquette and Fallon, *First Nations Education Policy,* 80.<!--linkrefid=57-->
+58. Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 56.<!--linkrefid=58-->
+59. McCue, *First Nations 2nd and 3rd Level Education Services,* 52, http://www.afn.ca/uploads/files/education/9._2006_april_harvey_mccue_first_nations_2nd_&_3rd_level_services_paper.pdf.<!--linkrefid=59-->
+60. Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education*, 11; First Nations Education Council, *Funding Formula for First Nation Schools*, http://www.cepn-fnec.com/PDF/etudes_documents/fiche_complete_eng.pdf.<!--linkrefid=60-->
+61. Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 11, 31.<!--linkrefid=61-->
+62. First Nations Education Council, *Funding Formula for First Nation Schools,* 1, http://www.cepn-fnec.com/PDF/etudes_documents/fiche_complete_eng.pdf.<!--linkrefid=62-->
+63. Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education,* 35.<!--linkrefid=63-->
+64. Canada, Standing Senate Committee on Aboriginal Peoples, *Reforming First Nations Education;* Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, *Nurturing the Learning Spirit,* http://www.afn.ca/uploads/files/education2/national-panel.pdf; First Nations Education Council et al., *Report on Priority Actions,* http://www.cepnfnec.com/PDF/accueil/Report%20on%20Priority%20Actions%20in%20View%20of%20Improving%20First%20Nations%20Education%20-%20November%202011_eng_website%20version_.pdf.<!--linkrefid=64-->
+65. TRC, AVS, Albert Marshall, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-050.<!--linkrefid=65-->
+66. Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, *Nurturing the Learning Spirit,* 14*,* http://www.afn.ca/uploads/files/education2/national-panel.pdf.<!--linkrefid=66-->
+67. Hodgson-Smith, *State of Métis Nation Learning,* 4, 26, http://www.ccl-cca.ca/pdfs/AbLKC/StateOfMetisNationLearning.pdf.<!--linkrefid=67-->
+68. Hodgson-Smith, *State of Métis Nation Learning,* 4, 17, 82, http://www.ccl-cca.ca/pdfs/AbLKC/StateOfMetisNationLearning.pdf.<!--linkrefid=68-->
+69. National Committee on Inuit Education, *First Canadians, Canadians First*, 7–9, 76–79.<!--linkrefid=69-->
+70. National Committee on Inuit Education, *First Canadians, Canadians First,* 80.<!--linkrefid=70-->
+71. Canada, Statistics Canada, *The Educational Attainment of Aboriginal People,* Table 2, https://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_3-eng.cfm.<!--linkrefid=71-->
+72. Canada, Auditor General of Canada, *Status Report,* 13, http://www.oag-bvg.gc.ca/internet/docs/parl_oag_201106_04_e.pdf.<!--linkrefid=72-->
+73. TRC, AVS, Geraldine Bob, Statement to the Truth and Reconciliation Commission of Canada, Fort Simpson, Northwest Territories, 23 November 2011, Statement Number: 2011-2685.<!--linkrefid=73-->
+74. Assembly of First Nations, “Financial Support for First Nation Students in College and University: The Cost of Implementing the Recommendations of the Standing Committee of the House of Commons on Aboriginal Affairs and Northern Development,” as cited in First Nations Education Council, *Paper on First Nations Education Funding*, 35.<!--linkrefid=74-->
+75. Assembly of First Nations, Chiefs Assembly on Education, *Early Childhood Education,* http:// www.afn.ca/uploads/files/events/fact_sheet-ccoe-5.pdf.<!--linkrefid=75-->
+76. Assembly of First Nations, *Breaking the Silence*, 25–26.<!--linkrefid=76-->
+77. Royal Commission on Aboriginal Peoples, *Gathering Strength*, 3:612–613.<!--linkrefid=77-->
+78. TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870.<!--linkrefid=78-->
+79. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 81/25-1 (Ctrl#240-13), R. Morris to Chiefs, Petahbun [Pehtabun] Area, 9 February 1979, 2–3. [NCA-001721]<!--linkrefid=79-->
+80. TRC, AVS, Conrad Burns, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 17 January 2012, Statement Number: SP036.<!--linkrefid=80-->
+81. United Nations, *International Covenant,* Article 27.<!--linkrefid=81-->
+82. United Nations, *Declaration of the Rights of Indigenous Peoples*, articles 8, 13, 14, and 16.<!--linkrefid=82-->
+83. TRC, AVS, Agnes Mills, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: SC090.<!--linkrefid=83-->
+84. TRC, AVS, Mary Courchene, Statement to the Truth and Reconciliation Commission of Canada, Pine Creek First Nation, Manitoba, 28 November 2011, Statement Number: 2011-2515.<!--linkrefid=84-->
+85. Canada, Statistics Canada, *Aboriginal Peoples and Language,* http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm.<!--linkrefid=85-->
+86. Canada, Statistics Canada, *Aboriginal Peoples and Language*, http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm; Canada, Statistics Canada, *Population reporting an Aboriginal identity,* http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/demo38a-eng.htm; Canada, Statistics Canada, *Aboriginal Languages in Canada*. http://www.statcan.gc.ca/pub/11-008-x/2007001/9628-eng.htm.<!--linkrefid=86-->
+87. Moseley and Nicolas, *Atlas of the World’s Languages,* 117.<!--linkrefid=87-->
+88. *R. v. Van der Peet*, 1996 CanLII 216 (SCC).<!--linkrefid=88-->
+89. Assembly of First Nations, *Royal Commission on Aboriginal Peoples at 10 Years*, 18.<!--linkrefid=89-->
+90. Canada, House of Commons Debates (2 November 2006), 1010.<!--linkrefid=90-->
+91. TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870.<!--linkrefid=91-->
+92. Email from Glenn Morrisson, Policy Manager of the Aboriginal Affairs Directorate in the Citizenship Participation Branch, to the Truth and Reconciliation Commission (July 9, 2012).<!--linkrefid=92-->
+93. Canada, Department of Canadian Heritage, *2012–2013 Report on Plans and Priorities,* 26.<!--linkrefid=93-->
+94. Canada, Standing Senate Committee on Legal and Constitutional Affairs, *Language Rights in Canada’s North,* 19–20.<!--linkrefid=94-->
+95. TRC, AVS, Sabrina Williams, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3982.<!--linkrefid=95-->
+96. French, *My Name Is Masak*, 19.<!--linkrefid=96-->
+97. Gresko, “Everyday Life at Qu’Appelle Industrial School,” 80.<!--linkrefid=97-->
+98. TRC, AVS, Ruby Firth, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 22 July 2011, Statement Number: 2011-0326.<!--linkrefid=98-->
+99. TRC, AVS, Sonia Wuttunee-Byrd, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093.<!--linkrefid=99-->
+100. TRC, AVS, Katherine Copenace, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-129.<!--linkrefid=100-->
+101. United Nations, *Declaration on the Rights of Indigenous Peoples,* articles 7, 21, 22, 24.<!--linkrefid=101-->
+102. United Nations, *Declaration on the Rights of Indigenous Peoples,* Article 23.<!--linkrefid=102-->
+103. United Nations, *Declaration on the Rights of Indigenous Peoples,* articles 24, 31.<!--linkrefid=103-->
+104. National Collaborating Centre for Aboriginal Health, *Looking for Aboriginal Health*, 43–50.<!--linkrefid=104-->
+105. Canada, Report of an Interdepartmental Working Group to the Committee of Deputy Ministers on Justice and Legal Affairs, Fiduciary Relationship of the Crown with Aboriginal Peoples: Implementation and Management Issues – A Guide for Managers (Ottawa, 1995), 13, as cited in Boyer, *No. 1 Aboriginal Health,* 5, 20–21.<!--linkrefid=105-->
+106. Boyer, *No. 1 Aboriginal Health,* 19–21, 23.<!--linkrefid=106-->
+107. Boyer, *No. 1 Aboriginal Health,* 19.<!--linkrefid=107-->
+108. Smylie, “Review of Aboriginal Infant Mortality Rates, 147.<!--linkrefid=108-->
+109. Canada, Statistics Canada, *Mortality rates among children and teenagers,* http://www.statcan.gc.ca/pub/82-003-x/2012003/article/11695-eng.htm.<!--linkrefid=109-->
+110. Canada, Statistics Canada, *Select health indicators of First Nations people,* http://www.statcan.gc.ca/daily-quotidien/130129/dq130129b-eng.htm.<!--linkrefid=110-->
+111. First Nations Centre, *First Nations Regional Longitudinal Health Survey,* 114.<!--linkrefid=111-->
+112. Kirmayer et al., *Suicide Among Aboriginal People*, xv, 22.<!--linkrefid=112-->
+113. Australia, Department of the Prime Minister and Cabinet, *Closing the Gap,* http://www.dpmc.gov.au/pmc-indigenous-affairs/publication/closing-gap-prime-ministers-report-2015.<!--linkrefid=113-->
+114. Canadian Medical Association, “Aboriginal Health Programming under Siege,” E740.<!--linkrefid=114-->
+115. TRC, AVS, Trudy King, Statement to the Truth and Reconciliation Commission of Canada, Fort Resolution, Northwest Territories, 28 April 2011, Statement Number: 2011-0381.<!--linkrefid=115-->
+116. TRC, AVS, M. R. E. Linklater, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055.<!--linkrefid=116-->
+117. Chansonneuve, *Addictive Behaviours,* 42–46.<!--linkrefid=117-->
+118. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 20, 21, 28, 45. [RCMP-564517]<!--linkrefid=118-->
+119. TRC, ASGAR, Stephen N. S. Thatcher, Affidavit in Supreme Court of BC, no date, 25–35. [RCMP-564327]<!--linkrefid=119-->
+120. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 27, 32, 45. [RCMP-564517]<!--linkrefid=120-->
+121. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 40. [RCMP-564517]<!--linkrefid=121-->
+122. *Criminal Code, 1985,* chapter C-46, section 274.<!--linkrefid=122-->
+123. Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics, from September 19, 2007, January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015).<!--linkrefid=123-->
+124. TRC, ASAGR, Royal Canadian Mounted Police, M. W. Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 45. [RCMP-564517]<!--linkrefid=124-->
+125. Canada, Law Commission of Canada, *Restoring Dignity*, 151, 178.<!--linkrefid=125-->
+126. Indian Residential Schools Settlement Agreement, http://www.residentialschoolsettlement.ca/IRS%20Settlement%20Agreement-%20ENGLISH.pdf.<!--linkrefid=126-->
+127. TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510.<!--linkrefid=127-->
+128. TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: 2011-3975.<!--linkrefid=128-->
+129. Canada, Statistics Canada, *Adult Correctional Services in Canada 1995–1996,* http://www.statcan.gc.ca/pub/85-002-x/85-002-x1997004-eng.pdf; Canada, Statistics Canada, *Adult Correctional Services in Canada 2011–2012,* http://www.statcan.gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5.<!--linkrefid=129-->
+130. Canada, Statistics Canada, *Adult Correctional Services in Canada, 2011–2012,* http://www.statcan.gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5.<!--linkrefid=130-->
+131. Canada, Statistics Canada, *Adult Correctional Services in Canada, 2011–2012,* http://www.statcan.gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5.<!--linkrefid=131-->
+132. TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Long Plain First Nation, Manitoba, 27 July 2010, Statement Number: 01-MB-26JY10-011.<!--linkrefid=132-->
+133. TRC, AVS, Daniel Andre, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 23 May 2011, Statement Number: 2011-0202.<!--linkrefid=133-->
+134. TRC, AVS, Grace Campbell, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-136.<!--linkrefid=134-->
+135. *Criminal Code,* 1985, chapter C-46, section 718.2(e).<!--linkrefid=135-->
+136. *R. v. Gladue*, 1999 CanLII 679 (SCC), para. 58–65.<!--linkrefid=136-->
+137. *R. v. Gladue*, 1999 CanLII 679 (SCC), para. 64.<!--linkrefid=137-->
+138. For a description of the process of preparing Gladue reports, see: Istvanffy, *Gladue Primer*.<!--linkrefid=138-->
+139. *R. v. Ipeelee*, 2012 SCC 13 (CanLII), para. 81, 84.<!--linkrefid=139-->
+140. *Safe Streets and Communities Act*, 2012, chapter 1.<!--linkrefid=140-->
+141. There have been some recent cases in which courts have made decisions counter to the mandatory minimum provisions. See, for example: *R. v. Smickle*, 2012, ONSC 602 (CanLII).<!--linkrefid=141-->
+142. Canada, Public Safety Canada, *Fetal Alcohol Spectrum Disorder,* 5, http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ftl-lchl-spctrm/ftl-lchl-spctrm-eng.pdf.<!--linkrefid=142-->
+143. Tait, *Fetal Alcohol Syndrome.<!--linkrefid=143-->
+144. Tait, *Fetal Alcohol Syndrome*, xviii.<!--linkrefid=144-->
+145. Ospina and Dennett, *Systematic Review,* iii.<!--linkrefid=145-->
+146. Canada, Correctional Service of Canada, *Fetal Alcohol Spectrum Disorder(FASD)*, iv, http://www.publicsafety.gc.ca/lbrr/archives/cn21451-eng.pdf.<!--linkrefid=146-->
+147. *R. v. Harris*, 2002 BCCA 152 (CanLII), para. 18–20.<!--linkrefid=147-->
+148. Mitten, “Fetal Alcohol Spectrum Disorders,” http://www.justicereformcomm.sk.ca/volume2/12section9.pdf.<!--linkrefid=148-->
+149. For a study that involved interviews with inmates in a minimum security institution designed specifically for Aboriginal inmates, see: Braun, *Colonization, Destruction, and Renewal*. See also: Waldram, *The Way of the Pipe*, 129–150; Crutcher and Trevethan, *Examination of Healing Lodges,* 52.<!--linkrefid=149-->
+150. Nielson, “Canadian Aboriginal Healing Lodges.”<!--linkrefid=150-->
+151. British Columbia, Ministry of Justice, Corrections Branch, Aboriginal Programs and Relationships, *Inclusivity*, http://www.pssg.gov.bc.ca/corrections/docs/AboriginalStratPlan.pdf.<!--linkrefid=151-->
+152. TRC, AVS, Chris Gargan, Statement to the Truth and Reconciliation Commission of Canada, Yellowknife, Northwest Territories, 30 October 2012, Statement Number: 2011-0430.<!--linkrefid=152-->
+153. *Corrections and Conditional Release Act*, SC 1992, chapter 20, http://canlii.ca/t/52db0.<!--linkrefid=153-->
+154. Bonta et al., “Risk Prediction,” 127.<!--linkrefid=154-->
+155. Canada, Statistics Canada, *Youth Correctional Services in Canada 2011–2012,* http://www.statcan.gc.ca/pub/85-002-x/2014001/article/11917-eng.htm#a5; Canada, Department of Justice, Youth Justice Research, “A One-Day Snapshot,” 3. These figures do not include Saskatchewan, which has a high rate of Aboriginal youth incarceration<!--linkrefid=155-->
+156. *Youth Criminal Justice Act*, SC 2002, chapter 1, section 38(1).<!--linkrefid=156-->
+157. Canada, Statistics Canada, “Youth Court Statistics 2011/2012,” http://www.statcan.gc.ca/daily-quotidien/130613/dq130613d-eng.pdf; Canada, Statistics Canada*, Youth Correctional Statistics in Canada, 2010/2011*; Canadian Bar Association, *Submission on Bill C-10,* 8, http://www.cba.org/cba/submissions/PDF/11-45-eng.pdf. Not all provinces and territories have seen a decrease in youth in correctional services. In fact, since 2005–06, rates have increased in Manitoba, Yukon, and Alberta. Canada, Statistics Canada, *Youth Correctional Statistics in Canada, 2010/2011,* 5.<!--linkrefid=157-->
+158. Canada, Statistics Canada, *Youth Correctional Statistics in Canada, 2010/2011*, 7.<!--linkrefid=158-->
+159. British Columbia, Office of the Provincial Health Officer, “Health, Crime and Doing Time,” http://www.health.gov.bc.ca/pho/pdf/health-crime-2013.pdf.<!--linkrefid=159-->
+160. Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics, from September 19, 2007, January 31, 2015, http://iap-pei.ca/information/stats-eng.php (accessed 20 February 2015).<!--linkrefid=160-->
+161. TRC, AVS, Ruby Firth, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 22 July 2011, Statement Number: 2011-0326.<!--linkrefid=161-->
+162. Canada, Statistics Canada, *Violent Victimization of Aboriginal People,* http://wgc.ca/pub/85-002-x/2011001/article/11415-eng.pdf.<!--linkrefid=162-->
+163. Canada, Statistics Canada, *Violent Victimization of Aboriginal Women,* http://www.statcan.gc.ca/pub/85-002-x/2011001/article/11439-eng.pdf.<!--linkrefid=163-->
+164. Canada, Statistics Canada, *Violent Victimization of Aboriginal People,* 15, http://wgc.ca/pub/85-002-x/2011001/article/11415-eng.pdf; Canada, Statistics Canada, *Measuring Violence Against Women,* 67; Native Women’s Association of Canada, *Voices of Our Sisters in Spirit,* 6, http://www. nwac.ca/sites/default/files/download/admin/NWAC_VoicesofOurSistersInSpiritII_March2009FINAL.pdf.<!--linkrefid=164-->
+165. Canada, Statistics Canada, *Victimization and Offending,* http://www.statcan.gc.ca/pub/85-002-x/85-002-x2006003-eng.pdf.<!--linkrefid=165-->
+166. Canada, Statistics Canada, *Measuring Violence Against Women,* 9, 19; Native Women’s Association of Canada, *Voices of Our Sisters in Spirit,* 94–95, http://www.nwac.ca/sites/default/files/download/admin/NWAC_VoicesofOurSistersInSpiritII_March2009FINAL.pdf.<!--linkrefid=166-->
+167. TRC, AVS, Velma Jackson, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 6 January 2011, Statement Number: 01-AB-06JA11-003.<!--linkrefid=167-->
+168. Royal Canadian Mounted Police, *Missing and Murdered Aboriginal Women,* 3, http://www.rcmp-grc.gc.ca/pubs/mmaw-faapd-eng.pdf.<!--linkrefid=168-->
+
+### The challenge of reconciliation
+
+1. TRC, AVS, Ian Campbell, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.<!--linkrefid=1-->
+2. Canada, Debates of the Senate, 40th Parliament, 2nd session (11 June 2009), volume 146, issue 45.<!--linkrefid=2-->
+3. Miller, *Lethal Legacy*, 165.<!--linkrefid=3-->
+4. For various perspectives on the events at Oka, see, for example: Alfred, *Heeding the Voices*; Pertusati, *In Defense of Mohawk Land*; Miller, *Lethal Legacy*; Simpson and Ladner, *This is an Honour Song*.<!--linkrefid=4-->
+5. On the place of media in shaping popular opinion on the role of warriors in conflicts with the state, see: Valaskakis, *Indian Country*. On warriors and warrior societies in contemporary Indigenous communities, see: Alfred and Lowe, “Warrior Societies,”<!--linkrefid=5-->
+6. Letters from Prime Minister Brian Mulroney to Tony Penikett, Government Leader, Government of the Yukon Territory, 15 November 1990, and Dennis Patterson, Government Leader, Government of the Northwest Territories, 15 November 1990, PCO 2150-1, Ident. No. 34788, TRC Document Number TRC3379.<!--linkrefid=6-->
+7. Canada, Royal Commission on Aboriginal Peoples, *Report*, 1:675–697.<!--linkrefid=7-->
+8. United Nations, *Declaration on the Rights of Indigenous Peoples,* Article 43, http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.<!--linkrefid=8-->
+9. Anaya, “Right of Indigenous Peoples,” 196.<!--linkrefid=9-->
+10. Canada, Aboriginal Affairs and Northern Development Canada, “Canada’s Endorsement,” http://www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015). <!--linkrefid=10-->
+11. Canada, Aboriginal Affairs and Northern Development Canada, “Canada’s Endorsement,” http://www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015). <!--linkrefid=11-->
+12. United Nations General Assembly, “Outcome Document,” A/RES/69/2, 25 September 2014, http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/2.<!--linkrefid=12-->
+13. Canada, Permanent Mission of Canada to the United Nations, “Canada’s Statement on the World Conference,” http://www.canadainternational.gc.ca/prmny-mponu/canada_un-canada_onu/statements-declarations/other-autres/2014-09-22_WCIPD-PADD.aspx?lang=eng.<!--linkrefid=13-->
+14. Amnesty International Canada et al., “Canada Uses World Conference,” http://www.fns.bc.ca/pdf/Joint_Public_Statement_re_Canada_attack_on_UNDRIP_Sept_24_2014.pdf.<!--linkrefid=14-->
+15. John, “Survival, Dignity, Well-Being,” 58. Grand Chief John, an executive member of the First Nations Summit Task Group in British Columbia, participated in the development of the *Declaration*. He is a former co-chair of the North American Indigenous Peoples Caucus and will serve as a North American Representative to the United Nations Permanent Forum on Indigenous Issues until 2016. See: First Nations Summit, http://www.fns.bc.ca/about/e_john.htm.<!--linkrefid=15-->
+16. *Tsilhqot’in Nation v. British Columbia,* 2014 CanLII 44 (SCC), para. 73.<!--linkrefid=16-->
+17. *Tsilhqot’in Nation v. British Columbia,* 2014 CanLII 44 (SCC), para. 97.<!--linkrefid=17-->
+18. TRC, AVS, Sol Sanderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: SC108.<!--linkrefid=18-->
+19. Reid, “Roman Catholic Foundations,” 5.<!--linkrefid=19-->
+20. The Permanent Observer Mission of the Holy See explains its role and function at the United Nations as follows: “The Holy See ... is the central government of the Roman Catholic Church. As such, the Holy See is an institution, which under international law and in practice, has a legal personality that allows it to enter into treaties as the juridical equal of a State.... The Holy See maintains full diplomatic relations with one hundred seventy-seven (177) countries out of the one hundred ninety-three (193) member countries of the UN.... The Holy See enjoys *by its own choice* the status of Permanent Observer at the United Nations, rather than of a full Member. This is due primarily to the desire of the Holy See to obtain absolute neutrality in specific political problems.” See: UN Permanent Observer Mission of the Holy See, “A Short History,” http://www.holyseemission.org/about/history-of-diplomacy-of-the-holy-see.aspx (accessed 19 February 2015).<!--linkrefid=20-->
+21. UN Permanent Observer Mission of the Holy See, Statement to Economic and Social Council, Discussion on the reports, “Impact on Indigenous Peoples,” http://www.ailanyc.org/wp-content/uploads/2010/09/Holy-See.pdf (accessed 20 January 2015).<!--linkrefid=21-->
+22. For example, in a study of how the doctrine was used to justify colonization, American legal scholar Robert A. Williams Jr. observed that the United States Supreme Court decision issued by Chief Justice John Marshall in 1823 in the case of *Johnson v. McIntosh* 21 U.S. 543 (1823), “represents the most influential legal opinion on indigenous peoples’ human rights ever issued by a court of law in the Western world. All the major English-language-speaking settler states adopted Marshall’s understanding of the Doctrine of Discovery and its principle that the first European discoverer of lands occupied by non-Christian tribal savages could claim a superior right to those lands under the European Law of Nations. Canada, Australia, and New Zealand all followed Marshall’s opinion as a precedent for their domestic law on indigenous peoples’ inferior rights to property and control over their ancestral lands.” See: Williams, *Savage Anxieties*, 224. See also: Williams, *American Indian*; Miller et al., *Discovering Indigenous Lands;* Newcomb, *Pagans in the Promised Land*, 2008.<!--linkrefid=22-->
+23. United Nations Economic and Social Council, Permanent Forum on Indigenous Issues, “Study on the Impacts of the Doctrine,” http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/N1424184.pdf?OpenElement.<!--linkrefid=23-->
+24. Anglican Church of Canada, General Synod 2010, Resolution A086 R1, http://archive.anglican.ca/gs2010/resolutions/a086/.<!--linkrefid=24-->
+25. Sison, “Primate’s Commission.” See also: Anglican Church of Canada, “Message to the Church,” http://www.anglican.ca/primate/communications/commission-on-discovery-reconciliation-justice. See also: Anglican Church of Canada, “Learning to Call One Another Friends,” http://www.anglican.ca/primate/files/2014/06/PCDRJ_June2014_Update.pdf.<!--linkrefid=25-->
+26. World Council of Churches*, What Is the World Council of Churches?,* http://www.oikoumene.org/en/about-us (accessed 15 April 2015). Settlement Agreement signatories the Anglican Church of Canada, the Presbyterian Church in Canada, and the United Church of Canada are members of the WCC.<!--linkrefid=26-->
+27. World Council of Churches, *Statement on the doctrine of discovery,* http://www.oikoumene.org/en/resources/documents/executive-committee/bossey-february-2012/statement-on-the-doctrine-of-discovery-and-its-enduring-impact-on-indigenous-peoples (accessed 20 March 2015).<!--linkrefid=27-->
+28. Executive of the General Council of the United Church of Canada, *Meeting Summary, March 24–26, 2013,* http://www.united-church.ca/files/general-council/gc40/gce_1203_highlights.pdf (accessed 20 March 2015).<!--linkrefid=28-->
+29. United Nations Permanent Forum on Indigenous Issues, “Joint Statement,” http://www.afn.ca/uploads/files/pfii_2012_–_doctrine_of_discovery_–_joint_statement_fe.pdf (accessed 20 March 2015).<!--linkrefid=29-->
+30. United Nations Permanent Forum on Indigenous Issues, “Study on the Impacts of the Doctrine,” para. 13, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/N1424184.pdf?OpenElement (accessed 14 March 2015). For the views of the court on the need for reconciliation, John cited *Haida Nation v. British Columbia (Minister of Forests),* 2004 SCC 73 (CanLII), para. 20. For the judicial notice on colonialism, John cited *R. v. Ipeelee,* 2012 SCC 13 (CanLII), para. 60.<!--linkrefid=30-->
+31. Onondaga Nation, “Oren Lyons Presents,” http://www.onondaganation.org/news/2014/orenlyons-presents-at-u-n-51514/ (accessed 21 March 2015). Article 7, paragraph 2 of the *Declaration* affirms that “Indigenous peoples have the collective right to live in freedom, peace and security as distinct peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly removing children of the group to another group.”<!--linkrefid=31-->
+32. Kelly, “Confessions of a Born Again Pagan,” 22–23.<!--linkrefid=32-->
+33. See, for example: Treaty 7 Tribal Council et al., *True Spirit and Original Intent*; Miller, *Compact, Contract, Covenant*; Ray, Miller, and Tough, *Bounty and Benevolence*.<!--linkrefid=33-->
+34. The Treaty commissions in Ontario, Saskatchewan, and Manitoba have developed public education programs and materials designed to teach Canadians, particularly children and youth, about the Treaties. See, for example: Treaty Relations Commission of Manitoba, Public Education/Learning Centre, http://www.trcm.ca/public-education/learning-centre/ (accessed 15 April 2015).<!--linkrefid=34-->
+35. Borrows, “Wampum at Niagara,” 160–161.<!--linkrefid=35-->
+36. Miller, *Compact, Contract, Covenant*, 72.<!--linkrefid=36-->
+37. Capt. Thomas G. Anderson, “Report on the Affairs of the Indians of Canada, Section III,” Appendix No. 95 in Appt T of the *Journals of the Legislative Assembly of Canada,* vol. 6 (1818), cited in Borrows, “Wampum at Niagara,” 166.<!--linkrefid=37-->
+38. Capt. Thomas G. Anderson, “Report on the Affairs of the Indians of Canada, Section III,” Appendix No. 95 in Appt T of the *Journals of the Legislative Assembly of Canada,* vol. 6 (1818), cited in Borrows, “Wampum at Niagara,” 167–168.<!--linkrefid=38-->
+39. The Governor General of Canada, his Excellency the Right Honourable David Johnston, Speech delivered at the Symposium in Honour of the 250th Anniversary of the Royal Proclamation of 1763, Gatineau, Que., October 7, 2013, http://www.gg.ca/document.aspx?id=15345&lan=eng.<!--linkrefid=39-->
+40. First Nations Summit, “Royal Proclamation Still Relevant,” http://www.fns.bc.ca/pdf/FNS_Op-ed_re_250th_anniver_of_Royal_Proclamation_10_07_13.pdf (accessed 5 December 2014).<!--linkrefid=40-->
+41. Steve Rennie, “Idle No More Protestors Mark 25th Anniversary of Royal Proclamation,” *Canadian Press*, October 7, 2013, http://www.thestar.com/news/canada/2013/10/07/idle_no_more_protesters_mark_250th_anniversary_of_royal_proclamation.html. For more on the Idle No More movement, see: The Kino-nda-niimi Collective, *The Winter We Danced*.<!--linkrefid=41-->
+42. Legal scholar Robert A. Williams Jr. explains the Gus-Wen-Tah or Two-Row Wampum as “a sacred treaty belt ... comprised of a bed of white wampum shell beads symbolizing the sacredness and purity of the treaty agreement between the two sides. Two parallel rows of purple wampum beads that extend down the length of the belt represent the separate paths travelled by the two sides on the same river. Each side travels in its own vessel: the Indians in a birch bark canoe, representing their laws, customs, and ways, and the whites in a ship, representing their laws, customs, and ways.” See: Williams Jr., *Linking Arms Together*, 12–13.<!--linkrefid=42-->
+43. “Two-Row Wampum Centers Idle No More Toronto Rally, Not the Royal Proclamation,” October 9, 2013, *BasicNews.ca*, http://basicsnews.ca/two-row-wampum-centers-idle-no-more-toronto-rally-not-the-royal-proclamation/.<!--linkrefid=43-->
+44. United Nations, *Declaration on the Rights of Indigenous Peoples,* Article 40, http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.<!--linkrefid=44-->
+45. United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, “Access to Justice,” 23, http://www.ohchr.org/Documents/Issues/IPeoples/EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.<!--linkrefid=45-->
+46. United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, “Access to Justice,” 6, 8, 22–24, http://www.ohchr.org/Documents/Issues/IPeoples/EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.<!--linkrefid=46-->
+47. United Nations General Assembly, “Report of the Special Rapporteur,” 13, 20.<!--linkrefid=47-->
+48. See, for example: Borrows, *Canada’s Indigenous Constitution*.<!--linkrefid=48-->
+49. Canada, Royal Commission on Aboriginal Peoples, *Highlights from the Report,* http://www.aadnc-aandc.gc.ca/eng/1100100014597/1100100014637.<!--linkrefid=49-->
+50. TRC, AVS, Stephen Augustine, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.<!--linkrefid=50-->
+51. Friedland, “IBA Accessing Justice and Reconciliation,” 18, quoting Chief White, Snuneymuxw First Nation, 16 November 2012, http://indigenousbar.ca/indigenouslaw/wp-content/uploads/2013/04/iba_ajr_final_report.pdf (accessed 15 April 2015). Funding for the AJR project was provided by the Ontario Law Foundation. The Academic Lead for the project was Professor Val Napoleon, Law Foundation Professor of Aboriginal Justice and Governance, University of Victoria, Faculty of Law. The project coordinator was Hadley Friedland, PhD candidate, Vanier Scholar, University of Alberta, Faculty of Law.<!--linkrefid=51-->
+52. On the importance of recognizing that victims of violence are also holders of rights, see: de Greiff, “Report of the Special Rapporteur,” 2012, 10, para. 29, http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-46_en.pdf.<!--linkrefid=52-->
+53. Simpson, *Dancing on Our Turtle’s Back*, 22.<!--linkrefid=53-->
+54. TRC, AVS, Honourable Steven Point, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 20 September 2013, Statement Number: BCNE304.<!--linkrefid=54-->
+55. Stanton, “Canada’s Truth and Reconciliation Commission,” 4.<!--linkrefid=55-->
+56. Castellano, Archibald, and DeGagné, “Introduction,” in Castellano, Archibald, and DeGagné, *From Truth to Reconciliation*, 2–3.<!--linkrefid=56-->
+57. de Greiff, “Report of the Special Rapporteur,” 2012, 10–12, http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-46_en.pdf.<!--linkrefid=57-->
+58. Wab Kinew, “It’s the Same Great Spirit,” *Winnipeg Free Press*, October 22, 2012.<!--linkrefid=58-->
+59. TRC, AVS, Shawn A-in-chut Atleo, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE202.<!--linkrefid=59-->
+60. Canada, Royal Commission on Aboriginal Peoples, *Report,* 1:38.<!--linkrefid=60-->
+61. *R. v. Sparrow,* 1990 CanLII 104 (SCC). See also: *Guerin v. R.,* 1984 CanLII 25 (SCC); *Delgamuukw v. BC,* 1997 CanLII 302 (SCC); *Haida Nation v. British Columbia (Minister of Forests),* 2004 SCC 73 (CanLII).<!--linkrefid=61-->
+62. *Manitoba Métis Federation Inc. v. Canada (Attorney General),* 2013 SCC 14 (CanLII), Appellants Factum, para. 94, citing Manitoba Court of Appeal ruling *Manitoba Métis Federations Inc. v. Canada (Attorney General) et al*., 2010 MBCA 71, paras. 533, 534.<!--linkrefid=62-->
+63. The Solicitor’s Opinions on Native American issues can be found at: http://www.doi.gov/solicitor/opinions.html (accessed 25 March 2015).<!--linkrefid=63-->
+64. On the unfair burden of proof placed on Aboriginal peoples and the need to shift the onus onto the Crown, see, for example: Borrows, *Recovering Canada*, 101.<!--linkrefid=64-->
+65. Canada, Royal Commission on Aboriginal Peoples, *Report*, 1:8. The Commission adopts the definition of “civic trust” put forward by justice scholar Pablo de Greiff as it relates to the role of apologies in reconciliation processes: “Trust involves an expectation of ... commitment to the norms and values we share ... not the thick form of trust characteristic of relations between intimates, but rather ‘civic’ trust ... that can develop among citizens who are strangers to one another, but who are members of the same political community.... Trusting an institution, then, amounts to knowing that its constitutive rules, values, and norms are shared by participants and that they regard them as binding.... Reconciliation, minimally, is the condition under which citizens can trust one another as citizens again (or anew).... It presupposes that both institutions and persons can become *trustworthy*, and this is not something that is merely granted but *earned*.” See: de Greiff, “Role of Apologies,” 125–127.<!--linkrefid=65-->
+66. TRC, AVS, Eugene Arcand, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE202.<!--linkrefid=66-->
+67. On the role of official apologies in reparations and reconciliation, see, for example: Barkan and Karn, *Taking Wrongs Seriously*; de Greiff, “Role of Apologies”; James, “Wrestling with the Past”; Nobles, *Politics of Official Apologies*; Tavuchis, *Mea Culpa*.<!--linkrefid=67-->
+68. Canada, Debates of the Senate, 40th Parliament, 2nd session (11 June 2009), volume 146, issue 45. Other speakers included National President Mary Simon, Inuit Tapiriit Kanatami; Métis National Council President Clément Chartier; and Kevin Daniels, Interim National Chief, Congress of Aboriginal Peoples.<!--linkrefid=68-->
+69. TRC, AVS, Theodore Fontaine, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: SP203.<!--linkrefid=69-->
+70. TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.<!--linkrefid=70-->
+71. Vatican, Communiqué of the Holy See Press Office, April 29, 2009, http://www.vatican.va/resources/resources_canada-first-nations-apr2009_en.html.<!--linkrefid=71-->
+72. “Pope Expresses ‘Sorrow’ for Abuse at Residential Schools,” *CBC News*, April 29, 2009, http://www.cbc.ca/news/world/pope-expresses-sorrow-for-abuse-at-residential-schools-1.778019.<!--linkrefid=72-->
+73. Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19, 2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_let_20100319_church-ireland_en.html.<!--linkrefid=73-->
+74. Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19, 2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_let_20100319_church-ireland_en.html.<!--linkrefid=74-->
+75. TRC, AVS, Commissioner Wilton Littlechild, speaking at Oblates of St. Mary Immaculate gathering in St. Albert, Alberta, 2 May 2011, Statement Number: SC012.<!--linkrefid=75-->
+76. In the Learning Places at National Events, there were information posters on the schools in the region, the Legacy of Hope Foundation exhibit, an information booth on the Missing Children Project, interactive maps, and a writing wall where people could offer their personal reflections. At each event in or near the Learning Place, the Settlement Agreement churches also organized a Churches Listening Area. The intent was to provide an opportunity for those Survivors who wished to do so to speak personally with a church representative about their residential school experience. When requested, church representatives also offered apologies to Survivors.<!--linkrefid=76-->
+77. TRC, AVS, Alvin Dixon, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 30 June 2011, Statement Number: NNE302.<!--linkrefid=77-->
+78. TRC, AVS, Anonymous, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055.<!--linkrefid=78-->
+79. Kelly, “Confession of a Born Again Pagan,” 20–21, 39.<!--linkrefid=79-->
+80. TRC, AVS, Jennie Blackbird, Statement to the Truth and Reconciliation Commission of Canada, Muncey, Ontario, 16 September 2011, Statement Number: 2011-4188.<!--linkrefid=80-->
+81. The right of Indigenous peoples to observe traditional spiritual practices is upheld by the United Nations. Article 12:1 of the *United Nations Declaration on the Rights of Indigenous Peoples* says, “Indigenous peoples have the right to manifest, practice, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect, and have access in privacy to their religious and cultural sites; the right to use and control of their ceremonial objects; and the right to the repatriation of their human remains.” See: United Nations, *Declaration on the Rights of Indigenous Peoples*, http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.<!--linkrefid=81-->
+82. See, for example, the case of a Christian Cree community that passed a resolution denying some of its community members the right to construct a sweat lodge and to teach youth about Cree spirituality: http://aptn.ca/news/2011/01/17/crees-ban-sweat-lodges-fns-spirituality-from-community/; http://indiancountrytodaymedianetwork.com/2011/02/07/christian-crees-tear-down-sweat-lodge-15500.<!--linkrefid=82-->
+83. TRC, AVS, Jim Dumont, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.<!--linkrefid=83-->
+84. Dumont and Hutchinson, “United Church Mission Goals,” 226–227.<!--linkrefid=84-->
+85. Mullin (Thundering Eagle Woman), “We Are One in the Spirit,” 28, http://presbyterian.ca/healing/ (accessed 22 March 2015).<!--linkrefid=85-->
+86. Presbyterian Church of Canada, 2013 General Assembly Referral, *Aboriginal Spirituality,* 2, 6, http://presbyterian.ca/gao/2013referrals/ (accessed 22 March 2015).<!--linkrefid=86-->
+87. Anglican Church of Canada, “A New Agape,” http://www.anglican.ca/about/ccc/acip/a-new-agape/ (accessed 22 March 2015).<!--linkrefid=87-->
+88. United Church of Canada, “Living Faithfully,” 2, http://www.united-church.ca/files/economic/globalization/report.pdf (accessed 22 March 2015).<!--linkrefid=88-->
+89. United Church of Canada, “Reviewing Partnership,” 26, http://www.gc41.ca/sites/default/files/pcpmm_empire.pdf (accessed 22 March 2015).<!--linkrefid=89-->
+90. United Church of Canada, The Executive of the General Council, March 24–26, 2012, Addendum H: Covenanting for Life, http://www.united-church.ca/files/general-council/gc40/addenda_2012-03-2426_executive.pdf (accessed 22 March 2015).<!--linkrefid=90-->
+91. Presbyterian Church in Canada, “Presbyterian Statement,” https://ecumenism.net/2015/01/presbyterian-statement-on-aboriginal-spiritual-practices.htm (accessed 17 March 2015).<!--linkrefid=91-->
+92. United Church of Canada, “Affirming Other Spiritual Paths,” http://www.united-church.ca/files/aboriginal/schools/affirming-other-spiritual-paths.pdf (accessed 17 March 2015).<!--linkrefid=92-->
+93. Canadian Conference of Catholic Bishops, “Let Justice Flow,” 24–25, http://www.cccb.ca/site/images/stories/pdf/let_justice_flow_like_a_mighty_river.pdf (accessed 22 March 2015).<!--linkrefid=93-->
+94. Canadian Catholic Aboriginal Council, Mandate, http://www.cccb.ca/site/eng/commissions-committees-and-aboriginal-council/aboriginal-council/canadian-catholic-aboriginal-council (accessed 22 March 2015).<!--linkrefid=94-->
+95. TRC, AVS, Dr. Alan L. Hayes, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 2 June 2012, Statement Number: SE020.<!--linkrefid=95-->
+96. MacKenzie, “For Everything There Is a Season,” 89.<!--linkrefid=96-->
+97. “Toronto Urban Native Ministry,” cited in Bush, “How Have the Churches Lived out Their Apologies,” 16.<!--linkrefid=97-->
+98. Presbyterian Church in Canada, *Acts and Proceedings of the 137th General Assembly*, 368.<!--linkrefid=98-->
+99. Healing Fund, Anglican Church, 2008, cited in Bush, “How Have the Churches Lived out Their Apologies,” 24–25.<!--linkrefid=99-->
+100. Healing Fund, Anglican Church, 2008, cited in Bush, “How Have the Churches Lived out Their Apologies,” 24–25.<!--linkrefid=100-->
+101. Healing Fund, Anglican Church, 2000, cited in Bush, “How Have the Churches Lived out Their Apologies,” 19.<!--linkrefid=101-->
+102. Bush, “How Have the Churches Lived out Their Apologies,” 18.<!--linkrefid=102-->
+103. The Aboriginal Healing Foundation (AHF) was mandated to provide funding and support for Aboriginal community-based healing projects. For more on the history of the AHF and the circumstances surrounding the closure, see: Spear, “Full Circle,” http://www.ahf.ca/downloads/full-circle-2.pdf (accessed 28 April 2015).<!--linkrefid=103-->
+104. TRC, AVS, Allan Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-067.<!--linkrefid=104-->
+105. TRC, AVS, Esther Lachinette-Diabo, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 24 November 2010, Statement Number: 01-ON-24Nov10-020.<!--linkrefid=105-->
+106. TRC, AVS, Charlotte Marten, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 9 October 2013, Statement Number: SP127.<!--linkrefid=106-->
+107. Education scholar Penney Clark’s study identifies how Aboriginal peoples have been portrayed in Canadian history textbooks and how gaps in the history impact students. See: Clark, “Representations of Aboriginal People,” 96–98, 103–111.<!--linkrefid=107-->
+108. Council of Ministers of Education, “Developments on Indian Residential Schools by Jurisdiction,” July 2014, email correspondence from Christy Bressette, Coordinator, Aboriginal Education, Council of Ministers of Education, Canada to Truth and Reconciliation Commission of Canada, 18 July 2014, TRC Document Number TRC3353.<!--linkrefid=108-->
+109. Council of Ministers of Education, “Education Ministers Signal Transformation Key,” http://cmec.ca/278/Press-Releases/Education-Ministers-Signal-Transformation-Key-to-the-Future.html?id_article=826.<!--linkrefid=109-->
+110. Freedom of conscience and religion is protected under Section 2 of the Canadian Charter of Rights and Freedoms, and Section 3 of Québec’s Charter of Human Rights and Freedoms.<!--linkrefid=110-->
+111. *S.L. v. Commission scolaire des Chênes,* 2012 SCC 7 (CanLII), p. 237.<!--linkrefid=111-->
+112. Educator and scholar Marie Battiste’s work on decolonizing and transforming the education system has informed the Commission’s thinking on this issue. See: Battiste, *Decolonizing Education*, 175–191.<!--linkrefid=112-->
+113. Education scholars Megan Boler and Michalinas Zembylas describe this way of teaching as a “pedagogy of discomfort” that requires both educators and students to “move outside their comfort zones” in constructive ways that can “radically alter their worldviews.” See: Boler and Zembylas, “Discomforting Truths,” 111. See also: Sheppard, “Creating a Caring Classroom.”<!--linkrefid=113-->
+114. See, for example, studies by education scholars: Immordino-Yang and Domasio, “We Feel, Therefore We Learn”; Schonert-Reichl and Hymel, “Educating the Heart.” See also: Mary Gordon’s initiative, Roots of Empathy, “an evidence-based classroom program that has shown significant effect in reducing levels of aggression among school children while raising social/emotional competence and increasing empathy,” http://www.rootsofempathy.org/ (accessed 15 April 2015). See also: Gordon, *Roots of Empathy*.<!--linkrefid=114-->
+115. TRC, AVS, Samantha Crowe, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014. Statement Number: ABNE401. For more information on the project, see: Ontario Provincial Advocate for Children and Youth, “Feathers of Hope: A First Nations Youth Action Plan, 2014,” http://www.inspiritfoundation.org/files/6114/0656/0111/Feathers-of-Hope_report.pdf (accessed 15 April 2015).<!--linkrefid=115-->
+116. Cultural theorist Roger Simon makes this point in an essay on the pedagogical practice of public history in the context of the Commission’s public education mandate. See: Simon, “Towards a Hopeful Practice,” 135–136.<!--linkrefid=116-->
+117. The 2013 annual report of the Historical Thinking Project makes a similar point, arguing that the education system must produce historically literate citizens. See: Seixas and Colyer, “Report on the National Meeting,” 3, http://historicalthinking.ca/sites/default/files/files/docs/HTP2013Report.pdf (accessed 15 April 2015). The purpose of the Historical Thinking Project was to provide history education resources for teachers to train students how to think critically and effectively about history. See: Seixas and Colver, “Report on the National Meeting,” 2, http://historicalthinking.ca/sites/default/files/files/docs/HTP2013Report.pdf (accessed 15 April 2015).<!--linkrefid=117-->
+118. Centre for Youth & Society, “Residential Schools Resistance Narratives.” Videos available online at: http://youth.society.uvic.ca/TRC (accessed 15 April 2015).<!--linkrefid=118-->
+119. Prairie Women’s Health Centre of Excellence, “Nitâpwewininân,” 3–7.<!--linkrefid=119-->
+120. Prairie Women’s Health Centre of Excellence, “Nitâpwewininân,” 14–16.<!--linkrefid=120-->
+121. Brooklyn Rae, Saskatchewan National Event Education Day, Saskatoon, Saskatchewan, 23 June 2013, video, Statement Number: SNE502, https://vimeo.com/48143907.<!--linkrefid=121-->
+122. Barney Williams, Saskatchewan National Event Education Day, Saskatoon, Saskatchewan, 23 June 2013, video, Statement Number: SNE502, https://vimeo.com/48143907.<!--linkrefid=122-->
+123. ICTJ/Canada TRC Youth Retreat, http://vimeo.com/26397248.<!--linkrefid=123-->
+124. ICTJ/Canada TRC Youth Retreat, http://vimeo.com/26128253.<!--linkrefid=124-->
+125. International Center for Transitional Justice, “ICTJ Program Report,” http://www.ictj.org/news/ictj-program-report-children-and-youth.<!--linkrefid=125-->
+126. International Center for Transitional Justice, “Youth Reporters Tell the Story,” http://ictj.org/news/youth-reporters-tell-story-residential-schools.<!--linkrefid=126-->
+127. International Center for Transitional Justice, “Our Legacy, Our Hope,” press release, 20 June 2012. Video, *Our Legacy, Our Hope,* at: http://www.youtube.com/watch?v=Xz2SUV0vFCI.<!--linkrefid=127-->
+128. International Center for Transitional Justice, “ICTJ Program Report,” http://www.ictj.org/news/ictj-program-report-children-and-youth.<!--linkrefid=128-->
+129. TRC, AVS, Centre for Global Citizenship Education and Research, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 27 March 2014, Statement Number: ABNE102.<!--linkrefid=129-->
+130. Bolton, “Museums Taken to Task,” 146–147.<!--linkrefid=130-->
+131. Buchanan, “Decolonizing the Archives,” 44.<!--linkrefid=131-->
+132. Morse, “Indigenous Human Rights,” 2, 10.<!--linkrefid=132-->
+133. The decisions state that “the laws of evidence must be adapted in order that this type of evidence be accommodated and placed on an equal footing with the types of historic evidence that courts are familiar with, which largely consists of historical documents.” See: Reasons for Decision, *Delgamuukw v. British Columbia,* 1997 CanLII 302 (SCC), para. 87. On the honour of the Crown, see, for example: *R. v. Sparrow,* 1990 CanLII 104 (SCC); *Haida Nation v. British Columbia Minister of Forests,* 2004 CanLII 73 (SCC); *Delgamuukw v. British Columbia,* 1997 CanLII 302 (SCC).<!--linkrefid=133-->
+134. Legal scholar Bradford W. Morse makes this point. See: Morse, “Indigenous Human Rights,” 12, 26.<!--linkrefid=134-->
+135. Canada, Royal Commission on Aboriginal Peoples, *Report*, 5:232–233.<!--linkrefid=135-->
+136. They have done so in accordance with their legislated mandate. Canada’s *Museums Act (1990)* provides the legislative framework for museums. See: *Museums Act (1990),* chapter 3, section 3, http://laws-lois.justice.gc.ca/PDF/M-13.4.pdf. The Act was amended in 2008 to include the Canadian Museum for Human Rights.<!--linkrefid=136-->
+137. Bolton, “Museums Taken to Task,” 151.<!--linkrefid=137-->
+138. On December 12, 2013, Bill C-7, *An Act to amend the Museums Act in order to establish the Canadian Museum of History*, received Royal Assent, thus officially establishing the legislative authority to “rebrand” the Canadian Museum of Civilization. Neither the original *Museums Act* nor the amendment made specific reference to Aboriginal peoples. See: http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&Mode=1&billId=6263562&View=3. See also: “Civilization Museum Now the Canadian Museum of History,” *CBC News,* December 12, 2013, http://www.cbc.ca/news/canada/ottawa/civilization-museum-now-the-canadian-museum-of-history-1.2461738.<!--linkrefid=138-->
+139. House of Commons Standing Committee on Canadian Heritage, 41st Parliament, 1st session, June 5, 2013, http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=6209352&Language=E&Mode=1&Parl=41&Ses=1 (accessed 12 January 2014).<!--linkrefid=139-->
+140. The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 7, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf.<!--linkrefid=140-->
+141. The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 8–9, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf.<!--linkrefid=141-->
+142. The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 10, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf.<!--linkrefid=142-->
+143. Canadian Museum for Human Rights, https://humanrights.ca/about (accessed 15 April 2015).<!--linkrefid=143-->
+144. President and CEO, Stuart Murray, Canadian Museum for Human Rights, Speech to the Truth and Reconciliation Commission of Canada’s National Research Centre Forum, March 3, 2011, Vancouver, BC, https://humanrights.ca/about-museum/news/speech-delivered-president-and-ceo-stuart-murray-truth-and-reconciliation (accessed 15 April 2015).<!--linkrefid=144-->
+145. Jake Edmiston, “Indian Residential Schools or Settler Colonial Genocide? Native Group Slams Human Rights Museum over Exhibit Wording,” *National Post*, June 8, 2013, http://news.nationalpost.com/news/canada/indian-residential-schools-or-settler-colonial-genocide.<!--linkrefid=145-->
+146. Canadian Museum for Human Rights, Statement from the President and CEO: Use of “Genocide” in relation to treatment of Indigenous peoples in Canada, July 26, 2013, http://museumforhumanrights.ca/about-museum/news/statement-president-and-ceo-use-genocide-relation-treatment-indigenous-peoples.<!--linkrefid=146-->
+147. Canadian Museum for Human Rights, President and CEO Stuart Murray, speech delivered at “2017 Starts Now” forum, May 3, 2013, https://humanrights.ca/about-museum/news/speech-delivered-cmhr-president-and-ceo-stuart-murray-2017-starts-nowdebute.<!--linkrefid=147-->
+148. Library and Archives Canada, “Collection Development Framework,” March 30, 2005, 7–8, http://www.collectionscanada.gc.ca/obj/003024/f2/003024-e.pdf.<!--linkrefid=148-->
+149. Library and Archives Canada, “Aboriginal Heritage,” http://www.bac-lac.gc.ca/eng/discover/aboriginal-heritage/Pages/introduction.aspx#d.<!--linkrefid=149-->
+150. Library and Archives Canada, “Native Residential Schools in Canada,” http://www.collectionscanada.gc.ca/native-residential/index-e.html (accessed 15 April 2015).<!--linkrefid=150-->
+151. Wilson, “Peace, Order and Good Government,” 239.<!--linkrefid=151-->
+152. “New Exhibition Reflecting the Uniqueness of the Inuit Experience of Residential Schools Launched at Library and Archives Canada,” media release, March 4, 2009, http://www.collectionscanada.gc.ca/013/013-380-e.html. See also: Legacy of Hope Foundation, http://wherearethechildren.ca/en; Legacy of Hope Foundation, http://weweresofaraway.ca/ (accessed 15 April 2015).<!--linkrefid=152-->
+153. Library and Archives Canada, “Legacy of the Residential School System,” http://www.bac-lac.gc.ca/eng/archives/archives-en/aboriginal-heritage/Pages/residential-schools-bibliography-2009.aspx (accessed 15 April 2015).<!--linkrefid=153-->
+154. Library and Archives Canada, “Conducting Research on Residential Schools,” http://www.collectionscanada.gc.ca/obj/020008/f2/020008-2000-e.pdf (accessed 15 April 2015).<!--linkrefid=154-->
+155. Indian Residential Schools Settlement Agreement, Truth and Reconciliation Commission of Canada, Mandate, Schedule N, 11, http://www.trc.ca/websites/trcinstitution/File/pdfs/SCHEDULE_N_EN.pdf.<!--linkrefid=155-->
+156. *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII).<!--linkrefid=156-->
+157. Professor Terry Cook, University of Manitoba, long-time archivist at the National Archives, Fellow of the Association of Canadian Archivists, and a Fellow of the Royal Society of Canada, makes this point. See: Cook, “Evidence, Memory, Identity,” 111.<!--linkrefid=157-->
+158. United Nations Commission on Human Rights, Sub-Commission on the Prevention of Discrimination and Protection of Minorities, *The Administration of Justice and the Human Rights of Detainees: Question of the Impunity of Perpetrators of Human Rights Violations (Civil and Political)* (revised final report prepared by Mr. Joinet to the Sub-commission decision 1996/199) UN Doc. E/ CN.4/Sub,2/1997/20/Rev.1, 1997-10-02; updated by UN DocE/CN.4/2005/102 (18 February 2005), and UN Doc E/CN.4/2005/102/Add.1 (8 February 2005), cited in *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument. December 13, 2012, note 35, 14, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.<!--linkrefid=158-->
+159. de Greiff, “Report of the Special Rapporteur,” 2013, 22, http://daccess-dds-ny.un.org/doc/UN-DOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).<!--linkrefid=159-->
+160. de Greiff, “Report of the Special Rapporteur,” 2013, 23, http://daccess-dds-ny.un.org/doc/UN-DOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).<!--linkrefid=160-->
+161. de Greiff, “Report of the Special Rapporteur,” 2013, 29, http://daccess-dds-ny.un.org/doc/UN-DOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).<!--linkrefid=161-->
+162. Several prominent archivists have noted this trend. See, for example: Cook, “Evidence, Memory, Identity”; Wilson, “Peace, Order and Good Government”; Harris, “Archival Sliver”; Jimerson, “Archives for All.”<!--linkrefid=162-->
+163. TRC, AVS, Peter Cunningham, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: ABNE201.<!--linkrefid=163-->
+164. Rev. Fausak is also General Council Liaison Minister, Indigenous Justice and Residential Schools, United Church of Canada.<!--linkrefid=164-->
+165. TRC, AVS, Remembering the Children Society, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 29 March 2014, Statement Number: ABNE302. Based on their experience, United Church of Canada staff, in collaboration with the Remembering the Children Society, developed an educational resource with guidelines for other communities wishing to develop their own commemoration projects for residential school cemeteries and unmarked burials. See: United Church of Canada, Residential Schools Update, January 2012, http://develop.united-church.ca/files/communications/newsletters/residential-schools-update_120101.pdf (accessed 16 April 2015).<!--linkrefid=165-->
+166. The United Church of Canada’s online resources are available at: http://thechildrenremembered.ca/. Anglican Church online resources and school histories are available at: http://www.anglican.ca/relationships/trc. Presbyterian Church of Canada’s online resources are available at: http://www.presbyterianarchives.ca/RS%20-%20Home%20Page.html (accessed 15 April 2015).<!--linkrefid=166-->
+167. United Church of Canada, Residential School Archive Project, “The Children Remembered,” http://thechildrenremembered.ca/about/ (accessed 15 April 2015).<!--linkrefid=167-->
+168. Ian Wilson makes this point. See: Wilson, “Peace, Order and Good Government,” 238.<!--linkrefid=168-->
+169. This is based on the concept and philosophy of “sites of conscience,” as described by the International Coalition of Sites of Conscience, which is “a global network of historic sites, museums and memory initiatives connecting past struggles to today’s movements for human rights and social justice,” See: International Coalition of Sites of Conscience, http://www.sitesofconscience.org/ (accessed 15 April 2015).<!--linkrefid=169-->
+170. Truth and Reconciliation Commission of Canada, “Sharing Truth: Creating a National Research Centre on Residential Schools,” Forum, Vancouver, British Columbia, March 1–4, 2011. Videos of the forum can be viewed at: http://www.trc.ca/websites/trcinstitution/index.php?p=513.<!--linkrefid=170-->
+171. Georges Erasmus, Truth and Reconciliation Commission of Canada, “Sharing Truth: Creating a National Research Centre on Residential Schools,” Forum, Vancouver, British Columbia, 2 March 2011, https://vimeo.com/207788339.<!--linkrefid=171-->
+172. Centre for Truth and Reconciliation Administrative Agreement, clauses 9 (c), (d), 11 (a), (e), http://chrr.info/images/stories/Centre_For_Truth_and_Reconciliation_Administrative_Agreement.pdf.<!--linkrefid=172-->
+173. As of April 2015, existing partners included: The National Association of Friendship Centres, Legacy of Hope Foundation, Canadian Museum for Human Rights, University of British Columbia, Lakehead University, University College of the North, University of Winnipeg, Red River College, Archives of Manitoba, University College of the North, L’Université de Saint-Boniface, St. John’s College, St. Paul’s College, Manitoba Museum, Centre for Indigenous Environmental Resources, and the Sandy-Saulteaux Spiritual Centre. It is anticipated that more partners will be added as the centre develops. See: National Centre for Truth and Reconciliation, Our Partners, http://umanitoba.ca/centres/nctr/partners.html (accessed 15 April 2015).<!--linkrefid=173-->
+174. *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 6–7, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.<!--linkrefid=174-->
+175. Sue McKemmish, Shannon Faulkhead, and Lynette Russell, “Distrust in the Archive: Reconciling Records,” *Archival Science* 11 (2011): 212, cited in *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2011, 11, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.<!--linkrefid=175-->
+176. *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 11–12, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.<!--linkrefid=176-->
+177. *Fontaine v. Canada (Attorney General),* 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument, December 13, 2012, 12–13, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.<!--linkrefid=177-->
+178. University of Manitoba, “Historic Agreement Signed on National Aboriginal Day,” 21 June 2013, http://umanitoba.ca/news/blogs/blog/2013/06/21/historic-agreement-signed-on-national-aboriginal-day/.<!--linkrefid=178-->
+179. Such access will be “subject to privacy law and culturally appropriate protocols,” Truth and Reconciliation Commission of Canada and the University of Manitoba, Centre for Truth and Reconciliation Trust Deed, 21 June 2013, 3–4, http://umanitoba.ca/admin/indigenous_connect/media/IND-00-013-NRCAS-TrustDeed.pdf.<!--linkrefid=179-->
+180. Centre for Truth and Reconciliation, http://umanitoba.ca/centres/nctr/reconciliation.html (accessed 16 April 2015). See also: Centre for Truth and Reconciliation Administrative Agreement, http://chrr.info/images/stories/Centre_For_Truth_and_Reconciliation_Administrative_Agreement.pdf.<!--linkrefid=180-->
+181. TRC, AVS, Jessica Bolduc, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 30 March 2014, Statement Number: ABNE401.<!--linkrefid=181-->
+182. The Commission’s definition of “public memory” is based on the work of historians who study public memory. For example, James Opp and John C. Walsh define “public memory” as “memories that are made, experienced, and circulated in public spaces and that are intended to be communicated and shared,” See: Opp and Walsh, *Placing Memory*, 9. John Bodnar says that “public memory” is “a body of beliefs and ideas about the past that help [sic] a public or society understand both [sic] its past, present, and by implication, its future,” See: Bodnar, *Remaking America*, 15.<!--linkrefid=182-->
+183. Historian W. James Booth makes this important point in his study of how communities of memory are established, maintained, or disrupted through everyday habits and practices. See: Booth, *Communities of Memory*, 45.<!--linkrefid=183-->
+184. In its report “Strengthening Indigenous Rights through Truth Commissions: A Practitioner’s Resource,” the International Center for Transitional Justice identifies four thematic areas where commissions must rethink widely held assumptions in the field of transitional justice in order to become more responsive to Indigenous rights. These include: a) moving beyond a state-centric approach; b) moving beyond an individualistic form of analysis; c) moving beyond a focus only on recent violations; and d) moving beyond an overreliance on archival and written sources. See: International Center for Transitional Justice, “Strengthening Indigenous Rights,” 3–5, https://www.ictj.org/sites/default/files/ICTJ-Truth-Seeking-Indigenous-Rights-2012-English.pdf.<!--linkrefid=184-->
+185. Chamberlin, *If This Is Your Land*, 238–239.<!--linkrefid=185-->
+186. Schirch, *Ritual and Symbol*, 1–2.<!--linkrefid=186-->
+187. Truth and Reconciliation Commission of Canada, “Atlantic National Event Concept Paper,” 4, http://www.myrobust.com/websites/atlantic/File/Concept%20Paper%20atlantic%20august%2010%20km_cp%20_3_.pdf.<!--linkrefid=187-->
+188. In 2015, the Bentwood Box was on temporary loan to the Canadian Museum for Human Rights, where it was part of a public exhibit.<!--linkrefid=188-->
+189. Campbell, “Remembering for the Future,” 30. See also: Campbell, *Our Faithfulness to the Past*.<!--linkrefid=189-->
+190.  Qwul’sih’yah’maht (Thomas), “Honouring the Oral Traditions,” 253.<!--linkrefid=190-->
+191. TRC, AVS, Charles Cardinal, Statement to the Truth and Reconciliation Commission of Canada, St. Paul, Alberta, 7 January 2011, Statement Number: 01-AB-06JA11-005.<!--linkrefid=191-->
+192. TRC, AVS, Laurie McDonald, Statement to the Truth and Reconciliation Commission of Canada, Beausejour, Manitoba, 4 September 2010, Statement Number: 01-MB-3-6SE10-005.<!--linkrefid=192-->
+193. TRC, AVS, Victoria Grant-Boucher, Statement to the Truth and Reconciliation Commission of Canada, Ottawa, Ontario, 25 February 2011, Statement Number: 01-ON-05-FE11-004.<!--linkrefid=193-->
+194. TRC, AVS, Desarae Eashappie, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: SC112.<!--linkrefid=194-->
+195. Regan, *Unsettling the Settler Within*, 13.<!--linkrefid=195-->
+196. TRC, AVS, Florence Kaefer, Statement to Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.<!--linkrefid=196-->
+197. “Teacher Seeks Healing through Truth Commission,” *CBC News, Manitoba,* June 18, 2010, http://www.cbc.ca/news/canada/manitoba/story/2010/06/18/mb-truth-reconciliation-healing-teachers-winnipeg.html.<!--linkrefid=197-->
+198. TRC, AVS, Jack Lee, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.<!--linkrefid=198-->
+199. TRC, AVS, Mark DeWolf, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 28 October 2011, Statement Number: SC075.<!--linkrefid=199-->
+200. TRC, AVS, Tina Keeper, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 24 June 2013, Statement Number: SNE403.<!--linkrefid=200-->
+201. TRC, AVS, the Right Honourable Paul Martin, Statement to the Truth and Reconciliation Commission of Canada, Montreal, Québec, 26 April 2013, Statement Number: QNE303.<!--linkrefid=201-->
+202. TRC, AVS, the Right Honourable Joe Clark, Statement to Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 23 June 2012, Statement Number: SNE301.<!--linkrefid=202-->
+203. TRC, AVS, Andy Scott, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE203.<!--linkrefid=203-->
+204. TRC, AVS, Therese Boullard, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 28 June 2011, Statement Number: NNE103.<!--linkrefid=204-->
+205. TRC, AVS, Ginelle Giacomin, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: SC112.<!--linkrefid=205-->
+206. See, for example: Cohen, Varea, and Walker, *Acting Together*.<!--linkrefid=206-->
+207. van Erven and Gardner, “Performing Cross-Cultural Conversations,” 41. Quote from Francois Matarraso in correspondence with van Erven, March 19, 2008.<!--linkrefid=207-->
+208. David Garneau, artist, writer, curator, and professor of visual arts, makes this critical point. See: Garneau, “Imaginary Spaces,” 38.<!--linkrefid=208-->
+209. Garneau, “Imaginary Spaces,” 33–34.<!--linkrefid=209-->
+210. Archibald et al., *Dancing, Singing, Painting*, 18.<!--linkrefid=210-->
+211. Andrea Ratuski, “Residential School Art Series Awarded to U of M,” *CBC News*, September 24, 2013, http://www.cbc.ca/news/canada/manitoba/scene/residential-school-art-series-awarded-to-u-of-m-1.1865994.<!--linkrefid=211-->
+212. Morris and Helen Belkin Art Gallery, http://www.belkin.ubc.ca/past/witnesses (accessed 16 April 2015); University of British Columbia Museum of Anthropology, http://moa.ubc.ca/portfolio_page/speaking-to-memory/ (accessed 16 April 2015).<!--linkrefid=212-->
+213. Robertson, “Threads of Hope,” 87, 99–101.<!--linkrefid=213-->
+214. University of Winnipeg, “UWinnipeg Healing Quilt Gifted to TRC Commissioners,” 17 June 2010, http://www.uwinnipeg.ca/index/uw-news-action/story.364/title.uwinnipeg-healing-quilt-gifted-to-trc-commissioner.<!--linkrefid=214-->
+215. Dewar et al., “Practicing Reconciliation,” 5–6.<!--linkrefid=215-->
+216. Full descriptions of the 2011–12 commemoration projects can be found online at: http://www.aadnc-aandc.gc.ca/eng/1370974213551/1370974338097 (accessed 15 April 2015). For 2012–13 commemoration projects, see: http://www.aadnc-aandc.gc.ca/eng/1370974253896/1370974471675 (accessed 15 April 2015).<!--linkrefid=216-->
+217. Hague defines place as “a geographic space that is defined by meanings, sentiments and stories rather than by a set of co-ordinates.” See: Cliff Hague, “Planning and Place Identity,” in Cliff Hague and Paul Jenkins, eds., *Place Identity, Participation and Planning* (New York, 2005), 4, cited in Opp and Walsh, *Placing Memory*, 5.<!--linkrefid=217-->
+218. Alan S. Hale, “Treaty 3 Holds Commemoration Ceremony for Survivors of District Residential School System,” *Kenora Daily Miner and News*, March 25, 2014, http://www.kenoradailyminerandnews.com/2014/03/25/treaty-3-holds-commemoration-ceremony-for-survivors-of-district-residential-school-system.<!--linkrefid=218-->
+219. Debora Steel, “Alberni Residential Students Reunited with Childhood Art,” *Ha-Shilth-Sa*, 2 April 2013, http://www.hashilthsa.com/news/2013-04-03/alberni-indian-residential-students-reunited-childhood-art.<!--linkrefid=219-->
+220. Judith Lavoie, “Paintings Bear Witness to B.C. Residential Schools’ Harsh Life,” *Victoria Times-Colonist,* March 31, 2013, http://www.timescolonist.com/news/local/paintings-bear-witness-to-b-c-residential-schools-harsh-life-1.101179.<!--linkrefid=220-->
+221. Canada, Aboriginal Affairs and Northern Development Canada, “Remembering the Past,” http:// www.aadnc-aandc.gc.ca/eng/1332859355145/1332859433503.<!--linkrefid=221-->
+222. Christi Belcourt, Speech at dedication ceremony for the stained-glass window on Parliament Hill, November 26, 2012, Ottawa, Ontario, Canada, Aboriginal Affairs and Northern Development Canada, https://www.aadnc-aandc.gc.ca/eng/1370613921985/1370613942308. A detailed description of the window is available at: Canada, Aboriginal Affairs and Northern Development Canada, https://www.aadnc-aandc.gc.ca/eng/1353338933878/1353338974873 (accessed 30 March 2015).<!--linkrefid=222-->
+223. Commissioner Wilton Littlechild, Speech at dedication ceremony for the stained-glass window on Parliament Hill, November 26, 2012, Ottawa, Ontario, Canada, Aboriginal Affairs and Northern Development Canada, https://www.aadnc-aandc.gc.ca/eng/1370615213241/1370615618980.<!--linkrefid=223-->
+224. Opp and Walsh, *Placing Memory*, 15–16.<!--linkrefid=224-->
+225. *Historic Sites and Monuments Act,* Revised Statutes of Canada 1985, chapter H-4, http://laws-lois.justice.gc.ca/PDF/H-4.pdf (accessed 15 April 2015).<!--linkrefid=225-->
+226. Parks Canada, Historic Sites and Monuments Board of Canada, http://www.pc.gc.ca/clmhc-hsmbc/comm-board/Transparence-Transparency.aspx (accessed 15 April 2015).<!--linkrefid=226-->
+227. Parks Canada, Historic Sites and Monuments Board of Canada, National Program of Historical Commemoration, http://www.pc.gc.ca/clmhc-hsmbc/ncp-pcn.aspx (accessed 15 April 2015).<!--linkrefid=227-->
+228. *Joinet-Orentlicher Principles*, cited in United Nations Human Rights Council, “Report of the Special Rapporteur,” 8, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.<!--linkrefid=228-->
+229. United Nations Human Rights Council, “Report of the Special Rapporteur,” 14, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.<!--linkrefid=229-->
+230. United Nations Human Rights Council, “Report of the Special Rapporteur,” 19, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx. The Special Rapporteur is referencing the commemoration projects undertaken as part of the Settlement Agreement.<!--linkrefid=230-->
+231. United Nations Human Rights Council, “Report of the Special Rapporteur,” 20–21, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.<!--linkrefid=231-->
+232. United Nations Human Rights Council, “Report of the Special Rapporteur,” 21–22, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.<!--linkrefid=232-->
+233. United Nations Human Rights Council, “Report of the Special Rapporteur,” 22, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ListReports.aspx.<!--linkrefid=233-->
+234. The study was based on research conducted by Trina Cooper-Bolam and based in part on her experiences as the Legacy of Hope’s former executive director, her work with the Aboriginal Healing Foundation, and her role as a project leader for the Assembly of First Nations and the Aboriginal Healing Foundation’s national commemoration project. See: Cooper-Bolam, “Healing Heritage,” 8–9, 106–107.<!--linkrefid=234-->
+235. Cooper-Bolam, “Healing Heritage,” 108–109.<!--linkrefid=235-->
+236. Cooper-Bolam, “Healing Heritage,” 109.<!--linkrefid=236-->
+237. Cooper-Bolam, “Healing Heritage,” 61–63.<!--linkrefid=237-->
+238. Jeff Corntassel et al., “Indigenous Story-telling, Truth-telling and Community Approaches to Reconciliation,” *English Studies in Canada* 35, 1 (2009): 143, cited in Cooper-Bolam, “Healing Heritage,” 98.<!--linkrefid=238-->
+239. Cooper-Bolam, “Healing Heritage,” 97–99.<!--linkrefid=239-->
+240. Cooper-Bolam, “Healing Heritage,” ii.<!--linkrefid=240-->
+241. *Broadcasting Act* (1991), last revised 2014, http://laws-lois.justice.gc.ca/PDF/B-9.01.pdf.<!--linkrefid=241-->
+242. David, “Aboriginal Languages Broadcasting in Canada,” 14, http://aptn.ca/corporate/PDFs/Aboriginal_Language_and_Broadcasting_2004.pdf.<!--linkrefid=242-->
+243. CBC/Radio-Canada, “Going the Distance,” 48. The annual report also provides information  on CBC’s Aboriginal-languages programming and news coverage. See: http://www.cbc.radio-canada.ca/_files/cbcrc/documents/annual-report/2013-2014/cbc-radio-canada-annual-report-2013-2014.pdf. In 2013, Statistics Canada published this data as part of the National Household Survey conducted in 2011. See: Statistics Canada, *Aboriginal Peoples in Canada*, *2011*, 4, http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011001-eng.pdf.<!--linkrefid=243-->
+244. Aboriginal Peoples Television Network, Annual Report, 2013, http://aptn.ca/corporate/PDFs/APTN_2013_AnnualReport_ENG.pdf.<!--linkrefid=244-->
+245. Aboriginal Peoples Television Network, Corporate Factsheet, http://aptn.ca/corporate/facts.php (accessed 18 March 2015).<!--linkrefid=245-->
+246. Canada, Royal Commission on Aboriginal Peoples, *Report*, 5:103–104.<!--linkrefid=246-->
+247. Canada, Royal Commission on Aboriginal Peoples, *Report*, 2:614.<!--linkrefid=247-->
+248. See, for example: Anderson and Robertson, *Seeing Red*.<!--linkrefid=248-->
+249. Journalists for Human Rights is a media development organization that provides education and resources to “help journalists build their capacity to report ethically and effectively on human rights and governance issues in their communities.” See: http://www.jhr.ca/en/aboutjhr_learn-about.php (accessed 15 April 2015).<!--linkrefid=249-->
+250. Journalists for Human Rights, “Buried Voices,” August 2013, 18–19, http://www.documentcloud.org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015).<!--linkrefid=250-->
+251. Journalists for Human Rights, “Buried Voices,” 5–6, http://www.documentcloud.org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015).<!--linkrefid=251-->
+252. Journalists for Human Rights, “Buried Voices,” 16, http://www.documentcloud.org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1 (accessed 15 April 2015).<!--linkrefid=252-->
+253. Journalists for Human Rights, “Buried Voices,” 19, http://www.documentcloud.org/documents/784473-media-coverage-of-aboriginal-issues.html#document/p1.<!--linkrefid=253-->
+254. Miller, *Lethal Legacy*, vi.<!--linkrefid=254-->
+255. Miller, “Ipperwash and the Media,” 11, 14.<!--linkrefid=255-->
+256. Miller, “Ipperwash and the Media,” 19–20, 22–23.<!--linkrefid=256-->
+257. TRC, AVS, Theodore Fontaine, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: AB202.<!--linkrefid=257-->
+258. TRC, AVS, Laura Robinson, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: ABNE202.<!--linkrefid=258-->
+259. “Law Society Throws Support behind Reconciliation Initiatives,” *Gazette: Law Society of Upper Canada*, 11 December 2014, http://www.lawsocietygazette.ca/news/law-society-throws-support-behind-reconciliation-initiatives/.<!--linkrefid=259-->
+260. Mason and Koehli, “Barriers to Physical Activity,” 103–105.<!--linkrefid=260-->
+261.  *Physical Activity and Sport Act,* http://laws-lois.justice.gc.ca/eng/acts/P-13.4/page-1.html?texthighlight=under-represented#s-5.<!--linkrefid=261-->
+262. IndigenACTION, “Roundtable Report,” appendix 2, 18–19, http://www.afn.ca/uploads/files/indigenaction/indigenactionroundtablereport.pdf.<!--linkrefid=262-->
+263. Te Hiwi, “What Is the Spirit,” 3.<!--linkrefid=263-->
+264. Sport Canada, Policy Renewal, “Summary Report,” July 15, 2011, 4, https://sirc.ca/sites/default/files/content/docs/pdf/aboriginal.pdf.<!--linkrefid=264-->
+265. *Canadian Sport Policy*, http://canadiansporttourism.com/sites/default/files/docs/csp2012_en_lr.pdf (acessed 15 April 2015).<!--linkrefid=265-->
+266. TRC, AVS, David Courchene Jr., Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.<!--linkrefid=266-->
+267. TRC, AVS, Ian Campbell, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 25 June 2014, Statement Number: SE048.<!--linkrefid=267-->
+268. Jeff Lee, “Tsilhqot’in Nation Strikes Conciliatory Note with Municipalities,” *Vancouver Sun,* September 24, 2014, A6.<!--linkrefid=268-->
+269. Canada, *Northern Frontier, Northern Homeland,* 1:1, 82–83. Beginning in the 1980s, several land-claims agreements were signed across the North, including the Inuvialuit Final Agreement (1984), the Gwich’in Comprehensive Land Claim Agreement (1992), the Sahtu Dene and Métis Comprehensive Land Claim Agreement (1994), and the Tlicho Agreement (2005) in the Northwest Territories.<!--put a br here it's part of the same endnote--> Although there have been attempts to revitalize the Mackenzie Valley pipeline project, with the participation of a coalition of Aboriginal partners, as of 2014, it remained unclear as to whether the project would proceed. See: Brent Jang, “Gas Exports from B.C. Seen as Key to Reviving Pipeline,” *Globe and Mail,* February 2, 2014, http://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/gas-exports-from-bc-said-key-to-reviving-pipeline/article16657138/; Jeff Lewis, “Northwest Territories Eyes Revival of Mackenzie Valley Pipeline Project,” *Financial Post,* June 11, 2013, http://business.financialpost.com/2013/06/11/northwest-territories-eyes-revival-of-mackenzie-valley-pipeline-project/?__lsa=c5d4-608a.<!--linkrefid=269-->
+270. Canada, Royal Commission on Aboriginal Peoples, *Report*, 1:466–504.<!--linkrefid=270-->
+271. See, for example: *Delgamuukw v. British Columbia*, 1997 CanLII 302 (SCC); *Haida Nation v. British Columbia (Minister of Forests)*, 2004 SCC 73 (CanLII); *Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage),* 2005 SCC 69 (CanLII); *Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council,* 2010 SCC 43; *Tsilhqot’in Nation v. British Columbia*, 2014 SCC 44; *Grassy Narrows First Nation v. Ontario (Natural Resources)*, 2014 SCC 48.<!--linkrefid=271-->
+272. *Delgamuukw v. British Columbia*, 1997 CanLII 302 SCC, para. 165.<!--linkrefid=272-->
+273. *Haida Nation v. British Columbia (Minister of Forests)*, 2004 SCC 73 (CanLII), para. 53, cited in Newman, *Rule and Role of Law*, 10, http://www.macdonaldlaurier.ca/files/pdf/DutyToConsult-Final.pdf.<!--linkrefid=273-->
+274. Newman, *Rule and Role of Law*, 13, http://www.macdonaldlaurier.ca/files/pdf/DutyToConsult-Final.pdf.<!--linkrefid=274-->
+275. Public Policy Forum, “Building Authentic Partnerships,” 7.<!--linkrefid=275-->
+276. Public Policy Forum, “Building Authentic Partnerships,” 6.<!--linkrefid=276-->
+277. Eyford, “Forging Partnerships,” 3, 7, https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/www/pdf/publications/ForgPart-Online-e.pdf.<!--linkrefid=277-->
+278. Letter of transmission from Douglas R. Eyford to Prime Minister, 29 November 2013, in Eyford, “Forging Partnerships,” np, https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/www/pdf/publications/ForgPart-Online-e.pdf.<!--linkrefid=278-->
+279. The Charrette on Energy, Environment and Aboriginal Issues, “Responsible Energy Resource Development,” 2.<!--linkrefid=279-->
+280. The Charrette on Energy, Environment and Aboriginal Issues, “Responsible Energy Resource Development.”<!--linkrefid=280-->
+281. The Charrette on Energy, Environment and Aboriginal Issues, “Responsible Energy Resource Development,” 8–14.<!--linkrefid=281-->
+282. Coates and Newman, *End Is Not Nigh*, 21.<!--linkrefid=282-->
+283. United Nations Global Compact, *Business Reference Guide*.<!--linkrefid=283-->
+284. TRC, AVS, Wab Kinew, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: ABNE202.<!--linkrefid=284-->
+285. TRC, AVS, Victoria Wells, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 13 April 2012, Statement Number: SP016.<!--linkrefid=285-->
+286. TRC, AVS, Lynne Phillips, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 5 December 2010, Statement Number: 01-BC-03DE10-007.<!--linkrefid=286-->
+287. TRC, AVS, Roger Epp, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.<!--linkrefid=287-->
+288. TRC, AVS, Bill Elliot, Statement to the Truth and Reconciliation Commission of Canada, Hobbema, Alberta, 25 July 2013, Statement Number: SP125.<!--linkrefid=288-->
+289. TRC, AVS, Bill Elliot, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 29 March 2014, Statement Number: ABNE301.<!--linkrefid=289-->
+290. Reconciliation Canada, “City of Vancouver Council Unanimously Support,” http://reconciliationcanada.ca/city-of-vancouver-council-unanimously-support-city-of-reconciliation-framework/. See also: Report from City Manager to Vancouver City Council, “Framework for City of Reconciliation,” http://former.vancouver.ca/ctyclerk/cclerk/20141028/documents/rr1.pdf.<!--linkrefid=290-->
+291. TRC, AVS, Gregor Robertson, Statement to the Truth and Reconciliation Commission of Canada, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE102.<!--linkrefid=291-->
+292. Kim Harvey, *Be the Change: Young People Healing the Past and Building the Future*, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo.com/78638476.<!--linkrefid=292-->
+293. Kevin Takahide Lee, *Be the Change: Young People Healing the Past and Building the Future*, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo.com/78638476.<!--linkrefid=293-->
+294. Caroline Wong, *Be the Change: Young People Healing the Past and Building the Future*, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo.com/78638476.<!--linkrefid=294-->
+295. Danny Richmond, *Be the Change: Young People Healing the Past and Building the Future*, Vancouver, British Columbia, 18 September 2013, Statement Number: BCNE105, https://vimeo.com/78638476.<!--linkrefid=295-->
+296. TRC, AVS, Akua Benjamin, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.<!--linkrefid=296-->
+297. TRC, AVS, Ali Kazimi, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.<!--linkrefid=297-->
+298. TRC, AVS, Winnie Ng, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.<!--linkrefid=298-->
+299. Canada, Minister of Citizenship and Immigration Canada, *Discover Canada*, http://www.cic.gc.ca/english/resources/publications/discover/index.asp (accessed 15 April 2015).<!--linkrefid=299-->
+300. Canada, Minister of Citizenship and Immigration Canada, *Discover Canada*, http://www.cic.gc.ca/english/resources/publications/discover/index.asp (accessed 15 April 2015).<!--linkrefid=300-->
+301. Video recordings of the Walk for Reconciliation are available at: Reconciliation Canada, http://reconciliationcanada.ca/2013/09/ (accessed 15 April 2015).<!--linkrefid=301-->
+302. Elders Statement, “A Shared Tomorrow.” The statement and video recording of the Elders Circle are available at: Reconciliation Canada, http://reconciliationcanada.ca/explore/elders-statement/ (accessed 15 April 2015).<!--linkrefid=302-->
+
+### Appendix 1: The mandate of the Truth and Reconciliation Commission
+
+1. This refers to the Aboriginal principle of “witnessing.”<!--linkrefid=1-->
+2. The Government of Canada undertakes to provide for wider dissemination of the report pursuant to the recommendations of the Commissioners.<!--linkrefid=2-->
+3. The Commission may make recommendations for such further measures as it considers necessary for the fulfillment of the Truth and Reconciliation Mandate and goals.<!--linkrefid=3-->
+
+### Appendix 2: Canada’s Residential Schools
+
+1. Aboriginal and Northern Affairs Canada, List of Recognized Institutions, https://www.aadnc-aandc.gc.ca/eng/1100100015606/1100100015611 (accessed 3 March 2015).<!--linkrefid=1-->
+2. TRC, NRA, Deschatelets Archives, Oblates of Mary Immaculate, Ottawa, HR 6796.C73R 2, Oblates of Mary Immaculate to Indian Affairs, 15 November 1923. [SPR-000436]<!--linkrefid=2-->
+3. TRC, NRA, Headquarters, 775/25-1-006, 01/39–08/72, volume 2, HQ., Calgary, L. Beuglet to G. H. Gooderham, 1 February 1951. [AMP-006646]<!--linkrefid=3-->
+4. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 775/6-1-GHC, volume 1, 05/1973–06/1975, RCAP, E. W. Robinson to Don McBride, 27 April 1973. [AMP-010378]<!--linkrefid=4-->
+5. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 3834, file 65138, part 4, E. M. Legal to Indian Commissioner, Regina, 30 March 1887. [SAC-000211-0001]<!--linkrefid=5-->
+6. TRC, NRA, Deschatelets Archives Ottawa, HR 6103.C73R 4, *Report of the Indian Affairs Branch for the Year ended 31 March 1962*, 31. [OMI-030380]<!--linkrefid=6-->
+7. Canada, *Annual Report of the Department of Indian Affairs, 1891*, 62.<!--linkrefid=7-->
+8. TRC, NRA, Deschatelets Archives Ottawa, HR 6103.C73R 4, *Report of the Indian Affairs Branch for the Year ended 31 March 1962*, 31. [OMI-030380]<!--linkrefid=8-->
+9. Canada, *Annual Report of the Department of Indian Affairs, 1908*, xxxiv.<!--linkrefid=9-->
+10. TRC, NRA, Deschatelets Archives Ottawa, HR 6103.C73R 4, *Report of the Indian Affairs Branch for the Year ended 31 March 1962*, 31. [OMI-030380]<!--linkrefid=10-->
+11. Canada, *Annual Report of the Department of Indian Affairs, 1898*, 444.<!--linkrefid=11-->
+12. TRC, NRA, Library and Archives Canada – Edmonton, 4700-10-435, volume 1, 9/87–12/88, NAC, Edmonton, Sheila Carr-Stewart to Jim Twigg, 14 January 1988. [MRY-008208]<!--linkrefid=12-->
+13. Canada, *Annual Report of the Department of Indian Affairs, 1890,* 82; Canada, *Annual Report of the Department of Indian Affairs, 1891*, 180.<!--linkrefid=13-->
+14. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 773/6-1-, 04/66– 07/75, volume 3, RCAP, E. J. Dosdall to Regional Advisor, Engineering and Architecture, 3 July 1975. [PUL-002529]<!--linkrefid=14-->
+15. Canada, *Annual Report of the Department of Indian Affairs, 1900*, 343–344.<!--linkrefid=15-->
+16. TRC, NRA, Library and Archives Canada, NAC, file 772/6-1-001, 01/67–10/69, “Cluny Indian School Closing,” by Don Peacock [Calgary *Albertan*] , 20 December 1969. [CFT-002237]<!--linkrefid=16-->
+17. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011. Indian Affairs began funding the school in 1902. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 241, 387–388.<!--linkrefid=17-->
+18. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 775/6-1, 03/72– 08/76, volume 3, RCAP, E. J. Dosdall to G. K. Gooderham, 26 June 1973. [MAR-001983]<!--linkrefid=18-->
+19. Canada, *Annual Report of the Department of Indian Affairs, 1924*, 13.<!--linkrefid=19-->
+20. TRC, NRA, INAC – AB Regional Records Office – Edmonton, 774/1-13, volume 2, 07/1968–07/1975, CR – ALB, [Illegible] for W. Evan Armstrong to Churchman, 21 May 1968. [EDM-009699]<!--linkrefid=20-->
+21. McCarthy, *From the Great River*, 160; Carney, “Grey Nuns and Children,” 291; Duchaussois, *Grey Nuns*, 148.<!--linkrefid=21-->
+22. TRC, NRA, INAC – Main Records Office – Ottawa, 701/25-20-1, 1965–1975, volume 1, CR HQ, E. J. Dosdall to Chief, Student Residence Services, Ottawa, 6 March 1974. [RCA-001185]<!--linkrefid=22-->
+23. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 3952, file 134858, Indian Affairs, Public Archives – Archives Publiques Canada, Indian Affairs, “Minutes,” 5 August 1900. [AGL-000570]<!--linkrefid=23-->
+24. TRC, NRA, INAC – Main Records Office – Ottawa, 775/6-1-005, Jan/64–Feb/73, volume 5, DIAND, Central Records – HQ, R. F. Davey to Henri Routhier, 23 August 1968. [FTV-006722-0000]<!--linkrefid=24-->
+25. Canada, *Annual Report of the Department of Indian Affairs, 1887*, 178.<!--linkrefid=25-->
+26. TRC, NRA, INAC – Main Records Office – Ottawa, 772/16-2-002, 1966–1971, volume 2, CR-HQ, H. W. Allen to Mr. D. P. Nigra, 20 April 1971. [OLD-000209]<!--linkrefid=26-->
+27. Brandak, “A Study of Missionary Activity,” 108.<!--linkrefid=27-->
+28. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=28-->
+29. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 76.<!--linkrefid=29-->
+30. TRC, NRA, Provincial Archives of Alberta, PAA 71.220 B92 3866, W. M. Graham to Principal, Ermineskin Roman Catholic Boarding School, 28 October 1922. [OGP-030045]<!--linkrefid=30-->
+31. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 131.<!--linkrefid=31-->
+32. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, E4974-2021, 1975– 1980, volume 2, RCAP, K. W. Johnson to D. W. Simpson, 4 September 1975. [ERM-002507-0000]<!--linkrefid=32-->
+33. TRC, NRA, Headquarters, 777/25-1-007, 02/13–03/65, volume 1, HQ., D. C. Scott to Frank Pedley, 9 April 1913. [GRU-002710]<!--linkrefid=33-->
+34. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=34-->
+35. Persson, “Blue Quills,” 50.<!--linkrefid=35-->
+36. Persson, “Blue Quills,” 51.<!--linkrefid=36-->
+37. Brandak, “A Study of Missionary Activity,” 37.<!--linkrefid=37-->
+38. TRC, NRA, Library and Archives Canada, RG10, volume 6380, file 769-1, part 1, A. F. MacKenzie to Dr. T. B. R. Westgate, 8 August 1932. [WFL-000246]<!--linkrefid=38-->
+39. TRC, NRA, Library and Archives Canada – Ottawa, 757-1, part 1, volume 6355, 1886–1927, NAC, J. D. McLean to E. H. Yeomans, 28 December 1922. [MOR-004751-0001]<!--linkrefid=39-->
+40. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=40-->
+41. Canada, *Annual Report of the Department of Indian Affairs, 1894,* 91.<!--linkrefid=41-->
+42. TRC, NRA, Library and Archives Canada, RG10, volume 6350, file 753-1, part 1, J. F. Woodsworth to James Endicott, 5 June 1919. [EDM-000242]<!--linkrefid=42-->
+43. TRC, NRA, Library and Archives Canada, RG10, volume 6345, file 751-5, part 1, 1896–1902, Microfilm reel C-8701, Lumber list for erecting Indian Boarding School Building, 1 August 1898; [BQL-007304] TRC, NRA, Library and Archives Canada, RG10, volume 6345, file 751-5, part 1, 1896–1902, Microfilm reel C-8701, H. Leduc to A. E. Forget, 4 September 1898. [BQL-007314]<!--linkrefid=43-->
+44. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011. In 1987, Indian Affairs informed the Blue Quills administration that it would not provide funding for the high school program after June 1988. The decision was driven, at least in part, by the desire of other local First Nations to develop their own high school programs. Indian Affairs continued to fund post-secondary programs at Blue Quills. The high school program and associated residence closed in June 1988. That year, seventy-six Grade Twelve students graduated from the school: the largest graduating class in the high school’s twelve-year history. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-2020, volume 3 (Ctrl #7-7), D. Wattie to G. P. Kerr, 17 March 1988; [NCA-007261-0000] Blue Quills First Nations College, *Pimohteskanaw,* 14.<!--linkrefid=44-->
+45. The St. Albert Mission was founded in 1861. Choquette, *The Oblate Assault*, 86. The Grey Nuns arrived in 1853 and established a school in that year. Côté, “St. Albert,” 33.<!--linkrefid=45-->
+46. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6364, file 760-1, part 2, 1936– 1948, Microfilm reel C-8717 PAC, R. A. Hoey to Deputy Minister, 3 September 1948. [SAL-000283]<!--linkrefid=46-->
+47. Canada’s Historic Places, St. Augustine’s Roman Catholic Mission, http://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=11611 (accessed 23 February 2015).<!--linkrefid=47-->
+48. The Smoky River school is included in the 1908 Indian Affairs annual report list of Alberta boarding schools (Canada, *Annual Report of the Department of Indian Affairs, 1908,* 2:56), but not in the 1909 report (Canada, *Annual Report of the Department of Indian Affairs, 1909,* 2:20).<!--linkrefid=48-->
+49. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 292–293.<!--linkrefid=49-->
+50. Canada, *Annual Report of the Department of Indian Affairs, 1922,* 18.<!--linkrefid=50-->
+51. Brandak, “A Study of Missionary Activity,” 37.<!--linkrefid=51-->
+52. TRC, NRA, INAC – Main Records Office – Ottawa, 777/16-2-009, 1966–1967, volume 2, CR-HQ, L. E. Wrag for R. F. Davey to Chief Treasury Officer, 15 March 1966. [JON-001035]<!--linkrefid=52-->
+53. Brandak, “A Study of Missionary Activity,” 83.<!--linkrefid=53-->
+54. TRC, NRA, INAC – AB Regional Records Office – Edmonton, 777/6-1-769, 01/05–09/50, CR-AB, [Illegible], Director to L. A. Dixon, 10 June 1950. [WFL-000753]<!--linkrefid=54-->
+55. Canada, *Annual Report of the Department of Indian Affairs, 1905*, 249–250.<!--linkrefid=55-->
+56. Canada, *Annual Report of the Department of Indian Affairs, 1940*, 186.<!--linkrefid=56-->
+57. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 158.<!--linkrefid=57-->
+58. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 978/25-13, volume 1, Student Residence – Gen. 10/05/1973–11/15/1979, Control No. 449-80, IRSRC – Historical Files, Larry Wight to District Supervisor, 2 October 1974. [MIK-008346-0005]<!--linkrefid=58-->
+59. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=59-->
+60. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-147, V1985-86/476, box 16 [18], file 989/25-8, volume 6, Indian Education – Educational Assist. – Gen., [dates illegible] 1976–77, NAC Burnaby, Smith to Cahoose, 19 July 1977. [JOE-014593]<!--linkrefid=60-->
+61. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 203.<!--linkrefid=61-->
+62. Canada, *Annual Report of the Department of Indian Affairs, 1941*, 165.<!--linkrefid=62-->
+63. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xi.<!--linkrefid=63-->
+64. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-138, volume 13464, file 964/25-1, part 1, Education – General, 05/1969–12/1970, NAC Burnaby, R. M. Hall to G. D. Cromb, 21 May 1970; [EGN-002451] TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-189, Acc. v96-97/816, file 6-1, box 4, 1972 Contract Documents [Kamloops Indian Residential School], NAC – Burnaby, G. D. Cromb to W. L. Fraser, 26 May 1970. [EGN-011708]<!--linkrefid=64-->
+65. Canada, *Annual Report of the Department of Indian Affairs, 1922*, 18.<!--linkrefid=65-->
+66. TRC, NRA, Library and Archives Canada – Burnaby, file 965/6-1-012, part 22, Lejac Residential School, 1973–1976, FA 10-138, Acc. V1985-86/397, box 2 [502381], National Archives of Canada – Burnaby, Friesen to E. Korchinski, 9 July 1976. [LEJ-009413]<!--linkrefid=66-->
+67. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xi.<!--linkrefid=67-->
+68. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-145, Acc. v85-86/496, file 963/25-1, Perm. volume 1, Education 1974–78, NAC – Burnaby, R. G. Lyon to K. W. Manuel, 4 July 1978. KAM-009590]<!--linkrefid=68-->
+69. Canada, *Annual Report of the Department of Indian Affairs, 1906*, 482.<!--linkrefid=69-->
+70. TRC, NRA, Library and Archives Canada – Ottawa, file 883-1, part 2, Bella Coola Agency – Kitamaat, Residential School – General Administration, 1933–1950, FA 10-17, Perm. volume 6451, Microfilm reel C-8773, Library and Archives Canada – Ottawa, George Dorey to Harold W. McGill, 21 April 1941. [KMT-095750]<!--linkrefid=70-->
+71. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xi.<!--linkrefid=71-->
+72. TRC, NRA, Library and Archives Canada, GARDD, V1985-86/397, 901/25-13-1, box 502381, volume 1, 1973–1975, R. Evans to Regional Supervisor, 7 July 1975. [SLT-002387]<!--linkrefid=72-->
+73. TRC, NRA, Library and Archives Canada, file 942-5, part 4, 1950–51, volume 6482, Microfilm reel C-8796, A. H. Fleury to B. H. Neary, 22 January 1951. [LOW-000506]<!--linkrefid=73-->
+74. TRC, NRA, Library and Archives Canada, RG10, box 66, Acc. 1988-1989/057, General Correspondence Lower Post Students Residence, 1965–1978, G. K. Gooderham to Department Secretariat, 2 May 1975. [LOW-041388]<!--linkrefid=74-->
+75. Canada, *Annual Report of the Department of Indian Affairs, 1903*, 437.<!--linkrefid=75-->
+76. TRC, NRA, No document location, no document file source, E-4974-2030 V.1, I. R. Shand to J. Epp, 23 August 1979. [GRG-022833]<!--linkrefid=76-->
+77. Canada, *Annual Report of the Department of Indian Affairs, 1900*, 281.<!--linkrefid=77-->
+78. TRC, NRA, British Columbia Archives – Victoria, Vertical Files – Christie IRS, Microfilm reel 28, frame 1988, B.C. Archives, George Nicholson, “Indian Children Give up Their School in the Forest,” *Vancouver Sun*, 15 June 1971. [CST-800006]<!--linkrefid=78-->
+79. Gresko, “Paul Durieu,” http://www.biographi.ca/en/bio/durieu_paul_12E.html (accessed 31 August 2014). McNally gives the opening as 1862: McNally, *Lord’s Distant Vineyard*, 67; TRC, NRA, The British Columbian, 11 May 1865, page 3; [OMS-000291] TRC, NRA, Mission Community Archives, file 660.6, L. Fouquet to J. Douglas, 23 May 1867. [MIS-005038]<!--linkrefid=79-->
+80. TRC, NRA, INAC – BC Regional Records Office – Vancouver BC-CR, V87-395, box: 87-09-D40/42- 009, E4974-2031, volume 3, 04/83–07/84, C. E. Van Alstyne to Joe Aleck, 25 June 1984. [MIS-000494]<!--linkrefid=80-->
+81. Canada, *Annual Report of the Department of Indian Affairs, 1900*, 420.<!--linkrefid=81-->
+82. TRC, NRA, Library and Archives Canada – Ottawa, RG10, FA 10-379, 1999-01431-6, box 405, 987/25-1-013, part 1, Indian Education – Fraser District – St. Paul’s School, 1959–1968, NAC – Ottawa, W. S. Arneil to R. F. Davey, 16 February 1959. [SQU-000672]<!--linkrefid=82-->
+83. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 165.<!--linkrefid=83-->
+84. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 6-1-2032, Alberni Indian Residential School, Control No. 303-13, 11/1970–12/1978, IRSRHF, W. R. Cooke to Regional Director, 9 August 1973. [ABR-021977-0000]<!--linkrefid=84-->
+85. Bolt, *Thomas Crosby and the Tsimshian*, 63.<!--linkrefid=85-->
+86. TRC, NRA, Library and Archives Canada, file 886-1, part 3, Skeena River Agency – Port Simpson Girls Residential School, 1894–1950, FA 10-17, Perm. volume 6458, Eva Middleton to Superintendent Indian Education, 27 September 1948. [PSM-200706]<!--linkrefid=86-->
+87. Canada, *Annual Report of the Department of Indian Affairs, 1905*, 217.<!--linkrefid=87-->
+88. TRC, NRA, Library and Archives Canada – Burnaby, RG10, FA 10-137 v86-87/243, volume 4 [501374], 987/25-13-1 School Closures – Sechelt, part 1, 1975–1977, NAC – Burnaby, J. M. Neely to B. Banner, 7 July 1975. [MIS-007429]<!--linkrefid=88-->
+89. Canada, *Annual Report of the Department of Indian Affairs, 1890*, 248.<!--linkrefid=89-->
+90. TRC, NRA, Agness Jack, “New Use for St. Joseph’s Mission: Now Adult Education Centre,” *Williams* *Lake Tribune*, 10 September 1981. [WLM-000627]<!--linkrefid=90-->
+91. Canada, *Annual Report of the Department of Indian Affairs, 1888*, xii.<!--linkrefid=91-->
+92. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-1-7-3, volume 2 (Ctrl #14-21), J. B. Bergevin to Mrs. Gordon Long, 2 July 1970. [NCA-001847]<!--linkrefid=92-->
+93. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 203.<!--linkrefid=93-->
+94. TRC, NRA, Library and Archives Canada – Winnipeg, RG10, Acc. 2001-01035-4, box 015, file 501/25-13-082G, volume 1, Soulodre, J. P. to Manitoba Telephone System, 7 June 1972. [BRS006834]<!--linkrefid=94-->
+95. TRC, NRA, Library and Archives Canada, R776-0-5 (RG55), volume 290, T.B. #626127, May 14, 1964, Department of Northern Affairs and National Resources to Treasury Board, “Details of request to the Honourable the Treasury Board,” 20 April 1964. [120.10656A]<!--linkrefid=95-->
+96. TRC, NRA, Library and Archives Canada, file 380/6-2-007, volume 1, C. L’Heureux to W. J. McGuire, 22 March 1972; [PHQ-005693] INAC – Archival Unit – Ottawa, file 5150/C6-1, volume 1, D. Davidson to the Secretary-Treasurer, “Junior HIgh School – Hearne Hall,” 27 March 1973. [CVC- 000615-0000]<!--linkrefid=96-->
+97. Canada, *Annual Report of the Department of Indian Affairs, 1912*, 351.<!--linkrefid=97-->
+98. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=98-->
+99. TRC, NRA, Library and Archives Canada, RG10, Acc. 88-89/57, file 501/25-2, volume 1, R. D. Ragan to DIAND, 20 June 1957. [DRS-122339-0003]<!--linkrefid=99-->
+100. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-2012, volume 3, G. R. Maxwell to W. Wright, 25 September 1987. [DRS-000170]<!--linkrefid=100-->
+101. Canada, *Annual Report of the Department of Indian Affairs, 1889*, 58.<!--linkrefid=101-->
+102. TRC, NRA, Library and Archives Canada, RG10, volume 3925, file 116, 823-1A, Martin Benson to D. C. Scott, 4 March 1918. [ELK-000250]<!--linkrefid=102-->
+103. Canada, *Annual Report of the Department of Indian Affairs, 1924*, 13.<!--linkrefid=103-->
+104. TRC, NRA, Library and Archives Canada, RG10, volume 6263, file 578-9, part 2, D. M. MacKay to Deputy Minister, 9 August 1949. [ELK-000162]<!--linkrefid=104-->
+105. Canada, *Annual Report of the Department of Indian Affairs, 1899*, xxiii.<!--linkrefid=105-->
+106. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=106-->
+107. Canada, *Annual Report of the Department of Indian Affairs, 1890,* 1:94.<!--linkrefid=107-->
+108. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=108-->
+109. Canada, *Annual Report of the Department of Indian Affairs, 1906*, xxxii.<!--linkrefid=109-->
+110. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 15, R. F. Davey to Assistant Deputy Minister, Indian and Eskimo Affairs, 18 August 1969. [NCA-011279]<!--linkrefid=110-->
+111. Canada, *Annual Report of the Department Indian Affairs, 1891*, 99.<!--linkrefid=111-->
+112. TRC, NRA, Library and Archives Canada, Winnipeg, RG10, Acc. W86-87/083, box 001, file 501/251, volume 2A, J. Malcolm to Friends, 25 May 1975. [PLP-100300]<!--linkrefid=112-->
+113. Canada, *Annual Report of the Department of Indian Affairs, 1906*, xxxii.<!--linkrefid=113-->
+114. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 15, R. F. Davey to Assistant Deputy Minister, Indian and Eskimo Affairs, 18 August 1969. [NCA-011279]<!--linkrefid=114-->
+115. Canada, *Annual Report of the Department of Indian Affairs, 1915*, xxvi–xxv.<!--linkrefid=115-->
+116. TRC, NRA, Library and Archives Canada, RG10, volume 6267, file 580-1, part. 2, A. F. MacKenzie to Reverend T. B. R. Westgate, 24 April 1933. [DRS-000616]<!--linkrefid=116-->
+117. TRC, NRA, Library and Archives Canada, RG10, volume 8638, file 511/6-1-038, part 1, R. S. Davis to Indian Affairs Branch, 15 December 1952. [GUY-000164]<!--linkrefid=117-->
+118. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-2011, volume 1, Jake Epp to Henry Wilson, 30 August 1979. [GUY-000606]<!--linkrefid=118-->
+119. City of Winnipeg, Historical Buildings Committees, “611 Academy – Former Julia Clark School,” August 1997, 1–3, 9–10; TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 6-21-7, volume 1 (Ctrl #25-7), H. M. Jones to Deputy Minister, 4 July 1958. [NCA- 011600-0000]<!--linkrefid=119-->
+120. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 20, D. Hueston to A. Akehurst, 4 July 1973. [PLK-001019]<!--linkrefid=120-->
+121. Canada, *Annual Report of the Department of Indian Affairs, 1927*, 14.<!--linkrefid=121-->
+122. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual Report of the Department of Indian Affairs, 1959–1960*, 96.<!--linkrefid=122-->
+123. Canada, *Annual Report of the Department of Indian Affairs, 1937*, 208.<!--linkrefid=123-->
+124. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual Report of the Department of Indian Affairs, 1959–1960*, 96.<!--linkrefid=124-->
+125. TRC, NRA, Library and Archives Canada – Ottawa, RG85, file 632-108-1, volume 1, box 22, Quarterly Attendance Report/Fort Franklin – NWT, 09/1967–12/1968, “Pupil Residence Quarterly Return, Fort Franklin,” 30 September 1967. [FFS-000001-0001]<!--linkrefid=125-->
+126. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, file 73600-303, volume 2, School Services – Fort Franklin, 01/72–09/73, Transfer No. 0330, box 9, J. A. Coady to N. Macpherson, 22 March 1973. [FFS-000018]<!--linkrefid=126-->
+127. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106.<!--linkrefid=127-->
+128. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, file 73-500-402, volume 2, Fort McPherson Hostel [Anglican] – Quarterly Returns [Fort McPherson], 01/72–12/76, Transfer No. 0330, box 8-21, N. J. Macpherson to Member of the Executive for Education, 21 April 1976. [FHU-002403]<!--linkrefid=128-->
+129. McCarthy, *From the Great River,* 159.<!--linkrefid=129-->
+130. TRC, NRA, Government of Northwest Territories Archives, file 600-1-1, part 4, School Policy [and Hostels], 1959–1961, Archival box 202-1, Archival Acc. G-1979-003, Department of Northern Affairs and National Resources, “Historic Names for Northern Schools and Residences,” news release, 2 March 1961. [RCN-010612-0002]<!--linkrefid=130-->
+131. Carney, “Relations in Education,” 60.<!--linkrefid=131-->
+132. TRC, NRA, INAC – Departmental Library – Ottawa, “Farewell to St. Joseph’s School, Fort Resolution, N.W.T.,” *Indian Record*, volume XX, number 5, May 1957. [IMR-000160]<!--linkrefid=132-->
+133. TRC, NRA, Government of Northwest Territories Archives, file 602, Provincial Schools and Education Systems, 1960–1961, Archival box 211-1, Archival Acc. G-1979-003, Administrator of the Mackenzie to Director, 12 December 1960. [FNU-001695]<!--linkrefid=133-->
+134. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports, RIMS ID# 1209, box 9, Student Enrolment in Hostels, 1967–1975. [RCN-007181]<!--linkrefid=134-->
+135. TRC, NRA, Government of Northwest Territories Archives, file 602, Provincial Schools and Education Systems, 1960–1961, Archival box 211-1, Archival Acc. G-1979-003, Administrator of the Mackenzie to Director, 12 December 1960. [FNU-001695]<!--linkrefid=135-->
+136. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports, RIMS ID #1209, box 9, Student Enrolment in Hostels, 1967–1975. [RCN-007181]<!--linkrefid=136-->
+137. TRC, NRA, Government of Northwest Territories Archives, Pupil Residence – General, 1973–1978, Archival box 4-2, Archival Acc. G1995-004, R. L. Julyan to R. W. Halifax, 28 December 1977. [LHU- 000685-0001]<!--linkrefid=137-->
+138. Roxanna Thompson, “Dehcho Hall to Close its Doors,” *Northern News Services* online, 26 January 2009, http://www.nnsl.com/frames/newspapers/2009-01/jan26_09h.html.<!--linkrefid=138-->
+139. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106.<!--linkrefid=139-->
+140. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Miscellaneous Hostel Reports, RIMS ID #1209, box 9, Student Enrolment in Hostels, 1967–1975. [RCN-007181]<!--linkrefid=140-->
+141. TRC, NRA, Government of Northwest Territories Archives, file 600-1-1, part 1A, Education, Schools – General Policy, 1962–1969, Archival box 202-4, Archival Acc. G-1979-003, P. Piché to R. J. Orange, 27 May 1964. [GCU-000178]<!--linkrefid=141-->
+142. TRC, NRA, Diocese of Mackenzie – Yellowknife, NWT, Grandin College – Administration Files, Miscellaneous Papers, Letter Sent on Behalf of Bishop P. Piché and his Diocesan Council, 4 June 1985. [GCU-800247]<!--linkrefid=142-->
+143. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 2.15, box 27, file 8, St. Peter’s Mission, Hay River, Diocese of Mackenzie River, Parish History, n.d.; [AAC-087477] Hay River Slides, Alf. J. Vale, n.d. [AAC-087480]<!--linkrefid=143-->
+144. The Hay River residential school is listed in the 1937–38 Indian Affairs annual report (Canada, *Annual Report of the Department of Indian Affairs, 1938,* 231), but not in the 1938–39 annual report (Canada, *Annual Report of the Department of Indian Affairs, 1939*, 265).<!--linkrefid=144-->
+145. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual* *Report of the Department of Indian Affairs, 1959–1960*, 96.<!--linkrefid=145-->
+146. TRC, NRA, No document location, no document file source, B. Pusharenko, Inuvik, NWT, “Demolition of Former Residential School Called for to Put Bad Memories to Rest,” *Edmonton* *Journal*, 13 August 1998. [GNN-000298-0026]<!--linkrefid=146-->
+147. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106; Canada, *Annual* *Report of the Department of Indian Affairs, 1959–1960*, 96.<!--linkrefid=147-->
+148. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, ECE [02330-6, 004508], Government of NWT, Yellowknife, NWT, Peter L. McKlusky to Territorial Auditor, 17 December 1975. [SHU-000074-0000]<!--linkrefid=148-->
+149. Canada, *Annual Report of the Department of Indian Affairs, 1958–1959*, 106.<!--linkrefid=149-->
+150. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Misc. Correspondence, 1991–1994, Transfer No. 1531, box 5, C. McLean to J. Stad, 24 June 1994. [AHU004085]<!--linkrefid=150-->
+151. TRC, NRA, Library and Archives Canada, RG10, volume 6054, file 265-1, part 1, Chas Stewart to A. E. MacLean, 22 May 1930. [SRS-000300]<!--linkrefid=151-->
+152. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 211/6-1-010, volume 6, R. F. Davey to Michael Kearney, 12 June 1967. [SRS-000175]<!--linkrefid=152-->
+153. TRC, NRA, Government of Northwest Territories Archives, file A-630/153-11, part 1, Education Facilities – Schools Small Hostels – Eskimo Point, 1961–1966, Archival box 247-12, Archival Acc. G-1979-003, Pupil Residence Quarterly Return, Eskimo Point Student Hostel, 31 March 1962. [EPS- 000343]<!--linkrefid=153-->
+154. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=154-->
+155. TRC, NRA, Government of Northwest Territories Archives, file 630-150/12-1,2,3, Cambridge Bay Cottage Hostel General, Reports, 1963–1964, Archival box 247-10, Archival Acc. G-1979-003, Pupil Residence Quarterly Return, Cambridge Bay Federal Hostel, 31 March 1964. [CBS-000002-0001]<!--linkrefid=155-->
+156. TRC, NRA, CGS Records Warehouse, Iqaluit, Government of Nunavut, Resid – Correspondence – Kitikmeot, 1991–1992, Kitikmeot Region [Kugluktuk] – box 102, CGS Records Warehouse, Iqaluit, Government of Nunavut, List to Kitikmeot Divisional Education Council, Student Accommodation Information – September 30, 1996, 18 October 1996. [CPU-001700-0002]<!--linkrefid=156-->
+157. TRC, NRA, Library and Archives Canada, RG85, volume 711, file 630/158-1, part 5, Government School – Chesterfield Inlet N.W.T., 1956–1957, “Boarding Schools for Eskimos – Chesterfield Inlet,” 8 August 1958. [CIU-000485]<!--linkrefid=157-->
+158. TRC, NRA, Government of Northwest Territories Archives, CR# 71-602-000, Pupil Residence – General, 04/1968–12/71, Archival box 266, Archival Acc. G1999-046, G. Devitt to Director of Education, 5 December 1969. [CIU-001807]<!--linkrefid=158-->
+159. TRC, NRA, Government of Northwest Territories Archives, file 630-145/22-2, Reports and Returns, Coppermine Tent Hostel School, 1954–1956, Archival box 247-3, Archival Acc. G-1979-003, “Report on the Coppermine Experimental Tent Hostel,” David S. Wilson, undated report. [CPU-001206- 0002]<!--linkrefid=159-->
+160. TRC, NRA Library and Archives Canada – Ottawa, RG85, Perm. volume 644, file 630/145-2, part 7, Anglican Schools – Coppermine, N.W.T. [Incl. Tent Hostel] November 1957–December 1959, FA 85-1, Director to Administrator of the Mackenzie, Fort Smith, N.W.T., 26 September 1959. [CPU- 000436]<!--linkrefid=160-->
+161. TRC, NRA, Government of Northwest Territories Archives, file A-600-1-6-1, part 2, Small Hostel, N.W.T, 1962–1965, Archival box 205-4, Archival Acc. G-1979-003, [Illegible] Director to Administrator of the Arctic, 10 January 1962. [IGS-000239]<!--linkrefid=161-->
+162. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=162-->
+163. TRC, NRA, Government of Northwest Territories – Education, Culture and Employment, Schools Registers and Hostels Forms 1961–1974 [Ukkivik Hostel], Transfer No. 0274, box 4-23, “Student Residence Quarterly Return,” September 1971. [FBS-000001]<!--linkrefid=163-->
+164. TRC, NRA, No document location, no document file source, B. Pusharenko, Inuvik, NWT, “Demolition of Former Residential School Called for to Put Bad Memories to Rest,” *Edmonton Journal*, 13 August 1998. [GNN-000298-0026]<!--linkrefid=164-->
+165. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=165-->
+166. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=166-->
+167. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=167-->
+168. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=168-->
+169. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=169-->
+170. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=170-->
+171. TRC, NRA, Government of Northwest Territories Archives, file A-630/170-1, part 1, Education Facilities – Schools Pangnirtung, N.W.T., 1959–1966, Archival box 249-10, Archival Acc. G1979-003, R. L. Kennedy to Regional Administrator, 14 July 1964. [PAS-000083]<!--linkrefid=171-->
+172. Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011, IRS School Chart – INAC 2011, document provided to the TRC by Aboriginal and Northern Affairs Canada, 29 September 2011.<!--linkrefid=172-->
+173. TRC, NRA, Government of Northwest Territories Archives, file A-630/159-1, part 1, Education Facilities – School Small Hostels – Baker Lake, 1961–1966, Archival box 248-8, Archival Acc. G-1979-003, M. E. Gordon to Department of Northern Affairs and National Resources, 21 January 1961. [BLS-000320]<!--linkrefid=173-->
+174. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 600-1-6, volume 10, Hostel Management – N.W.T. [General and Policy], Aug. 1967–Sept. 1968, W. Ivan Mouat, to J. B. Gunn to Regional Administrator to Administrator of the Arctic, 30 January 1968. [RCN-002847]<!--linkrefid=174-->
+175. TRC, NRA, Government of Northwest Territories Archives, file A-630/1023-11, volume 1, Small Hostels Broughton Island, 1962–1966, Archival box 251-12, Archival Acc. G-1979-003, Broughton Island Federal School Hostel Quarterly Report, 31 December 1962. [BIS-000001]<!--linkrefid=175-->
+176. TRC, NRA, Government of Northwest Territories Archives, file A-630/1023-11, part 1, Small Hostels Broughton Island, 1962–1966, Archival box 251-12, Archival Acc. G-1979-003, Service Agreement of Hostel Mother, Ada Atagoojuk, Broughton Island Hostel, 1 April 1966. [BIS-000097]<!--linkrefid=176-->
+177. TRC, NRA, Government of Northwest Territories Archives, file AQR 630/174-11, volume 1, Education Facilities – Small Hostels – Belcher Islands, 1963–1968, Archival box 250-4, Archival Acc. G-1979-003, Peter H. Zacharias to Northern Administration Branch, 31 March 1964. [BES-000002]<!--linkrefid=177-->
+178. TRC, NRA, Government of Northwest Territories Archives, file AQR 630/174-1, part 1, Education Facilities – School Belcher Islands, 1960–1969, Archival box 250-3, Archival Acc. G1979-003, H. Helbecque to Northern Administrator, Great Whale River, 24 November 1964. [BES-000036]<!--linkrefid=178-->
+179. Graham, *Mush Hole*, 7.<!--linkrefid=179-->
+180. TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 47, file 451/25-1, Newspaper article, “Mohawk Institute May Close after 139 Years,” no date; [TAY-001133] TRC, NRA, Diocese of Huron Archives, Anglican Church of Canada, Huron University College, London, ON, Luxton Papers, box 27, Indian Reserves, Richard Isaac, Six Nations Council To Whom It May Concern, 13 March 1970; [TAY-001432] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 479/25-13-001, volume 3, G. D. Cromb to Deputy Minister, 20 March 1970. [TAY-003053-0001]<!--linkrefid=180-->
+181. Canada, *Annual Report of the Department of Indian Affairs, 1908*, 289.<!--linkrefid=181-->
+182. TRC, NRA, Library and Archives Canada, RG10, volume 11091, Shannon File, 1948, Letters to Indian Affairs Branch, J. L. Whitney to Philip Phelan, 31 July 1948. [CRS-002092]<!--linkrefid=182-->
+183. TRC, ASAGR, Aboriginal Affairs and Northern Development Canada, letter received 27 July 1976. AANDC-01471]<!--linkrefid=183-->
+184. Auger, *Indian Residential Schools in Ontario*, 193.<!--linkrefid=184-->
+185. Taylor, “Northern Algonquians,” 350.<!--linkrefid=185-->
+186. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 486/25-13-1, H. B. Rodine to All Program/Section Heads District Supervisor, 8 April 1976. [FTA-000510-0000]<!--linkrefid=186-->
+187. Canada, *Annual Report of the Department of Indian Affairs, 1906*, xxxii.<!--linkrefid=187-->
+188. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/1-8, volume 3 Ctrl #123-HQ-7), M. Rehaluk to G. K. Gooderham, 11 March 1974. [NCA-016551-0000]<!--linkrefid=188-->
+189. TRC, NRA, Library and Archives Canada, RG10, volume 6196, file 464-1, part 1, Report on “Fort William Orphanage,” March 1899. [SJS-000153]<!--linkrefid=189-->
+190. TRC, NRA, Library and Archives Canada, RG10, volume 11630, file 492/25-2, M. Ouimet to A. F. McWhinnie, 6 August 1968. [SJS-001351]<!--linkrefid=190-->
+191. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6468, file 890-1, part 1, Microfilm reel C-8786, A. W. Vowell to Deputy Superintendent General of Indian Affairs, 5 July 1897. [MIS004738]<!--linkrefid=191-->
+192. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 487/1-18, volume 1, W. McKim to A. Lacerte, 22, undated. [KNR-000214]<!--linkrefid=192-->
+193. Canada, *Annual Report of the Department of Indian Affairs, 1902*, 103.<!--linkrefid=193-->
+194. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 486/25-13-1, H. B. Rodine to Program/Section Heads, 8 April 1976, [Program/Section Heads]; TRC, NRA, Ontario Regional Service Centre – LAC – Toronto, file 487/25-1, volume 3, Fred Kelly to Erik Weigeldt, 18 November 1976. [CJC-001887]<!--linkrefid=194-->
+195. Canada, *Annual Report of the Department of Indian Affairs, 1926*, 17.<!--linkrefid=195-->
+196. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=196-->
+197. General Synod of the Anglican Church of Canada, “Bishop Horden Memorial School.”<!--linkrefid=197-->
+198. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 486/25-13-1, H. B. Rodine to All Program/Section Heads District Supervisor, 8 April 1976. [FTA-000510-0000]<!--linkrefid=198-->
+199. *Report of the Special Commissioners 1858*, n.p.<!--linkrefid=199-->
+200. TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 3, R. A. Hoey to Dr. McGill, 9 November 1942; [MER-000498] TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 1, M. Benson to Deputy Superintendent General of Indian Affairs, 28 November 1902; [MER-000328] TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 3, R. A. Hoey to Dr. McGill, 9 November 1942; [MER-000498] TRC, NRA, Library and Archives Canada, RG10, volume 6205, file 468-1, part 3, R. A. Hoey to George Dorey, 16 June 1944; [MER-000532] TRC, NRA, Library and Archives Canada, RG10, file 468-1, volume 6205, part 3, R. A. Hoey to George Dorey, 12 June 1943; [IRC-041082] TRC, NRA, Library and Archives Canada, RG10, file 468-1, volume 6205, part 3, George Dorey to R. A. Hoey, 10 June 1943; [MER-000505] TRC, NRA, Library and Archives Canada, RG10, volume 6210, file 468-10, part 5, Samuel Devlin to Indian Affairs, 20 May 1946; [MER-003806-0001] Canada, *Annual Report of the Department of Indian Affairs, 1969–1970,* 128.<!--linkrefid=200-->
+201. TRC, NRA, Library and Archives Canada, RG10, volume 11447, file 494/25-2, part 1, Irwin Schantz to D. B. MacBeth, 29 August 1962. [PHD-000451-0000]<!--linkrefid=201-->
+202. TRC, NRA, Library and Archives Canada, Margaret Reimer, “Native Mission School Shut Down over Discipline Controversy,” *Mennonite Reporter*, volume 19, number 22, 13 November 1989. [PHD-000143]<!--linkrefid=202-->
+203. Wilson, *Missionary work,* 129, 130–131.<!--linkrefid=203-->
+204. TRC, NRA, Library and Archives Canada, RG10, Acc. 86-87/347, file 411/25-2, volume 1, A. F. McWhinnie to District Superintendent of Education, Sudbury Agency, 8 June 1970. [SWK-007859]<!--linkrefid=204-->
+205. Wilson,*Missionarywork,*215.<!--linkrefid=205-->
+206. From 1895 onwards, Indian Affairs stopped reporting on the Wawanosh school separately, apparently including the former school’s statistics with those for the Shingwauk school. The same principal was responsible for both Anglican schools, which were located in Sault Ste. Marie. Canada, *Annual Report of the Department of Indian Affairs, 1895*, 19, 330.<!--linkrefid=206-->
+207. Canada, *Annual Report of the Department of Indian Affairs, 1927*, 18.<!--linkrefid=207-->
+208. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E-4974-2008, volume 1, V. Gran to J. R. Wright, 29 August 1978. [PLK-000315-0000]<!--linkrefid=208-->
+209. Canada, *Annual Report of the Department of Indian Affairs, 1914*, xxii.<!--linkrefid=209-->
+210. TRC, NRA, Library and Archives Canada, RG10, volume 11359, file 13/25-2-471, part 3, Reverend Wm. Kearns to Parents and Guardians, 4 July 1958; [NCA-013327] TRC, NRA, The Archives of the Jesuits of Upper Canada, Regis College, Toronto, ON, Jesuit Fathers of Upper Canada Archives, “Parish Announcement,” Father E. Dowling, 6 July 1958. [AGA-000812]<!--linkrefid=210-->
+211. Canada, *Annual Report of the Department of Indian Affairs, 1914*, xxii.<!--linkrefid=211-->
+212. TRC, NRA, Library and Archives Canada, RG10, Acc. 84-85/112, box 51, file 471/25-2, F. L. Hall to Regional Supervisor , 21 June 1962. [AGA-004741] TRC, NRA, United Church of Canada/Victoria University Archives, Acc. No. 83.050C, box 111, file 2, Morley IRS – Correspondence 1961–62, UCC Docs, Toronto, R. F. Davey, Rev. E. E. M. Joblin, 17 August 1962. [UCA-081423]<!--linkrefid=212-->
+213. TRC, NRA, Library and Archives Canada, RG10, Acc. 1984-85/112, box 101, file 494/25-1, part 3, I. L. Howes to Assistant Regional Director, 10 January 1973. [PHD-000215]<!--linkrefid=213-->
+214. *Fontaine v. Canada (Attorney General)*, 2011 CanLII 4938 (ON SC), 6.<!--linkrefid=214-->
+215. TRC, NRA, Library and Archives Canada, RG10, volume 7187, file 371/25-1-021, H. M. Jones to Deputy Minister, 22 September 1955. [NCA-005273]<!--linkrefid=215-->
+216. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 1/25-13, volume 20, D. Hueston to A. Akehurst, 4 July 1973. [PLK-001019]<!--linkrefid=216-->
+217. TRC, NRA, Anglican Church of Canada, General Synod Archives, Triennial Report of the Board of Management to the Board of Missions, M.S.C.C. 07/1934, Accession GS 75-2A, Archibald [Fleming], Bishop of the Arctic, “The Arctic,” in S. Gould, General Secretary, Board of Management, M.S.C.C., “Triennial Report of the Board of Management, M.S.C.C.,” 4 July 1934, 353. [AGS-000185]<!--linkrefid=217-->
+218. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 371/6-1-019, G. K. Gooderham to E. T. Parker, 27 February 1975. [HFG-000035-0008]<!--linkrefid=218-->
+219. TRC, NRA, Anglican Church of Canada, General Synod Archives, ACC-MSCC-GS 75-103, series 3:2, box 55, file 6, S. Gould to D. C. Scott, 18 December 1931. [AAC-090271]<!--linkrefid=219-->
+220. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 372/25-13-019, volume 1, Laurent Faucher, Director, Financial and Equipment Services, Cree School Board to Jean-Marie St. Jacques, Assistant Director of Finance, Education Department, 2 August 1978. [FTG- 000171]<!--linkrefid=220-->
+221. Aboriginal and Northern Affairs Canada, List of Recognized Institutions, https://www.aadnc-aandc.gc.ca/eng/1100100015606/1100100015611 (accessed 3 March 2015).<!--linkrefid=221-->
+222. Aboriginal and Northern Affairs Canada, List of Recognized Institutions, https://www.aadnc-aandc.gc.ca/eng/1100100015606/1100100015611 (accessed 3 March 2015).<!--linkrefid=222-->
+223. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 630/304-11, volume 2, T. B. Golding to DIAND, 11 January 1960. [PHQ-005752]<!--linkrefid=223-->
+224. TRC, NRA, Library and Archives Canada, file 380/6-2-007, volume 1, C. L’Heureux to W. J. McGuire, 22 March 1970. [PHQ-005693]<!--linkrefid=224-->
+225. TRC, NRA, Library and Archives Canada, RG85, Perm. volume 1435, file 600-14, part 1, Seasonal Schools N.W.T.–General, 1959–1964, FA 85-4, Memorandum from Bishop, R. A., A/Chief, Education Division, Northern Administration Branch, Northern Affairs and National Resources, Ottawa to Director, 9 February 1960. [FGR-000012]<!--linkrefid=225-->
+226. TRC, NRA, Library and Archives Canada, RG10, 2003-0196-4, box 19, file AQR-630/314-1, “George River Seasonal School Report,” November 1960. [FGR-000015-0001]<!--linkrefid=226-->
+227. TRC, NRA, Library and Archives Canada, RG10, Acc. 2003-00196-4, file AQR630/313-1, box 19, volume 1, W. G. Devitt to Administrator of the Arctic, Engineering Section, 21 June 1960. [PBH- 000107]<!--linkrefid=227-->
+228. TRC, NRA, Library and Archives Canada, RG10, Acc. 2003-00196-4, box 19, file AQR630/313-11, volume 1, page 3 of 3, Enrolment form from Meldrum to Regional Superintendent of Schools, Department of Northern Affairs and National Resources, 1 April 1962. [PBH-000121]<!--linkrefid=228-->
+229. TRC, NRA, Library and Archives Canada, RG85, volume 1290, file 303/302, part 2, “Great Whale Housing,” 21 September 1960. [GWR-000068]<!--linkrefid=229-->
+230. TRC, NRA, Library and Archives Canada, RG10, Acc. 2003-00196-4, box 12, file AQR, R. G. Armstrong to Y. Gosselin, 22 December 1970. [GWR-000251]<!--linkrefid=230-->
+231. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 21/6-1-355, volume 2, Rev. J. E. DeWolf to C. E. Reynolds, 27 March 1963. [LTR-000338-0002]<!--linkrefid=231-->
+232. TRC, NRA, Library and Archives Canada, RG55, Acc. 1989-90/143, box 74, file 7878-01, part 1, Status of closed residences as of June 1977. [HFG-000024-0002]<!--linkrefid=232-->
+233. *Fontaine v. Canada (Attorney General)*, 2013 CanLII 1293 (QC CS).<!--linkrefid=233-->
+234. *Fontaine v. Canada (Attorney General)*, 2013 CanLII 1293 (QC CS).<!--linkrefid=234-->
+235. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 21/25-1-354, Pointe Bleue Indian Agency, “Confirmation de l’appel téléphonique à Monsieur Jolicoeur du 7 octobre 1960 date de l’ouverture des classes,” 12 October 1960. [PTB-000301]<!--linkrefid=235-->
+236. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E-4974/076, volume NC 3, Rene Carriere to Rejean Perron, 22 April 1991. [BAX-000905-0001]<!--linkrefid=236-->
+237. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 321/25-1-352 (Ctrl #407-Q-195), Philip Phelan to J. D’Astous, 16 July 1952; [NPC-400716 ] TRC, NRA, Library and Archives Canada, RG10, Acc. 1999-01431-6, box 125, file 379/16-2-009, part 1, K. A. Cameron to W. Lauchlan, 6 September 1952. [SIR-000504-0000]<!--linkrefid=237-->
+238. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 379/25-1-  009, volume 2 (Ctrl #14-25), G. Cromb to Regional Director, 10 March 1971; [NCA-015502] TRC, NRA, Library and Archives Canada, RG55, Acc. 1989-90/143, box 74, file 7878-01, part 1, Status of closed residences as of June 1977; [HFG-000024-0002] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 379/25-1-009, volume 2, A. Gill to G. Cromb, 23 June 1971. [NCA-001483]<!--linkrefid=238-->
+239. Canada, *Annual Report of the Department of Indian Affairs, 1889*, 60.<!--linkrefid=239-->
+240. TRC, NRA, Library and Archives Canada, RG10, volume 6307, file 653-1, part 2, Director [to Deputy Minister], 22 June 1949. [FHR-000356]<!--linkrefid=240-->
+241. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 154.<!--linkrefid=241-->
+242. Canada, *Annual Report of the Department of Indian Affairs, 1915*, xxvi.<!--linkrefid=242-->
+243. Foran, “‘Les Gens de cette place,’” 59.<!--linkrefid=243-->
+244. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4965-2013, volume 3, Beauval Residential School, box 1, file 1-5, Memorandum of Understanding and Agreement Re: The Beauval Indian Education Centre, 6 June 1995. [BVL-001306]<!--linkrefid=244-->
+245. Canada, *Annual Report of the Department of Indian Affairs, 1901*, xxx.<!--linkrefid=245-->
+246. TRC, NRA, Library and Archives Canada, RG10, volume 8756, file 671/25-1-010, “The Fire at the Thunderchild Residential School,” J. B. Cabana, January 1948. [THR-000266-0003]<!--linkrefid=246-->
+247. Canada, *Annual Report of the Department of Indian Affairs, 1894*, 76.<!--linkrefid=247-->
+248. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-10474, volume 2, Ray Gamracy to Dana Commercial Credit Canada, 6 June 1996. [SMD-000651-0000]<!--linkrefid=248-->
+249. Canada, *Annual Report of the Department of Indian Affairs, 1888*, xii.<!--linkrefid=249-->
+250. Gordon’s School, Anglican Indian and Eskimo Residential Schools, Anglican Church of Canada, www.anglican.ca/relationships/histories/gordons-school-punnichy, http://www.anglican.ca/relationships/histories/gordons-school-punnichy (accessed 5 May 2014).<!--linkrefid=250-->
+251. Canada, *Annual Report of the Department of Indian Affairs, 1899*, 323.<!--linkrefid=251-->
+252. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4971-361, volume 3, Myler Savill to Lionel Sparvier, 21 July 1997. [MRS-000002-0001]<!--linkrefid=252-->
+253. TRC, NRA, Library and Archives Canada, RG10, volume 6281, file 604-1, part 1, W. McWhinney to E. A. W. R. McKenzie, 10 October 1928. [CTS-000418-0001]<!--linkrefid=253-->
+254. TRC, NRA, Library and Archives Canada, RG10, volume 6282, file 604-5, part 7, Philip Phelan to L. J. Bryant, 6 September 1940. [CTS-000474]<!--linkrefid=254-->
+255. Canada, *Annual Report for the Department of Indian Affairs, 1889*, 258.<!--linkrefid=255-->
+256. TRA, NRA, Library and Archives Canada – Ottawa, RG10, volume 6281, file 604-1, part 1, Rev. W. McWhinney to Secretary, 27 July 1915. [CRW-000208]<!--linkrefid=256-->
+257. Canada, *Annual Report of the Department of Indian Affairs, 1928*, 17.<!--linkrefid=257-->
+258. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=258-->
+259. Canada, *Annual Report of the Department of Indian Affairs, 1907*, *119.*<!--linkrefid=259-->
+260. TRC, NRA, Provincial Archives of Alberta, Anglican Diocese of Athabasca Fonds, Edmonton, AB, Acc. PR1970.0387/1641, box 41, Anglican Diocese of Athabasca Fonds, file A320/572, Indian Schools – General, Official Correspondence of Bishop Sovereign, 1941–1947, Report of Fire at All Saints’ School, Lac la Ronge, Sask., 2 February 1947; [PAR-123539] TRC, NRA, Library and Archives Canada, RG10, volume 6317, file 656-5, part 8, R. A. Hoey to C. G. Brault, 29 August 1947. [PAR- 003667]<!--linkrefid=260-->
+261. Canada, *Annual Report of the Department of Indian Affairs, 1884*, 161.<!--linkrefid=261-->
+262. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-6- 02017, Irvin Starblanket to Roy Bird, 1 October 1997; [PLD-009978-0002] LaRose, “Wrecker’s ball Claims White Calf Collegiate”; TRC, NRA, Talking points for the media on the closure of White Calf Collegiate in Lebret, Sask., Andrew Bemister to Media, 26 June 1998; [PLD-014223] TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-6-02017, volume 1, Huck Andrews to INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-6- 02017, volume 1, 23 July 1998. [PLD-009201-0001]<!--linkrefid=262-->
+263. Canada, *Annual Report of the Department of Indian Affairs, 1889*, 260.<!--linkrefid=263-->
+264. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, Muskowekwan Residential School, box 67, file 1, Muskowekwan Education Centre Board of Directors, Minutes 16 July 1997. [MDD-007310-0001]<!--linkrefid=264-->
+265. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 75.<!--linkrefid=265-->
+266. Canada, *Annual Report of the Department of Indian Affairs, 1944*, 155.<!--linkrefid=266-->
+267. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 75.<!--linkrefid=267-->
+268. TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 671/6-2-025, volume 4, Onion Lake Band Council Resolution, 31 July 1974. [ORC-008733-0002]<!--linkrefid=268-->
+269. TRC, NRA, Library and Archives Canada, RG10, volume 8645, file 651/6-1, part 2, Memorandum to the Deputy Minister, Director [of Indian Affairs], 22 August 1951. [PAR-017615-0000]<!--linkrefid=269-->
+270. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file E4974-1355, volume 8, “Education Centre Set to Re-open,” *Prince Albert Herald*, Carrie Hunter, 15 October 1997. [PAR-003103-0001]<!--linkrefid=270-->
+271. Canada, *Annual Report of the Department of Indian Affairs, 1944*, 155.<!--linkrefid=271-->
+272. TRC, NRA, Library and Archives Canada, RG10, volume 8645, file 651/6-1, part 2, Memorandum to the Deputy Minister, Director [of Indian Affairs], 22 August 1951. [PAR-017615-0000]<!--linkrefid=272-->
+273. Canada, *Annual Report of the Department of Indian Affairs, 1890*, xii.<!--linkrefid=273-->
+274. Canada, *Annual Report of the Department of Indian Affairs, 1911*, xxvi.<!--linkrefid=274-->
+275. Canada, *Annual Report of the Department of Indian Affairs, 1893*, 246.<!--linkrefid=275-->
+276. TRC, NRA, Library and Archives Canada, RG10, volume 11539, file 677/25-2, James D. Ormiston to Indian Agent, Kamsack, 31 August 1950. [RLS-001087]<!--linkrefid=276-->
+277. Canada, *Annual Report of the Department of Indian Affairs, 1927*, 14.<!--linkrefid=277-->
+278. TRC, NRA, Library and Archives Canada, RG10, volume 8638, file 511/6-1-038, part 1, E. S. Jones to J. P. B. Ostrander, 6 September 1952. [GUY-000148]<!--linkrefid=278-->
+279. TRC, NRA, Library and Archives Canada – Ottawa, RG10, volume 6479, file 940-1, part 1, “The Chooutla Indian School,” *Northern Lights*, volume XV, number 1, February 1927. [CAR-011225]<!--linkrefid=279-->
+280. Canada, *Annual Report of the Department of Indian Affairs, 1969–1970*, 128.<!--linkrefid=280-->
+281. Peake, *Bishop Who Ate His Boots*, 108; TRC, NRA, Anglican Church of Canada, General Synod Archives Northern Lights, Anglican Church of Canada, Newsletter, “St. Paul’s Hostel Dawson,” page 8, November 1920. [DYK-201331]<!--linkrefid=281-->
+282. TRC, NRA, Library and Archives of Canada, RG10, volume 8762, file 906/25-1-001, R. J. Meek to Indian Affairs Branch, 4 February 1954. [YKS-000750]<!--linkrefid=282-->
+283. Johns, “A History of St Peter’s Mission,” 22; TRC, NRA Anglican Church of Canada, General Synod Archives, Northern Lights, August 1929, “Eskimo Residential School,” 16. [DYK-201365]<!--linkrefid=283-->
+284. TRC, NRA, Library and Archives Canada – Ottawa, RG85, Perm. volume 1881, file 630/119-2, part 1, Aklavik Area Residential School September 1936–April 1943, FA 85-8, Field Secretary to R. A. Gibson, 11 August 1936. [RCN-004646-0001]<!--linkrefid=284-->
+285. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 853/25-1, volume 2 (Ctrl #49-5), “Report to the Chief of the Education Division, Indian Affairs Branch, On the Experiment With Integration of Indian Students (R.C.) Into Whitehorse Schools, 1960–1961,” E. Cullinane, 1961. [NCA-009389-0001]<!--linkrefid=285-->
+286. TRC, NRA, Library and Archives Canada, volume 2, 04/71–02/80, Student Residence, PARC, I. P. Kirkby to G. D. Cromb, 24 November 1971. [YKS-002862, 25-13]<!--linkrefid=286-->
+287. TRC, NRA, Library and Archives Canada – Ottawa, file 921-1, part 1, Yukon Agency – Whitehorse Day School – General Admin., 1911–1949, FA 10-17, volume 6477, Microfilm reel C-8793, R. J. Meek to Unknown, 14 October 1946; [BAP-000307-0001] M. Hackett to P. E. Moore, 24 January 1947. [BAP-000315]<!--linkrefid=287-->
+288. TRC, NRA, National Capital Regional Service Centre – LAC – Ottawa, file 1/25-1, volume 15 locator #H4-77), Yukon, G. R. Cameron to E. A. Côté, 26 May 1966. [NCA-001030]<!--linkrefid=288-->
+289. TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, 853/25-1, 1956– 1968, volume 2, H. M. Jones to Deputy Minister Attention, 18 August 1960. [YHU-090021-0001]<!--linkrefid=289-->
+290. Canada, *Annual Report of the Department of Indian Affairs, 1984–1985*, 54; TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, E4974-1, volume 1, 10/1979–10/1987, W. F. Lamont to Director, 6 June, 1985. [YKS-005140]<!--linkrefid=290-->
+
+### Appendix 3: Persons Found Guilty of Abusing Residential School Students
+
+1. TRC, NRA, No document location, no document file source, Alberta Justice, Clerk of the Provincial Court of Alberta, Conviction, 28 September 1960. [EDM-003354]<!--linkrefid=1-->
+2. TRC, ASAGR, R. G. Pooley to R. F. Davey, 23 November 1963; [AANDC-261608] TRC, ASAGR, M. Brodhead to Regional School Superintendent – Alberta, 3 January 1964; [AANDC-261599] “Jail Teacher for One Year,” *Winnipeg Free Press*, 26 September 1963.<!--linkrefid=2-->
+3. TRC, NRA, Library and Archives Canada, 978/2, volume 1209, 05/1965–06/1971, NAC, V. A. Stephens to H. B. Robinson, 29 May 1970. [ABR-094456]<!--linkrefid=3-->
+4. Eva Salinas, “Four-year Hunt Ends in Arrest,” *Globe and Mail*, 3 August 2006. http://www.theglobeandmail.com/news/national/four-year-hunt-ends-in-arrest/article713735/.<!--linkrefid=4-->
+5. Shea, *Institutional Child Abuse in Canada,* 2.<!--linkrefid=5-->
+6. Shea, *Institutional Child Abuse in Canada*, 2.<!--linkrefid=6-->
+7. LeBeuf, *Role of the RCMP*, 462.<!--linkrefid=7-->
+8. *R. vs. Maczynski*, 1997 CanLII 2491 (BCCA) (appeal of sentence); TRC, NRA, No document location, no document file source, E. Morriset to R. B. Kohls, 28 October 1974. [OBG-002922]<!--linkrefid=8-->
+9. “Former Students File Suit Over Sexual, Physical Abuse,” Saskatoon *Star-Phoenix,* 26 November 1996; Caroline Murray, “Abuse Victims Recall Atrocities,” *Whitehorse Daily Star. 25 November 1996;* Shea, *Institutional Child Abuse in Canada*, 2.<!--linkrefid=9-->
+10. Richard Gleeson, “Four Years for Sex Assault,” *Northern News Services,* 8 August 1997, http:// www.nnsl.com/frames/newspapers/1997-08/aug8_97jail.html; Shea, *Institutional* *Child Abuse in Canada*, 9.<!--linkrefid=10-->
+11. It should be noted that of the eight counts of buggery, five related to offences committed at Lytton and the other three to offences committed at another institution that was not a residential school, the Central City Mission.<!--linkrefid=11-->
+12. LeBeuf, *Role of the RCMP*, 462; “School Sex Assaults Bring Jail,” *Vancouver Sun,* 4 October 1996; Shea, *Institutional Child Abuse in Canada*, 2.<!--linkrefid=12-->
+13. LeBeuf, *Role of the RCMP*, 462; “School Sex Assaults Bring Jail,” *Vancouver Sun,* 4 October 1996.<!--linkrefid=13-->
+14. Canadian Press, “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times-Colonist,* January 24, 2004; United Church of Canada Archives, Residential School Archive Project, “The Children Remembered, Alberni Residential School,” http://thechildrenremembered.ca/schools-history/alberni/ (accessed 6 November 2013).<!--linkrefid=14-->
+15. *R. v. Plint,* [1995] B.C.J. No. 3060 (BCSC); Canadian Press, “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times-Colonist*, January 24, 2004.<!--linkrefid=15-->
+16. *R. v. Plint,* [1995] B.C.J. No. 3060 (BCSC); Canadian Press, “Former Employee of Residential School Jailed for Sex Abuses,” Victoria *Times-Colonist*, January 24, 2004.<!--linkrefid=16-->
+17. TRC, NRA, Her Majesty the Queen and Harold Daniel McIntee, Reasons for Judgment, Judge C. C. Marnett, Provincial Court of British Columbia, 1 June 1989; [BKM-000204] Ann Rees, “Priest’s Victims Admit Sexual Abuse,” *The Province* (Vancouver)*,* 19 July 1989; Shea, *Institutional Child Abuse in Canada,* 2–3.<!--linkrefid=17-->
+18. *R. v. Constant* (28 September 2005), Court of Queen’s Bench (Dauphin Centre), Indictment (5 May 2003), and Disposition (26 September 2005), #03-05-00069, documents obtained from Court of Queen’s Bench (Dauphin Centre), Dauphin, Manitoba, 28 January 2014.<!--linkrefid=18-->
+19. TRC, NRA, file 630-118/10-1,2,3, part 1A, Fort McPherson Reports, General and Supplies, 1963–1967, Archival box 239-1, Archival Acc. G-1979-003, O. G. Tucker to H. Darkes, 26 March 1963. [FHU-001914]<!--linkrefid=19-->
+20. TRC, NRA, Library and Archives Canada – Ottawa, RG22, Perm. volume 1074, file 250-26-17, part 2, Fort McPherson – School, 1959, FA 22-3, David Searle to D. M. Christie, 23 April 1964. [FHU001380-0001]<!--linkrefid=20-->
+21. *R. v. Comeau,* [1998] N.W.T.J. No. 34 (NTSC); Shea, *Institutional Child Abuse in Canada*, 9.<!--linkrefid=21-->
+22. Ed Struzik, “Priest’s Sordid Past Shocks Parish: Father Houston Was Declared Dangerous Sex Offender, Sent to Prison in 1962,” *Edmonton Journal*, 6 June 2002.<!--linkrefid=22-->
+23. Andrew Raven, “Grollier Hall Supervisor Sentenced,” *Northern News Services,* 20 August 2004, http://www.nnsl.com/frames/newspapers/2004-08/aug20_04crt.html.<!--linkrefid=23-->
+24. Justice J. Vertes, “In the Supreme Court of the Northwest Territories, Between Her Majesty the Queen and Paul Leroux,” 10 August 1998; Glenn Taylor, “Arrest in Grollier Hall Sex Case: Former Boys Supervisor Faces 32 Counts of Sexual Assault on His Student,” *Northern News Services*, 16 June 1997, http://www.nnsl.com/frames/newspapers/1997-06/jun16_97sex.html.<!--linkrefid=24-->
+25. Dawn Ostrem, “Back to Court: Paul Leroux Challenges Convictions, Sentence,” *Northern News Services,* 26 June 1997, http://www.nnsl.com/frames/newspapers/2000-06/jun26_00back.html.<!--linkrefid=25-->
+26. “Ex-residential School Worker Convicted of Abusing Boys,” *CBC News,* 5 November 2013, http://www.cbc.ca/news/canada/saskatchewan/ex-residential-school-worker-convicted-of-abusing-boys-1.2415810; “Paul Leroux Gets 3 Years for Residential School Abuse, *CBC News,* 12 December 2013, http://www.cbc.ca/news/canada/saskatoon/paul-leroux-gets-3-years-for-residential-school-abuse-1.2461629.<!--linkrefid=26-->
+27. “Nun Guilty in Residential School Assaults,” *CBC News,* 28 December 1998, http://www.cbc.ca/news/canada/nun-guilty-in-residential-school-assaults-1.166827.<!--linkrefid=27-->
+28. Shea, *Institutional Child Abuse in Canada*, 10. Shea observes only that the sentence did not include jail time.<!--linkrefid=28-->
+29. Shea, *Institutional Child Abuse in Canada*, 12.<!--linkrefid=29-->
+30. Shea, *Institutional Child Abuse in Canada*, 14–15.<!--linkrefid=30-->
+31. “Nun Forced Native Students to Eat Their Own Vomit,” *Edmonton Journal,* 25 June 1999.<!--linkrefid=31-->
+32. *R. v. Hands,* [1996] O.J. No. 264; LeBeuf, *Role of the RCMP*, 456; Shea, *Institutional Child Abuse in* *Canada*, 11.<!--linkrefid=32-->
+33. TRC, NRA, Library and Archives Canada, RG10, volume 8754, file 654/25-1, volume 1, Henry G. Cook to R. F. Davey, 2 December 1955. [IRC-047015]<!--linkrefid=33-->
+34. LeBeuf, *Role of the RCMP*, 457.<!--linkrefid=34-->
+35. Ewald Holfeld’s last name appears in some records as Schofield and in others as Holdfeld.<!--linkrefid=35-->
+36. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, R. S. Davis, extract from Quarterly Report Ending March, 1945, on Touchwood Agency. [IRC-047128]<!--linkrefid=36-->
+37. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, Royal Canadian Mounted Police, Constable A. Zimmerman, 28 July 1945. [GDC-010369-0001]<!--linkrefid=37-->
+38. TRC, NRA, Library and Archives Canada, RG10, volume 6309, file 645-1, part 3, R. S. Davis to Indian Affairs, 13 February 1947. [GDC-010362-0001]<!--linkrefid=38-->
+39. TRC, NRA, Library and Archives Canada, RG10, volume 8754, file 654-1/25-1, volume 1, Henry G. Cook to R. F. Davey, 2 December 1955. [IRC-047015]<!--linkrefid=39-->
+40. Mandryk, “Uneasy Neighbours,” 210.<!--linkrefid=40-->
+41. LeBeuf, *Role of the RCMP*, 458.<!--linkrefid=41-->
+42. “Man sentenced to five years for sexually assaulting Native girls,” Windspeaker Staff, Prince Albert, Saskatchewan, Windspeaker, Canada’s National Aboriginal News Source, Volume 12 Issue 20, 1995, http://www.ammsa.com/publications/windspeaker/man-sentenced-five-years-sexually-assaulting-native-girls, accessed 8 November 2013.<!--linkrefid=42-->
+43. *R. v. Frappier*, [1990] Y.J. No.163 (Terr. Ct.) (QuickLaw); Shea, *Institutional Child Abuse in Canada*; *Criminal Cases*, 17.<!--linkrefid=43-->
+
+### Appendix 4: Apologies
+
+1. United Church Social Policy Positions, Apology to Former Students of United Church Indian Residential Schools, and to their Families and Communities (1998) at http://www.united-church.ca/beliefs/policies/1998/a623<!--linkrefid=1-->
