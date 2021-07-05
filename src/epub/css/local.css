@@ -1,2 +1,87 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/*@counter-style enclosed-loweralpha {
+	system:  alphabetic;
+	symbols: abcdefghijklmnopqrstuvwxyz;
+	prefix: '(';
+	suffix: ') ';
+}*/
+
+.calltoaction + ol {
+	margin-left: 3em;
+}
+
+.calltoaction + ol > li::marker, .bracketnumber > li::marker {
+
+content:counter(list-item) ")\2003";
+
+}
+
+.calltoaction + ol ol {
+	list-style: lower-roman;
+}
+
+.nobullet {
+	list-style: none;
+}
+
+li,li>p {
+	margin-bottom: 1em;
+}
+
+abbr{
+
+	text-transform: lowercase;
+	font-variant: small-caps;
+}
+
+ol.enclosedalpha, ol.enclosedroman {
+	counter-reset: list1;
+	margin: 0;
+}
+
+ol.enclosedalpha>li, ol.enclosedroman>li {
+	list-style: none;
+	position: relative;
+}
+ol.enclosedalpha>li:before {
+	counter-increment: list1;
+	content: "(" counter(list1, lower-alpha) ") ";
+	position: absolute;
+	left: -1.4em;
+}
+
+ol.enclosedroman>li:before {
+	counter-increment: list1;
+	content: "(" counter(list1, lower-roman) ") ";
+	position: absolute;
+	left: -2.4em;
+}
+
+.figuretitle {
+	margin-bottom: 0;
+	text-align: left;
+	margin-top: 0;
+}
+
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+	display: block;
+}
+
+figcaption p + p{
+	text-indent: 0;
+}

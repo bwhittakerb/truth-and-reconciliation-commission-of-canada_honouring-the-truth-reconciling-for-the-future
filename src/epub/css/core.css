@@ -36,13 +36,18 @@ h4,
 h5,
 h6,
 hgroup{
+	text-transform: lowercase;
 	font-variant: small-caps;
 	hyphens: none;
 	-epub-hyphens: none;
 	break-after: avoid;
 	break-inside: avoid;
-	text-align: center;
+	text-align: left;
 	margin: 3em 0;
+}
+
+h2 {
+	text-align: center;
 }
 
 hgroup > *{
