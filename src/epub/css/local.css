@@ -1,84 +1,90 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/*@counter-style enclosed-loweralpha {
+/* @counter-style enclosed-loweralpha {
 	system:  alphabetic;
 	symbols: abcdefghijklmnopqrstuvwxyz;
 	prefix: '(';
 	suffix: ') ';
-}*/
-
-.calltoaction + ol {
+} */
+.calltoaction + ol, section.calltoaction > ol{
 	margin-left: 3em;
 }
 
-.calltoaction + ol > li::marker, .bracketnumber > li::marker {
-
-content:counter(list-item) ")\2003";
-
+.calltoaction + ol > li::marker,
+.bracketnumber > li::marker, section.calltoaction > ol >li::marker{
+	content: counter(list-item) ") ";
 }
 
-.calltoaction + ol ol {
+.calltoaction + ol ol, section.calltoaction > ol ol{
 	list-style: lower-roman;
 }
 
-.nobullet {
+section.calltoaction > ol > li {
+	margin-bottom: 3em;
+}
+
+.nobullet{
 	list-style: none;
 }
 
-li,li>p {
+li,
+li > p{
 	margin-bottom: 1em;
 }
 
 abbr{
-
 	text-transform: lowercase;
 	font-variant: small-caps;
 }
 
-ol.enclosedalpha, ol.enclosedroman {
+ol.enclosedalpha,
+ol.enclosedroman{
 	counter-reset: list1;
 	margin: 0;
 }
 
-ol.enclosedalpha>li, ol.enclosedroman>li {
+ol.enclosedalpha > li,
+ol.enclosedroman > li{
 	list-style: none;
 	position: relative;
 }
-ol.enclosedalpha>li:before {
+
+ol.enclosedalpha > li:before{
 	counter-increment: list1;
 	content: "(" counter(list1, lower-alpha) ") ";
 	position: absolute;
 	left: -1.4em;
 }
 
-ol.enclosedroman>li:before {
+ol.enclosedroman > li:before{
 	counter-increment: list1;
 	content: "(" counter(list1, lower-roman) ") ";
 	position: absolute;
 	left: -2.4em;
 }
 
-.figuretitle {
+.figuretitle{
 	margin-bottom: 0;
 	text-align: left;
 	margin-top: 0;
 }
 
-figure.wrap {
+figure.wrap{
 	display: inline;
 	float: left;
+	max-width: 40%;
 }
 
-figure.wrap img {
+figure.wrap img{
 	margin: 0;
 }
 
-figure.wrap figcaption {
-  display: table-caption;
-  caption-side: bottom;
-  margin-left: 0;
-  width: 100%;
+figure.wrap figcaption{
+/*	display: table-caption;
+	caption-side: bottom;*/
+	margin-left: 0;
+	width: 100%;
 }
 
 figure{
@@ -101,4 +107,34 @@ figcaption{
 
 figcaption p + p{
 	text-indent: 0;
+}
+
+div.calltoaction {
+
+}
+
+table#convictionstable {
+	margin-top: 2em;
+	border-collapse: collapse;
+
+}
+
+table#convictionstable>thead {
+	font-size: 140%;
+	border-bottom: 1px solid;
+}
+
+table#convictionstable {
+	text-align: left;
+}
+
+table#convictionstable th, table#convictionstable td {
+	vertical-align: top;
+}
+
+table#convictionstable>tbody>tr:first-child>th{
+
+	padding-bottom: .3em;
+	padding-top: .3em;
+	font-size: larger;
 }
