@@ -75,21 +75,130 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
-		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/graph1.svg" id="graph1.svg" media-type="image/svg+xml"/>
+		<item href="images/graph2.svg" id="graph2.svg" media-type="image/svg+xml"/>
+		<item href="images/graph3.svg" id="graph3.svg" media-type="image/svg+xml"/>
+		<item href="images/graph4.svg" id="graph4.svg" media-type="image/svg+xml"/>
+		<item href="images/graph5.svg" id="graph5.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/page-001-000.jpg" id="page-001-000.jpg" media-type="image/jpeg"/>
+		<item href="images/page-009-001.jpg" id="page-009-001.jpg" media-type="image/jpeg"/>
+		<item href="images/page-011-002.jpg" id="page-011-002.jpg" media-type="image/jpeg"/>
+		<item href="images/page-012-003.jpg" id="page-012-003.jpg" media-type="image/jpeg"/>
+		<item href="images/page-014-004.jpg" id="page-014-004.jpg" media-type="image/jpeg"/>
+		<item href="images/page-017-005.jpg" id="page-017-005.jpg" media-type="image/jpeg"/>
+		<item href="images/page-018-006.jpg" id="page-018-006.jpg" media-type="image/jpeg"/>
+		<item href="images/page-026-007.jpg" id="page-026-007.jpg" media-type="image/jpeg"/>
+		<item href="images/page-031-008.jpg" id="page-031-008.jpg" media-type="image/jpeg"/>
+		<item href="images/page-033-009.jpg" id="page-033-009.jpg" media-type="image/jpeg"/>
+		<item href="images/page-037-010.jpg" id="page-037-010.jpg" media-type="image/jpeg"/>
+		<item href="images/page-038-011.jpg" id="page-038-011.jpg" media-type="image/jpeg"/>
+		<item href="images/page-041-012.jpg" id="page-041-012.jpg" media-type="image/jpeg"/>
+		<item href="images/page-044-013.jpg" id="page-044-013.jpg" media-type="image/jpeg"/>
+		<item href="images/page-046-014.jpg" id="page-046-014.jpg" media-type="image/jpeg"/>
+		<item href="images/page-047-015.jpg" id="page-047-015.jpg" media-type="image/jpeg"/>
+		<item href="images/page-048-016.jpg" id="page-048-016.jpg" media-type="image/jpeg"/>
+		<item href="images/page-051-017.jpg" id="page-051-017.jpg" media-type="image/jpeg"/>
+		<item href="images/page-054-018.jpg" id="page-054-018.jpg" media-type="image/jpeg"/>
+		<item href="images/page-057-019.jpg" id="page-057-019.jpg" media-type="image/jpeg"/>
+		<item href="images/page-059-020.jpg" id="page-059-020.jpg" media-type="image/jpeg"/>
+		<item href="images/page-061-021.jpg" id="page-061-021.jpg" media-type="image/jpeg"/>
+		<item href="images/page-063-022.jpg" id="page-063-022.jpg" media-type="image/jpeg"/>
+		<item href="images/page-067-023.jpg" id="page-067-023.jpg" media-type="image/jpeg"/>
+		<item href="images/page-068-024.jpg" id="page-068-024.jpg" media-type="image/jpeg"/>
+		<item href="images/page-072-025.jpg" id="page-072-025.jpg" media-type="image/jpeg"/>
+		<item href="images/page-073-026.jpg" id="page-073-026.jpg" media-type="image/jpeg"/>
+		<item href="images/page-074-027.jpg" id="page-074-027.jpg" media-type="image/jpeg"/>
+		<item href="images/page-078-RECONSTRUCTED.jpg" id="page-078-RECONSTRUCTED.jpg" media-type="image/jpeg"/>
+		<item href="images/page-079-030.jpg" id="page-079-030.jpg" media-type="image/jpeg"/>
+		<item href="images/page-082-031.jpg" id="page-082-031.jpg" media-type="image/jpeg"/>
+		<item href="images/page-084-032.jpg" id="page-084-032.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-033.jpg" id="page-085-033.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-034.jpg" id="page-085-034.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-035.jpg" id="page-085-035.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-036.jpg" id="page-085-036.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-037.jpg" id="page-085-037.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-038.jpg" id="page-085-038.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-039.jpg" id="page-085-039.jpg" media-type="image/jpeg"/>
+		<item href="images/page-085-RECONSTRUCTED.jpg" id="page-085-RECONSTRUCTED.jpg" media-type="image/jpeg"/>
+		<item href="images/page-088-040.jpg" id="page-088-040.jpg" media-type="image/jpeg"/>
+		<item href="images/page-093-041.jpg" id="page-093-041.jpg" media-type="image/jpeg"/>
+		<item href="images/page-094-042.jpg" id="page-094-042.jpg" media-type="image/jpeg"/>
+		<item href="images/page-100-043.jpg" id="page-100-043.jpg" media-type="image/jpeg"/>
+		<item href="images/page-101-044.jpg" id="page-101-044.jpg" media-type="image/jpeg"/>
+		<item href="images/page-103-045.jpg" id="page-103-045.jpg" media-type="image/jpeg"/>
+		<item href="images/page-107-046.jpg" id="page-107-046.jpg" media-type="image/jpeg"/>
+		<item href="images/page-109-047.jpg" id="page-109-047.jpg" media-type="image/jpeg"/>
+		<item href="images/page-113-048.jpg" id="page-113-048.jpg" media-type="image/jpeg"/>
+		<item href="images/page-118-049.jpg" id="page-118-049.jpg" media-type="image/jpeg"/>
+		<item href="images/page-119-050.jpg" id="page-119-050.jpg" media-type="image/jpeg"/>
+		<item href="images/page-120-051.jpg" id="page-120-051.jpg" media-type="image/jpeg"/>
+		<item href="images/page-122-052.jpg" id="page-122-052.jpg" media-type="image/jpeg"/>
+		<item href="images/page-125-053.jpg" id="page-125-053.jpg" media-type="image/jpeg"/>
+		<item href="images/page-129-054.jpg" id="page-129-054.jpg" media-type="image/jpeg"/>
+		<item href="images/page-131-055.jpg" id="page-131-055.jpg" media-type="image/jpeg"/>
+		<item href="images/page-134-056.jpg" id="page-134-056.jpg" media-type="image/jpeg"/>
+		<item href="images/page-138-057.jpg" id="page-138-057.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/appendix1.xhtml" id="appendix1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix2.xhtml" id="appendix2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix3.xhtml" id="appendix3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix4.xhtml" id="appendix4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix5.xhtml" id="appendix5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix6.xhtml" id="appendix6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bibliography.xhtml" id="bibliography.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/callstoaction.xhtml" id="callstoaction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/commissionactivities.xhtml" id="commissionactivities.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_1_introduction.xhtml" id="endnotes_1_introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_2_commissionactivities.xhtml" id="endnotes_2_commissionactivities.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_3_thehistory.xhtml" id="endnotes_3_thehistory.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_4_thelegacy.xhtml" id="endnotes_4_thelegacy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_5_thechallenge.xhtml" id="endnotes_5_thechallenge.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_6_appendix1.xhtml" id="endnotes_6_appendix1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_7_appendix2.xhtml" id="endnotes_7_appendix2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_8_appendix3.xhtml" id="endnotes_8_appendix3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes_9_appendix4.xhtml" id="endnotes_9_appendix4.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/thechallengeofreconciliation.xhtml" id="thechallengeofreconciliation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/thehistory.xhtml" id="thehistory.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/thelegacy.xhtml" id="thelegacy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
+		<itemref idref="commissionactivities.xhtml"/>
+		<itemref idref="thehistory.xhtml"/>
+		<itemref idref="thelegacy.xhtml"/>
+		<itemref idref="thechallengeofreconciliation.xhtml"/>
+		<itemref idref="callstoaction.xhtml"/>
+		<itemref idref="appendix1.xhtml"/>
+		<itemref idref="appendix2.xhtml"/>
+		<itemref idref="appendix3.xhtml"/>
+		<itemref idref="appendix4.xhtml"/>
+		<itemref idref="appendix5.xhtml"/>
+		<itemref idref="appendix6.xhtml"/>
+		<itemref idref="bibliography.xhtml"/>
+		<itemref idref="endnotes_1_introduction.xhtml"/>
+		<itemref idref="endnotes_2_commissionactivities.xhtml"/>
+		<itemref idref="endnotes_3_thehistory.xhtml"/>
+		<itemref idref="endnotes_4_thelegacy.xhtml"/>
+		<itemref idref="endnotes_5_thechallenge.xhtml"/>
+		<itemref idref="endnotes_6_appendix1.xhtml"/>
+		<itemref idref="endnotes_7_appendix2.xhtml"/>
+		<itemref idref="endnotes_8_appendix3.xhtml"/>
+		<itemref idref="endnotes_9_appendix4.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

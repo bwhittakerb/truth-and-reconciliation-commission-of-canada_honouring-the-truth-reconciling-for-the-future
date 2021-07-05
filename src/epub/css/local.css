@@ -65,6 +65,22 @@ ol.enclosedroman>li:before {
 	margin-top: 0;
 }
 
+figure.wrap {
+	display: inline;
+	float: left;
+}
+
+figure.wrap img {
+	margin: 0;
+}
+
+figure.wrap figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  margin-left: 0;
+  width: 100%;
+}
+
 figure{
 	break-inside: avoid;
 }
@@ -79,6 +95,7 @@ figcaption{
 	font-size: .75em;
 	font-style: italic;
 	margin: 1em;
+	margin-top: .5em;
 	display: block;
 }
 
