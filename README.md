@@ -14,20 +14,34 @@ Finally, as a format intended for semantic markup rather than optimized for pre-
 
 ## Current status of this project
 
-Currently this is an initial upload with only the very roughest cut and paste of the text of the PDF. The next steps will involve a massive cleanup of the text as well as adding appropriate file splits and semantic markups. I will be working mostly with the markdown files of the text in the 'sourcefiles' directory and converting to semantic HTML from this document as I go for the first phase of this project.
+This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. Currently the Standard Ebooks build tool crashes when it tries to build a Kindle version so it's only epub and kobo-optimized epub versions for now.
+
+### Todos
+
+* Tweak styling generally.
+* Ensure Convictions Table in Appendix 3 is readable on small screens.
+* Add additional semantics for abbreviations, times, dates, etc.
+* Create final cover image.
+* Create final (un)copyright page.
+* add alt-text to all images.
+* Convert SVGs to not use transforms.
+* Add metadata to book.
+
+## Files and structure
 
 This project includes the source PDF as well as its extracted images in their original formats and converted to greyscale EPUB-friendly JPEGs. It is not currently packaged in a way that can be immediately read by e-reading software but that will be made available when the level of progress makes sense to do so.
 
 ## Toolsets being used to build this project
 
 * Standard Ebooks (https://standardebooks.org) provides a style guide that is an invaluable reference as well as python-based EPUB automation tools.
+* ARIA's Accessibility checker ACE: (https://inclusivepublishing.org/toolbox/accessibility-checker/)
 * I used Popplers, a PDF command line toolkit, to extract the images embedded in the source pdf and imagemagick to convert them to JPEG from JPEG2000 (for increased e-reader support). The original JPEG2000 files were in the RGB colourspace despite being black and white images so I have converted them to greyscale colourspace at significant size savings.
 * Typora for the initial cut and paste of the PDF text to markdown while preserving styled text formatting.
 * Sublime Text for generic text processing.
 * Calibre for its ebook management and editing tools
-* My personal hardware e-reader is a Kobo Clara HD
+* My personal hardware e-reader is a Kobo Clara HD and I use Apple Books for mobile/desktop reading.
 
 
 ## How can I help?
 
-It is anticipated that the several thousand endnotes will require significant manual labour to code correctly and semantically for e-readers in which contributions to a shared google sheet in the future would be gratefully accepted. In addition, helpful proof reading from a variety of readers on a variety of devices or reading applications would be invaluable.
+This is a complex document with complex constructions within and I am sure that I have missed or overlooked items. How you can help now is to download the latest 'beta' version of the epub and proofread it and report issues as they come up. :)
