@@ -14,7 +14,7 @@ Finally, as a format intended for semantic markup rather than optimized for pre-
 
 ## Current status of this project
 
-This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. Currently the Standard Ebooks build tool crashes when it tries to build a Kindle version so it's only epub and kobo-optimized epub versions for now.
+This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. Currently the Standard Ebooks build tool crashes when it tries to build a Kindle version so it's only epub and kobo-optimized epub versions for now. [Download here](https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report.epub)
 
 ### Todos
 
@@ -45,3 +45,22 @@ This project includes the source PDF as well as its extracted images in their or
 ## How can I help?
 
 This is a complex document with complex constructions within and I am sure that I have missed or overlooked items. How you can help now is to download the latest 'beta' version of the epub and proofread it and report issues as they come up. :)
+
+You can proofread the standard epub version here: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report.epub
+
+You can download the Kobo-optimized version here: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report_forkobo.kepub.epub
+
+### How to install kepub.epub files on a Kobo:
+
+(Instructions copied from standardebooks.org)
+
+**Important:** Don’t use Calibre to transfer the kepub file! Calibre will apply its own conversion on top of our own conversion, making for strange results.
+
+1. Using a USB cable, connect your Kobo to the computer you downloaded [the kepub file](https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report_forkobo.kepub.epub) to. Your Kobo will appear as a USB drive that you can browse using your computer’s file manager.
+2. Navigate to the Kobo drive and drag and drop the kepub file in. *Don’t change the filename of the ebook! Kobo requires that the filename end in `.kepub.epub.`*
+3. Eject the Kobo from your computer using your system’s “Safely remove drive” option. Your ebook should now be visible!
+
+### How to install/read the .epub file on your iPhone/iPad
+
+1. Tap on the [download link](https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report.epub) for the standard epub file.
+2. On the download screen that appears, tap “open in Books”.
