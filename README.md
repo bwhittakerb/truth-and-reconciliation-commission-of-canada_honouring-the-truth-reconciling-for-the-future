@@ -46,9 +46,13 @@ This project includes the source PDF as well as its extracted images in their or
 
 This is a complex document with complex constructions within and I am sure that I have missed or overlooked items. How you can help now is to download the latest 'beta' version of the epub and proofread it and report issues as they come up. :)
 
-You can proofread the standard epub version here: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report.epub
+### Proofreading
 
-You can download the Kobo-optimized version here: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report_forkobo.kepub.epub
+* You can proofread the standard epub version here: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report.epub
+
+* You can download the Kobo-optimized version here: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report_forkobo.kepub.epub
+
+* Due to technical difficulties, a Kindle version cannot be offered yet. Hopefully this will be resolved shortly.
 
 ### How to install kepub.epub files on a Kobo:
 
