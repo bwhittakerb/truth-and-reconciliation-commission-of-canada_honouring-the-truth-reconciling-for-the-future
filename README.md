@@ -29,7 +29,15 @@ This is now buildable as a Minimum Viable e-book™ It's still missing many form
 
 ## Files and structure
 
-This project includes the source PDF as well as its extracted images in their original formats and converted to greyscale EPUB-friendly JPEGs. It is not currently packaged in a way that can be immediately read by e-reading software but that will be made available when the level of progress makes sense to do so.
+This project includes the source PDF as well as its extracted images in their original formats and converted to greyscale EPUB-friendly JPEGs.
+
+Files that will comprise the content of the epub file itself are located in /src/
+
+Files used to build graphics for the epub cover are located in /images/
+
+Files used to construct material for the ebook but not be part of the bundle (e.g. Original PDF document, Vector Files, Markdown conversions, etc) are located in /sourcefiles/
+
+Actual e-reader files will be compiled and listed in the 'releases' section.
 
 ## Toolsets being used to build this project
 
