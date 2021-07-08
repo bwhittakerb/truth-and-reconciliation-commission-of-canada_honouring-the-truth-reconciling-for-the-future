@@ -14,7 +14,7 @@ Finally, as a format intended for semantic markup rather than optimized for pre-
 
 ## Current status of this project
 
-This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. Currently the Standard Ebooks build tool crashes when it tries to build a Kindle version so it's only epub and kobo-optimized epub versions for now. [Download here.][epub download link]
+This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. [The latest compiled formats are found here.][latest release]. Please read below to get instructions on which version is right for you and how to download them to your preferred device.
 
 ### Todos
 
@@ -86,6 +86,7 @@ Important: You can’t use “Send to Kindle” to transfer the azw3 file. This 
 
 4. Eject the Kindle from your computer using your system’s “Safely remove drive” option. Your ebook should now be visible!
 
+[latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v0.8-beta
 [epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.8-beta/TRC_honouring-the-truth-reconciling-for-the-future.epub
 [kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.8-beta/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
 [kindle download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.8-beta/TRC_honouring-the-truth-reconciling-for-the-future_kindle.azw3
