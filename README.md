@@ -14,7 +14,7 @@ Finally, as a format intended for semantic markup rather than optimized for pre-
 
 ## Current status of this project
 
-This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. [The latest compiled formats are found here.][latest release]. Please read below to get instructions on which version is right for you and how to download them to your preferred device.
+This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. [The latest compiled formats are found here][latest release]. Please read below to get instructions on which version is right for you and how to download them to your preferred device.
 
 ### Todos
 
@@ -31,9 +31,9 @@ This is now buildable as a Minimum Viable e-book™ It's still missing many form
 
 This project includes the source PDF as well as its extracted images in their original formats and converted to greyscale EPUB-friendly JPEGs.
 
-* Files that will comprise the content of the epub file itself are located in /src/
-* Files used to build graphics for the epub cover are located in /images/
-* Files used to construct material for the ebook but not be part of the bundle (e.g. Original PDF document, Vector Files, Markdown conversions, etc) are located in /sourcefiles/
+* Files that will comprise the content of the epub file itself are located in `/src/`
+* Files used to build graphics for the epub cover are located in `/images/`
+* Files used to construct material for the ebook but not be part of the bundle (e.g. Original PDF document, Vector Files, Markdown conversions, etc) are located in `/sourcefiles/`
 * Actual e-reader files will be compiled and listed in the 'releases' section.
 
 ## Toolsets being used to build this project
