@@ -1,8 +1,8 @@
 # Readme
 
-## About this document
+## About this project
 
-This project is an attempt to format and typeset *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* from the Truth and Reconciliation Commission's existing and freely available PDF download into a standard and semantics-based EPUB format.
+This project is an attempt to format and typeset *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* from the Truth and Reconciliation Commission's existing and freely available PDF download into a standard and semantics-based EPUB format for electronic reading.
 
 ## Why EPUB?
 
