@@ -14,7 +14,7 @@ Finally, as a format intended for semantic markup rather than optimized for pre-
 
 ## Current status of this project
 
-This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. Currently the Standard Ebooks build tool crashes when it tries to build a Kindle version so it's only epub and kobo-optimized epub versions for now. [Download here](https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.75-beta/trc-summary-report.epub)
+This is now buildable as a Minimum Viable e-book™ It's still missing many formatting niceties and may contain errors but is available for download as a 'beta version' for proofreaders. Currently the Standard Ebooks build tool crashes when it tries to build a Kindle version so it's only epub and kobo-optimized epub versions for now. [Download here](https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.78-beta/TRC_honouring-the-truth-reconciling-for-the-future.epub)
 
 ### Todos
 
