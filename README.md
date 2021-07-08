@@ -53,7 +53,7 @@ This is a complex document with complex structure and formatting within and I am
 
 ### Proofreading
 
-* [You can proofread the standard epub version here (works on most computer readers and Apple devices and many Android apps).][epub download link]
+* [You can proofread the standard epub version here][epub download link] (works on most computer readers and Apple devices and many Android apps).
 
 * [You can download the Kobo-optimized version here.][kobo download link]
 
