@@ -6,7 +6,7 @@ This project is an attempt to format and typeset *Honouring the Truth, Reconcili
 
 ## Why EPUB?
 
-It is the belief of this author that the Truth and Reconciliation Commission of Canada's report should be as accessible as widely as possible to all Canadians in a variety of formats. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), the author of this project feels that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers. A static PDF is simply not designed for a reflowable and accessible experience.
+It is our belief that the Truth and Reconciliation Commission of Canada's report should be as **accessible as widely as possible to all Canadians in a variety of formats**. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), the author of this project feels that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers. A static PDF is simply not designed for a reflowable and accessible experience.
 
 EPUB is a broadly supported public standard for e-reading software with built in support in software available on many operating systems and directly on many hardware e-readers such as Kobo and Nook. Furthermore, this format can be easily converted to other e-reader formats such as Amazon Kindle.
 
@@ -38,13 +38,13 @@ This project includes the source PDF as well as its extracted images in their or
 
 ## Toolsets being used to build this project
 
-* Standard Ebooks (https://standardebooks.org) provides a style guide that is an invaluable reference as well as python-based EPUB automation tools.
-* ARIA's Accessibility checker ACE: (https://inclusivepublishing.org/toolbox/accessibility-checker/)
-* I used Popplers, a PDF command line toolkit, to extract the images embedded in the source pdf and imagemagick to convert them to JPEG from JPEG2000 (for increased e-reader support). The original JPEG2000 files were in the RGB colourspace despite being black and white images so I have converted them to greyscale colourspace at significant size savings.
-* Typora for the initial cut and paste of the PDF text to markdown while preserving styled text formatting.
-* Sublime Text for generic text processing.
-* Calibre for its ebook management and editing tools
-* My personal hardware e-reader is a Kobo Clara HD and I use Apple Books for mobile/desktop reading.
+* [Standard Ebooks](https://standardebooks.org) provides a style guide that is an invaluable reference as well as python-based EPUB automation tools.
+* ARIA's Accessibility checker [ACE](https://inclusivepublishing.org/toolbox/accessibility-checker/).
+* [Poppler](https://poppler.freedesktop.org), a PDF command line toolkit, was used to extract the images embedded in the source PDF and imagemagick to convert them to JPEG from JPEG2000 (for increased e-reader support). The original JPEG2000 files were in the RGB colourspace—despite being black and white images—so I have converted them to greyscale colourspace at significant size savings.
+* [Typora](https://typora.io) for the initial cut and paste of the PDF text to markdown while preserving styled text formatting.
+* [Sublime Text](https://www.sublimetext.com) for generic text processing.
+* [Calibre](https://calibre-ebook.com) for its ebook management and editing tools
+* My personal hardware e-ink reader is a Kobo Clara HD and I use Apple Books for mobile/desktop reading.
 
 
 ## How can I help?
