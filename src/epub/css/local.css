@@ -64,6 +64,10 @@ ol.enclosedroman > li:before{
 	left: -2.4em;
 }
 
+ul.bibliolist {
+	list-style: none;
+}
+
 .figuretitle{
 	margin-bottom: 0;
 	text-align: left;
@@ -137,4 +141,32 @@ table#convictionstable>tbody>tr:first-child>th{
 	padding-bottom: .3em;
 	padding-top: .3em;
 	font-size: larger;
+}
+
+dt:before {
+  content: "";
+  display: block;
+}
+dd, dt {
+  display: inline;
+}
+
+dt {
+	font-weight:  bold;
+	margin-top: 1em;
+}
+
+dt:after {
+	content: ":";
+}
+
+dd {
+	margin-left: .3em;
+	margin-bottom: 1em;
+}
+
+dd:after {
+	content: "";
+	display:  block;
+	margin-bottom: 1em;
 }
