@@ -170,6 +170,7 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="commissionactivities.xhtml"/>
