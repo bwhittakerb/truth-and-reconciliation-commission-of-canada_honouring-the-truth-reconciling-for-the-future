@@ -38,6 +38,7 @@ h6,
 hgroup{
 	text-transform: lowercase;
 	font-variant: small-caps;
+	letter-spacing: 0.03em;
 	hyphens: none;
 	-epub-hyphens: none;
 	break-after: avoid;
