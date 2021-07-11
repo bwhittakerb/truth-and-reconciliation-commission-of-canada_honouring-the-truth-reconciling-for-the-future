@@ -21,11 +21,13 @@ This is now buildable as a Minimum Viable e-book™ It's still missing many form
 * Tweak styling generally.
 * Ensure Convictions Table in Appendix 3 is readable on small screens.
 * Add additional semantics for abbreviations, times, dates, etc.
-* Create final cover image.
-* Create final (un)copyright page.
+* ~~Create final cover image.~~
+* ~~Create final (un)copyright page.~~
 * add alt-text to all images.
 * Convert SVGs to not use transforms.
-* Add metadata to book.
+* ~~Add metadata to book.~~
+* Mark up Apology subheaders appropriately
+* Tweak styling on Calls to Action
 
 ## Files and structure
 
@@ -86,7 +88,7 @@ Important: You can’t use “Send to Kindle” to transfer the azw3 file. This 
 
 4. Eject the Kindle from your computer using your system’s “Safely remove drive” option. Your ebook should now be visible!
 
-[latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v0.85-beta
-[epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.85-beta/TRC_honouring-the-truth-reconciling-for-the-future.epub
-[kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.85-beta/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
-[kindle download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.85-beta/TRC_honouring-the-truth-reconciling-for-the-future_kindle.azw3
+[latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v0.95-beta
+[epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.95-beta/TRC_honouring-the-truth-reconciling-for-the-future.epub
+[kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.95-beta/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
+[kindle download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.95-beta/TRC_honouring-the-truth-reconciling-for-the-future_kindle.azw3
