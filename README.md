@@ -76,7 +76,7 @@ This is a complex document with complex structure and formatting within and I am
 
 #### Amazon Kindle eInk Devices (Paperwhite, Voyage, Oasis, etc. except DX)
 
-Important: You can’t use “Send to Kindle” to transfer the azw3 file. This is a bug in Amazon’s software. You *must* transfer our azw3 ebooks to Kindles with a USB cable.
+Important: You can’t use “Send to Kindle” to transfer the azw3 file. This is a bug in Amazon’s software. You *must* transfer the azw3 file to Kindles with a USB cable.
 
 1. Using a USB cable, connect your Kindle to the computer you downloaded [the azw3 file][kindle download link] to. Your Kindle will appear as a USB drive that you can browse.
 

@@ -88,7 +88,7 @@ section#honwit>h3, section#staff>h3 {
 }
 
 section#honwit, section#staff {
-	columns: 2;
+	/*columns: 2;*/
 	margin-top: 2em;
 }
 
@@ -112,9 +112,9 @@ section#honwit, section#staff {
 	margin-bottom: 0;
 }
 
-.residentialschoollist > ul > li > a[epub|type~="noteref"] {
+/*.residentialschoollist > ul > li > a[epub|type~="noteref"] {
 	vertical-align: top;
-}
+}*/
 
 section.residentialschoollist > ul > li:nth-child(2) {
 	font-style: italic;
