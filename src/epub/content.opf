@@ -5,9 +5,9 @@
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
-		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
-		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<dc:publisher id="publisher">TRC Open Source Publishing Project</dc:publisher>
+		<meta property="file-as" refines="#publisher">TRC Open Source Publishing Project</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future</meta>
 		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
@@ -30,43 +30,38 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Honouring the Truth, Reconciling for the Future</dc:title>
 		<meta property="file-as" refines="#title">Honouring the Truth, Reconciling for the Future</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
-		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:title id="subtitle">A Nightmare</dc:title>
+		<meta property="file-as" refines="#subtitle">Summary of the final report of the Truth and Reconciliation Commission of Canada</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Honouring the truth, reconciling for the future : summary of the final report of the Truth and Reconciliation Commission of Canada</dc:title>
+		<meta property="file-as" refines="#fulltitle">Honouring the truth, reconciling for the future : summary of the final report of the Truth and Reconciliation Commission of Canada</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:title id="title-short">TRC Report</dc:title>
+		<meta property="file-as" refines="#title-short">TRC Report</meta>
+		<meta property="title-type" refines="#title-short">short</meta>
+		<dc:subject id="subject-1">Native peoples--Canada--Residential schools</dc:subject>
+		<dc:subject id="subject-2">Native peoples—Canada--History</dc:subject>
+		<dc:subject id="subject-3">Native peoples--Canada--Social conditions</dc:subject>
+		<dc:subject id="subject-4">Native peoples—Canada--Government relations</dc:subject>
+		<dc:subject id="subject-5">Truth and Reconciliation Commission of Canada</dc:subject>
+		<dc:subject id="subject-6">Truth commissions--Canada</dc:subject>
+		<meta property="authority" refines="#subject-1">CASH</meta>
+		<meta property="authority" refines="#subject-2">CASH</meta>
+		<meta property="authority" refines="#subject-3">CASH</meta>
+		<meta property="authority" refines="#subject-4">CASH</meta>
+		<meta property="authority" refines="#subject-5">CASH</meta>
+		<meta property="authority" refines="#subject-6">CASH</meta>
+		<dc:description id="description">This is the summary report of the Truth and Reconciliation Commission of Canada's findings.</dc:description>
+		<dc:language>en-CA</dc:language>
+		<dc:source>https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/Executive_Summary_English_Web.pdf</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future</meta>
 		<dc:creator id="author">Truth and Reconciliation Commission of Canada</dc:creator>
-		<meta property="file-as" refines="#author">Canada, Truth and Reconciliation Commission of</meta>
+		<meta property="file-as" refines="#author">Truth and Reconciliation Commission of Canada</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_of_Canada</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
-		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Brendan Brown</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Brown, Brendan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
