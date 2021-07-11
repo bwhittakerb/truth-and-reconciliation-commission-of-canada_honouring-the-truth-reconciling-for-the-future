@@ -40,9 +40,9 @@
 		<meta property="file-as" refines="#title-short">TRC Report</meta>
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Native peoples--Canada--Residential schools</dc:subject>
-		<dc:subject id="subject-2">Native peoples—Canada--History</dc:subject>
+		<dc:subject id="subject-2">Native peoples--Canada--History</dc:subject>
 		<dc:subject id="subject-3">Native peoples--Canada--Social conditions</dc:subject>
-		<dc:subject id="subject-4">Native peoples—Canada--Government relations</dc:subject>
+		<dc:subject id="subject-4">Native peoples--Canada--Government relations</dc:subject>
 		<dc:subject id="subject-5">Truth and Reconciliation Commission of Canada</dc:subject>
 		<dc:subject id="subject-6">Truth commissions--Canada</dc:subject>
 		<meta property="authority" refines="#subject-1">CASH</meta>
@@ -51,7 +51,7 @@
 		<meta property="authority" refines="#subject-4">CASH</meta>
 		<meta property="authority" refines="#subject-5">CASH</meta>
 		<meta property="authority" refines="#subject-6">CASH</meta>
-		<dc:description id="description">This is the summary report of the Truth and Reconciliation Commission of Canada's findings.</dc:description>
+		<dc:description id="description">This is the summary report of the Truth and Reconciliation Commission of Canada’s findings.</dc:description>
 		<dc:language>en-CA</dc:language>
 		<dc:source>https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/Executive_Summary_English_Web.pdf</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
