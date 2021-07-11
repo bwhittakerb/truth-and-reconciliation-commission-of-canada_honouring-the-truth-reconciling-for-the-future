@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/truth-and-reconciliation-commission-of-canada/honouring-the-truth-reconciling-for-the-future</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-07-11T17:57:29Z</dc:date>
+		<meta property="dcterms:modified">2021-07-11T17:57:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">TRC Open Source Publishing Project</dc:publisher>
 		<meta property="file-as" refines="#publisher">TRC Open Source Publishing Project</meta>
@@ -54,8 +54,8 @@
 		<dc:description id="description">This is the summary report of the Truth and Reconciliation Commission of Canada’s findings.</dc:description>
 		<dc:language>en-CA</dc:language>
 		<dc:source>https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/Executive_Summary_English_Web.pdf</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">170799</meta>
+		<meta property="se:reading-ease.flesch">43.53</meta>
 		<dc:creator id="author">Truth and Reconciliation Commission of Canada</dc:creator>
 		<meta property="file-as" refines="#author">Truth and Reconciliation Commission of Canada</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
