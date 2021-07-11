@@ -131,6 +131,8 @@ figure.wrap{
 	display: inline;
 	float: left;
 	max-width: 40%;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
 }
 
 figure.wrap img{
@@ -146,6 +148,11 @@ figure.wrap figcaption{
 
 figure{
 	break-inside: avoid;
+}
+
+figure {
+	margin-left: 0;
+	margin-right: 0;
 }
 
 figure img{

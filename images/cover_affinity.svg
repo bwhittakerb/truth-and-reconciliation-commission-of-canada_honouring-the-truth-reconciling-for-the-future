@@ -1,28 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of Honouring the Truth, Reconciling for the Future, by Truth and Reconciliation Commission of Canada</title>
-	<style type="text/css">
-		.title-box{
-			fill-opacity: .75;
-		}
-
-		text{
-			fill: #fff;
-			font-family: "League Spartan";
-			letter-spacing: 5px;
-			text-anchor: middle;
-		}
-
-		.title-xsmall{
-			font-size: 58.47953033px;
-		}
-
-		.author{
-			font-size: 46.7840004px;
-		}
-	</style>
-	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<g transform="matrix(9.57992,0,0,9.57992,700,377.961)">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1400 2100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="50" y="1620" width="1300" height="430" style="fill-opacity:0.75;fill-rule:nonzero;"/>
+    <g transform="matrix(1,0,0,1,698.538,1775)">
+        <text x="-408.88px" y="0px" style="font-family:'Baskerville', serif;font-size:58.48px;fill:white;">H<tspan x="-359.041px -308.003px -261.219px -210.181px -162.169px -116.614px -92.988px -46.204px 1.807px 19.351px 63.08px 112.919px 152.392px 169.936px 213.664px 252.681px 300.693px 344.421px 394.26px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">ONOURING THE TRUTH,</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,698.538,1845)">
+        <text x="-513.809px" y="0px" style="font-family:'Baskerville', serif;font-size:58.48px;fill:white;">R<tspan x="-468.253px -428.779px -383.823px -332.785px -286.001px -241.045px -217.419px -179.174px -155.548px -108.764px -60.752px -43.209px -7.99px 43.049px 88.604px 106.148px 149.877px 199.716px 239.189px 256.733px 291.952px 339.964px 383.692px 431.703px 477.259px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">ECONCILING FOR THE FUTURE</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,698.83,1945)">
+        <text x="-381.927px" y="0px" style="font-family:'Baskerville', serif;font-size:46.784px;fill:white;">T<tspan x="-346.944px -315.73px -277.321px -242.338px -202.466px -188.431px -154.408px -116.981px -79.074px -65.038px -28.594px 2.986px 38.951px 79.782px 117.209px 153.174px 172.075px 202.672px 221.573px 252.124px 287.107px 306.008px 346.839px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">RUTH AND RECONCILIATION</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,698.83,2005)">
+        <text x="-321.704px" y="0px" style="font-family:'Baskerville', serif;font-size:46.784px;fill:white;">C<tspan x="-285.739px -244.908px -199.188px -153.469px -134.568px -106.895px -79.222px -60.321px -19.49px 17.937px 31.972px 72.803px 100.979px 115.014px 150.979px 185.002px 221.128px 255.151px 290.02px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">OMMISSION OF CANADA</tspan></text>
+    </g>
+    <g transform="matrix(9.57992,0,0,9.57992,700,377.961)">
         <g transform="matrix(1,0,0,1,-59,-22)">
             <clipPath id="_clip1">
                 <rect x="0" y="0" width="118" height="44"/>
@@ -195,9 +187,4 @@
             </g>
         </g>
     </g>
-	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title-xsmall" x="700" y="1775">HONOURING THE TRUTH,</text>
-	<text class="title-xsmall" x="700" y="1845">RECONCILING FOR THE FUTURE</text>
-	<text class="author" x="700" y="1945">TRUTH AND RECONCILIATION</text>
-	<text class="author" x="700" y="2005">COMMISSION OF CANADA</text>
 </svg>
