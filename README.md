@@ -21,13 +21,13 @@ This is now buildable as a Minimum Viable e-book™ It's still missing many form
 * Tweak styling generally.
 * Ensure Convictions Table in Appendix 3 is readable on small screens.
 * Add additional semantics for abbreviations, times, dates, etc.
+* Convert SVGs to not use transforms.
+* Mark up Apology subheaders appropriately.
+* Tweak styling on Calls to Action.
 * ~~Create final cover image.~~
 * ~~Create final (un)copyright page.~~
-* add alt-text to all images.
-* Convert SVGs to not use transforms.
+* ~~Add alt-text to all images.~~
 * ~~Add metadata to book.~~
-* Mark up Apology subheaders appropriately
-* Tweak styling on Calls to Action
 
 ## Files and structure
 
@@ -51,7 +51,7 @@ This project includes the source PDF as well as its extracted images in their or
 
 ## How can I help?
 
-This is a complex document with complex structure and formatting within and I am sure that I have missed or overlooked items. How you can help now is to download the latest 'beta' version of the epub and proofread it and report issues as they come up. :)
+This is a complex document with complex structure and formatting within and I am sure that I have missed or overlooked items. How you can help now is to download the latest 'beta' version of the e-book and proofread it and report issues as they come up. :)
 
 ### Proofreading
 
@@ -73,7 +73,7 @@ This is a complex document with complex structure and formatting within and I am
 
 #### How to install/read the .epub file on your iPhone/iPad
 
-1. Tap on the [download link][epub download link]for the standard epub file.
+1. Tap on the [download link][epub download link] for the standard epub file.
 2. On the download screen that appears, tap “open in Books”.
 
 #### Amazon Kindle eInk Devices (Paperwhite, Voyage, Oasis, etc. except DX)
