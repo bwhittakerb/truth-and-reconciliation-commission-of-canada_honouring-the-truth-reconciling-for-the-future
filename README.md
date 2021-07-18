@@ -88,7 +88,7 @@ Important: You can’t use “Send to Kindle” to transfer the azw3 file. This 
 
 4. Eject the Kindle from your computer using your system’s “Safely remove drive” option. Your ebook should now be visible!
 
-[latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v0.95-beta
-[epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.95-beta/TRC_honouring-the-truth-reconciling-for-the-future.epub
-[kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.95-beta/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
-[kindle download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.95-beta/TRC_honouring-the-truth-reconciling-for-the-future_kindle.azw3
+[latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v0.97-releasecandidate
+[epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.97-releasecandidate/TRC_honouring-the-truth-reconciling-for-the-future.epub
+[kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.97-releasecandidate/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
+[kindle download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.97-releasecandidate/TRC_honouring-the-truth-reconciling-for-the-future_kindle.azw3
