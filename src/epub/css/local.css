@@ -7,24 +7,61 @@
 	prefix: '(';
 	suffix: ') ';
 } */
-.calltoaction + ol,
-section.calltoaction > ol{
-	margin-left: 3em;
+article.calltoaction > h5 + ol,
+.calltoaction + ol {
+	margin-left: 0em;
+
 }
 
-.calltoaction + ol > li::marker,
-.bracketnumber > li::marker,
-section.calltoaction > ol > li::marker{
+article.calltoaction > ol > li::marker,
+h5.calltoaction + ol > li::marker,
+.bracketnumber > li::marker {
 	content: counter(list-item) ") ";
+
 }
+
+/*article.calltoaction > ol > li {
+	font-weight: bold;
+}*/
 
 .calltoaction + ol ol,
-section.calltoaction > ol ol{
+article.calltoaction > ol > li > ol{
 	list-style: lower-roman;
+	hyphens: none;
 }
 
-section.calltoaction > ol > li{
-	margin-bottom: 3em;
+article.calltoaction > ol > li {
+	margin-bottom: 1.5em;
+
+	}
+
+article.calltoaction > ol > li > ol > li {
+	margin-bottom: 0.2em;
+	padding-left: 0.2em;
+
+}
+article.calltoaction {
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: solid;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding: 1em;
+	max-width: 50em;
+	width: 90%;
+	font-size: 110%;
+	break-inside: avoid;
+}
+
+article.calltoaction > h5 {
+	margin-top:  0;
+	text-align: center;
+	font-size: 140%;
+}
+
+article.calltoaction > ol > li > p {
+	margin-bottom: .5em;
 }
 
 .nobullet{
