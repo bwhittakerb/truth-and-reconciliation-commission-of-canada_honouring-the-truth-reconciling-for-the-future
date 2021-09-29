@@ -17,6 +17,8 @@ This project is a total conversion of the publication *Honouring the Truth, Reco
 
 ### Ability to search for text, look up definitions, highlight passages, and take notes
 
+<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/ad85cf94832614e6f9f7d44762e1dbf48ea2f8e3/screenshots/iphone_searchtext.PNG?raw=true" width="200" alt-text="iPhone text search screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/ad85cf94832614e6f9f7d44762e1dbf48ea2f8e3/screenshots/iphone_lookupdefinition.PNG?raw=true" width="200" alt-text="iPhone definition lookup screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/ad85cf94832614e6f9f7d44762e1dbf48ea2f8e3/screenshots/iphone_makenotes.PNG?raw=true" width="200" alt-text="iPhone screenshot with highlighted phrase"> 
+
 ### Fully accessible to those with visual and cognitive difficulties
 
 All images are marked up with alternate text descriptions, all acronyms, chapters, and sections are semantically structured and identifiable. Text can be resized or read aloud with full alternate image descriptions. for more information on using ebooks with visual impairments check out [this link for apple devices](https://www.idownloadblog.com/2013/11/09/how-to-get-your-device-to-read-your-ibooks-to-you-in-ios-7/) or [this link for android devices](https://goodereader.com/blog/electronic-readers/good-e-reader-launches-audio-reader-for-android).
