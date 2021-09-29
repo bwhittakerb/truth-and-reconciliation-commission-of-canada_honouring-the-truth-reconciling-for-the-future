@@ -3,36 +3,41 @@
 
 ## About this project
 
-This project is a total conversion of the publication *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* from the Truth and Reconciliation Commission's existing and freely available PDF download into a standard and semantics-based EPUB format for electronic reading. It, and its source code and components is free to all.
+This project is a total conversion of the publication *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* from the Truth and Reconciliation Commission's existing and freely available PDF download into a standard and semantics-based EPUB format for electronic reading. It, and its source code and components are **free to all**.
 
 ## Features
 
 ### Modern, clear, readable typography and layout on a multitude of devices
 
-<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="400" alt-text="a screenshot of a double page spread">
+<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="350" alt-text="a screenshot of a double page spread"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/kobo_imageandcaption.png?raw=true" width="300" alt-text="Screenshot of Kobo ereader page with image and caption"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/iphone_imageandcaption.PNG?raw=true" width="200" alt-text="Screenshot of apple books on iphone ereader page with image and caption">
 
 ### Seamless popovers to endnotes with one tap without losing your place
 
-<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/kobo_footnote.png?raw=true" width="300" alt-text="Kobo Popover Endnote Screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/applebooks_popoverendnotes.png?raw=true" width="300" alt-text="Apple Books Popover Endnote Screenshot"> 
+<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/kobo_footnote.png?raw=true" width="300" alt-text="Kobo Popover Endnote Screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/applebooks_popoverendnotes.png?raw=true" width="350" alt-text="Apple Books Popover Endnote Screenshot"> 
 
+### Ability to search for text, look up definitions, highlight passages, and take notes
+
+### Fully accessible to those with visual and cognitive difficulties
+
+All images are marked up with alternate text descriptions, all acronyms, chapters, and sections are semantically structured and identifiable. Text can be resized or read aloud with full alternate image descriptions. for more information on using ebooks with visual impairments check out [this link for apple devices](https://www.idownloadblog.com/2013/11/09/how-to-get-your-device-to-read-your-ibooks-to-you-in-ios-7/) or [this link for android devices](https://goodereader.com/blog/electronic-readers/good-e-reader-launches-audio-reader-for-android).
 
 ## Why EPUB?
 
-It is our belief that the Truth and Reconciliation Commission of Canada's report should be as **accessible as widely as possible to all Canadians in a variety of formats**. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), the author of this project feels that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers. A static PDF is simply not designed for a reflowable and accessible experience.
+We believe that the Truth and Reconciliation Commission of Canada's report should be as **accessible as possible to the all Canadians in a variety of formats**. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), the author of this project feels that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers. A static PDF is simply not designed for a reflowable and accessible experience.
 
-EPUB is a broadly supported public standard for e-reading software with built in support in software available on many operating systems and directly on many hardware e-readers such as Kobo and Nook. Furthermore, this format can be easily converted to other e-reader formats such as Amazon Kindle.
+EPUB is a broadly supported public standard for e-reading software with built-in support in software available on many operating systems and directly on many hardware e-readers such as Kobo and Nook. Furthermore, this format can be easily converted to other e-reader formats such as Amazon Kindle.
 
-Finally, as a format intended for semantic markup rather than optimized for pre-press like a PDF, EPUB and other derived e-reader formats allow screen reading software and other accessibility devices to work more efficiently and with greater clarity for impaired users who wish to read the report.
+Finally, EPUB is a format designed for semantic markup rather than optimized for pre-press like a PDF. EPUB and other derived e-reader formats allow screen-reading software and other accessibility devices to work more efficiently and with greater clarity for impaired users who wish to read the report.
 
 
 ## Current status of this project
 
-Version 1.0 has been released! This is a complete readable and formatted copy with accessability and other affordances. [The latest compiled formats are found here][latest release]. Please read below to get instructions on which version is right for you and how to download them to your preferred device.
+Version 1.0 has been released! This is a complete, readable, and formatted copy with accessibility and other affordances. [The latest compiled formats are found here][latest release]. Please read below to get instructions on which version is right for you and how to download them to your preferred device.
 
 
 ## How to get this ebook
 
-* [You can download the standard epub version here][epub download link] (works on most computer readers and Apple devices and many Android apps).
+* [You can download the standard EPUB version here][epub download link] (works on most computer readers and Apple devices and many Android apps).
 
 * [You can download the Kobo-optimized version here.][kobo download link]
 
@@ -87,8 +92,8 @@ The best way to help is to read the report. The second best way to help is to re
 
 This project includes the source PDF as well as its extracted images in their original formats and converted to greyscale EPUB-friendly JPEGs.
 
-* Files that will comprise the content of the epub file itself are located in `/src/`
-* Files used to build graphics for the epub cover are located in `/images/`
+* Files that will comprise the content of the EPUB file itself are located in `/src/`
+* Files used to build graphics for the EPUB cover are located in `/images/`
 * Files used to construct material for the ebook but not be part of the bundle (e.g. Original PDF document, Vector Files, Markdown conversions, etc) are located in `/sourcefiles/`
 * Actual e-reader files will be compiled and listed in the 'releases' section.
 
