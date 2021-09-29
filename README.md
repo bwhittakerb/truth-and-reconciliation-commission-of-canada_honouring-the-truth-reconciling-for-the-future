@@ -9,13 +9,19 @@ This project is a total conversion of the publication *Honouring the Truth, Reco
 
 ### Modern, clear, readable typography and layout on a multitude of devices
 
+No more zooming in and sliding around trying to read a PDF on a small screen. This ebook was designed to look great and be easy to read on almost any device and any ereading software.
+
 <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="350" alt-text="a screenshot of a double page spread"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/kobo_imageandcaption.png?raw=true" width="300" alt-text="Screenshot of Kobo ereader page with image and caption"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/iphone_imageandcaption.PNG?raw=true" width="200" alt-text="Screenshot of apple books on iphone ereader page with image and caption">
 
 ### Seamless popovers to endnotes with one tap without losing your place
 
+The Truth and Reconciliation Commission's summary report has over 1,500 endnotes—all tucked away and quickly accessible at the tap of a button without losing your place (supported by most major e-reading software and devices).
+
 <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/kobo_footnote.png?raw=true" width="300" alt-text="Kobo Popover Endnote Screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/applebooks_popoverendnotes.png?raw=true" width="350" alt-text="Apple Books Popover Endnote Screenshot"> 
 
 ### Ability to search for text, look up definitions, highlight passages, and take notes
+
+Easily find references by keyword, look up an unfamiliar word, or take notes as you go for later.
 
 <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/ad85cf94832614e6f9f7d44762e1dbf48ea2f8e3/screenshots/iphone_searchtext.PNG?raw=true" width="200" alt-text="iPhone text search screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/ad85cf94832614e6f9f7d44762e1dbf48ea2f8e3/screenshots/iphone_lookupdefinition.PNG?raw=true" width="200" alt-text="iPhone definition lookup screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/ad85cf94832614e6f9f7d44762e1dbf48ea2f8e3/screenshots/iphone_makenotes.PNG?raw=true" width="200" alt-text="iPhone screenshot with highlighted phrase"> 
 
