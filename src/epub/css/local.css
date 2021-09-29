@@ -40,7 +40,8 @@ article.calltoaction{
 	border-style: solid;
 	margin-top: 2em;
 	margin-bottom: 2em;
-	padding: 1em;
+	padding-top: 1em;
+	padding-right: 0.3em;
 	max-width: 50em;
 	width: 90%;
 	font-size: 90%;
