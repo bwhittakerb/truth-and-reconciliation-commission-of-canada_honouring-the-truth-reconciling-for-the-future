@@ -5,6 +5,12 @@
 
 This project is a total conversion of the publication *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* from the Truth and Reconciliation Commission's existing and freely available PDF download into a standard and semantics-based EPUB format for electronic reading. It, and its source code and components is free to all.
 
+## Features
+
+### Modern, clear, readable typography and layout
+
+<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="200" alt-text="a screenshot of a double page spread">
+
 
 ## Why EPUB?
 
