@@ -7,9 +7,13 @@ This project is a total conversion of the publication *Honouring the Truth, Reco
 
 ## Features
 
-### Modern, clear, readable typography and layout
+### Modern, clear, readable typography and layout on a multitude of devices
 
-<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="200" alt-text="a screenshot of a double page spread">
+<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="400" alt-text="a screenshot of a double page spread">
+
+### Seamless popovers to endnotes with one tap without losing your place
+
+<img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/kobo_footnote.png?raw=true" width="300" alt-text="Kobo Popover Endnote Screenshot"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/a37a15718790d975d7692b71a0fae6d27197d6cd/screenshots/applebooks_popoverendnotes.png?raw=true" width="300" alt-text="Apple Books Popover Endnote Screenshot"> 
 
 
 ## Why EPUB?
