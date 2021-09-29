@@ -115,7 +115,7 @@ This project includes the source PDF as well as its extracted images in their or
 * [Calibre](https://calibre-ebook.com) for its ebook management and editing tools
 * My personal hardware e-ink reader is a Kobo Clara HD and I use Apple Books for mobile/desktop reading.
 
-[latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v0.97-releasecandidate
-[epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.97-releasecandidate/TRC_honouring-the-truth-reconciling-for-the-future.epub
-[kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.97-releasecandidate/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
-[kindle download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v0.97-releasecandidate/TRC_honouring-the-truth-reconciling-for-the-future_kindle.azw3
+[latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v1.0
+[epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v1.0/TRC_honouring-the-truth-reconciling-for-the-future.epub
+[kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v1.0/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
+[kindle download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v1.0/TRC_honouring-the-truth-reconciling-for-the-future_kindle.azw3
