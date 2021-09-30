@@ -9,7 +9,7 @@ This project is a conversion of the publication *Honouring the Truth, Reconcilin
 
 ### Modern, clear, readable typography and layout on a multitude of devices
 
-No more zooming in and sliding around trying to read a PDF on a small screen. This ebook was designed to look clean and be easy to read on almost any device and any ereading software.
+No more zooming in and sliding around trying to read a PDF on a small screen; this ebook was designed to look clean and be easy to read on almost any device and any ereading software.
 
 <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="350" alt-text="a screenshot of a double page spread"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/kobo_imageandcaption.png?raw=true" width="300" alt-text="Screenshot of Kobo ereader page with image and caption"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/iphone_imageandcaption.PNG?raw=true" width="200" alt-text="Screenshot of apple books on iphone ereader page with image and caption">
 
@@ -27,7 +27,7 @@ Easily find references by keyword, look up an unfamiliar word, or take notes as 
 
 ### Fully accessible to those with visual and cognitive difficulties
 
-All images are marked up with alternate text descriptions, all acronyms, chapters, and sections are semantically structured and identifiable. Text can be resized or read aloud with full alternate image descriptions. for more information on using ebooks with visual impairments check out [this link for apple devices](https://www.idownloadblog.com/2013/11/09/how-to-get-your-device-to-read-your-ibooks-to-you-in-ios-7/) or [this link for android devices](https://goodereader.com/blog/electronic-readers/good-e-reader-launches-audio-reader-for-android).
+All images are marked up with alternate text descriptions, all acronyms, chapters, and sections are semantically structured and identifiable. Text can be resized or read aloud with full alternate image descriptions. For more information on using ebooks with visual impairments, check out [this link for apple devices](https://www.idownloadblog.com/2013/11/09/how-to-get-your-device-to-read-your-ibooks-to-you-in-ios-7/) or [this link for android devices](https://goodereader.com/blog/electronic-readers/good-e-reader-launches-audio-reader-for-android).
 
 ## Why EPUB?
 
