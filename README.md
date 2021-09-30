@@ -9,7 +9,7 @@ This project is a conversion of the publication *Honouring the Truth, Reconcilin
 
 ### Modern, clear, readable typography and layout on a multitude of devices
 
-No more zooming in and sliding around trying to read a PDF on a small screen; this ebook was designed to look clean and be easy to read on almost any device and any e-reading software.
+Reading PDFs can be difficult—as anybody who's tried to do it on a mobile phone knows. With this ebook, text reflows and resizes to fit your screen, look clean, and be easy to read on almost any device and any e-reading software.
 
 <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/b2907d6e8e5f07a228f6be2cb2f5bf7a633c19e7/screenshots/applebooks_imageandcaption.png?raw=true" width="350" alt-text="a screenshot of a double page spread"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/kobo_imageandcaption.png?raw=true" width="300" alt-text="Screenshot of Kobo ereader page with image and caption"> <img src="https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/blob/f53cfea2c32968cb77b5a142d68887e6766b01e1/screenshots/iphone_imageandcaption.PNG?raw=true" width="200" alt-text="Screenshot of apple books on iphone ereader page with image and caption">
 
@@ -29,13 +29,6 @@ Easily find references by keyword, look up an unfamiliar word, or take notes as 
 
 All images are marked up with alternate text descriptions, all acronyms, chapters, and sections are semantically structured and identifiable. Text can be resized or read aloud with full alternate image descriptions. For more information on using ebooks with visual impairments, check out [this link for apple devices](https://www.idownloadblog.com/2013/11/09/how-to-get-your-device-to-read-your-ibooks-to-you-in-ios-7/) or [this link for android devices](https://goodereader.com/blog/electronic-readers/good-e-reader-launches-audio-reader-for-android).
 
-## Why EPUB?
-
-We believe that the Truth and Reconciliation Commission of Canada's report should be as **accessible as possible to the all Canadians in a variety of formats**. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), the author of this project feels that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers. A static PDF is simply not designed for a reflowable and accessible experience.
-
-EPUB is a broadly supported public standard for e-reading software with built-in support in software available on many operating systems and directly on many hardware e-readers such as Kobo and Nook. Furthermore, this format can be easily converted to other e-reader formats such as Amazon Kindle.
-
-Finally, EPUB is a format designed for semantic markup rather than optimized for pre-press like a PDF. EPUB and other derived e-reader formats allow screen-reading software and other accessibility devices to work more efficiently and with greater clarity for impaired users who wish to read the report.
 
 
 ## Current status of this project
@@ -51,20 +44,11 @@ Version 1.0 has been released! This is a complete, readable, and formatted copy 
 
 * [You can download the Kindle version here.][kindle download link]
 
-### How to install kepub.epub files on a Kobo:
-
-(Instructions copied from standardebooks.org)
-
-**Important:** Don’t use Calibre to transfer the kepub file! Calibre will apply its own conversion on top of our own conversion, making for strange results.
-
-1. Using a USB cable, connect your Kobo to the computer you downloaded [the kepub file][kobo download link] to. Your Kobo will appear as a USB drive that you can browse using your computer’s file manager.
-2. Navigate to the Kobo drive and drag and drop the kepub file in. *Don’t change the filename of the ebook! Kobo requires that the filename end in `.kepub.epub.`*
-3. Eject the Kobo from your computer using your system’s “Safely remove drive” option. Your ebook should now be visible!
 
 ### How to install/read the .epub file on your iPhone/iPad
 
 1. Tap on the [download link][epub download link] for the standard epub file.
-2. On the download screen that appears, tap “open in Books”.
+2. On the download screen that appears, tap “open in Books” (Books, comes pre-installed on Apple devices but may need to be reinstalled from [the App Store](https://apps.apple.com/ca/app/apple-books/id364709193) if the app was removed by the user and no "open in Books" option is visible on your device).
 
 ### Amazon Kindle eInk Devices (Paperwhite, Voyage, Oasis, etc. except DX)
 
@@ -77,6 +61,16 @@ Important: You can’t use “Send to Kindle” to transfer the azw3 file. This 
 3. If you don’t see a system folder when your Kindle is plugged in, you may have to tell your computer to show hidden system files. If you’re using Windows, you may also have to show protected operating system files. To do that, see [these instructions for Windows](https://www.howtogeek.com/howto/windows-vista/show-hidden-files-and-folders-in-windows-vista/) and [these instructions for Mac](https://www.lifewire.com/display-hidden-files-in-os-x-153332).
 
 4. Eject the Kindle from your computer using your system’s “Safely remove drive” option. Your ebook should now be visible!
+
+### How to install kepub.epub files on a Kobo:
+
+(Instructions copied from standardebooks.org)
+
+**Important:** Don’t use Calibre to transfer the kepub file! Calibre will apply its own conversion on top of our own conversion, making for strange results.
+
+1. Using a USB cable, connect your Kobo to the computer you downloaded [the kepub file][kobo download link] to. Your Kobo will appear as a USB drive that you can browse using your computer’s file manager.
+2. Navigate to the Kobo drive and drag and drop the kepub file in. *Don’t change the filename of the ebook! Kobo requires that the filename end in `.kepub.epub.`*
+3. Eject the Kobo from your computer using your system’s “Safely remove drive” option. Your ebook should now be visible!
 
 ## How can I help?
 
@@ -96,6 +90,14 @@ The best way to help is to read the report. The second best way to help is to re
 * ~~Add alt-text to all images.~~
 * ~~Add metadata to book.~~
 
+### Why EPUB?
+
+We believe that the Truth and Reconciliation Commission of Canada's report should be as **accessible as possible to the all Canadians in a variety of formats**. With the popularity of e-readers and the affordances available via digital book formats (e.g. 'popover endnotes'), we feel that making a digital publication of the Commission report summary will provide significant utility and accessibility to all interested readers. A static PDF is simply not designed for a reflowable and accessible experience.
+
+EPUB is a broadly supported public standard for e-reading software with built-in support on many operating systems and directly on many hardware e-readers such as Kobo and Nook. Furthermore, this format can be easily converted to other e-reader formats such as Amazon Kindle.
+
+Finally, EPUB is a format designed for semantic markup rather than optimized for pre-press like a PDF. EPUB and other derived e-reader formats allow screen-reading software and other accessibility devices to work more efficiently and with greater clarity for impaired users who wish to read the report.
+
 ### Files and structure
 
 This project includes the source PDF as well as its extracted images in their original formats and converted to greyscale EPUB-friendly JPEGs.
@@ -103,7 +105,7 @@ This project includes the source PDF as well as its extracted images in their or
 * Files that will comprise the content of the EPUB file itself are located in `/src/`
 * Files used to build graphics for the EPUB cover are located in `/images/`
 * Files used to construct material for the ebook but not be part of the bundle (e.g. Original PDF document, Vector Files, Markdown conversions, etc) are located in `/sourcefiles/`
-* Actual e-reader files will be compiled and listed in the 'releases' section.
+* Actual e-reader files are generated and listed in the ['releases' section][latest release].
 
 ### Toolsets being used to build this project
 
@@ -117,7 +119,7 @@ This project includes the source PDF as well as its extracted images in their or
 
 ## Acknowledgements
 
-*This project respectfully acknowledges that this digital typesetting project was performed on Treaty 6 territory, a traditional gathering place for diverse Indigenous peoples—including the Cree, Blackfoot, Métis, Nakota Sioux, Iroquois, Dene, Ojibway/ Saulteaux/Anishinaabe, Inuit, and many others whose histories, languages, and cultures continue to influence our vibrant community.*
+*This project respectfully acknowledges that this digital typesetting project was completed on Treaty 6 territory, a traditional gathering place for diverse Indigenous peoples—including the Cree, Blackfoot, Métis, Nakota Sioux, Iroquois, Dene, Ojibway/ Saulteaux/Anishinaabe, Inuit, and many others whose histories, languages, and cultures continue to influence this vibrant community.*
 
 [latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v1.0
 [epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v1.0/TRC_honouring-the-truth-reconciling-for-the-future.epub
