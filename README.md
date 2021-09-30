@@ -3,7 +3,7 @@
 
 ## About this project
 
-This project is a conversion for easy electronic reading of the publication *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* produced the Truth and Reconciliation Commission.
+This project is a conversion for easy electronic reading of the publication *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* produced by the Truth and Reconciliation Commission.
 
 The TRC report is an honest, clear eyed, and thorough accounting of Canada's complicity and culpability in the systematic attempt to destroy the Indigenous way of life, culture, and peoples of this continent through indoctrination, abuse, and death. The history it presents should be known and acknowledged by all who live on these lands. In the effort to do just that, the electronic edition of this summary report and its source code and components are [**freely downloadable to all**](https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future#how-to-get-this-ebook).
 
