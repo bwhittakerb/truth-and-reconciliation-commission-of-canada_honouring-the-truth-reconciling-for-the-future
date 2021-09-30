@@ -115,6 +115,10 @@ This project includes the source PDF as well as its extracted images in their or
 * [Calibre](https://calibre-ebook.com) for its ebook management and editing tools
 * My personal hardware e-ink reader is a Kobo Clara HD and I use Apple Books for mobile/desktop reading.
 
+## Acknowledgements
+
+*This project respectfully acknowledges that this digital typesetting project was performed on Treaty 6 territory, a traditional gathering place for diverse Indigenous peoples—including the Cree, Blackfoot, Métis, Nakota Sioux, Iroquois, Dene, Ojibway/ Saulteaux/Anishinaabe, Inuit, and many others whose histories, languages, and cultures continue to influence our vibrant community.*
+
 [latest release]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/tag/v1.0
 [epub download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v1.0/TRC_honouring-the-truth-reconciling-for-the-future.epub
 [kobo download link]: https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future/releases/download/v1.0/TRC_honouring-the-truth-reconciling-for-the-future_kobo.kepub.epub
