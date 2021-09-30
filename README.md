@@ -74,7 +74,7 @@ Important: You can’t use “Send to Kindle” to transfer the azw3 file. This 
 
 ## How can I help?
 
-The best way to help is to read the report. The second best way to help is to report any errors or oddities you experience. This is a sophisticated document with complex structure and formatting. There is almost certainly overlooked problems or issues. If you experience any, please open an issue on github or reach out to me directly on Twitter at @distinctivename. Otherwise, I'm very much open to contributors or forking to make the best possible digital version of this book.
+The best way to help is to read the report. The second best way to help is to report any errors or oddities you experience. This is a sophisticated document with complex structure and formatting. There is almost certainly overlooked problems or issues. If you experience any, please open an issue on github or reach out to me directly on Twitter at [@distinctivename](https://twitter.com/distinctivename). Otherwise, I'm very much open to contributors or forking to make the best possible, most accessible digital version of this book.
 
 ### Todos for 2.0
 
