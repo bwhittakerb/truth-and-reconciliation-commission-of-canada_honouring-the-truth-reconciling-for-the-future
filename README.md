@@ -42,10 +42,9 @@ Version 1.0 has been released! This is a complete, readable, and formatted copy 
 
 * [You can download the standard EPUB version here][epub download link] (works on most computer readers and Apple devices and many Android apps).
 
-* [You can download the Kobo-optimized version here.][kobo download link]
-
 * [You can download the Kindle version here.][kindle download link]
 
+* [You can download the Kobo-optimized version here.][kobo download link]
 
 ### How to install/read the .epub file on your iPhone/iPad
 
@@ -120,6 +119,8 @@ This project includes the source PDF as well as its extracted images in their or
 * My personal hardware e-ink reader is a Kobo Clara HD and I use Apple Books for mobile/desktop reading.
 
 ## Acknowledgements
+
+Special thanks to [Bruce Lawson](https://twitter.com/brucel) for his valuable guidance and expertise on accessibility markup.
 
 *This project respectfully acknowledges that this digital typesetting project was completed on Treaty 6 territory, a traditional gathering place for diverse Indigenous peoples—including the Cree, Blackfoot, Métis, Nakota Sioux, Iroquois, Dene, Ojibway/ Saulteaux/Anishinaabe, Inuit, and many others whose histories, languages, and cultures continue to influence this vibrant community.*
 
