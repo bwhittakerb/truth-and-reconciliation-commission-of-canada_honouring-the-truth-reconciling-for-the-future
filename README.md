@@ -3,7 +3,7 @@
 
 ## About this project
 
-This project is a total conversion of the publication *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* from the Truth and Reconciliation Commission's existing and freely available PDF download into a standard and semantics-based EPUB format for electronic reading. It, and its source code and components are **free to all**.
+This project is a conversion of the publication *Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada* from the Truth and Reconciliation Commission for electronic reading. It, and its source code and components are [**freely downloadable to all**](https://github.com/bwhittakerb/truth-and-reconciliation-commission-of-canada_honouring-the-truth-reconciling-for-the-future#how-to-get-this-ebook).
 
 ## Features
 
